@@ -1,4 +1,4 @@
-"""Turns the "url ~ title ~ company ~ location ~ posted ~ skillset ~ type ~ salary" lines from browser_scrapers.js
+"""Turns the "url ~ title ~ company ~ location ~ posted ~ skillset ~ type ~ salary ~ description" lines from browser_scrapers.js
 into a --merge file for collect.py.
 
     python collector/lines_to_json.py <Source name> lines.txt [more.txt ...] -o browser-results.json --append
@@ -23,7 +23,8 @@ for f in a.files:
             continue
         url, title, company, location, posted, skillset = parts[:6]
         rows.append({"title": title, "company": company, "location": location, "posted": posted or "today",
-                     "source": a.source, "apply_url": url, "skillset": skillset, "description": "",
+                     "source": a.source, "apply_url": url, "skillset": skillset,
+                     "description": parts[8] if len(parts) > 8 else "",
                      "job_type": parts[6] if len(parts) > 6 else "", "salary": parts[7] if len(parts) > 7 else "",
                      "remote": "remote" in location.lower()})
 a.out.write_text(json.dumps(rows, indent=1, ensure_ascii=False), encoding="utf-8")

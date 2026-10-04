@@ -97,12 +97,50 @@ window.__generic = async (jobLink, skillset) => {
   return `${Object.keys(out).length - before} new links, ${Object.keys(out).length} on this site so far`;
 };
 
+// Opens each collected job's own page in the background (same site only, max per call) and keeps the sentences
+// that matter for filtering: years of experience, remote/hybrid/on-site, contract/full-time, and skill words.
+// The collector reads them to level experience, tag work type and confirm the skillset.
+window.__enrich = async (max = 40) => {
+  const o = JSON.parse(localStorage.__jobs || "{}");
+  const todo = Object.keys(o).filter((u) => {
+    try { return new URL(u).origin === location.origin && o[u].d === undefined && !u.includes("#"); } catch { return false; }
+  }).slice(0, max);
+  const KEY = /\d+\s*\+?\s*(?:-|–|to)?\s*\d*\s*\+?\s*(?:years|yrs)|remote|hybrid|on-?site|in[- ]office|contract|c2c|w-?2|1099|full[- ]time|part[- ]time|angular|agile|scrum|jira|sdlc|software development/i;
+  // Split into sentences (also where a period runs straight into the next capital, which job pages often do).
+  const pick = (text) => text.split(/(?<=[.!?:])\s*(?=[A-Z])|\n+|•/)
+    .map((s) => s.replace(/\s+/g, " ").trim()).filter((s) => s.length > 15 && KEY.test(s))
+    .map((s) => s.slice(0, 240)).slice(0, 12).join(" ").replace(/[~\r\n]+/g, " ").slice(0, 900);
+  let i = 0, read = 0;
+  const worker = async () => {
+    while (i < todo.length) {
+      const u = todo[i++];
+      try {
+        // LinkedIn loads descriptions separately; its public job-posting fragment has the full text.
+        const li = u.match(/linkedin\.com\/jobs\/view\/(\d+)/);
+        const res = await fetch(li ? `/jobs-guest/jobs/api/jobPosting/${li[1]}` : u, { credentials: "include" });
+        if (!res.ok) continue;
+        const doc = new DOMParser().parseFromString(await res.text(), "text/html");
+        doc.querySelectorAll("script, style, noscript, svg, header, nav, form").forEach((n) => n.remove());
+        // Break the text at block elements so sentences and bullet points stay separate.
+        const lined = (doc.body ? doc.body.innerHTML : "").replace(/<(br|\/p|\/li|\/div|\/h\d|li|p)\b[^>]*>/gi, "\n");
+        const text = new DOMParser().parseFromString(lined, "text/html").documentElement.textContent || "";
+        o[u].d = pick(text) || "-";  // "-" = page read, nothing relevant in it
+        read++;
+      } catch { /* blocked or cross-site: leave it without a description */ }
+    }
+  };
+  await Promise.all([worker(), worker(), worker(), worker()]);
+  localStorage.__jobs = JSON.stringify(o);
+  const left = Object.keys(o).filter((u) => o[u].d === undefined).length;
+  return `${read} of ${todo.length} job pages read; ${left} without a description`;
+};
+
 window.__dump = () => {
   const o = JSON.parse(localStorage.__jobs || "{}");
   const pre = document.createElement("pre");
   pre.textContent = Object.entries(o).map(([u, x]) => (x.card !== undefined
-    ? [u, "CARD", x.s, x.card]  // generic scraper: the agent extracts the fields from the card text
-    : [u, x.t, x.c, x.l, x.a, x.s, x.j || "", x.sal || ""]).join(" ~ ")).join("\n");
+    ? [u, "CARD", x.s, x.card, "DESC", x.d || ""]  // generic scraper: the agent extracts the fields from the card text
+    : [u, x.t, x.c, x.l, x.a, x.s, x.j || "", x.sal || "", x.d || ""]).join(" ~ ")).join("\n");
   const art = document.createElement("article");
   art.appendChild(pre);
   document.body.replaceChildren(art);

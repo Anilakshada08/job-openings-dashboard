@@ -32,7 +32,7 @@
   .wrap { max-width: 1180px; margin: 0 auto; padding: 24px 16px 48px; }
   header h1 { margin: 0 0 4px; font-size: 26px; letter-spacing: -0.01em; }
   header p { margin: 0; color: var(--muted); }
-  .filters { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; margin: 20px 0 14px;
+  .filters { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin: 20px 0 14px;
              background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
   .filters label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; font-weight: 600;
                    color: var(--muted); text-transform: uppercase; letter-spacing: .04em; min-width: 0; }
@@ -106,6 +106,22 @@
         <option value="other">Other US locations</option>
       </select>
     </label>
+    <label>Work type
+      <select id="f-work">
+        <option value="">Any</option>
+        <option value="remote">Remote</option>
+        <option value="hybrid">Hybrid</option>
+        <option value="onsite">On-site</option>
+      </select>
+    </label>
+    <label>Job type
+      <select id="f-emp">
+        <option value="">Any</option>
+        <option value="fulltime">Full-time</option>
+        <option value="contract">Contract (C2C / W2)</option>
+        <option value="parttime">Part-time</option>
+      </select>
+    </label>
     <label>Posted
       <select id="f-date"></select>
     </label>
@@ -129,8 +145,11 @@
 <script>
 (() => {
   const $ = (id) => document.getElementById(id);
-  const F = { skill: $("f-skill"), exp: $("f-exp"), loc: $("f-loc"), date: $("f-date"), src: $("f-src"), q: $("f-q") };
+  const F = { skill: $("f-skill"), exp: $("f-exp"), loc: $("f-loc"), work: $("f-work"), emp: $("f-emp"), date: $("f-date"), src: $("f-src"), q: $("f-q") };
   const LV = { junior: "Junior", mid: "Mid", senior: "Senior" };
+  const WORK = { remote: "Remote", hybrid: "Hybrid", onsite: "On-site" };
+  const EMP = { fulltime: "Full-time", contract: "Contract", parttime: "Part-time" };
+  const WINDOWS = { "24h": 1, "3d": 3, "7d": 7 };  // relative "Posted" options, in days
   let db = null, lastUpdated = null;
 
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -161,7 +180,8 @@
     F.skill.innerHTML = '<option value="">All skillsets</option>' +
       Object.entries(db.skillsets || {}).map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join("");
     const days = [...new Set(db.postings.map((p) => p.posted_day))].sort().reverse();
-    F.date.innerHTML = '<option value="24h">Last 24 hours</option>' +
+    F.date.innerHTML = '<option value="24h">Last 24 hours</option><option value="3d">Last 3 days</option>' +
+      '<option value="7d">Last 7 days</option>' +
       days.map((d) => `<option value="${d}">${esc(fmtDay(d))}</option>`).join("") +
       '<option value="all">All dates</option>';
     const srcs = [...new Set(db.postings.flatMap((p) => p.sources.map((s) => s.name)))].sort();
@@ -173,13 +193,15 @@
   function render() {
     if (!db) return;
     writeQuery();
-    const since = new Date(db.updated) - 24 * 36e5;
+    const since = new Date(db.updated) - (WINDOWS[F.date.value] || 1) * 24 * 36e5;
     const q = F.q.value.trim().toLowerCase();
     const locs = F.loc.value ? F.loc.value.split(",") : null;
     const base = db.postings.filter((p) =>
       (!F.skill.value || p.skillsets.includes(F.skill.value)) &&
       (!locs || locs.includes(p.location_group)) &&
-      (F.date.value === "all" || (F.date.value === "24h" ? new Date(p.posted) >= since : p.posted_day === F.date.value)) &&
+      (!F.work.value || p.workplace === F.work.value) &&
+      (!F.emp.value || (p.employment || "fulltime") === F.emp.value) &&
+      (F.date.value === "all" || (WINDOWS[F.date.value] ? new Date(p.posted) >= since : p.posted_day === F.date.value)) &&
       (!F.src.value || p.sources.some((s) => s.name === F.src.value)) &&
       (!q || (p.title + " " + p.company).toLowerCase().includes(q)));
     const rows = base.filter((p) => !F.exp.value || p.experience === F.exp.value);
@@ -194,21 +216,22 @@
     if (r) r.onclick = () => { for (const el of Object.values(F)) el.value = ""; F.date.value = "24h"; render(); };
 
     if (!rows.length) {
-      $("list").innerHTML = `<div class="empty">No openings match these filters${F.date.value === "24h" ? " in the last 24 hours" : ""}. Try another location, level or date.</div>`;
+      $("list").innerHTML = `<div class="empty">No openings match these filters${F.date.value === "24h" ? " in the last 24 hours" : ""}. Try another location, level or a longer date range.</div>`;
       return;
     }
     $("list").innerHTML = rows.map((p) => {
       const main = p.sources[0];
       const yrs = p.years_min ? ` · ${p.years_min}+ yrs` : "";
       const lv = `<span class="tag lv-${p.experience}" title="${p.experience_estimated ? "Estimated from the job title" : "From the years of experience in the posting"}">${p.experience_estimated ? "≈ " : ""}${LV[p.experience]}${yrs}</span>`;
+      const work = [WORK[p.workplace], EMP[p.employment]].filter(Boolean).map((t) => `<span class="tag">${t}</span>`).join("");
       const skills = p.skillsets.map((s) => `<span class="tag">${esc((db.skillsets || {})[s] || s)}</span>`).join("");
       const fresh = (Date.now() - new Date(p.posted)) < 24 * 36e5;
       const others = p.sources.slice(1).map((s) => `<a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(", ");
       return `<article class="job">
         <div>
           <h2><a href="${esc(safeUrl(main.url))}" target="_blank" rel="noopener">${esc(p.title)}</a></h2>
-          <div class="meta"><span>${esc(p.company)}</span><span>${esc(p.location)}</span>${p.salary ? `<span>${esc(p.salary)}</span>` : ""}${p.job_type ? `<span>${esc(p.job_type)}</span>` : ""}</div>
-          <div class="tags">${lv}${skills}</div>
+          <div class="meta"><span>${esc(p.company)}</span><span>${esc(p.location)}</span>${p.salary ? `<span>${esc(p.salary)}</span>` : ""}</div>
+          <div class="tags">${lv}${work}${skills}</div>
         </div>
         <div class="side">
           <a class="apply" href="${esc(safeUrl(main.url))}" target="_blank" rel="noopener">Apply on ${esc(main.name)}</a>

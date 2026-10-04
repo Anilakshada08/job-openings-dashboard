@@ -66,6 +66,11 @@
     "USAJOBS": "0 new in last 24h",
     "ZipRecruiter": "9 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-04T17:29+00:00",
+   "added": 0,
+   "sources": {}
   }
  ],
  "postings": [
@@ -91,7 +96,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/492faaef-0731-48cc-a500-1986c151089c"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "contract"
   },
   {
    "id": "c2bbc762d8395747",
@@ -115,7 +122,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/2a20f07f-0abf-42b8-abfa-88460e98cbb4"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "contract"
   },
   {
    "id": "a2f6b24139b32209",
@@ -139,7 +148,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/41b76039-a151-4d96-8872-132287a9102e"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "contract"
   },
   {
    "id": "5cdaa8f06a30b086",
@@ -163,7 +174,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/51a0f84f-0f2c-46b4-8905-0607bdbfa7bf"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "contract"
   },
   {
    "id": "1b45a6c8a4c86ceb",
@@ -187,7 +200,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/205e3668-f064-4fed-8d8f-adc2bd240f74"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "5dccda3cb8d07c2f",
@@ -211,7 +226,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033348464610114"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "7f8d9b8a0020123c",
@@ -235,7 +252,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-oZl3vSdx7ZSZUHOjVK_6Iw"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "d0766d278019154d",
@@ -259,7 +278,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-erdtc4U6C_8A1bRZHcgPnA"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "5f85071f22fd42bc",
@@ -283,7 +304,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-RxGMJ_TH7u9fnAhKnhDY1w"
     }
-   ]
+   ],
+   "workplace": "unknown",
+   "employment": "fulltime"
   },
   {
    "id": "671a87550a8ed3a9",
@@ -307,7 +330,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-Z3G2JQ2qnEJhXAJRqGr9Ww"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fc27d20358cee653",
@@ -331,7 +356,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Product%20Owner&location=Remote+(USA)&days=1#job-card-QAOBsLdY8Qo2HFYdXW7A7A"
     }
-   ]
+   ],
+   "workplace": "unknown",
+   "employment": "fulltime"
   },
   {
    "id": "832629eac9465825",
@@ -355,7 +382,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Technical%20Project%20Manager&location=Remote+(USA)&days=1#job-card-RIEJ9hbmlefa6o9lkGHJzQ"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "153caed9dd264cdd",
@@ -379,7 +408,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Technical%20Project%20Manager&location=Remote+(USA)&days=1#job-card-dD9uiQcZNDtwtwZayR99Ow"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fbde3afaa7e63f4b",
@@ -403,7 +434,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Agile%20Project%20Manager&location=Remote+(USA)&days=1#job-card-6kUe8oiROnwSG2hEWAx6Bg"
     }
-   ]
+   ],
+   "workplace": "unknown",
+   "employment": "fulltime"
   },
   {
    "id": "d8544e3987ad264e",
@@ -427,7 +460,9 @@
      "name": "ZipRecruiter",
      "url": "https://www.ziprecruiter.com/jobs-search?search=Technical%20Program%20Manager&location=Remote+(USA)&days=1#job-card-pQwmZGyDQSsG0Yu8fWT3AA"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "26c8138799a7b6ea",
@@ -451,7 +486,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4447196538/"
     }
-   ]
+   ],
+   "workplace": "hybrid",
+   "employment": "fulltime"
   },
   {
    "id": "4dec0b13642c5604",
@@ -475,7 +512,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4474203937/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "861ed978e51d21f8",
@@ -499,7 +538,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4474206876/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "0f3d0c9b7138f505",
@@ -523,7 +564,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4438887118/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "3488d4270294b622",
@@ -547,7 +590,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4420664535/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "e6351d7878f13530",
@@ -571,7 +616,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4474223175/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "f7e8e01b4c692ca6",
@@ -595,7 +642,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4457377826/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "1d796191f7a74d97",
@@ -619,7 +668,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475377862/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "1717d50f06740206",
@@ -643,7 +694,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/2e791b44-ffae-4078-b2c0-9887f7eb769c"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "contract"
   },
   {
    "id": "c2f2159b0c1bdc13",
@@ -667,7 +720,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/c254c6fd-99b6-4dc7-affc-fe8d53d8bb99"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "6900af28c3dc8934",
@@ -691,7 +746,9 @@
      "name": "Indeed",
      "url": "https://www.indeed.com/viewjob?jk=751339a4337fee93"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "9ae919a4148f55a0",
@@ -715,7 +772,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4454689129/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "5cef23cedab435d7",
@@ -739,7 +798,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4466499176/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "f1520f8f1692d486",
@@ -763,7 +824,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/akamai-technologies/jobs/technical-program-manager-ii"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "e5a2176020cae81a",
@@ -787,7 +850,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475500419/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "fe71e66abe754984",
@@ -811,7 +876,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4437586430/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "7087251c13c03a97",
@@ -835,7 +902,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/majesco/jobs/product-owner-director-underwriting-ai-innovation"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "29efdf271b976f5d",
@@ -859,7 +928,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/berrydunn/jobs/technical-project-manager-scrum-master"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "dd330ae990aea417",
@@ -883,7 +954,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475399304/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "6f6fd594789a230a",
@@ -907,7 +980,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4429629811/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "ece56840619c17df",
@@ -931,7 +1006,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/molina-healthcare/jobs/product-owner-salesforce-remote"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "31517399a580233f",
@@ -955,7 +1032,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4454695060/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "a0de78a3f14dce16",
@@ -979,7 +1058,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475398405/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "a5bd9652ab7b4f1a",
@@ -1003,7 +1084,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032833141542639"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "2a333c723af56b02",
@@ -1027,7 +1110,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475382800/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "5178e4d95d6daa8b",
@@ -1051,7 +1136,9 @@
      "name": "Dice",
      "url": "https://www.dice.com/job-detail/e740deb6-f3db-4af0-bf8b-0c3108e71f48"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "f45a91205d901818",
@@ -1075,7 +1162,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-technical-program-manager-9294467743"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "694e35e40172fbe6",
@@ -1099,7 +1188,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/internova-travel-group/jobs/project-delivery-manager"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "e784f57b38b45cf6",
@@ -1123,7 +1214,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4437975050/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "9930930f0adda696",
@@ -1147,7 +1240,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4465471613/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "60d3e6a43a09a381",
@@ -1171,7 +1266,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4473491061/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "88a115e71c7c717b",
@@ -1195,7 +1292,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4445565431/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "ba35fcb7a300e4ab",
@@ -1219,7 +1318,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4417991197/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "d85f9df787fe871e",
@@ -1243,7 +1344,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/6708248884157468285"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "3f27953cc707697c",
@@ -1267,7 +1370,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/argano/jobs/oracle-epm-senior-project-manager"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "c6800af4a0680143",
@@ -1291,7 +1396,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/6871709371944630123"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fd6311a4d827f211",
@@ -1315,7 +1422,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/4369881404333377032"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fab2eab9f74f683b",
@@ -1339,7 +1448,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032848638250735"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "65cb83fa57bfcef7",
@@ -1363,7 +1474,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/solen-software-group/jobs/senior-client-delivery-manager-erp-implementations-and-consulting-services"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "2a5ce62a5a4f5f77",
@@ -1387,7 +1500,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4473884835/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "d810a9346b098901",
@@ -1411,7 +1526,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475374204/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "7c905df68ac95023",
@@ -1435,7 +1552,9 @@
      "name": "Company career sites",
      "url": "https://apply.workable.com/aac-usa/j/358981498B/"
     }
-   ]
+   ],
+   "workplace": "unknown",
+   "employment": "fulltime"
   },
   {
    "id": "4abb056f47821383",
@@ -1459,7 +1578,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/7311770869769822593"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "7524d133accef324",
@@ -1483,7 +1604,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/-2076342950355736809"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "10305c0e56868131",
@@ -1507,7 +1630,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/-8455797767582036163"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "ef4420fdaea9a980",
@@ -1531,7 +1656,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/-359298769558277546"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "6251c8508a5da68a",
@@ -1555,7 +1682,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/-1613951756061945127"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "contract"
   },
   {
    "id": "3b160b0679f5e64c",
@@ -1579,7 +1708,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/7754929535278432111"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "c01a45dcae5e5156",
@@ -1603,7 +1734,9 @@
      "name": "SimplyHired",
      "url": "https://www.simplyhired.com/job/6OL2ZPDApCk9f9qjKaWAvkIRU30kg54ZlYHPlf1MYHtxuPkW_F2bJw"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "2a046a94074943f3",
@@ -1627,7 +1760,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032832579702511"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "d908ce90867ee73e",
@@ -1651,7 +1786,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035870360541910"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "5818b748e9334c14",
@@ -1675,7 +1812,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032894704488175"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "contract"
   },
   {
    "id": "5fce336a11abd189",
@@ -1699,7 +1838,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033344918653762"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "0982270897b48280",
@@ -1723,7 +1864,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=628686154364879873"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "5222d49cabe9df3a",
@@ -1747,7 +1890,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032847762624239"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fcf7e0e4f8e9bcdf",
@@ -1771,7 +1916,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035608877141708"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "cdc4aaa8061dbef2",
@@ -1795,7 +1942,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032868898770671"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "356da70458fbca31",
@@ -1819,7 +1968,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033343245781826"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "c06faa1e01cc7b7c",
@@ -1843,7 +1994,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=618368985400550441"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "03fab60c9ffeeb83",
@@ -1867,7 +2020,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035636845416140"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "e7702ca1362556aa",
@@ -1891,7 +2046,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035838486584022"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "8be4025a0fac2c45",
@@ -1915,7 +2072,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032838738775791"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "69db988ea6aae740",
@@ -1939,7 +2098,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033344458591042"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "713182a010097935",
@@ -1963,7 +2124,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032881865723631"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "09df8b70de1c5785",
@@ -1987,7 +2150,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035644504346316"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "5ebf705ef75d5ee3",
@@ -2011,7 +2176,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035654998494924"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "2bb01086a95ba51c",
@@ -2035,7 +2202,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035847156406998"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "6218ac5ffab38a77",
@@ -2059,7 +2228,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035601090219724"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "417fea18e28609c3",
@@ -2083,7 +2254,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=637320953553421162"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "9a2aaf0528209798",
@@ -2107,7 +2280,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032878159073007"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fe97ef924503341e",
@@ -2131,7 +2306,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032834958855919"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "8e15f139f8356fe4",
@@ -2155,7 +2332,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033377821330242"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "e492a3323cd7e7de",
@@ -2179,7 +2358,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=633404452482066392"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "73438374938d7ba9",
@@ -2203,7 +2384,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=633751155355232216"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "1c43a5caf3d17fc1",
@@ -2227,7 +2410,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035637313015500"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "1588cc8261ec5dd9",
@@ -2251,7 +2436,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035603157814988"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "2c9e28848d215777",
@@ -2275,7 +2462,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033337232788290"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fd6194d9a584c117",
@@ -2299,7 +2488,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=623140788169869728"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "f5d117221a9174ce",
@@ -2323,7 +2514,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032885032357615"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "1cc8419cce2a66d0",
@@ -2347,7 +2540,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032869145513711"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "2c3b7be95c635245",
@@ -2371,7 +2566,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033386561669954"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "a86fe99ef79ba2aa",
@@ -2395,7 +2592,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033372463303490"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "550a165b1e801fd6",
@@ -2419,7 +2618,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032879393115887"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "87388637caa9971b",
@@ -2443,7 +2644,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032889026383599"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "7759319e9a0b75fe",
@@ -2467,7 +2670,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035863323744982"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "1ef5738278614509",
@@ -2491,7 +2696,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035651265040076"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "079709d0472afe9a",
@@ -2515,7 +2722,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035617050660556"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "2a5849bf125fdfea",
@@ -2539,7 +2748,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032847435927279"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "0b3ccf04ec04c342",
@@ -2563,7 +2774,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=629808992654790512"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "b002fa874b927e1e",
@@ -2587,7 +2800,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=627774972521745196"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "e4c82ed2383aee27",
@@ -2611,7 +2826,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=623256973443541751"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "ab26d6e4319592b4",
@@ -2635,7 +2852,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032831267081967"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "e6ca84a7d711a8fe",
@@ -2659,7 +2878,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035604062277324"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "a40709314282efb6",
@@ -2683,7 +2904,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033346267908930"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "e5198baf0a75522d",
@@ -2707,7 +2930,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033383949011778"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "4a322672c52eb9cc",
@@ -2731,7 +2956,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=632577543742757904"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "bbcfbc3af51e8778",
@@ -2755,7 +2982,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035850442054358"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "618b16ac5cb8c2b8",
@@ -2779,7 +3008,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032854102118127"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "85af233213d1ef7a",
@@ -2803,7 +3034,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032835942354671"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "bb42baa6eb6e1064",
@@ -2827,7 +3060,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035658914991820"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "a8556f4ab3dfc05e",
@@ -2851,7 +3086,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035896177400534"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fdf81bdb250d129b",
@@ -2875,7 +3112,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=629808993665485769"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "b364d100dde91bc6",
@@ -2899,7 +3138,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033355232447298"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "a4c99b4b94509f9a",
@@ -2923,7 +3164,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035617507970764"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "d9c4c63e29f5179d",
@@ -2947,7 +3190,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=623256972614118135"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "0e98df0ed080244c",
@@ -2971,7 +3216,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=630780050897308226"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "41132a6aa54b7588",
@@ -2995,7 +3242,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033348510812994"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "0c51b4a6712d89b2",
@@ -3019,7 +3268,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035874713377494"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "b51f1bfbcde473e2",
@@ -3043,7 +3294,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032877854330607"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "fea4a1058bd0e308",
@@ -3067,7 +3320,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033375813700418"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "325821e6a6243ca0",
@@ -3091,7 +3346,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640033330851875650"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "a430a5fda062c5e6",
@@ -3115,7 +3372,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/skygen/jobs/software-engineer-ii"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "cfe0f921e0e954fe",
@@ -3139,7 +3398,9 @@
      "name": "Company career sites",
      "url": "https://jobs.lever.co/xsolla/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "970c081a7ead056a",
@@ -3163,7 +3424,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=629808954595806153"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "44874c8b1187bd7c",
@@ -3187,7 +3450,9 @@
      "name": "Built In",
      "url": "https://builtin.com/job/web-developer/11495711"
     }
-   ]
+   ],
+   "workplace": "hybrid",
+   "employment": "fulltime"
   },
   {
    "id": "6ab7dbc523a50f33",
@@ -3211,7 +3476,9 @@
      "name": "Built In",
      "url": "https://builtin.com/job/full-stack-developer/11495703"
     }
-   ]
+   ],
+   "workplace": "hybrid",
+   "employment": "fulltime"
   },
   {
    "id": "d9dce66d22cb491a",
@@ -3235,7 +3502,9 @@
      "name": "SimplyHired",
      "url": "https://www.simplyhired.com/job/DVbSXdYJHLfDOR2f_oU3igTRE0lw0wlB3hEoYgjVWzMnoBrwzqastg"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "bc0e9bea5659b543",
@@ -3259,7 +3528,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640035642746998476"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "431fb2b14c2689e9",
@@ -3283,7 +3554,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/healthedge/jobs/senior-software-engineer-8266996141"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "57ce8684b29f5b65",
@@ -3307,7 +3580,9 @@
      "name": "SimplyHired",
      "url": "https://www.simplyhired.com/job/0nIBka-eEHyPdvydATl99aWF5nmpzfV3SOFQW6ByBE0PeRkelaPc-g"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "contract"
   },
   {
    "id": "0e35e3eaacc506a9",
@@ -3331,7 +3606,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640032891525336815"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "a23265ab0cd9e580",
@@ -3355,7 +3632,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/customertimes/jobs/jr-189588-project-manager-senior"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "da2b21212bf95120",
@@ -3379,7 +3658,9 @@
      "name": "Company career sites",
      "url": "https://healthcare.wd1.myworkdayjobs.com/search/job/us-utah-murray/global-product-owner-autonomous-coding_r01134110"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "a405469959973ffd",
@@ -3403,7 +3684,9 @@
      "name": "Company career sites",
      "url": "https://apply.workable.com/lmg-staffing-solutions/j/94D138F541/apply/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "beea34f5a756a5cf",
@@ -3427,7 +3710,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/kreative-technologies/jobs/software-engineer"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "05d7c8d2eecaa592",
@@ -3451,7 +3736,9 @@
      "name": "Built In",
      "url": "https://builtin.com/job/datacenter-technical-program-manager/11493369"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "28dbf240ca4923af",
@@ -3475,7 +3762,9 @@
      "name": "Company career sites",
      "url": "https://jobs.ashbyhq.com/harvey/09449e28-78b5-4d28-b38a-7ead854f7885"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "836c7e5066d239a3",
@@ -3499,7 +3788,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-0fb0203-technical-project-lead"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "ccfe1c096a740cff",
@@ -3523,7 +3814,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/job-listings-at-liquidity-services-inc/jobs/full-stack-developer-1420042173"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "4787692abce84d27",
@@ -3551,7 +3844,9 @@
      "name": "Company career sites",
      "url": "https://apply.workable.com/sierra-select-distributors-inc/j/099F5B0AA5"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "e0b99a0f9096cebf",
@@ -3575,7 +3870,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640009531985301231"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "e8034b85cebc7ff5",
@@ -3599,7 +3896,9 @@
      "name": "Glassdoor",
      "url": "https://www.glassdoor.com/job-listing/global-product-owner-autonomous-coding-solventum-JV_IC1157881_KO0,38_KE39,48.htm"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "60b836fbaaca40cb",
@@ -3623,7 +3922,9 @@
      "name": "Glassdoor",
      "url": "https://www.glassdoor.com/job-listing/senior-technical-project-manager-realta-fusion-inc-JV_IC1133470_KO0,32_KE33,50.htm"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "64e22e0149cb3454",
@@ -3647,7 +3948,9 @@
      "name": "Glassdoor",
      "url": "https://www.glassdoor.com/job-listing/technical-program-manager-pmo-anduril-JV_IC1146870_KO0,29_KE30,37.htm"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "b806d7fefbfa5048",
@@ -3671,7 +3974,9 @@
      "name": "Glassdoor",
      "url": "https://www.glassdoor.com/job-listing/technical-program-manager-dfx-productization-nvidia-JV_IC1147439_KO0,44_KE45,51.htm"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "dc817bd80b3b79c7",
@@ -3695,7 +4000,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/-4174084917638027031"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "8442319c8730f25e",
@@ -3719,7 +4026,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/-7196310182488710309"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "62eada746811e005",
@@ -3743,7 +4052,9 @@
      "name": "Jooble",
      "url": "https://jooble.org/away/6419041700189527008"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "contract"
   },
   {
    "id": "c87678b18196f477",
@@ -3767,7 +4078,9 @@
      "name": "SimplyHired",
      "url": "https://www.simplyhired.com/job/tUYnEtIM6QgW_vXR48nyo3SOVBgnI4kxZ19upFFWMJ7ZNTlZGwacvA"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "b6d53df310ff9cc9",
@@ -3791,7 +4104,9 @@
      "name": "Talent.com",
      "url": "https://www.talent.com/view?id=640012881943465676"
     }
-   ]
+   ],
+   "workplace": "onsite",
+   "employment": "fulltime"
   },
   {
    "id": "f6e3da8c452123fc",
@@ -3819,7 +4134,9 @@
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475512108/"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "0638f50e82f394c8",
@@ -3843,7 +4160,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/hii/jobs/senior-software-engineer-jaar-dcd-program-engineer-software-4-30172-virgi"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "4f22247958404bd3",
@@ -3867,7 +4186,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/syngentagroup/jobs/digital-platform-product-owner"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "4ca507e38f441035",
@@ -3891,7 +4212,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/ridgeline-international/jobs/software-engineer-full-stack-angular-java"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "608f447e7189897e",
@@ -3915,7 +4238,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/onhires/jobs/product-owner-execution-backlog-fast-delivery"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "1d09d0b66001042b",
@@ -3939,7 +4264,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/summalinguae/jobs/technical-project-manager-ai-data-processing"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "f2ebc938a992ca00",
@@ -3963,7 +4290,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/koniag-government-services/jobs/scrum-master"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "56335e0cde03d6f9",
@@ -3987,7 +4316,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/hivex/jobs/project-manager"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "16bb4d5fec638208",
@@ -4011,7 +4342,9 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/ford/jobs/technical-project-manager"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   },
   {
    "id": "2ed77e30c0c8a88e",
@@ -4035,8 +4368,10 @@
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/oportun/jobs/staff-technical-program-manager-r14286"
     }
-   ]
+   ],
+   "workplace": "remote",
+   "employment": "fulltime"
   }
  ],
- "updated": "2026-10-04T17:01+00:00"
+ "updated": "2026-10-04T17:29+00:00"
 }

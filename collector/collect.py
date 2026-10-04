@@ -96,7 +96,8 @@ NON_US = re.compile(r"\b(uk|united kingdom|europe|emea|germany|india|canada|liec
 
 # ---------------------------------------------------------------- helpers
 def clean(html: str | None) -> str:
-    return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", html or ""))).strip()
+    text = unescape(re.sub(r"<[^>]+>", " ", html or "")).replace("�", " - ")
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def get_json(url: str):
@@ -191,6 +192,40 @@ def location_group(location: str, remote: bool) -> str:
     return "other"
 
 
+def workplace(location: str, desc: str, remote: bool) -> str:
+    """-> remote | hybrid | onsite | unknown."""
+    loc = (location or "").lower()
+    if "hybrid" in loc:
+        return "hybrid"
+    if remote or re.search(r"remote|anywhere|work from home|\bwfh\b", loc):
+        return "remote"
+    text = (desc or "")[:3000].lower()
+    if re.search(r"\bhybrid\b", text):
+        return "hybrid"
+    if re.search(r"on-?site|in-?office|in the office|on site", loc + " " + text):
+        return "onsite"
+    if re.search(r"\b(fully|100%) remote\b|\bremote (role|position|opportunity)\b", text):
+        return "remote"
+    return "onsite" if loc and loc != "not specified" else "unknown"
+
+
+CONTRACT = re.compile(r"\bcontract\b|\bc2c\b|corp[- ]to[- ]corp|\bw-?2\b|\b1099\b|temp(orary)?[- ]to[- ]hire|"
+                      r"contract[- ]to[- ]hire|\bcth\b|\bfreelance\b", re.I)
+
+
+def employment(job_type: str, title: str, desc: str) -> str:
+    """-> fulltime | contract | parttime."""
+    head = f"{job_type} {title}"
+    if CONTRACT.search(head):
+        return "contract"
+    if re.search(r"part[- ]time", head, re.I):
+        return "parttime"
+    if re.search(r"\bc2c\b|corp[- ]to[- ]corp|\bw-?2\b|\b1099\b|contract[- ]to[- ]hire|"
+                 r"contract (role|position|assignment|opportunity)|duration:?\s*\d+\+?\s*months", desc or "", re.I):
+        return "contract"
+    return "fulltime"
+
+
 def us_eligible(location: str) -> bool:
     loc = location or ""
     if not loc.strip() or CHICAGO_AREA.search(loc):
@@ -215,7 +250,9 @@ def make_posting(raw: dict, now: datetime) -> dict | None:
     sk = SKILLSETS.get(raw.get("skillset") or "")
     # A site search for the skillset counts as the description match when the title fits the role family.
     fits = sk and sk.get("title_from_search", sk["title_with_desc"]).search(title) and sk["title_with_desc"].search(title)
-    if not skills and fits and not (sk.get("exclude") and sk["exclude"].search(title)):
+    # When the agent could read the job page, the description must back the skillset up too.
+    backed = not desc or sk and sk["desc"].search(desc)
+    if not skills and fits and backed and not (sk.get("exclude") and sk["exclude"].search(title)):
         skills = [raw["skillset"]]
     if not skills:
         return None
@@ -239,6 +276,8 @@ def make_posting(raw: dict, now: datetime) -> dict | None:
         "experience_estimated": est,
         "salary": clean(raw.get("salary"))[:80],
         "job_type": clean(raw.get("job_type"))[:60],
+        "workplace": workplace(location, desc, bool(raw.get("remote"))),
+        "employment": employment(clean(raw.get("job_type")), title, desc),
         "posted": when.isoformat(timespec="minutes"),
         "posted_day": when.astimezone(CT).date().isoformat(),
         "summary": desc[:320],
@@ -346,16 +385,16 @@ def save(db: dict) -> None:
     DATA.write_text(json.dumps(db, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
-def add(db: dict, postings: list[dict]) -> int:
-    """Merge postings into db; a job seen on several sites keeps one row with all its sources."""
+def add(db: dict, postings: list[dict]) -> list[dict]:
+    """Merge postings into db and return the new ones; a job seen on several sites keeps one row with all its sources."""
     by_id = {p["id"]: p for p in db["postings"]}
-    added = 0
+    new: list[dict] = []
     for p in postings:
         old = by_id.get(p["id"])
         if old is None:
             db["postings"].append(p)
             by_id[p["id"]] = p
-            added += 1
+            new.append(p)
             continue
         names = {s["name"] for s in old["sources"]}
         old["sources"] += [s for s in p["sources"] if s["name"] not in names]
@@ -364,8 +403,37 @@ def add(db: dict, postings: list[dict]) -> int:
             old.update(experience=p["experience"], years_min=p["years_min"], experience_estimated=False)
         for f in ("salary", "summary", "job_type"):
             old[f] = old.get(f) or p.get(f, "")
+        if old.get("workplace") in (None, "unknown", "onsite") and p.get("workplace") in ("remote", "hybrid"):
+            old["workplace"] = p["workplace"]
+        if p.get("employment") == "contract":
+            old["employment"] = "contract"
         old["posted"] = min(old["posted"], p["posted"])  # earliest sighting is the real post time
-    return added
+    return new
+
+
+def digest(new: list[dict], skillsets: dict, now: datetime) -> str:
+    """Plain-text summary of this run's new postings for the daily alert."""
+    day = now.astimezone(CT).strftime("%A, %B %d")
+    lines = [f"USA Job Search - {len(new)} new openings ({day})",
+             "Dashboard: https://anilakshada08.github.io/job-openings-dashboard/", ""]
+    order = {"senior": 0, "mid": 1, "junior": 2}
+    for key, label in skillsets.items():
+        rows = sorted((p for p in new if key in p["skillsets"]),
+                      key=lambda p: (p["location_group"] not in ("chicago", "remote"), order[p["experience"]]))
+        if not rows:
+            continue
+        near = sum(p["location_group"] in ("chicago", "remote") for p in rows)
+        lines.append(f"== {label}: {len(rows)} new ({near} Chicago or Remote) ==")
+        for p in rows[:25]:
+            lvl = ("~" if p.get("experience_estimated") else "") + p["experience"].title()
+            yrs = f" {p['years_min']}+ yrs" if p.get("years_min") else ""
+            extra = ", ".join(x for x in (p.get("workplace", "").title(), p.get("employment", "").title(), p.get("salary")) if x)
+            lines.append(f"- {p['title']} | {p['company']} | {p['location']} | {lvl}{yrs} | {extra}")
+            lines.append(f"  {p['sources'][0]['url']}")
+        if len(rows) > 25:
+            lines.append(f"  ...and {len(rows) - 25} more on the dashboard")
+        lines.append("")
+    return "\n".join(lines)
 
 
 def main() -> int:
@@ -373,6 +441,7 @@ def main() -> int:
     ap.add_argument("--merge", type=Path, nargs="*", default=[],
                     help="JSON lists of postings found in a browser (one file per site agent is fine)")
     ap.add_argument("--skip-feeds", action="store_true", help="only merge, don't poll the feeds")
+    ap.add_argument("--digest", type=Path, help="write a plain-text summary of this run's new postings here")
     args = ap.parse_args()
 
     now = datetime.now(timezone.utc)
@@ -407,13 +476,22 @@ def main() -> int:
                 counts[src] += 1
     report.update({src: f"{n} new in last 24h" for src, n in counts.items()})
 
-    added = add(db, found)
+    new = add(db, found)
+    added = len(new)
+    for p in db["postings"]:  # backfill fields added after a posting was first stored
+        if "workplace" not in p:
+            p["workplace"] = workplace(p["location"], p.get("summary", ""), p["location_group"] == "remote")
+        if "employment" not in p:
+            p["employment"] = employment(p.get("job_type", ""), p["title"], p.get("summary", ""))
     cutoff = (now - timedelta(days=KEEP_DAYS)).isoformat()
     db["postings"] = sorted((p for p in db["postings"] if p["posted"] >= cutoff),
                             key=lambda p: p["posted"], reverse=True)
     db["updated"] = now.isoformat(timespec="minutes")
     db["runs"] = (db.get("runs") or [])[-89:] + [{"at": db["updated"], "added": added, "sources": report}]
     save(db)
+    if args.digest:
+        args.digest.parent.mkdir(parents=True, exist_ok=True)
+        args.digest.write_text(digest(new, db["skillsets"], now), encoding="utf-8")
     print(json.dumps({"added": added, "total": len(db["postings"]), "sources": report}, indent=1))
     return 0
 
