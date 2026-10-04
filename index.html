@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Openings Dashboard</title>
+<meta name="description" content="Job openings posted in the last 24 hours, filterable by skillset, experience level, location and date. Updated daily around 2 AM Central.">
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --text: #17202b; --muted: #5d6b7a; --line: #e2e6eb;
+    --accent: #1f6feb; --accent-text: #ffffff; --chip: #eef2f7;
+    --jr: #0f7b6c; --jr-bg: #e3f5f1; --mid: #8a5a00; --mid-bg: #fdf1d8; --sr: #6f42c1; --sr-bg: #efe8fb;
+    --new: #c2410c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f141a; --panel: #171e26; --text: #e6edf3; --muted: #93a1b0; --line: #2a3440;
+      --accent: #4c8dff; --accent-text: #0b1220; --chip: #212b36;
+      --jr: #5fd3bf; --jr-bg: #10302b; --mid: #f2c46b; --mid-bg: #3a2c0c; --sr: #c6a7ff; --sr-bg: #2c2142;
+      --new: #fb923c;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f141a; --panel: #171e26; --text: #e6edf3; --muted: #93a1b0; --line: #2a3440;
+    --accent: #4c8dff; --accent-text: #0b1220; --chip: #212b36;
+    --jr: #5fd3bf; --jr-bg: #10302b; --mid: #f2c46b; --mid-bg: #3a2c0c; --sr: #c6a7ff; --sr-bg: #2c2142;
+    --new: #fb923c;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 24px 16px 48px; }
+  header h1 { margin: 0 0 4px; font-size: 26px; letter-spacing: -0.01em; }
+  header p { margin: 0; color: var(--muted); }
+  .filters { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; margin: 20px 0 14px;
+             background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+  .filters label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; font-weight: 600;
+                   color: var(--muted); text-transform: uppercase; letter-spacing: .04em; min-width: 0; }
+  select, input { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line);
+                  border-radius: 8px; padding: 8px 10px; width: 100%; min-width: 0; }
+  select:focus, input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .summary { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 14px; color: var(--muted); }
+  .summary strong { color: var(--text); }
+  .pill { background: var(--chip); border-radius: 999px; padding: 3px 10px; font-size: 13px; }
+  .list { display: flex; flex-direction: column; gap: 10px; }
+  .job { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px;
+         display: grid; grid-template-columns: 1fr auto; gap: 6px 16px; align-items: start; }
+  .job h2 { margin: 0; font-size: 16px; line-height: 1.3; overflow-wrap: anywhere; }
+  .job h2 a { color: inherit; text-decoration: none; }
+  .job h2 a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 14px; display: flex; flex-wrap: wrap; gap: 4px 14px; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
+  .tag { font-size: 12px; font-weight: 600; border-radius: 6px; padding: 2px 8px; background: var(--chip); }
+  .lv-junior { color: var(--jr); background: var(--jr-bg); }
+  .lv-mid { color: var(--mid); background: var(--mid-bg); }
+  .lv-senior { color: var(--sr); background: var(--sr-bg); }
+  .summary-text { grid-column: 1 / -1; color: var(--muted); font-size: 13px; margin: 2px 0 0;
+                  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .side { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; text-align: right; }
+  .apply { background: var(--accent); color: var(--accent-text); text-decoration: none; font-weight: 600;
+           border-radius: 8px; padding: 8px 14px; white-space: nowrap; }
+  .apply:hover { filter: brightness(1.08); }
+  .when { font-size: 13px; color: var(--muted); white-space: nowrap; }
+  .fresh { color: var(--new); font-weight: 600; }
+  .srcs { font-size: 12px; color: var(--muted); }
+  .srcs a { color: var(--accent); }
+  .empty { text-align: center; padding: 48px 16px; color: var(--muted); background: var(--panel);
+           border: 1px dashed var(--line); border-radius: 12px; }
+  footer { margin-top: 28px; color: var(--muted); font-size: 13px; }
+  footer details { margin-top: 8px; }
+  .reset { background: none; border: 1px solid var(--line); color: var(--text); border-radius: 8px;
+           padding: 4px 10px; font: inherit; font-size: 13px; cursor: pointer; }
+  @media (max-width: 900px) { .filters { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  @media (max-width: 560px) {
+    .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .job { grid-template-columns: 1fr; }
+    .side { flex-direction: row; align-items: center; justify-content: space-between; text-align: left; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Job Openings Dashboard</h1>
+    <p>Jobs posted in the last 24 hours on LinkedIn and other job sites. Updated every day around 2 AM Central. <span id="updated"></span></p>
+  </header>
+
+  <section class="filters" aria-label="Filters">
+    <label>Skillset
+      <select id="f-skill"><option value="">All skillsets</option></select>
+    </label>
+    <label>Experience
+      <select id="f-exp">
+        <option value="">All levels</option>
+        <option value="junior">Junior (0–3 yrs)</option>
+        <option value="mid">Mid (3–8 yrs)</option>
+        <option value="senior">Senior (8+ yrs)</option>
+      </select>
+    </label>
+    <label>Location
+      <select id="f-loc">
+        <option value="">All locations</option>
+        <option value="chicago,remote">Chicago or Remote</option>
+        <option value="chicago">Chicago area</option>
+        <option value="remote">Remote</option>
+        <option value="other">Other US locations</option>
+      </select>
+    </label>
+    <label>Posted
+      <select id="f-date"></select>
+    </label>
+    <label>Source
+      <select id="f-src"><option value="">All sources</option></select>
+    </label>
+    <label>Search
+      <input id="f-q" type="search" placeholder="Title or company">
+    </label>
+  </section>
+
+  <div class="summary" id="summary"></div>
+  <main class="list" id="list"><div class="empty">Loading openings…</div></main>
+
+  <footer>
+    <div>Each job links to the site where it was posted; apply there. Experience levels come from the years the posting asks for, or from the job title when it gives none (marked “≈”).</div>
+    <details><summary>Sources checked in the latest run</summary><div id="runinfo"></div></details>
+  </footer>
+</div>
+
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const F = { skill: $("f-skill"), exp: $("f-exp"), loc: $("f-loc"), date: $("f-date"), src: $("f-src"), q: $("f-q") };
+  const LV = { junior: "Junior", mid: "Mid", senior: "Senior" };
+  let db = null, lastUpdated = null;
+
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const safeUrl = (u) => /^https?:\/\//i.test(u || "") ? u : "#";
+  const ctDay = (d) => d.toLocaleDateString("en-CA", { timeZone: "America/Chicago" });
+  const fmtDay = (iso) => new Date(iso + "T12:00:00").toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", year: "numeric" });
+  function ago(iso) {
+    const h = (Date.now() - new Date(iso)) / 36e5;
+    if (h < 1) return "just now";
+    if (h < 24) return Math.floor(h) + "h ago";
+    const d = Math.floor(h / 24);
+    return d + (d === 1 ? " day ago" : " days ago");
+  }
+
+  const initialQuery = new URLSearchParams(location.search);
+  function readQuery() {
+    const p = initialQuery;
+    for (const [k, el] of Object.entries(F)) if (p.has(k)) el.value = p.get(k);
+  }
+  function writeQuery() {
+    const p = new URLSearchParams();
+    for (const [k, el] of Object.entries(F)) if (el.value && !(k === "date" && el.value === "24h")) p.set(k, el.value);
+    history.replaceState(null, "", location.pathname + (p.toString() ? "?" + p : ""));
+  }
+
+  function fillOptions() {
+    const keepSkill = F.skill.value, keepDate = F.date.value || "24h", keepSrc = F.src.value;
+    F.skill.innerHTML = '<option value="">All skillsets</option>' +
+      Object.entries(db.skillsets || {}).map(([k, v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join("");
+    const days = [...new Set(db.postings.map((p) => p.posted_day))].sort().reverse();
+    F.date.innerHTML = '<option value="24h">Last 24 hours</option>' +
+      days.map((d) => `<option value="${d}">${esc(fmtDay(d))}</option>`).join("") +
+      '<option value="all">All dates</option>';
+    const srcs = [...new Set(db.postings.flatMap((p) => p.sources.map((s) => s.name)))].sort();
+    F.src.innerHTML = '<option value="">All sources</option>' + srcs.map((s) => `<option>${esc(s)}</option>`).join("");
+    F.skill.value = keepSkill; F.src.value = keepSrc;
+    F.date.value = [...F.date.options].some((o) => o.value === keepDate) ? keepDate : "24h";
+  }
+
+  function render() {
+    if (!db) return;
+    writeQuery();
+    const since = new Date(db.updated) - 24 * 36e5;
+    const q = F.q.value.trim().toLowerCase();
+    const locs = F.loc.value ? F.loc.value.split(",") : null;
+    const base = db.postings.filter((p) =>
+      (!F.skill.value || p.skillsets.includes(F.skill.value)) &&
+      (!locs || locs.includes(p.location_group)) &&
+      (F.date.value === "all" || (F.date.value === "24h" ? new Date(p.posted) >= since : p.posted_day === F.date.value)) &&
+      (!F.src.value || p.sources.some((s) => s.name === F.src.value)) &&
+      (!q || (p.title + " " + p.company).toLowerCase().includes(q)));
+    const rows = base.filter((p) => !F.exp.value || p.experience === F.exp.value);
+
+    const count = (lv) => base.filter((p) => p.experience === lv).length;
+    $("summary").innerHTML =
+      `<span><strong>${rows.length}</strong> opening${rows.length === 1 ? "" : "s"}</span>` +
+      ["junior", "mid", "senior"].map((lv) => `<span class="pill">${LV[lv]}: ${count(lv)}</span>`).join("") +
+      (Object.values(F).some((el) => el.value && !(el === F.date && el.value === "24h"))
+        ? ' <button class="reset" id="reset">Clear filters</button>' : "");
+    const r = $("reset");
+    if (r) r.onclick = () => { for (const el of Object.values(F)) el.value = ""; F.date.value = "24h"; render(); };
+
+    if (!rows.length) {
+      $("list").innerHTML = `<div class="empty">No openings match these filters${F.date.value === "24h" ? " in the last 24 hours" : ""}. Try another location, level or date.</div>`;
+      return;
+    }
+    $("list").innerHTML = rows.map((p) => {
+      const main = p.sources[0];
+      const yrs = p.years_min ? ` · ${p.years_min}+ yrs` : "";
+      const lv = `<span class="tag lv-${p.experience}" title="${p.experience_estimated ? "Estimated from the job title" : "From the years of experience in the posting"}">${p.experience_estimated ? "≈ " : ""}${LV[p.experience]}${yrs}</span>`;
+      const skills = p.skillsets.map((s) => `<span class="tag">${esc((db.skillsets || {})[s] || s)}</span>`).join("");
+      const fresh = (Date.now() - new Date(p.posted)) < 24 * 36e5;
+      const others = p.sources.slice(1).map((s) => `<a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(", ");
+      return `<article class="job">
+        <div>
+          <h2><a href="${esc(safeUrl(main.url))}" target="_blank" rel="noopener">${esc(p.title)}</a></h2>
+          <div class="meta"><span>${esc(p.company)}</span><span>${esc(p.location)}</span>${p.salary ? `<span>${esc(p.salary)}</span>` : ""}${p.job_type ? `<span>${esc(p.job_type)}</span>` : ""}</div>
+          <div class="tags">${lv}${skills}</div>
+        </div>
+        <div class="side">
+          <a class="apply" href="${esc(safeUrl(main.url))}" target="_blank" rel="noopener">Apply on ${esc(main.name)}</a>
+          <span class="when ${fresh ? "fresh" : ""}" title="${esc(new Date(p.posted).toLocaleString())}">${esc(ago(p.posted))}</span>
+          ${others ? `<span class="srcs">Also on ${others}</span>` : ""}
+        </div>
+        ${p.summary ? `<p class="summary-text">${esc(p.summary)}</p>` : ""}
+      </article>`;
+    }).join("");
+  }
+
+  async function load() {
+    try {
+      const res = await fetch("data/postings.json?t=" + Date.now(), { cache: "no-store" });
+      const next = await res.json();
+      if (next.updated === lastUpdated) return;
+      db = next; lastUpdated = next.updated;
+      $("updated").textContent = "Last update: " + new Date(db.updated).toLocaleString("en-US", { timeZone: "America/Chicago", dateStyle: "medium", timeStyle: "short" }) + " CT.";
+      const run = (db.runs || []).slice(-1)[0];
+      $("runinfo").innerHTML = run ? Object.entries(run.sources).map(([k, v]) => `${esc(k)}: ${esc(v)}`).join("<br>") : "";
+      const first = !F.date.options.length;
+      fillOptions();
+      if (first) readQuery();
+      render();
+    } catch (e) {
+      if (!db) $("list").innerHTML = '<div class="empty">Could not load openings. Refresh the page to try again.</div>';
+    }
+  }
+
+  for (const el of Object.values(F)) el.addEventListener(el.tagName === "INPUT" ? "input" : "change", render);
+  load();
+  setInterval(load, 10 * 60 * 1000);  // picks up the nightly update without a manual refresh
+})();
+</script>
+</body>
+</html>

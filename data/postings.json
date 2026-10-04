@@ -1,0 +1,383 @@
+{
+ "skillsets": {
+  "angular": "Angular",
+  "apmpo": "APM / PO"
+ },
+ "runs": [
+  {
+   "at": "2026-10-04T03:56+00:00",
+   "added": 15,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "17 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "3 new in last 24h"
+   }
+  }
+ ],
+ "postings": [
+  {
+   "id": "431fb2b14c2689e9",
+   "title": "Senior Software Engineer",
+   "company": "HealthEdge",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T00:56+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Overview We can only consider US Citizens or Green Card holders for this position at this time. HealthEdge ® offers AI-powered operational infrastructure for health insurance companies, guaranteeing an enduring financial edge in an increasingly competitive market. We're experiencing strong market momentum, with a growi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/healthedge/jobs/senior-software-engineer-8266996141"
+    }
+   ]
+  },
+  {
+   "id": "a23265ab0cd9e580",
+   "title": "JR-189588 Project Manager Senior",
+   "company": "Customertimes",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T23:27+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Hello, our name is Customertimes , but you can call us CT. We are a global digital engineering, product development, and technology consulting company. Headquartered in New York, we have a team of 1000+ experts working across 65+ countries. About this job: We're looking for an experienced Senior Project Manager to lead",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/customertimes/jobs/jr-189588-project-manager-senior"
+    }
+   ]
+  },
+  {
+   "id": "beea34f5a756a5cf",
+   "title": "Software Engineer",
+   "company": "Kreative Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 73,588–81,765",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T21:58+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Job Posting ID: KT_[273]_JOB Position: Software Engineer FT/PT Status: Full-Time Location: Remote Education: Bachelor's degree in Computer Science, Software Engineering or a related field required. Overview: Kreative Technologies is looking for a Software Engineer to design, build and maintain software for our clients'",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/kreative-technologies/jobs/software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "836c7e5066d239a3",
+   "title": "XTN-0FB0203 | TECHNICAL PROJECT LEAD",
+   "company": "KMC Solutions Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T20:59+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Role Overview This is a hands-on technical leadership role responsible for driving end-to-end project delivery, system design, and engineering excellence across AI-driven platforms. The Technical Project Lead will combine strong coding expertise with team leadership, ensuring scalable architecture, high code quality, a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/kmc-solutions-inc/jobs/xtn-0fb0203-technical-project-lead"
+    }
+   ]
+  },
+  {
+   "id": "ccfe1c096a740cff",
+   "title": "Full Stack Developer",
+   "company": "Job Listings at Liquidity Services Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T20:32+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "This position is responsible for building new web applications, as well as adding features and functionality to existing products, developed on Angular and Microsoft’s .Net framework on Azure cloud platform. This involves contributing to the design, coding, testing, debugging, documenting, and support of complex multi-",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/job-listings-at-liquidity-services-inc/jobs/full-stack-developer-1420042173"
+    }
+   ]
+  },
+  {
+   "id": "4787692abce84d27",
+   "title": "Technical Project Manager",
+   "company": "Sierra Select Distributors, Inc.",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-03T20:08+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Sierra Select is seeking an experienced and organized Technical Project Manager to plan, coordinate, and deliver technology and business projects across the organization. This role will work closely with IT, operations, sales, marketing, and other teams to ensure projects are completed on time, within scope, and accord",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/ciLprrkukxDixQkkSbHuwc/remote-technical-project-manager-in-united-states-at-sierra-select-distributors%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "0638f50e82f394c8",
+   "title": "Senior Software Engineer - JAAR/DCD Program (Engineer Software 4) - 30172 (Virgi",
+   "company": "HII",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 117,262–160,000",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T16:57+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Requisition Number: 30172 Required Travel: 0 - 10% Employment Type: Full Time/Salaried/Exempt Anticipated Salary Range: $117,262.00 - $160,000.00 Security Clearance: Ability to Obtain Level of Experience: Senior This opportunity resides with Global Security (GS). Mission Technologies’ Global Security (GS) group compris",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/hii/jobs/senior-software-engineer-jaar-dcd-program-engineer-software-4-30172-virgi"
+    }
+   ]
+  },
+  {
+   "id": "4f22247958404bd3",
+   "title": "Digital Platform Product Owner",
+   "company": "Syngenta Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T16:05+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "At Syngenta, we believe every employee has a role to play in safely feeding the world and taking care of our planet. To support that challenge, the Syngenta Seeds team is currently seeking a Digital Platform Product Owner. Role Purpose: The Digital Platform Product Owner will lead product ownership for the Trialing Pro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/syngentagroup/jobs/digital-platform-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "4ca507e38f441035",
+   "title": "Software Engineer, Full Stack (Angular & Java)",
+   "company": "Ridgeline International",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T15:00+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Remote | Active SECRET Clearance Required | U.S. Citizenship Required A role for engineers who like building real systems. Most job postings say \"full stack\" but end up meaning mostly frontend or mostly backend. This role is actually full stack. You will design, build, deploy, and operate production software that integ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ridgeline-international/jobs/software-engineer-full-stack-angular-java"
+    }
+   ]
+  },
+  {
+   "id": "608f447e7189897e",
+   "title": "Product Owner (Execution / Backlog / Fast Delivery)",
+   "company": "OnHires",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T12:38+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Location: Remote (Europe) Employment: Full-time, B2B contract Start date: ASAP About the Client Our client is a fast-growing digital product company operating a portfolio of SaaS and B2C subscription products. Over the past year, the company scaled rapidly from a single product to multiple revenue-generating products. ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/onhires/jobs/product-owner-execution-backlog-fast-delivery"
+    }
+   ]
+  },
+  {
+   "id": "1d09d0b66001042b",
+   "title": "Technical Project Manager - AI Data Processing",
+   "company": "Summa Linguae Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 60,000–85,000",
+   "job_type": "Contractor",
+   "posted": "2026-10-03T10:16+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "Technical Project Manager-AI DataProcessing Work model: Remote (covering PST hours) - Based in PST timezone Employment type: Full-time (Contract or Employment) About DATAmundi DATAmundi builds advanced software solutions that power our localization and data services. We support AI companies and research teams by delive",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/summalinguae/jobs/technical-project-manager-ai-data-processing"
+    }
+   ]
+  },
+  {
+   "id": "f2ebc938a992ca00",
+   "title": "Scrum Master",
+   "company": "Koniag Government Services",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 125,000–150,000",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T08:03+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "This position may be filled prior to the posted deadline. Interested candidates are encouraged to apply as soon as possible. Koniag Technology Solutions, Inc a Koniag Government Services company, is seeking a Scrum Master to support KTS and our government customer. The position is remote. This position requires the can",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/koniag-government-services/jobs/scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "56335e0cde03d6f9",
+   "title": "Project Manager",
+   "company": "Hivex",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T07:06+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "We are actively seeking an accomplished Senior Project Manager to become an integral part of our dynamic creative team. This individual will play a pivotal role in advancing our innovative solutions within the realm of AI projects, bringing their talent and expertise to contribute to our ongoing development of cutting-",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/hivex/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "16bb4d5fec638208",
+   "title": "Technical Project Manager",
+   "company": "Ford",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 99,100–166,200",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T06:49+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "We made history and now we work to transform the future – for our customers, our communities and our families. You'll see your work on the road every day, helping people move freely and pursue their dreams. At Ford , you can build more than vehicles. Come build what matters. Enterprise Technology plays a critical part ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ford/jobs/technical-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "2ed77e30c0c8a88e",
+   "title": "Staff Technical Program Manager (R14286)",
+   "company": "Oportun",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-03T04:55+00:00",
+   "posted_day": "2026-10-02",
+   "summary": "Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial future. Since inception, Oportun has provided mo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/oportun/jobs/staff-technical-program-manager-r14286"
+    }
+   ]
+  }
+ ],
+ "updated": "2026-10-04T03:56+00:00"
+}
