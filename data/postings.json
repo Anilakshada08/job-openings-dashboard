@@ -15,9 +15,45 @@
     "The Muse": "0 new in last 24h",
     "Workable": "3 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-04T15:00+00:00",
+   "added": 1,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "9 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "3 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "a430a5fda062c5e6",
+   "title": "Software Engineer II",
+   "company": "SKYGEN",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 94,283–141,425",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T04:09+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "What are important things that YOU need to know about this role? Experience : Expertise in SQL is preferred along with a full-stack tech background.Candidates should have worked with REACT and have experience with AI coding tools Work Location : This is a permanently remote, work-from-home position. What will YOU be do",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/skygen/jobs/software-engineer-ii"
+    }
+   ]
+  },
   {
    "id": "431fb2b14c2689e9",
    "title": "Senior Software Engineer",
@@ -379,5 +415,5 @@
    ]
   }
  ],
- "updated": "2026-10-04T03:56+00:00"
+ "updated": "2026-10-04T15:00+00:00"
 }
