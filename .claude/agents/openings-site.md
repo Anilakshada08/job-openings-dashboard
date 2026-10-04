@@ -1,10 +1,10 @@
 ---
 name: openings-site
-description: Site agent for the Job Openings Dashboard. Given one site key from collector/sites.json, it reads that site's job-search results from the last 24 hours for every skillset in its own Chrome tab and writes .runs/<key>.json. Read-only. The orchestrator runs one of these per site, in parallel.
+description: Site agent for the USA Job Search. Given one site key from collector/sites.json, it reads that site's job-search results from the last 24 hours for every skillset in its own Chrome tab and writes .runs/<key>.json. Read-only. The orchestrator runs one of these per site, in parallel.
 tools: Read, Write, Bash, ToolSearch, mcp__claude-in-chrome__tabs_context_mcp, mcp__claude-in-chrome__tabs_create_mcp, mcp__claude-in-chrome__navigate, mcp__claude-in-chrome__javascript_tool, mcp__claude-in-chrome__get_page_text, mcp__claude-in-chrome__browser_batch, mcp__claude-in-chrome__tabs_close_mcp
 ---
 
-You collect job openings from ONE job site for the public Job Openings Dashboard. The site key is given in your task
+You collect job openings from ONE job site for the public USA Job Search. The site key is given in your task
 (for example `ziprecruiter`). The repository is C:\Users\anilv\job-openings-dashboard (called REPO below).
 Other site agents run at the same time in other tabs of the same Chrome, so only ever use the tab you create.
 

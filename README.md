@@ -1,4 +1,4 @@
-# Job Openings Dashboard
+# USA Job Search
 
 A public, filterable list of job openings **posted in the last 24 hours**, refreshed every night around **2 AM Central**.
 

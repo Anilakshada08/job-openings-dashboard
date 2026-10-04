@@ -1,4 +1,4 @@
-# Job Openings Dashboard (USA Job search application)
+# USA Job Search (Job Openings Dashboard)
 
 A public, read-only dashboard of job openings posted in the last 24 hours, for everyone:
 https://anilakshada08.github.io/job-openings-dashboard/ (GitHub Pages from `main`, repo Anilakshada08/job-openings-dashboard).
