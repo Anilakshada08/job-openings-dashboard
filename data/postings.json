@@ -27,9 +27,792 @@
     "The Muse": "0 new in last 24h",
     "Workable": "3 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-04T16:40+00:00",
+   "added": 32,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "19 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "3 new in last 24h",
+    "LinkedIn": "21 new in last 24h",
+    "Dice": "3 new in last 24h",
+    "Indeed": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "1d796191f7a74d97",
+   "title": "Frontend Engineer",
+   "company": "Netrolynx AI",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4475377862/"
+    }
+   ]
+  },
+  {
+   "id": "5cef23cedab435d7",
+   "title": "Principal Technical Program Manager, Datacenter End-to-End Build Delivery",
+   "company": "Microsoft",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4466499176/"
+    }
+   ]
+  },
+  {
+   "id": "1717d50f06740206",
+   "title": "Urgent Need - JAVA/ANGULAR Developer with AMQ/JMS Messaging Implementation exp.",
+   "company": "Komplete Teleservices",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "posted": "2026-10-04T16:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/2e791b44-ffae-4078-b2c0-9887f7eb769c"
+    }
+   ]
+  },
+  {
+   "id": "c2f2159b0c1bdc13",
+   "title": "Senior IT Project Manager / Application Transition Lead",
+   "company": "Not listed",
+   "location": "Remote or Pittsburgh, Pennsylvania",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T16:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/c254c6fd-99b6-4dc7-affc-fe8d53d8bb99"
+    }
+   ]
+  },
+  {
+   "id": "6900af28c3dc8934",
+   "title": "Product Owner",
+   "company": "Mutual of Omaha",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$100,000 - $118,000 a year",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T16:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Indeed",
+     "url": "https://www.indeed.com/viewjob?jk=751339a4337fee93"
+    }
+   ]
+  },
+  {
+   "id": "9ae919a4148f55a0",
+   "title": "Group Manager, Software Engineering",
+   "company": "Concentrix",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:30+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4454689129/"
+    }
+   ]
+  },
+  {
+   "id": "fc9c530250a599f1",
+   "title": "Senior Project Manager",
+   "company": "PCN (PC Network Inc.)",
+   "location": "Middletown, PA (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:13+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4474215451/"
+    }
+   ]
+  },
+  {
+   "id": "f1520f8f1692d486",
+   "title": "Technical Program Manager II",
+   "company": "Akamai Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 100,700–181,300",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T16:06+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Do you relish the prospect of leading strategic cross-organization programs? Do you thrive on managing complexity and uncertainty? Join our Cloud Technology Group Strategy & Operations team Our Business Program Management team provides an CTG-wide approach to identify, prioritize, and successfully execute a portfolio o",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/akamai-technologies/jobs/technical-program-manager-ii"
+    }
+   ]
+  },
+  {
+   "id": "5255251edec36e49",
+   "title": "Project Manager",
+   "company": "Central Network Retail Group, LLC (CNRG)",
+   "location": "Las Vegas, NV (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T15:41+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4253683960/"
+    }
+   ]
+  },
+  {
+   "id": "b7a27fe0d5e36a39",
+   "title": "Project Manager, Senior",
+   "company": "Shermco Industries",
+   "location": "Irving, TX (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T15:41+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4447227272/"
+    }
+   ]
+  },
+  {
+   "id": "e5a2176020cae81a",
+   "title": "Software Engineer, Sr. Fullstack - Remote",
+   "company": "Torentify",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T15:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4475500419/"
+    }
+   ]
+  },
+  {
+   "id": "fe71e66abe754984",
+   "title": "Senior / Staff Software Engineer, AI Platform",
+   "company": "Clear Street",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T15:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4437586430/"
+    }
+   ]
+  },
+  {
+   "id": "7087251c13c03a97",
+   "title": "Product Owner Director– Underwriting & AI Innovation",
+   "company": "Majesco",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 110,000–170,000",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T15:07+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Majesco isn’t just riding the AI wave – we’re leading it for the P&C, L&AH, and Pension & Retirement markets. Born in the cloud and built with an AI-native vision, we’ve reimagined the insurance and pension core as an intelligent platform that enables insurers and pension & retirement providers to move faster, see fart",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/majesco/jobs/product-owner-director-underwriting-ai-innovation"
+    }
+   ]
+  },
+  {
+   "id": "29efdf271b976f5d",
+   "title": "Technical Project Manager / Scrum Master",
+   "company": "BerryDunn",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 90,000–140,000",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T14:42+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Overview BerryDunn ’s Healthcare Analytics Practice Group (HAPG), Data Management and Strategy (DMS) team is seeking a Technical Project Manager / Scrum Master to lead and deliver complex data management and system technology initiatives. This role requires a blend of strong project management leadership, technical exp",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/berrydunn/jobs/technical-project-manager-scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "dd330ae990aea417",
+   "title": "Product Owner, Technical - AI Finance",
+   "company": "BJAK",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T14:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4475399304/"
+    }
+   ]
+  },
+  {
+   "id": "6f6fd594789a230a",
+   "title": "Global Program Manager - Commercial Life Sciences",
+   "company": "Veeva Systems",
+   "location": "Boston, MA (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T14:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4429629811/"
+    }
+   ]
+  },
+  {
+   "id": "31517399a580233f",
+   "title": "Principal Technical Program Manager (AI) (Remote)",
+   "company": "Claritev",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T14:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4454695060/"
+    }
+   ]
+  },
+  {
+   "id": "ece56840619c17df",
+   "title": "Product Owner (Salesforce) - REMOTE",
+   "company": "Molina Healthcare",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T14:08+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Job Description Job Summary Provides subject matter expertise in the delivery, execution and maintenance of products. Accountable for maximizing the value of assigned technical products that support enterprise operations. Owns the product vision, backlog, and delivery outcomes and serves as the primary bridge between b",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/molina-healthcare/jobs/product-owner-salesforce-remote"
+    }
+   ]
+  },
+  {
+   "id": "2a333c723af56b02",
+   "title": "Angular Developer",
+   "company": "TaskVerse",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T13:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4475382800/"
+    }
+   ]
+  },
+  {
+   "id": "5178e4d95d6daa8b",
+   "title": "Salesforce Technical Consultant and Project Manager (Salesforce Digital Transformation Center) - (Remote US)",
+   "company": "ICF International, Inc.",
+   "location": "Remote or Reston, Virginia",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 119,323 - 202,850 per year",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T13:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/e740deb6-f3db-4af0-bf8b-0c3108e71f48"
+    }
+   ]
+  },
+  {
+   "id": "f45a91205d901818",
+   "title": "Senior Technical Program Manager",
+   "company": "Akamai Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 119,600–215,400",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T13:24+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Are you excited to lead high-impact technical programs from concept to market? Do you enjoy driving cross-functional collaboration to deliver complex software solutions? Join our Cloud Technology Program Management team Our Technical Program Managers lead programs and initiatives across the division from concept to mar",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/akamai-technologies/jobs/senior-technical-program-manager-9294467743"
+    }
+   ]
+  },
+  {
+   "id": "694e35e40172fbe6",
+   "title": "Project Delivery Manager",
+   "company": "Internova Travel Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T13:14+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Overview At ALTOUR, we believe people are the driving force behind every meaningful connection - our clients’ and our own. With more than 1,000 team members and a presence in over 80 countries, we are a globally recognized leader in corporate travel management and a proud division of Internova Travel Group , the highes",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/internova-travel-group/jobs/project-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "e784f57b38b45cf6",
+   "title": "Program Manager-Microsoft Services Consulting",
+   "company": "Cyclotron, Inc.",
+   "location": "Chicago, IL (Remote)",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T12:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4437975050/"
+    }
+   ]
+  },
+  {
+   "id": "9930930f0adda696",
+   "title": "Product Manager/Product Owner",
+   "company": "Great Value Hiring",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T11:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4465471613/"
+    }
+   ]
+  },
+  {
+   "id": "60d3e6a43a09a381",
+   "title": "Product Owner [SK-20699]",
+   "company": "Skill",
+   "location": "New York, NY (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T11:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4473491061/"
+    }
+   ]
+  },
+  {
+   "id": "a3c72f580823726c",
+   "title": "Program/ Project Manager [SK-20655]",
+   "company": "Skill",
+   "location": "Chicago, IL (On-site)",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T11:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4473478652/"
+    }
+   ]
+  },
+  {
+   "id": "88a115e71c7c717b",
+   "title": "Technical Program Manager (Firmware)",
+   "company": "UST",
+   "location": "San Francisco, CA (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T10:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4445565431/"
+    }
+   ]
+  },
+  {
+   "id": "ba35fcb7a300e4ab",
+   "title": "Senior Principal Data Center Delivery Technical Program Manager",
+   "company": "Oracle",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T10:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4417991197/"
+    }
+   ]
+  },
+  {
+   "id": "3f27953cc707697c",
+   "title": "Oracle EPM Senior Project Manager",
+   "company": "Argano",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T07:05+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Company Overview: Argano is a leading global digital consultancy dedicated to driving business transformation through strategic consulting and technology delivery. We specialize in optimizing business operations across Oracle, SAP, Microsoft, and Salesforce platforms. Our mission is to enhance agility, profitability, a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/argano/jobs/oracle-epm-senior-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "65cb83fa57bfcef7",
+   "title": "Senior Client Delivery Manager – ERP Implementations and Consulting Services",
+   "company": "Solen Software Group",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–135,000",
+   "job_type": "Full Time",
+   "posted": "2026-10-04T06:50+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Job Title: Senior Client Delivery Manager – ERP Implementations and Consulting Services Company: SHEA Syspro Team Location: United States or Canada (Virtual / Occasional travel to client sites) Employment Type : Full-time About the Role: We are seeking an experienced Senior Client Delivery Manager to lead end-to-end ER",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/solen-software-group/jobs/senior-client-delivery-manager-erp-implementations-and-consulting-services"
+    }
+   ]
+  },
+  {
+   "id": "2a5ce62a5a4f5f77",
+   "title": "Java Full Stack Developer with Angular",
+   "company": "Gleesoft Consulting LLC",
+   "location": "Dallas, TX (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T06:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4473884835/"
+    }
+   ]
+  },
+  {
+   "id": "d810a9346b098901",
+   "title": "Full Stack .NET engineer + AI",
+   "company": "AppLab Systems, Inc",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T06:40+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4475374204/"
+    }
+   ]
+  },
   {
    "id": "a430a5fda062c5e6",
    "title": "Software Engineer II",
@@ -415,5 +1198,5 @@
    ]
   }
  ],
- "updated": "2026-10-04T15:00+00:00"
+ "updated": "2026-10-04T16:40+00:00"
 }
