@@ -73,7 +73,8 @@ SKILLSETS = {
         "desc": re.compile(r"\bagile\b|\bscrum\b|\bsdlc\b|\bjira\b|software development", re.I),
         # Non-software project management is out of scope for this skillset.
         "exclude": re.compile(r"marketing|construction|event|facilit|clinical|\bops\b|operations|real estate|civil|"
-                              r"mechanical|electrical|manufactur|interior|landscap|restoration|hvac", re.I),
+                              r"mechanical|electrical|manufactur|interior|landscap|restoration|hvac|renovation|nuclear|bridge|"
+                              r"transmission|substation|r&d", re.I),
     },
 }
 
@@ -201,7 +202,11 @@ def make_posting(raw: dict, now: datetime) -> dict | None:
         return None
     if not us_eligible(location):
         return None
-    skills = [raw["skillset"]] if raw.get("skillset") in SKILLSETS else match_skillsets(title, desc)
+    skills = match_skillsets(title, desc)
+    sk = SKILLSETS.get(raw.get("skillset") or "")
+    # A site search for the skillset counts as the description match when the title fits the role family.
+    if not skills and sk and sk["title_with_desc"].search(title) and not (sk.get("exclude") and sk["exclude"].search(title)):
+        skills = [raw["skillset"]]
     if not skills:
         return None
     when = parse_when(raw.get("posted"), now)
