@@ -5,6 +5,7 @@ into a --merge file for collect.py.
 """
 import argparse
 import json
+import re
 from pathlib import Path
 
 ap = argparse.ArgumentParser()
@@ -17,7 +18,7 @@ a = ap.parse_args()
 rows = json.loads(a.out.read_text(encoding="utf-8")) if a.append and a.out.exists() else []
 for f in a.files:
     for line in f.read_text(encoding="utf-8").splitlines():
-        parts = [p.strip() for p in line.split(" ~ ")]
+        parts = [p.strip() for p in re.split(r"\s*~\s*", line)]  # tolerate empty fields ("a ~ ~ b")
         if len(parts) < 6 or not parts[0].startswith("http"):
             continue
         url, title, company, location, posted, skillset = parts[:6]

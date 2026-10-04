@@ -22,8 +22,14 @@ Filters are kept in the page address, so you can share a link to a filtered view
 1. **GitHub Actions** (`.github/workflows/daily.yml`) runs `collector/collect.py` at 07:00 UTC each day. It reads the public
    job feeds (Himalayas, Jobicy, Remote OK, Remotive, The Muse, Workable), keeps postings from the last 24 hours that
    match a skillset, and appends them to `data/postings.json`.
-2. **A browser pass** adds sites without a public feed (LinkedIn, Dice, Indeed, Built In Chicago). It saves what it finds as
-   JSON and runs `python collector/collect.py --skip-feeds --merge <file>`.
+2. **Site agents, one per job site, run in parallel** every night around 2 AM Central. The sites are listed in
+   `collector/sites.json`: LinkedIn, Indeed, Dice, Monster, ZipRecruiter, Glassdoor, CareerBuilder, SimplyHired,
+   Built In, USAJOBS, Talent.com, Jooble, We Work Remotely, Wellfound, and company career sites (Workday, Greenhouse,
+   Lever, Ashby and others, found through a Google search of the past 24 hours).
+   Each agent (`.claude/agents/openings-site.md`) opens its own browser tab and searches only public result pages
+   (no sign-in) for every skillset. It reads the cards with `collector/browser_scrapers.js` and writes
+   `.runs/<site>.json`. An orchestrator then runs `python collector/collect.py --merge .runs/*.json`.
+   To add a job site, add one entry to `sites.json`.
 3. The page re-reads `data/postings.json` every 10 minutes, so open tabs pick up the update without a refresh.
 
 Postings are kept for 60 days so the date filter can show earlier days. A job that appears on several sites is shown once,

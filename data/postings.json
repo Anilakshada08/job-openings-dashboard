@@ -42,9 +42,561 @@
     "Dice": "3 new in last 24h",
     "Indeed": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-04T17:01+00:00",
+   "added": 121,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "19 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "3 new in last 24h",
+    "Built In": "3 new in last 24h",
+    "Company career sites": "7 new in last 24h",
+    "Dice": "8 new in last 24h",
+    "Glassdoor": "4 new in last 24h",
+    "Indeed": "1 new in last 24h",
+    "Jooble": "13 new in last 24h",
+    "LinkedIn": "15 new in last 24h",
+    "Monster": "0 new in last 24h",
+    "SimplyHired": "4 new in last 24h",
+    "Talent.com": "70 new in last 24h",
+    "USAJOBS": "0 new in last 24h",
+    "ZipRecruiter": "9 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "e91ef40717122afb",
+   "title": "Agile Coach",
+   "company": "Robert Half",
+   "location": "Marysville, Ohio",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 60.00 - 65.00 per hour",
+   "job_type": "Contract",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/492faaef-0731-48cc-a500-1986c151089c"
+    }
+   ]
+  },
+  {
+   "id": "c2bbc762d8395747",
+   "title": "Technical Project Manager (Agile, Scrum) III (Contractor)",
+   "company": "Not listed",
+   "location": "Remote or Philadelphia, Pennsylvania",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 53.00 - 58.00 per hour",
+   "job_type": "Contract",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/2a20f07f-0abf-42b8-abfa-88460e98cbb4"
+    }
+   ]
+  },
+  {
+   "id": "a2f6b24139b32209",
+   "title": "Technical Project Manager",
+   "company": "Not listed",
+   "location": "Mount Laurel Township, New Jersey",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 45.00 - 49.00 per hour",
+   "job_type": "Contract",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/41b76039-a151-4d96-8872-132287a9102e"
+    }
+   ]
+  },
+  {
+   "id": "5cdaa8f06a30b086",
+   "title": "Scrum Master",
+   "company": "Not listed",
+   "location": "Bayport, Minnesota",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 55.00 - 65.00 per hour",
+   "job_type": "Contract",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/51a0f84f-0f2c-46b4-8905-0607bdbfa7bf"
+    }
+   ]
+  },
+  {
+   "id": "1b45a6c8a4c86ceb",
+   "title": "ERP Digital Program Manager",
+   "company": "Not listed",
+   "location": "St. Louis Park, Minnesota",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 175,000.00 - 180,000.00 per year",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Dice",
+     "url": "https://www.dice.com/job-detail/205e3668-f064-4fed-8d8f-adc2bd240f74"
+    }
+   ]
+  },
+  {
+   "id": "5dccda3cb8d07c2f",
+   "title": "Technical Project Manager",
+   "company": "Sierra Select",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$120,000–$175,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033348464610114"
+    }
+   ]
+  },
+  {
+   "id": "7f8d9b8a0020123c",
+   "title": "Senior/Staff Software Engineer",
+   "company": "Transparent Search Group",
+   "location": "New York, NY · Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$150K - $350K/yr",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-oZl3vSdx7ZSZUHOjVK_6Iw"
+    }
+   ]
+  },
+  {
+   "id": "d0766d278019154d",
+   "title": "Senior Software Engineer",
+   "company": "PLACE",
+   "location": "Bethesda, MD · On-site +1",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$125K - $150K/yr",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-erdtc4U6C_8A1bRZHcgPnA"
+    }
+   ]
+  },
+  {
+   "id": "5f85071f22fd42bc",
+   "title": "Senior Software Engineer, Compute (Temporal Cloud)",
+   "company": "Temporal Technologies",
+   "location": "Not specified",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$140K - $231K/yr",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-RxGMJ_TH7u9fnAhKnhDY1w"
+    }
+   ]
+  },
+  {
+   "id": "671a87550a8ed3a9",
+   "title": "Senior Manager, Software Engineering - Remote",
+   "company": "Optum",
+   "location": "Hartford, CT · On-site +1",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$112K - $193K/yr",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Angular&location=Remote+(USA)&days=1#job-card-Z3G2JQ2qnEJhXAJRqGr9Ww"
+    }
+   ]
+  },
+  {
+   "id": "fc27d20358cee653",
+   "title": "Product Owner with AI",
+   "company": "Lorven Technologies",
+   "location": "Not specified",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Product%20Owner&location=Remote+(USA)&days=1#job-card-QAOBsLdY8Qo2HFYdXW7A7A"
+    }
+   ]
+  },
+  {
+   "id": "832629eac9465825",
+   "title": "Sr IT Project Manager - Remote US",
+   "company": "McKesson",
+   "location": "Concord, NC · On-site +1",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$122K - $122K/yr",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Technical%20Project%20Manager&location=Remote+(USA)&days=1#job-card-RIEJ9hbmlefa6o9lkGHJzQ"
+    }
+   ]
+  },
+  {
+   "id": "153caed9dd264cdd",
+   "title": "Enterprise Technology Project Manager",
+   "company": "Agilent Technologies",
+   "location": "Cedar Creek, TX · On-site +1",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Technical%20Project%20Manager&location=Remote+(USA)&days=1#job-card-dD9uiQcZNDtwtwZayR99Ow"
+    }
+   ]
+  },
+  {
+   "id": "fbde3afaa7e63f4b",
+   "title": "Technology Enablement Program Manager",
+   "company": "Humankind",
+   "location": "Not specified",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Agile%20Project%20Manager&location=Remote+(USA)&days=1#job-card-6kUe8oiROnwSG2hEWAx6Bg"
+    }
+   ]
+  },
+  {
+   "id": "d8544e3987ad264e",
+   "title": "Senior Program Manager - Law Enforcement",
+   "company": "GDIT",
+   "location": "WV · On-site +1",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$165K - $224K/yr",
+   "job_type": "",
+   "posted": "2026-10-04T17:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "ZipRecruiter",
+     "url": "https://www.ziprecruiter.com/jobs-search?search=Technical%20Program%20Manager&location=Remote+(USA)&days=1#job-card-pQwmZGyDQSsG0Yu8fWT3AA"
+    }
+   ]
+  },
+  {
+   "id": "26c8138799a7b6ea",
+   "title": "Software Engineer 2, Platform",
+   "company": "CJ",
+   "location": "Chicago, IL (Hybrid)",
+   "location_group": "chicago",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:55+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4447196538/"
+    }
+   ]
+  },
+  {
+   "id": "4dec0b13642c5604",
+   "title": "Web Developer",
+   "company": "RemoteHunter",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:54+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4474203937/"
+    }
+   ]
+  },
+  {
+   "id": "861ed978e51d21f8",
+   "title": "Software Engineer",
+   "company": "Haystack",
+   "location": "Texas, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:52+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4474206876/"
+    }
+   ]
+  },
+  {
+   "id": "0f3d0c9b7138f505",
+   "title": "Senior Software Engineer, Backend",
+   "company": "Tilt",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:51+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4438887118/"
+    }
+   ]
+  },
+  {
+   "id": "3488d4270294b622",
+   "title": "Principal Software Engineer, Product Security",
+   "company": "SentiLink",
+   "location": "San Francisco, CA (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:51+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4420664535/"
+    }
+   ]
+  },
+  {
+   "id": "e6351d7878f13530",
+   "title": "Junior Software Engineer",
+   "company": "Haystack",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:50+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4474223175/"
+    }
+   ]
+  },
+  {
+   "id": "f7e8e01b4c692ca6",
+   "title": "Senior Software Engineer, Java | Patching",
+   "company": "NinjaOne",
+   "location": "North Carolina, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T16:46+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4457377826/"
+    }
+   ]
+  },
   {
    "id": "1d796191f7a74d97",
    "title": "Frontend Engineer",
@@ -66,30 +618,6 @@
     {
      "name": "LinkedIn",
      "url": "https://www.linkedin.com/jobs/view/4475377862/"
-    }
-   ]
-  },
-  {
-   "id": "5cef23cedab435d7",
-   "title": "Principal Technical Program Manager, Datacenter End-to-End Build Delivery",
-   "company": "Microsoft",
-   "location": "United States (Remote)",
-   "location_group": "remote",
-   "skillsets": [
-    "apmpo"
-   ],
-   "experience": "senior",
-   "years_min": null,
-   "experience_estimated": true,
-   "salary": "",
-   "job_type": "",
-   "posted": "2026-10-04T16:40+00:00",
-   "posted_day": "2026-10-04",
-   "summary": "",
-   "sources": [
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4466499176/"
     }
    ]
   },
@@ -129,7 +657,7 @@
    "experience": "senior",
    "years_min": null,
    "experience_estimated": true,
-   "salary": "",
+   "salary": "USD 62.10 - 70.00 per hour",
    "job_type": "Full-time",
    "posted": "2026-10-04T16:40+00:00",
    "posted_day": "2026-10-04",
@@ -190,10 +718,10 @@
    ]
   },
   {
-   "id": "fc9c530250a599f1",
-   "title": "Senior Project Manager",
-   "company": "PCN (PC Network Inc.)",
-   "location": "Middletown, PA (Remote)",
+   "id": "5cef23cedab435d7",
+   "title": "Principal Technical Program Manager, Datacenter End-to-End Build Delivery",
+   "company": "Microsoft",
+   "location": "United States (Remote)",
    "location_group": "remote",
    "skillsets": [
     "apmpo"
@@ -209,7 +737,7 @@
    "sources": [
     {
      "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4474215451/"
+     "url": "https://www.linkedin.com/jobs/view/4466499176/"
     }
    ]
   },
@@ -234,54 +762,6 @@
     {
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/akamai-technologies/jobs/technical-program-manager-ii"
-    }
-   ]
-  },
-  {
-   "id": "5255251edec36e49",
-   "title": "Project Manager",
-   "company": "Central Network Retail Group, LLC (CNRG)",
-   "location": "Las Vegas, NV (Remote)",
-   "location_group": "remote",
-   "skillsets": [
-    "apmpo"
-   ],
-   "experience": "mid",
-   "years_min": null,
-   "experience_estimated": true,
-   "salary": "",
-   "job_type": "",
-   "posted": "2026-10-04T15:41+00:00",
-   "posted_day": "2026-10-04",
-   "summary": "",
-   "sources": [
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4253683960/"
-    }
-   ]
-  },
-  {
-   "id": "b7a27fe0d5e36a39",
-   "title": "Project Manager, Senior",
-   "company": "Shermco Industries",
-   "location": "Irving, TX (Remote)",
-   "location_group": "remote",
-   "skillsets": [
-    "apmpo"
-   ],
-   "experience": "senior",
-   "years_min": null,
-   "experience_estimated": true,
-   "salary": "",
-   "job_type": "",
-   "posted": "2026-10-04T15:41+00:00",
-   "posted_day": "2026-10-04",
-   "summary": "",
-   "sources": [
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4447227272/"
     }
    ]
   },
@@ -430,30 +910,6 @@
    ]
   },
   {
-   "id": "31517399a580233f",
-   "title": "Principal Technical Program Manager (AI) (Remote)",
-   "company": "Claritev",
-   "location": "United States (Remote)",
-   "location_group": "remote",
-   "skillsets": [
-    "apmpo"
-   ],
-   "experience": "senior",
-   "years_min": null,
-   "experience_estimated": true,
-   "salary": "",
-   "job_type": "",
-   "posted": "2026-10-04T14:40+00:00",
-   "posted_day": "2026-10-04",
-   "summary": "",
-   "sources": [
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4454695060/"
-    }
-   ]
-  },
-  {
    "id": "ece56840619c17df",
    "title": "Product Owner (Salesforce) - REMOTE",
    "company": "Molina Healthcare",
@@ -474,6 +930,78 @@
     {
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/molina-healthcare/jobs/product-owner-salesforce-remote"
+    }
+   ]
+  },
+  {
+   "id": "31517399a580233f",
+   "title": "Principal Technical Program Manager (AI) (Remote)",
+   "company": "Claritev",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T14:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4454695060/"
+    }
+   ]
+  },
+  {
+   "id": "a0de78a3f14dce16",
+   "title": "Public Sector Program Manager",
+   "company": "AlphaGov",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T14:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4475398405/"
+    }
+   ]
+  },
+  {
+   "id": "a5bd9652ab7b4f1a",
+   "title": "Oracle Health Consulting Technical Project Manager",
+   "company": "Oracle",
+   "location": "US",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T14:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032833141542639"
     }
    ]
   },
@@ -646,30 +1174,6 @@
    ]
   },
   {
-   "id": "a3c72f580823726c",
-   "title": "Program/ Project Manager [SK-20655]",
-   "company": "Skill",
-   "location": "Chicago, IL (On-site)",
-   "location_group": "chicago",
-   "skillsets": [
-    "apmpo"
-   ],
-   "experience": "mid",
-   "years_min": null,
-   "experience_estimated": true,
-   "salary": "",
-   "job_type": "",
-   "posted": "2026-10-04T11:40+00:00",
-   "posted_day": "2026-10-04",
-   "summary": "",
-   "sources": [
-    {
-     "name": "LinkedIn",
-     "url": "https://www.linkedin.com/jobs/view/4473478652/"
-    }
-   ]
-  },
-  {
    "id": "88a115e71c7c717b",
    "title": "Technical Program Manager (Firmware)",
    "company": "UST",
@@ -718,6 +1222,30 @@
    ]
   },
   {
+   "id": "d85f9df787fe871e",
+   "title": "Mobile Product Owner",
+   "company": "Clean Harbors",
+   "location": "Norwell, MA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full time",
+   "posted": "2026-10-04T08:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/6708248884157468285"
+    }
+   ]
+  },
+  {
    "id": "3f27953cc707697c",
    "title": "Oracle EPM Senior Project Manager",
    "company": "Argano",
@@ -738,6 +1266,78 @@
     {
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/argano/jobs/oracle-epm-senior-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "c6800af4a0680143",
+   "title": "Angular Developer",
+   "company": "thehivecareers.co",
+   "location": "Charlotte, NC",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T07:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/6871709371944630123"
+    }
+   ]
+  },
+  {
+   "id": "fd6311a4d827f211",
+   "title": "Technical Program Manager - SoC Programs",
+   "company": "TylSemi, Inc.",
+   "location": "San Jose, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T07:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/4369881404333377032"
+    }
+   ]
+  },
+  {
+   "id": "fab2eab9f74f683b",
+   "title": "Senior Software Engineer - Weapons Planning",
+   "company": "DS2",
+   "location": "Niceville, Florida",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$140,000–$170,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T07:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032848638250735"
     }
    ]
   },
@@ -814,6 +1414,1686 @@
    ]
   },
   {
+   "id": "7c905df68ac95023",
+   "title": "Technical Program Manager, Digital Test & Evaluation",
+   "company": "AAC USA",
+   "location": "Not specified",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Company career sites",
+     "url": "https://apply.workable.com/aac-usa/j/358981498B/"
+    }
+   ]
+  },
+  {
+   "id": "4abb056f47821383",
+   "title": "Product Owner - Remote",
+   "company": "YO AI Labs",
+   "location": "New York, NY",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/7311770869769822593"
+    }
+   ]
+  },
+  {
+   "id": "7524d133accef324",
+   "title": "Technical Project Manager",
+   "company": "Ocient",
+   "location": "Eastern, KY",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$80k - $130k",
+   "job_type": "",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/-2076342950355736809"
+    }
+   ]
+  },
+  {
+   "id": "10305c0e56868131",
+   "title": "Technical Project Manager",
+   "company": "Talentify.io",
+   "location": "Dallas, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/-8455797767582036163"
+    }
+   ]
+  },
+  {
+   "id": "ef4420fdaea9a980",
+   "title": "IT Project Manager",
+   "company": "Talentify.io",
+   "location": "Charlotte, NC",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$100k - $115k",
+   "job_type": "",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/-359298769558277546"
+    }
+   ]
+  },
+  {
+   "id": "6251c8508a5da68a",
+   "title": "Technical Program Manager",
+   "company": "Bidgely",
+   "location": "New York, NY",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract work",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/-1613951756061945127"
+    }
+   ]
+  },
+  {
+   "id": "3b160b0679f5e64c",
+   "title": "Remote Technical Program Manager",
+   "company": "Talentify.io",
+   "location": "Dallas, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/7754929535278432111"
+    }
+   ]
+  },
+  {
+   "id": "c01a45dcae5e5156",
+   "title": "Program Manager HCM (Workday)",
+   "company": "Connect Centric",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$130,000 - $140,000 a year",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T06:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "SimplyHired",
+     "url": "https://www.simplyhired.com/job/6OL2ZPDApCk9f9qjKaWAvkIRU30kg54ZlYHPlf1MYHtxuPkW_F2bJw"
+    }
+   ]
+  },
+  {
+   "id": "2a046a94074943f3",
+   "title": "Principal, Software Engineering",
+   "company": "Publicis Health",
+   "location": "Irving, TX",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$129,500 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032832579702511"
+    }
+   ]
+  },
+  {
+   "id": "d908ce90867ee73e",
+   "title": "Director, DevOps/ Full-Stack Engineering",
+   "company": "Hackajob",
+   "location": "Lake Mary, FL",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035870360541910"
+    }
+   ]
+  },
+  {
+   "id": "5818b748e9334c14",
+   "title": "W2 ONLY - Opening for UI Proj Manager / Lead UI",
+   "company": "Mitchell Martin",
+   "location": "Pennington, NJ",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032894704488175"
+    }
+   ]
+  },
+  {
+   "id": "5fce336a11abd189",
+   "title": "Product Owner",
+   "company": "Syntricate Technologies",
+   "location": "Memphis, TN",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033344918653762"
+    }
+   ]
+  },
+  {
+   "id": "0982270897b48280",
+   "title": "Product Owner",
+   "company": "WoodmenLife",
+   "location": "Omaha, NE",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=628686154364879873"
+    }
+   ]
+  },
+  {
+   "id": "5222d49cabe9df3a",
+   "title": "Product Owner",
+   "company": "Intersources",
+   "location": "Dallas, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032847762624239"
+    }
+   ]
+  },
+  {
+   "id": "fcf7e0e4f8e9bcdf",
+   "title": "Product Owner",
+   "company": "Apolis",
+   "location": "Raleigh, NC",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035608877141708"
+    }
+   ]
+  },
+  {
+   "id": "cdc4aaa8061dbef2",
+   "title": "Senior Product Owner",
+   "company": "DriveWealth",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$195,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032868898770671"
+    }
+   ]
+  },
+  {
+   "id": "356da70458fbca31",
+   "title": "Product Owner",
+   "company": "The Dignify Solutions, LLC",
+   "location": "Charlotte, NC",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033343245781826"
+    }
+   ]
+  },
+  {
+   "id": "c06faa1e01cc7b7c",
+   "title": "Product Owner",
+   "company": "Omni Inclusive",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=618368985400550441"
+    }
+   ]
+  },
+  {
+   "id": "03fab60c9ffeeb83",
+   "title": "PRODUCT OWNER II",
+   "company": "pOpshelf",
+   "location": "Goodlettsville, TN",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035636845416140"
+    }
+   ]
+  },
+  {
+   "id": "e7702ca1362556aa",
+   "title": "Senior Product Owner",
+   "company": "Southwest Airlines",
+   "location": "Dallas, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035838486584022"
+    }
+   ]
+  },
+  {
+   "id": "8be4025a0fac2c45",
+   "title": "Product Owner",
+   "company": "Dielectric",
+   "location": "Cockeysville, MD",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$85,000–$105,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032838738775791"
+    }
+   ]
+  },
+  {
+   "id": "69db988ea6aae740",
+   "title": "Product Owner",
+   "company": "Leading Utilities Organization",
+   "location": "Columbus, OH",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Temporary",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033344458591042"
+    }
+   ]
+  },
+  {
+   "id": "713182a010097935",
+   "title": "Product Owner",
+   "company": "Publicis Health",
+   "location": "Dallas, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$135,375 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032881865723631"
+    }
+   ]
+  },
+  {
+   "id": "09df8b70de1c5785",
+   "title": "Product Owner",
+   "company": "Sierra Systems, An Ntt Data Company",
+   "location": "Austin, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$93,816–$118,188 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035644504346316"
+    }
+   ]
+  },
+  {
+   "id": "5ebf705ef75d5ee3",
+   "title": "Senior Product Owner",
+   "company": "MUN CPAs",
+   "location": "Fargo, ND",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$115,000–$150,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035654998494924"
+    }
+   ]
+  },
+  {
+   "id": "2bb01086a95ba51c",
+   "title": "Product Owner (Reinsurance)",
+   "company": "Pyramid Consulting",
+   "location": "San Antonio, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035847156406998"
+    }
+   ]
+  },
+  {
+   "id": "6218ac5ffab38a77",
+   "title": "GitHub Product Owner",
+   "company": "Georgia IT, Inc.",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035601090219724"
+    }
+   ]
+  },
+  {
+   "id": "417fea18e28609c3",
+   "title": "Product Owner",
+   "company": "Jobgether",
+   "location": "Schererville, IN",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$85,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=637320953553421162"
+    }
+   ]
+  },
+  {
+   "id": "9a2aaf0528209798",
+   "title": "Product Owner with ISO exp",
+   "company": "ClifyX",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032878159073007"
+    }
+   ]
+  },
+  {
+   "id": "fe97ef924503341e",
+   "title": "Product Owner",
+   "company": "Intersources",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032834958855919"
+    }
+   ]
+  },
+  {
+   "id": "8e15f139f8356fe4",
+   "title": "Technical product Owner/Manager",
+   "company": "RIT Solutions",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033377821330242"
+    }
+   ]
+  },
+  {
+   "id": "e492a3323cd7e7de",
+   "title": "Senior Technical Project Manager (Cloud and Compliance)",
+   "company": "Coalfire",
+   "location": "Washington, DC",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$89,000–$149,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=633404452482066392"
+    }
+   ]
+  },
+  {
+   "id": "73438374938d7ba9",
+   "title": "Technical Project/Program Management - Technical Program Manager IV",
+   "company": "Apex Systems",
+   "location": "Menlo Park, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=633751155355232216"
+    }
+   ]
+  },
+  {
+   "id": "1c43a5caf3d17fc1",
+   "title": "Technical Project Manager Intern - Summer 2027",
+   "company": "CACI International",
+   "location": "High Point, NC",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$39,400–$75,900 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035637313015500"
+    }
+   ]
+  },
+  {
+   "id": "1588cc8261ec5dd9",
+   "title": "Technical Project Lead",
+   "company": "Peraton",
+   "location": "Aberdeen Proving Ground, MD",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$135,000–$216,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035603157814988"
+    }
+   ]
+  },
+  {
+   "id": "2c9e28848d215777",
+   "title": "Manager- Technical Delivery Manager",
+   "company": "Progression, Inc.",
+   "location": "Great Lakes, IL",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033337232788290"
+    }
+   ]
+  },
+  {
+   "id": "fd6194d9a584c117",
+   "title": "Infrastructure Services Technical Project Manager",
+   "company": "Intersources",
+   "location": "Gwynn Oak, MD",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=623140788169869728"
+    }
+   ]
+  },
+  {
+   "id": "f5d117221a9174ce",
+   "title": "Technical Project Manager New Product Introduction (NPI)",
+   "company": "Global Pharma Tek",
+   "location": "Riverton, UT",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032885032357615"
+    }
+   ]
+  },
+  {
+   "id": "1cc8419cce2a66d0",
+   "title": "Project Manager (Data Centers Project Management Advisory)",
+   "company": "Brailsford & Dunlavey, Inc.",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$100,000–$150,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032869145513711"
+    }
+   ]
+  },
+  {
+   "id": "2c3b7be95c635245",
+   "title": "Software Project Manager AI Wearables",
+   "company": "Lenovo",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033386561669954"
+    }
+   ]
+  },
+  {
+   "id": "a86fe99ef79ba2aa",
+   "title": "GDOT Agile Coach",
+   "company": "Intersources",
+   "location": "Atlanta, GA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033372463303490"
+    }
+   ]
+  },
+  {
+   "id": "550a165b1e801fd6",
+   "title": "Agile Project Manager",
+   "company": "Syntricate Technologies",
+   "location": "Fort Worth, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032879393115887"
+    }
+   ]
+  },
+  {
+   "id": "87388637caa9971b",
+   "title": "Program Manager - Agile",
+   "company": "Hcltech",
+   "location": "Minneapolis, MN",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032889026383599"
+    }
+   ]
+  },
+  {
+   "id": "7759319e9a0b75fe",
+   "title": "Agile Coach",
+   "company": "Keylent, Inc.",
+   "location": "New York, NY",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035863323744982"
+    }
+   ]
+  },
+  {
+   "id": "1ef5738278614509",
+   "title": "Agile Coach",
+   "company": "Omni Inclusive",
+   "location": "Boston, MA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035651265040076"
+    }
+   ]
+  },
+  {
+   "id": "079709d0472afe9a",
+   "title": "Agile PMO Project Manager / Scrum Master",
+   "company": "Cohere Beauty",
+   "location": "Omaha, NE",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035617050660556"
+    }
+   ]
+  },
+  {
+   "id": "2a5849bf125fdfea",
+   "title": "Technical Program Manager, Product Design",
+   "company": "Sesame",
+   "location": "San Francisco, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032847435927279"
+    }
+   ]
+  },
+  {
+   "id": "0b3ccf04ec04c342",
+   "title": "Lead Technical Program Manager",
+   "company": "JPMorgan Chase",
+   "location": "Houston, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=629808992654790512"
+    }
+   ]
+  },
+  {
+   "id": "b002fa874b927e1e",
+   "title": "Technical Program Manager - Engineering",
+   "company": "Toyota",
+   "location": "Plano, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=627774972521745196"
+    }
+   ]
+  },
+  {
+   "id": "e4c82ed2383aee27",
+   "title": "Principal Technical Program Manager, Hardware",
+   "company": "Hayden AI",
+   "location": "San Francisco, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=623256973443541751"
+    }
+   ]
+  },
+  {
+   "id": "ab26d6e4319592b4",
+   "title": "Sr Technical Program Manager, Mathematical Software",
+   "company": "Anduril",
+   "location": "Waltham, MA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$166,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032831267081967"
+    }
+   ]
+  },
+  {
+   "id": "e6ca84a7d711a8fe",
+   "title": "NPI Technical Program Manager",
+   "company": "Latent Logic",
+   "location": "Mountain View, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$230,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035604062277324"
+    }
+   ]
+  },
+  {
+   "id": "a40709314282efb6",
+   "title": "Staff Technical Program Manager- Security",
+   "company": "Databricks",
+   "location": "Bellevue, WA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$189,800 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033346267908930"
+    }
+   ]
+  },
+  {
+   "id": "e5198baf0a75522d",
+   "title": "Technical Program Manager, Data Center Capacity Delivery",
+   "company": "Google",
+   "location": "Reston, VA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033383949011778"
+    }
+   ]
+  },
+  {
+   "id": "4a322672c52eb9cc",
+   "title": "Technical Program Manager II",
+   "company": "Microsoft",
+   "location": "Redmond, WA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=632577543742757904"
+    }
+   ]
+  },
+  {
+   "id": "bbcfbc3af51e8778",
+   "title": "Technical Program Manager III, Security, Core",
+   "company": "CompliancePoint",
+   "location": "San Jose, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035850442054358"
+    }
+   ]
+  },
+  {
+   "id": "618b16ac5cb8c2b8",
+   "title": "Software Technical Program Manager",
+   "company": "Efficient Computer",
+   "location": "Pittsburgh, PA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032854102118127"
+    }
+   ]
+  },
+  {
+   "id": "85af233213d1ef7a",
+   "title": "Technical Data Center and Networking Program Manager",
+   "company": "Perfict Global",
+   "location": "Menlo Park, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032835942354671"
+    }
+   ]
+  },
+  {
+   "id": "bb42baa6eb6e1064",
+   "title": "Sr. Technical Program Manager - Storage, AWS Hardware Engineering",
+   "company": "Amazon",
+   "location": "Seattle, WA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Temporary",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035658914991820"
+    }
+   ]
+  },
+  {
+   "id": "a8556f4ab3dfc05e",
+   "title": "Software Technical Program Manager",
+   "company": "Minimed",
+   "location": "Northridge, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$121,000–$205,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035896177400534"
+    }
+   ]
+  },
+  {
+   "id": "fdf81bdb250d129b",
+   "title": "Lead Technical Program Manager",
+   "company": "Chase",
+   "location": "Houston, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=629808993665485769"
+    }
+   ]
+  },
+  {
+   "id": "b364d100dde91bc6",
+   "title": "Senior Program Manager, Dangerous Goods, Regulatory Engagement",
+   "company": "Amazon",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033355232447298"
+    }
+   ]
+  },
+  {
+   "id": "a4c99b4b94509f9a",
+   "title": "Program Manager, Senior",
+   "company": "Figo Pet Insurance",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$112,522 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035617507970764"
+    }
+   ]
+  },
+  {
+   "id": "d9c4c63e29f5179d",
+   "title": "Program Manager",
+   "company": "Intersources",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=623256972614118135"
+    }
+   ]
+  },
+  {
+   "id": "0e98df0ed080244c",
+   "title": "Program Manager Enterprise Integration",
+   "company": "Staffworxs",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=630780050897308226"
+    }
+   ]
+  },
+  {
+   "id": "41132a6aa54b7588",
+   "title": "Technical Program Manager II, Software Engineering, Global Affairs",
+   "company": "CompliancePoint",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033348510812994"
+    }
+   ]
+  },
+  {
+   "id": "0c51b4a6712d89b2",
+   "title": "Program Manager",
+   "company": "DriveWealth",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$180,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035874713377494"
+    }
+   ]
+  },
+  {
+   "id": "b51f1bfbcde473e2",
+   "title": "Assistant Program Manager Overnight",
+   "company": "Salvation Army Central Territory",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032877854330607"
+    }
+   ]
+  },
+  {
+   "id": "fea4a1058bd0e308",
+   "title": "Home Visiting Program Manager",
+   "company": "Erie Neighborhood House",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$65,000–$68,500 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033375813700418"
+    }
+   ]
+  },
+  {
+   "id": "325821e6a6243ca0",
+   "title": "Senior Program Manager",
+   "company": "Publicis Health",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$88,540 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T05:01+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640033330851875650"
+    }
+   ]
+  },
+  {
    "id": "a430a5fda062c5e6",
    "title": "Software Engineer II",
    "company": "SKYGEN",
@@ -834,6 +3114,150 @@
     {
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/skygen/jobs/software-engineer-ii"
+    }
+   ]
+  },
+  {
+   "id": "cfe0f921e0e954fe",
+   "title": "Product Owner, Xsolla Partner Network",
+   "company": "Xsolla",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T03:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Company career sites",
+     "url": "https://jobs.lever.co/xsolla/"
+    }
+   ]
+  },
+  {
+   "id": "970c081a7ead056a",
+   "title": "Lead Technical Program Manager",
+   "company": "J.P. Morgan",
+   "location": "Houston, Texas",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T03:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=629808954595806153"
+    }
+   ]
+  },
+  {
+   "id": "44874c8b1187bd7c",
+   "title": "Web Developer",
+   "company": "primeResolve",
+   "location": "Remote or Hybrid, United States",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "80K-100K Hourly",
+   "job_type": "",
+   "posted": "2026-10-04T02:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Built In",
+     "url": "https://builtin.com/job/web-developer/11495711"
+    }
+   ]
+  },
+  {
+   "id": "6ab7dbc523a50f33",
+   "title": "Full Stack Developer",
+   "company": "primeResolve",
+   "location": "Remote or Hybrid, United States",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "80K-100K Hourly",
+   "job_type": "",
+   "posted": "2026-10-04T02:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Built In",
+     "url": "https://builtin.com/job/full-stack-developer/11495703"
+    }
+   ]
+  },
+  {
+   "id": "d9dce66d22cb491a",
+   "title": "Technical Project Manager",
+   "company": "Prodapt",
+   "location": "Richardson, TX",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-04T02:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "SimplyHired",
+     "url": "https://www.simplyhired.com/job/DVbSXdYJHLfDOR2f_oU3igTRE0lw0wlB3hEoYgjVWzMnoBrwzqastg"
+    }
+   ]
+  },
+  {
+   "id": "bc0e9bea5659b543",
+   "title": "Full Stack Developer",
+   "company": "ThreatLocker",
+   "location": "Orlando, Florida",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$88,000–$128,000 yearly",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T01:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640035642746998476"
     }
    ]
   },
@@ -862,6 +3286,54 @@
    ]
   },
   {
+   "id": "57ce8684b29f5b65",
+   "title": "Delivery Manager - Data Platform, Kubernetes & DevOps programmes (Brazil)",
+   "company": "Triade",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "posted": "2026-10-04T00:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "SimplyHired",
+     "url": "https://www.simplyhired.com/job/0nIBka-eEHyPdvydATl99aWF5nmpzfV3SOFQW6ByBE0PeRkelaPc-g"
+    }
+   ]
+  },
+  {
+   "id": "0e35e3eaacc506a9",
+   "title": "Senior Technical Program Manager ISV & Alliance Programs",
+   "company": "Openkyber",
+   "location": "AK",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-04T00:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640032891525336815"
+    }
+   ]
+  },
+  {
    "id": "a23265ab0cd9e580",
    "title": "JR-189588 Project Manager Senior",
    "company": "Customertimes",
@@ -886,6 +3358,54 @@
    ]
   },
   {
+   "id": "da2b21212bf95120",
+   "title": "Global Product Owner Autonomous Coding",
+   "company": "Not listed",
+   "location": "Murray, UT",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-03T22:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Company career sites",
+     "url": "https://healthcare.wd1.myworkdayjobs.com/search/job/us-utah-murray/global-product-owner-autonomous-coding_r01134110"
+    }
+   ]
+  },
+  {
+   "id": "a405469959973ffd",
+   "title": "Web Technical Project Manager",
+   "company": "LMG Staffing Solutions",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-03T22:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Company career sites",
+     "url": "https://apply.workable.com/lmg-staffing-solutions/j/94D138F541/apply/"
+    }
+   ]
+  },
+  {
    "id": "beea34f5a756a5cf",
    "title": "Software Engineer",
    "company": "Kreative Technologies",
@@ -906,6 +3426,54 @@
     {
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/kreative-technologies/jobs/software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "05d7c8d2eecaa592",
+   "title": "Datacenter Technical Program Manager",
+   "company": "Microsoft",
+   "location": "Remote, United States",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "102K-219K Annually",
+   "job_type": "",
+   "posted": "2026-10-03T21:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Built In",
+     "url": "https://builtin.com/job/datacenter-technical-program-manager/11493369"
+    }
+   ]
+  },
+  {
+   "id": "28dbf240ca4923af",
+   "title": "Lead Product Owner, Finance Applications",
+   "company": "Harvey",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$175K - $225.5K",
+   "job_type": "Full-time",
+   "posted": "2026-10-03T21:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Company career sites",
+     "url": "https://jobs.ashbyhq.com/harvey/09449e28-78b5-4d28-b38a-7ead854f7885"
     }
    ]
   },
@@ -971,13 +3539,285 @@
    "experience_estimated": true,
    "salary": "",
    "job_type": "Full-time",
-   "posted": "2026-10-03T20:08+00:00",
+   "posted": "2026-10-03T20:01+00:00",
    "posted_day": "2026-10-03",
    "summary": "Sierra Select is seeking an experienced and organized Technical Project Manager to plan, coordinate, and deliver technology and business projects across the organization. This role will work closely with IT, operations, sales, marketing, and other teams to ensure projects are completed on time, within scope, and accord",
    "sources": [
     {
      "name": "Workable",
      "url": "https://jobs.workable.com/view/ciLprrkukxDixQkkSbHuwc/remote-technical-project-manager-in-united-states-at-sierra-select-distributors%2C-inc."
+    },
+    {
+     "name": "Company career sites",
+     "url": "https://apply.workable.com/sierra-select-distributors-inc/j/099F5B0AA5"
+    }
+   ]
+  },
+  {
+   "id": "e0b99a0f9096cebf",
+   "title": "Senior Fullstack Engineer",
+   "company": "QAVION GROUP",
+   "location": "Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-03T19:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640009531985301231"
+    }
+   ]
+  },
+  {
+   "id": "e8034b85cebc7ff5",
+   "title": "Global Product Owner Autonomous Coding",
+   "company": "Solventum",
+   "location": "Murray, UT",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$143K - $197K",
+   "job_type": "",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Glassdoor",
+     "url": "https://www.glassdoor.com/job-listing/global-product-owner-autonomous-coding-solventum-JV_IC1157881_KO0,38_KE39,48.htm"
+    }
+   ]
+  },
+  {
+   "id": "60b836fbaaca40cb",
+   "title": "Senior Technical Project Manager",
+   "company": "Realta Fusion",
+   "location": "Madison, WI",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$101K - $145K",
+   "job_type": "",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Glassdoor",
+     "url": "https://www.glassdoor.com/job-listing/senior-technical-project-manager-realta-fusion-inc-JV_IC1133470_KO0,32_KE33,50.htm"
+    }
+   ]
+  },
+  {
+   "id": "64e22e0149cb3454",
+   "title": "Technical Program Manager, PMO",
+   "company": "Anduril",
+   "location": "Santa Ana, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$166K - $220K",
+   "job_type": "",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Glassdoor",
+     "url": "https://www.glassdoor.com/job-listing/technical-program-manager-pmo-anduril-JV_IC1146870_KO0,29_KE30,37.htm"
+    }
+   ]
+  },
+  {
+   "id": "b806d7fefbfa5048",
+   "title": "Technical Program Manager – DFX Productization",
+   "company": "NVIDIA",
+   "location": "Santa Clara, CA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$168K - $322K",
+   "job_type": "",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Glassdoor",
+     "url": "https://www.glassdoor.com/job-listing/technical-program-manager-dfx-productization-nvidia-JV_IC1147439_KO0,44_KE45,51.htm"
+    }
+   ]
+  },
+  {
+   "id": "dc817bd80b3b79c7",
+   "title": "Product Owner",
+   "company": "Jobleads-US",
+   "location": "Wisconsin",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/-4174084917638027031"
+    }
+   ]
+  },
+  {
+   "id": "8442319c8730f25e",
+   "title": "Technical Project Manager",
+   "company": "Absolute Storage",
+   "location": "Bedford, MA",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/-7196310182488710309"
+    }
+   ]
+  },
+  {
+   "id": "62eada746811e005",
+   "title": "IT Project Manager",
+   "company": "Eliassen Group",
+   "location": "Carson City, NV",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract work",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Jooble",
+     "url": "https://jooble.org/away/6419041700189527008"
+    }
+   ]
+  },
+  {
+   "id": "c87678b18196f477",
+   "title": "Resilient Cities Program Manager",
+   "company": "Spatial Informatics Group Natural Assets Laboratory",
+   "location": "Albuquerque, NM (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "$72,800 - $93,600 a year",
+   "job_type": "Full-time",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "SimplyHired",
+     "url": "https://www.simplyhired.com/job/tUYnEtIM6QgW_vXR48nyo3SOVBgnI4kxZ19upFFWMJ7ZNTlZGwacvA"
+    }
+   ]
+  },
+  {
+   "id": "b6d53df310ff9cc9",
+   "title": "Technical Product Owner",
+   "company": "Linxup, LLC",
+   "location": "Chesterfield, Missouri",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "posted": "2026-10-03T18:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Talent.com",
+     "url": "https://www.talent.com/view?id=640012881943465676"
+    }
+   ]
+  },
+  {
+   "id": "f6e3da8c452123fc",
+   "title": "Sr IT Project Manager - Remote US",
+   "company": "McKesson",
+   "location": "Remote, US",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "posted": "2026-10-03T17:01+00:00",
+   "posted_day": "2026-10-03",
+   "summary": "",
+   "sources": [
+    {
+     "name": "Company career sites",
+     "url": "https://mckesson.wd3.myworkdayjobs.com/scri_careers/job/usa-tx-remote/sr-it-project-manager---remote-us_jr0155048"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://www.linkedin.com/jobs/view/4475512108/"
     }
    ]
   },
@@ -1198,5 +4038,5 @@
    ]
   }
  ],
- "updated": "2026-10-04T16:40+00:00"
+ "updated": "2026-10-04T17:01+00:00"
 }

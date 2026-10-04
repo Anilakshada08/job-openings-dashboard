@@ -71,10 +71,38 @@ window.__scrape = async (site, skillset) => {
   return `${Object.keys(out).length} jobs collected on this site so far`;
 };
 
+// Any other site: keep links whose URL matches jobLink (a regex string from sites.json) together with the text of
+// the smallest enclosing card. The site agent turns each card's text into title / company / location / posted.
+window.__generic = async (jobLink, skillset) => {
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  await sleep(3000);
+  for (let i = 0; i < 6; i++) { window.scrollBy(0, 1200); await sleep(400); }  // trigger lazy-loaded results
+  const re = new RegExp(jobLink, "i");
+  const out = JSON.parse(localStorage.__jobs || "{}");
+  const before = Object.keys(out).length;
+  for (const a of document.querySelectorAll("a[href]")) {
+    const url = a.href.split("#")[0];
+    if (!re.test(url) || out[url]) continue;
+    let card = a;
+    for (let i = 0; i < 6 && card.parentElement; i++) {
+      const up = card.parentElement;
+      if ([...up.querySelectorAll("a[href]")].filter((x) => re.test(x.href)).length > 1) break;  // next card begins
+      card = up;
+      if (card.innerText.split("\n").filter(Boolean).length >= 4) break;
+    }
+    const text = card.innerText.replace(/\s*\n\s*/g, " | ").trim().slice(0, 400);
+    if (text.length > 5) out[url] = { card: text, s: skillset };
+  }
+  localStorage.__jobs = JSON.stringify(out);
+  return `${Object.keys(out).length - before} new links, ${Object.keys(out).length} on this site so far`;
+};
+
 window.__dump = () => {
   const o = JSON.parse(localStorage.__jobs || "{}");
   const pre = document.createElement("pre");
-  pre.textContent = Object.entries(o).map(([u, x]) => [u, x.t, x.c, x.l, x.a, x.s, x.j || "", x.sal || ""].join(" ~ ")).join("\n");
+  pre.textContent = Object.entries(o).map(([u, x]) => (x.card !== undefined
+    ? [u, "CARD", x.s, x.card]  // generic scraper: the agent extracts the fields from the card text
+    : [u, x.t, x.c, x.l, x.a, x.s, x.j || "", x.sal || ""]).join(" ~ ")).join("\n");
   const art = document.createElement("article");
   art.appendChild(pre);
   document.body.replaceChildren(art);

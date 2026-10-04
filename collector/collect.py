@@ -5,7 +5,7 @@ last 24 hours, tags each with skillset / experience level / location group, and 
 data/postings.json (history is kept so the dashboard's date filter works).
 
     python collector/collect.py                  # poll the public feeds
-    python collector/collect.py --merge f.json   # add postings found in a browser (LinkedIn, Dice, ...)
+    python collector/collect.py --merge .runs/*.json   # add postings the site agents found (LinkedIn, Dice, ...)
 
 A --merge file is a JSON list of objects with: title, company, location, posted (ISO date/time,
 or "3 hours ago"), source, apply_url, and optionally description, skillset, experience, salary.
@@ -71,6 +71,9 @@ SKILLSETS = {
         # Plain "Project/Program Manager" titles count only for agile / software work.
         "title_with_desc": re.compile(r"\b(project|program|delivery) manager\b", re.I),
         "desc": re.compile(r"\bagile\b|\bscrum\b|\bsdlc\b|\bjira\b|software development", re.I),
+        # A job-site search result has no description, so its title alone must show the software/agile angle.
+        "title_from_search": re.compile(r"product owner|technical|agile|scrum|\bit\b|software|digital|"
+                                        r"technology|\bdata\b|cloud|platform|program manager|delivery", re.I),
         # Non-software project management is out of scope for this skillset.
         "exclude": re.compile(r"marketing|construction|event|facilit|clinical|\bops\b|operations|real estate|civil|"
                               r"mechanical|electrical|manufactur|interior|landscap|restoration|hvac|renovation|nuclear|bridge|"
@@ -110,15 +113,21 @@ def parse_when(value, now: datetime) -> datetime | None:
         n = float(value)
         return datetime.fromtimestamp(n / 1000 if n > 1e11 else n, timezone.utc)
     s = str(value).strip()
-    m = re.match(r"(\d+|an?|one)\s*(minute|min|hour|hr|day|week)s?\s+ago", s, re.I)
+    # "3 hours ago", "Posted 21h ago", "1d", "30+ days ago" (job boards abbreviate in many ways)
+    m = re.match(r"(?:posted\s+|active\s+)?(\d+|an?|one)\+?\s*(minute|min|m|hour|hr|h|day|d|week|w)s?\b(?:\s+ago)?$",
+                 s, re.I)
     if m:
         n = 1 if m.group(1).lower() in ("a", "an", "one") else int(m.group(1))
-        unit = m.group(2).lower()
-        delta = {"minute": timedelta(minutes=n), "min": timedelta(minutes=n), "hour": timedelta(hours=n),
-                 "hr": timedelta(hours=n), "day": timedelta(days=n), "week": timedelta(weeks=n)}[unit]
+        unit = m.group(2).lower()[0]
+        if unit == "m" and m.group(2).lower() not in ("m", "min", "minute"):
+            unit = "m"
+        delta = {"m": timedelta(minutes=n), "h": timedelta(hours=n), "d": timedelta(days=n),
+                 "w": timedelta(weeks=n)}[unit]
+        if unit == "d" and n == 1:  # boards say "1 day ago" / "1d" for anything up to 24 hours old
+            delta = timedelta(hours=23)
         return now - delta
-    if re.match(r"(just now|today|moments? ago|new)$", s, re.I):
-        return now
+    if re.match(r"(posted\s+)?(just now|just posted|today|moments? ago|new|yesterday)$", s, re.I):
+        return now - timedelta(hours=20) if "yesterday" in s.lower() else now
     try:
         d = datetime.fromisoformat(s.replace("Z", "+00:00"))
         if d.tzinfo is None:  # date-only / naive values are Chicago local time
@@ -205,7 +214,8 @@ def make_posting(raw: dict, now: datetime) -> dict | None:
     skills = match_skillsets(title, desc)
     sk = SKILLSETS.get(raw.get("skillset") or "")
     # A site search for the skillset counts as the description match when the title fits the role family.
-    if not skills and sk and sk["title_with_desc"].search(title) and not (sk.get("exclude") and sk["exclude"].search(title)):
+    fits = sk and sk.get("title_from_search", sk["title_with_desc"]).search(title) and sk["title_with_desc"].search(title)
+    if not skills and fits and not (sk.get("exclude") and sk["exclude"].search(title)):
         skills = [raw["skillset"]]
     if not skills:
         return None
@@ -360,7 +370,8 @@ def add(db: dict, postings: list[dict]) -> int:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--merge", type=Path, help="JSON list of postings found in a browser")
+    ap.add_argument("--merge", type=Path, nargs="*", default=[],
+                    help="JSON lists of postings found in a browser (one file per site agent is fine)")
     ap.add_argument("--skip-feeds", action="store_true", help="only merge, don't poll the feeds")
     args = ap.parse_args()
 
@@ -382,16 +393,19 @@ def main() -> int:
                 report[name] = f"{n} new in last 24h"
             except Exception as e:  # one broken feed must not stop the others
                 report[name] = f"unavailable ({type(e).__name__})"
-    if args.merge:
-        counts: dict[str, int] = {}
-        for raw in json.loads(args.merge.read_text(encoding="utf-8")):
+    counts: dict[str, int] = {}
+    for path in args.merge:
+        if not path.exists():
+            report[path.stem] = "no results file (agent skipped or failed)"
+            continue
+        for raw in json.loads(path.read_text(encoding="utf-8")):
             src = raw.get("source") or "Web"
             counts.setdefault(src, 0)
             p = make_posting(raw, now)
             if p:
                 found.append(p)
                 counts[src] += 1
-        report.update({src: f"{n} new in last 24h" for src, n in counts.items()})
+    report.update({src: f"{n} new in last 24h" for src, n in counts.items()})
 
     added = add(db, found)
     cutoff = (now - timedelta(days=KEEP_DAYS)).isoformat()

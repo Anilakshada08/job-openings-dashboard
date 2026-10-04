@@ -1,0 +1,156 @@
+{
+ "_about": "Job sites searched in the browser by one site agent each (.claude/agents/openings-site.md), in parallel. {term} and {loc} are URL-encoded at run time. 'locations' maps {loc} values; a site with no {loc} is searched once per term. 'scraper' names a dedicated scraper in browser_scrapers.js; otherwise the generic scraper keeps links that match 'job_link'. Public job boards with JSON feeds are polled by collect.py instead (Himalayas, Jobicy, Remote OK, Remotive, The Muse, Workable).",
+ "terms": {
+  "angular": [
+   "Angular"
+  ],
+  "apmpo": [
+   "Product Owner",
+   "Technical Project Manager",
+   "Agile Project Manager",
+   "Technical Program Manager"
+  ]
+ },
+ "sites": [
+  {
+   "key": "linkedin",
+   "name": "LinkedIn",
+   "scraper": "linkedin",
+   "urls": [
+    "https://www.linkedin.com/jobs/search/?keywords={term}&location=United%20States&f_WT=2&f_TPR=r86400&sortBy=DD",
+    "https://www.linkedin.com/jobs/search/?keywords={term}&location=Chicago%2C%20Illinois%2C%20United%20States&distance=25&f_TPR=r86400&sortBy=DD"
+   ]
+  },
+  {
+   "key": "indeed",
+   "name": "Indeed",
+   "scraper": "indeed",
+   "urls": [
+    "https://www.indeed.com/jobs?q=%22{term}%22&l=Remote&fromage=1&sort=date",
+    "https://www.indeed.com/jobs?q=%22{term}%22&l=Chicago%2C+IL&fromage=1&sort=date"
+   ]
+  },
+  {
+   "key": "dice",
+   "name": "Dice",
+   "scraper": "dice",
+   "urls": [
+    "https://www.dice.com/jobs?q={term}&location=United%20States&filters.postedDate=ONE&filters.workplaceTypes=Remote",
+    "https://www.dice.com/jobs?q={term}&location=Chicago,%20IL,%20USA&radius=30&radiusUnit=mi&filters.postedDate=ONE"
+   ]
+  },
+  {
+   "key": "monster",
+   "name": "Monster",
+   "scraper": "monster",
+   "urls": [
+    "https://www.monster.com/jobs/search?q={term}&where=Remote&recency=today",
+    "https://www.monster.com/jobs/search?q={term}&where=Chicago%2C+IL&recency=today"
+   ]
+  },
+  {
+   "key": "ziprecruiter",
+   "name": "ZipRecruiter",
+   "job_link": "ziprecruiter\\.com/(c|jobs|job)/",
+   "urls": [
+    "https://www.ziprecruiter.com/jobs-search?search={term}&location=Remote+(USA)&days=1",
+    "https://www.ziprecruiter.com/jobs-search?search={term}&location=Chicago%2C+IL&radius=25&days=1"
+   ],
+   "note": "Result cards are article[id^='job-card-'] and have no per-job link. Read the cards with javascript_tool (company, title, location, salary, 'Posted ...') and use '<search URL>#<article id>' as the url. Dedupe on the article id."
+  },
+  {
+   "key": "glassdoor",
+   "name": "Glassdoor",
+   "job_link": "glassdoor\\.com/(job-listing|partner/jobListing)",
+   "urls": [
+    "https://www.glassdoor.com/Job/jobs.htm?sc.keyword={term}&locKeyword=Remote&fromAge=1",
+    "https://www.glassdoor.com/Job/jobs.htm?sc.keyword={term}&locKeyword=Chicago%2C%20IL&fromAge=1"
+   ],
+   "note": "Glassdoor ignores the location and date parameters and searches all of the United States. Run only the first URL per term. On each results page click the 'Date posted' button, then the button[role=option] 'Last day', then scrape (cards are li elements with a 'job-listing' link). Write posted as '1 day ago'. Drop the 'similar jobs' that Glassdoor pads in."
+  },
+  {
+   "key": "careerbuilder",
+   "name": "CareerBuilder",
+   "job_link": "careerbuilder\\.com/job/",
+   "urls": [
+    "https://www.careerbuilder.com/jobs?keywords={term}&location=Remote&posted=1",
+    "https://www.careerbuilder.com/jobs?keywords={term}&location=Chicago%2C+IL&radius=30&posted=1"
+   ],
+   "disabled": true,
+   "note": "Disabled 2026-10-04: search URLs redirect to the homepage (CareerBuilder merged with Monster). Monster covers it."
+  },
+  {
+   "key": "simplyhired",
+   "name": "SimplyHired",
+   "job_link": "simplyhired\\.com/job/",
+   "urls": [
+    "https://www.simplyhired.com/search?q={term}&l=Remote&t=1&s=d",
+    "https://www.simplyhired.com/search?q={term}&l=Chicago%2C+IL&t=1&s=d"
+   ]
+  },
+  {
+   "key": "builtin",
+   "name": "Built In",
+   "job_link": "/job/",
+   "urls": [
+    "https://builtin.com/jobs/remote?search={term}&daysSinceUpdated=1",
+    "https://www.builtinchicago.org/jobs?search={term}&daysSinceUpdated=1"
+   ]
+  },
+  {
+   "key": "usajobs",
+   "name": "USAJOBS",
+   "job_link": "usajobs\\.gov/job/\\d+",
+   "urls": [
+    "https://www.usajobs.gov/search/results/?k={term}&hp=public&s=startdate&sd=desc"
+   ],
+   "note": "Federal jobs. Keep only cards whose open date is today or yesterday."
+  },
+  {
+   "key": "talent",
+   "name": "Talent.com",
+   "job_link": "talent\\.com/view\\?id=",
+   "urls": [
+    "https://www.talent.com/jobs?k={term}&l=Remote&date=1",
+    "https://www.talent.com/jobs?k={term}&l=Chicago%2C+IL&date=1"
+   ]
+  },
+  {
+   "key": "jooble",
+   "name": "Jooble",
+   "job_link": "jooble\\.org/(desc|away)/",
+   "urls": [
+    "https://jooble.org/SearchResult?ukw={term}&rgns=Remote&date=8",
+    "https://jooble.org/SearchResult?ukw={term}&rgns=Chicago%2C%20IL&date=8"
+   ],
+   "note": "The date parameter doesn't limit results. Keep only cards whose age is in hours or '1 day ago'."
+  },
+  {
+   "key": "weworkremotely",
+   "name": "We Work Remotely",
+   "job_link": "weworkremotely\\.com/remote-jobs/(?!search|find-your-plan|new)[a-z0-9-]+$",
+   "urls": [
+    "https://weworkremotely.com/remote-jobs/search?term={term}"
+   ]
+  },
+  {
+   "key": "wellfound",
+   "name": "Wellfound",
+   "job_link": "wellfound\\.com/jobs/\\d+",
+   "urls": [
+    "https://wellfound.com/jobs?keywords={term}&remote=true"
+   ],
+   "disabled": true,
+   "note": "Disabled 2026-10-04: without sign-in Wellfound ignores search terms and shows no posting dates."
+  },
+  {
+   "key": "company_ats",
+   "name": "Company career sites",
+   "job_link": "greenhouse\\.io|lever\\.co|ashbyhq\\.com|myworkdayjobs\\.com|workable\\.com|smartrecruiters\\.com|icims\\.com|jobvite\\.com|bamboohr\\.com",
+   "urls": [
+    "https://www.google.com/search?q=%22{term}%22+(remote+OR+chicago)+(site%3Aboards.greenhouse.io+OR+site%3Ajob-boards.greenhouse.io+OR+site%3Ajobs.lever.co+OR+site%3Ajobs.ashbyhq.com+OR+site%3Amyworkdayjobs.com+OR+site%3Aapply.workable.com+OR+site%3Ajobs.smartrecruiters.com+OR+site%3Aicims.com+OR+site%3Ajobs.jobvite.com+OR+site%3Abamboohr.com)&tbs=qdr%3Ad&num=50"
+   ],
+   "note": "Google results limited to the past 24 hours on company applicant-tracking sites (Greenhouse, Lever, Ashby, Workday, Workable, SmartRecruiters, iCIMS, Jobvite, BambooHR). Company = the employer named in the result. If Google shows a CAPTCHA, skip. Google's 'past 24 hours' filter applies, so write posted as 'today' when the result shows no age."
+  }
+ ]
+}
