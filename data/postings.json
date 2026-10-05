@@ -71,9 +71,229 @@
    "at": "2026-10-04T17:29+00:00",
    "added": 0,
    "sources": {}
+  },
+  {
+   "at": "2026-10-05T07:10+00:00",
+   "added": 8,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "ecde3786bc811eea",
+   "title": "Scrum Master",
+   "company": "Blue Cross Blue Shield of Michigan",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 82,800–217,100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T02:56+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "The Scrum Master serves a vital role and is in the unique position to help coach, guide and facilitate an energetic and knowledgeable team. As the Scrum Master you will serve as a critical liaison between the product delivery team, product manager and senior management providing critical direction, communication and as",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/blue-cross-blue-shield-of-michigan/jobs/scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "76e55b814c9d0138",
+   "title": "Scrum Master",
+   "company": "AF Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 82,800–217,100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T02:49+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "The Scrum Master serves a vital role and is in the unique position to help coach, guide and facilitate an energetic and knowledgeable team. As the Scrum Master you will serve as a critical liaison between the product delivery team, product manager and senior management providing critical direction, communication and as",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/af-group/jobs/scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "a5cfe186e03bf072",
+   "title": "Scrum Master - Guidewire (ClaimCenter)",
+   "company": "Blue Cross Blue Shield of Michigan",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 82,800–217,100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T01:19+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "The Scrum Master serves a vital role and is in the unique position to help coach, guide and facilitate an energetic and knowledgeable team. As the Scrum Master you will serve as a critical liaison between the product delivery team, product manager and senior management providing critical direction, communication and as",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/blue-cross-blue-shield-of-michigan/jobs/scrum-master-guidewire-claimcenter"
+    }
+   ]
+  },
+  {
+   "id": "a1e89f870a367e8b",
+   "title": "Senior Project Manager",
+   "company": "Wipfli",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 117,000–158,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-04T23:11+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Overview At Wipfli , people count. At Wipfli , our people are core to everything we do—the catalyst behind our ability to create exceptional impact and extraordinary results. We believe in flexibility. We focus on relationships. We encourage each individual to follow their own path. People truly matter and they feel it",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wipfli/jobs/senior-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "4c011e79c3a4f1a8",
+   "title": "Scrum Master - Guidewire (ClaimCenter)",
+   "company": "AF Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 82,800–217,100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-04T21:02+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "The Scrum Master serves a vital role and is in the unique position to help coach, guide and facilitate an energetic and knowledgeable team. As the Scrum Master you will serve as a critical liaison between the product delivery team, product manager and senior management providing critical direction, communication and as",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/af-group/jobs/scrum-master-guidewire-claimcenter"
+    }
+   ]
+  },
+  {
+   "id": "e9870a678987767f",
+   "title": "Front End and Digital Experience Engineer",
+   "company": "DecisionPoint Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-04T20:27+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Overview DecisionPoint seeks a Front End & Digital Experience Engineer to support the Military OneSource (MOS) website, WordPress development activities, accessibility initiatives, and broader digital experience modernization efforts across the MODES III Program. This role serves as a technical leader within the Digita",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/front-end-and-digital-experience-engineer"
+    }
+   ]
+  },
+  {
+   "id": "64bee5cfad67b76d",
+   "title": "Full Stack Software Engineer",
+   "company": "Crum & Forster",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 64,700–121,600",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-04T19:20+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Crum & Forster Company Overview Travel Insured International, a Crum & Forster company, is hiring Full Stack Engineers in our IT Team in Glastonbury, CT. Travel Insured International is a leading travel insurance provider with more than 30 years in business. As a key component of our Specialty Business Unit, within the",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crum-forster/jobs/full-stack-software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "63ff5aee71b2aacb",
+   "title": "Project Manager 3",
+   "company": "GP Strategies Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-04T17:26+00:00",
+   "posted_day": "2026-10-04",
+   "summary": "Deliver Learning That Develops People and Leaders Project Manager - Learning & Development (Automotive Industry) Location: Remote (Full-Time) Overview We are seeking an experienced Project Manager, Learning & Development to lead the design, development, and delivery of high-impact leadership, technical, and professiona",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/gp-strategies-corporation/jobs/project-manager-3"
+    }
+   ]
+  },
   {
    "id": "e91ef40717122afb",
    "title": "Agile Coach",
@@ -4373,5 +4593,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-04T17:29+00:00"
+ "updated": "2026-10-05T07:10+00:00"
 }
