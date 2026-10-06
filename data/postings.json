@@ -83,9 +83,385 @@
     "The Muse": "0 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-06T07:06+00:00",
+   "added": 14,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "15 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "3 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "e8ab0ed54dd7c4d8",
+   "title": "Desarrollador Fullstack ( Java + Angular ) - LATAM",
+   "company": "XKTalent Inc. - Rimutee",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T05:13+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "En Rekluti , el código es el medio, pero la ingeniería de excelencia es el fin. Buscamos estrategas técnicos que sumen su visión al legado de nuestros clientes. Tu misión será liderar la gobernanza de arquitecturas distribuidas en proyectos de escala masiva, donde la resiliencia y el dominio del SDLC son los pilares de",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rekluti/jobs/desarrollador-fullstack-java-angular-latam"
+    }
+   ]
+  },
+  {
+   "id": "803ccbd6310d5843",
+   "title": "Product Owner - Remote",
+   "company": "Mutual Of Omaha",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 100,000–118,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T03:59+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "Join our team as an Product Owner and lead the charge in delivering innovative solutions that drive real customer value in our Workplace Solutions division. In this pivotal role, you’ll collaborate with cross-functional teams, prioritize workflows, and bring strategic visions to life through agile methodologies. If you",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/mutual-of-omaha/jobs/product-owner-remote"
+    }
+   ]
+  },
+  {
+   "id": "dc4b7650d6d9ab06",
+   "title": "Software Engineer",
+   "company": "Tilled",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 103,000–124,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T03:49+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "We are: A growing team made up of innovators, creative minds, extroverts, introverts, and pet lovers who share a common goal: to change the payments landscape for the better with PayFac-as-a-Service. A software platform that provides B2B SaaS companies and ISVs with all the benefits of becoming a Payment Facilitator, w",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tilled/jobs/software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "151cdedd3a8b2c85",
+   "title": "Technical Project Manager (Remote, Work From Home) - MSP / IT Infrastructure",
+   "company": "Aris Search",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 90,000–95,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-06T01:37+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "Technical Project Manager - MSP / IT Infrastructure Remote - United States $90,000-$95,000 + Benefits Travel to Southern California / Los Angeles County for initial training and approximately 1-2 company visits per year We are recruiting for a Technical Project Manager opportunity with an established managed IT service",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aris-search/jobs/technical-project-manager-remote-work-from-home-msp-it-infrastructure"
+    }
+   ]
+  },
+  {
+   "id": "f232fd6d1ab12171",
+   "title": "Salesforce Technical Consultant and Project Manager (Salesforce Digital Transfor",
+   "company": "ICF",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "USD 119,323–202,850",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T23:56+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "We are seeking a strong technical leader for a Salesforce Digital Transformation Center (DTC). The DTC is an operational Center of Excellence that manages a multi-org Salesforce environment in which program areas throughout our federal client’s organization build mission applications. The platform includes most of Sale",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/icf/jobs/salesforce-technical-consultant-and-project-manager-salesforce-digital-transfor"
+    }
+   ]
+  },
+  {
+   "id": "a114000214f24165",
+   "title": "Technical Project Manager: Core Bank Modernization",
+   "company": "Kunai",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T23:03+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "Kunai builds full-stack technology solutions for banks, credit and payment networks, infrastructure providers, and their customers. Together, we are changing the world’s relationship with financial services. At Kunai , we help our clients modernize, capitalize on emerging trends, and evolve their business for the comin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/kunai/jobs/technical-project-manager-core-bank-modernization"
+    }
+   ]
+  },
+  {
+   "id": "57d8184edc376264",
+   "title": "Principal Software Engineer",
+   "company": "Ministry Brands",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T23:02+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "Ministry Brands is looking for a Principal Software Engineer to join our growing team! Who we are Ministry Brands is a leading provider of SaaS operational management systems, payments platforms, digital engagement tools and background screening solutions for faith-based, non-profit and for-profit organizations. We ser",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ministry-brands/jobs/principal-software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "5d3c907c168ce123",
+   "title": "Product Delivery Manager",
+   "company": "Futuri",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T23:01+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "About Futuri Futuri is the leading provider of audience engagement and sales intelligence technology used by more than 7,000 companies in 22 countries. Holding 20+ published or pending patents, Futuri is an ROI-focused innovation partner to some of the biggest brands in the world, and has earned a place on the Inc. 500",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/futuri/jobs/product-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "cab27dc3d9463ec2",
+   "title": "Full Stack Developer",
+   "company": "Malbek",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T22:19+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "We are looking for a US based Full Stack Developer to help design, build, and scale our SaaS platform. You will work across the stack, from responsive front end interfaces to backend services, APIs, and data layers, collaborating closely with product, design, and other engineers to ship reliable, high-performance featu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/malbek/jobs/full-stack-developer"
+    }
+   ]
+  },
+  {
+   "id": "e0b8c30ac5309ef1",
+   "title": "Product Owner",
+   "company": "RUX",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T22:01+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "Remote Opportunity - Canada, US applicants We're always looking for exceptional people. If you're passionate about what you do and want to be part of a pioneering team building purpose-built software for industrial equipment and commercial field service industry, we want to hear from you! RUX Software is a fast-growing",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rux/jobs/product-owner-7781591914"
+    }
+   ]
+  },
+  {
+   "id": "3e9d4fc7eb25a920",
+   "title": "Senior Design Program Manager II",
+   "company": "Instacart",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 178,000–226,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-05T20:30+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "We're transforming the grocery industry At Instacart , we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/instacart/jobs/senior-design-program-manager-ii"
+    }
+   ]
+  },
+  {
+   "id": "25ad1b7eb19fd9c0",
+   "title": "Technical Program Manager and Data Product Delivery Lead",
+   "company": "OpenDataJobs",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 150,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-05T13:25+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "About Peregrine Peregrine Advisors is a rapidly growing AI and data innovation hub helping government solve hard problems and deliver better outcomes. We work across the full lifecycle—from strategy and governance through architecture, engineering, analytics, AI, visualization, and training—for clients including the SE",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/opendatajobs/jobs/technical-program-manager-and-data-product-delivery-lead"
+    }
+   ]
+  },
+  {
+   "id": "cbb0c7b3a4878305",
+   "title": "Scrum Master",
+   "company": "Qode",
+   "location": "Ha Noi, Hà Nội, Vietnam",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-05T10:59+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "About us CoderPush is a remote-first technology company that partners with startups and global businesses to build scalable, high-quality software products. We focus on long-term collaboration, clear communication, and delivering real impact through strong engineering and product thinking. Please find more at: https://",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/7VYV29TVShbrKVnhQygbkF/hybrid-scrum-master-in-ha-noi-at-qode"
+    }
+   ]
+  },
+  {
+   "id": "2de32853f1a216b6",
+   "title": "Fullstack Software Developer, Angular or ASP.NET (Expression of Interest)",
+   "company": "PolicyStreet",
+   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-05T10:04+00:00",
+   "posted_day": "2026-10-05",
+   "summary": "ABOUT US: PolicyStreet Group is a full-stack insurance technology (insurtech) group of companies providing digital insurance solutions to businesses and consumers across Asia and Australia. The Group operates through multiple entities across its key markets and business lines, including its insurance distribution, embe",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/wcg9fCAFCmA7dFhwSUWqa6/hybrid-fullstack-software-developer%2C-angular-or-asp.net-(expression-of-interest)-in-kuala-lumpur-at-policystreet"
+    }
+   ]
+  },
   {
    "id": "ecde3786bc811eea",
    "title": "Scrum Master",
@@ -3608,15 +3984,19 @@
    "experience": "mid",
    "years_min": null,
    "experience_estimated": true,
-   "salary": "",
+   "salary": "USD 90,000–125,000",
    "job_type": "Full-time",
    "posted": "2026-10-04T03:01+00:00",
    "posted_day": "2026-10-03",
-   "summary": "",
+   "summary": "About You We are looking for a Product Owner to join the team behind Xsolla Partner Network (XPN). The role is based in the US, and we're open to strong candidates globally. Partner Network connects game publishers with content creators to drive discovery, engagement, and revenue. XPN is a two-sided marketplace. We hel",
    "sources": [
     {
      "name": "Company career sites",
      "url": "https://jobs.lever.co/xsolla/"
+    },
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/xsolla/jobs/product-owner-xsolla-partner-network"
     }
    ],
    "workplace": "remote",
@@ -4593,5 +4973,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-05T07:10+00:00"
+ "updated": "2026-10-06T07:06+00:00"
 }
