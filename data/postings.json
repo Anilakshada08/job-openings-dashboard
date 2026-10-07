@@ -95,9 +95,541 @@
     "The Muse": "0 new in last 24h",
     "Workable": "3 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-07T07:07+00:00",
+   "added": 20,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "25 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "9226a315add74ad9",
+   "title": "Product Owner - Investments",
+   "company": "GoTymeX",
+   "location": "Hong Kong, Hong Kong, Hong Kong",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-07T06:32+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "About GoTyme The GoTyme Group is one of the world's fastest-growing digital banking groups. We serve over 20 million customers across South Africa, the Philippines and Asia. We lead distribution with a mobile and 'phygital' experience to bring fair, simple banking to people the industry has historically underserved. Go",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/kCEoiTZEjyhnMP43maKY9i/product-owner---investments-in-hong-kong-at-gotymex"
+    }
+   ]
+  },
+  {
+   "id": "d8ba3b4df34e9a7b",
+   "title": "UI Engineer | Remote - Contract",
+   "company": "Xperteez Technology",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-07T05:36+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Job Title: UI Engineer Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/xperteez-technology/jobs/ui-engineer-remote-contract"
+    }
+   ]
+  },
+  {
+   "id": "217c7b1734fe3494",
+   "title": "AI-Native Full-Stack Developer",
+   "company": "Spektra Systems",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-07T04:03+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "This is a remote position. Location: Remote across India; may transition to onsite in the future Experience: 2+ years building web applications end to end, with 6+ months shipping production features mainly through AI coding agents The role. You ship complete features across the CloudLabs core and modules (UI, API, dat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/spektra-systems/jobs/ai-native-full-stack-developer"
+    }
+   ]
+  },
+  {
+   "id": "9324e414fbda62d0",
+   "title": "Technical Program Manager",
+   "company": "ev.energy",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 108,000–132,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-07T03:43+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "About ev.energy We are building the world's largest EV-centric virtual power plant (VPP). By connecting to vehicles, chargers, batteries, solar, and other distributed energy resources, we turn households into flexible grid assets that balance supply and demand, preventing blackouts and reducing reliance on fossil fuels",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ev-energy/jobs/technical-program-manager-1954779115"
+    }
+   ]
+  },
+  {
+   "id": "c84cb0176249ea75",
+   "title": "Senior Salesforce Project Manager",
+   "company": "Studio Science",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-07T03:37+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Studio Science is seeking a motivated, collaborative, and detail-oriented Salesforce Project Manager to support our enterprise Salesforce clients. In this role you'll provide project and account management support to assigned projects and be accountable for overall delivery, and scope, schedule, and budget management a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/studio-science/jobs/senior-salesforce-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "d97e72e5f399b458",
+   "title": "Sr. Software Developer",
+   "company": "Therapy Brands",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-07T02:11+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Ensora Health is the leading provider of software and services for mental and behavioral health therapists, trusted by over 200,000 individual providers and more than 28,000 practices. Our unmatched expertise, partnership, and breadth of products allow us to fine-tune solutions that meet the specific needs of everyone ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/therapy-brands/jobs/sr-software-developer"
+    }
+   ]
+  },
+  {
+   "id": "12b00f3f97b46510",
+   "title": "PMO Technical Program Manager",
+   "company": "Dine Development Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 115,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-07T00:33+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Red Canyon Technologies is seeking a PMO Technical Program Manager to support integrated program planning, governance, reporting, and execution control. This position is responsible for maintaining a reliable, evidence-based view of program schedules, deliverables, dependencies, costs, staffing needs, risks, issues, an",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dine-development-corporation/jobs/pmo-technical-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "36e2845b067829f7",
+   "title": "Digital Technology Product Owner, Medical Affairs",
+   "company": "argenx",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 156,000–214,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T23:47+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Join us as we transform immunology and deliver medicines that help autoimmune patients get their lives back. argenx is preparing for multi-dimensional expansion to reach more patients through a rich pipeline of differentiated assets, led by VYVGART, our first-in-class neonatal Fc receptor blocker approved for the treat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/argenx/jobs/digital-technology-product-owner-medical-affairs"
+    }
+   ]
+  },
+  {
+   "id": "de8b657195a80362",
+   "title": "Delivery Manager",
+   "company": "Tru Consulting",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T23:45+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Overview of the Role The Delivery Manager is accountable for the successful execution of client engagements, delivery outcomes, and on-project team leadership. Operating at the Manager band, this role owns how work is delivered, how delivery decisions are made within assigned authority, and how delivery teams operate t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tru-consulting/jobs/delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "a88f6e42dd77864f",
+   "title": "Mid-Level Java Full-Stack / API Developer, Federal Civilian Programs, Remote (Ea",
+   "company": "BizFirst",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T23:03+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "This is a remote position. Mid-Level Java Full-Stack / API Developer, Federal Civilian Programs, Remote (East Coast) Summary: Job Title: Mid-Level Java Full-Stack / API Developer Level: Mid-level (approximately 3–6 years of professional software development experience) Security Clearance: U.S. citizenship required. Req",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bizfirst/jobs/mid-level-java-full-stack-api-developer-federal-civilian-programs-remote-ea"
+    }
+   ]
+  },
+  {
+   "id": "da0ed0ee87219f73",
+   "title": "Sr. Technical Project Lead",
+   "company": "Bamboo Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T22:41+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Bamboo Health is the leader in Real-Time Care Intelligence™ solutions aimed at improving lives for everyone experiencing physical and behavioral health challenges. We are driven by our mission to empower clients to deliver seamless, high-quality and cost-effective care during pivotal moments to improve health outcomes.",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bamboo-health/jobs/sr-technical-project-lead"
+    }
+   ]
+  },
+  {
+   "id": "59eaf43396378843",
+   "title": "Technical Program Manager, CX Intelligence & AI",
+   "company": "Coinbase",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 212,330–249,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T20:09+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build th",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/coinbase/jobs/technical-program-manager-cx-intelligence-ai"
+    }
+   ]
+  },
+  {
+   "id": "710d17c4707a1b7a",
+   "title": "Technical Project Manager",
+   "company": "Makai Digital",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T19:12+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Role Summary: We are seeking a proactive, highly organized Technical Project Manager / Scrum Master to lead cross-functional engineering teams in delivering complex, high-impact digital solutions. In this dual-capacity role, you will facilitate Agile delivery processes, manage project lifecycles end-to-end, and serve a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/makai-digital/jobs/technical-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "30af358b2a41d41a",
+   "title": "Project Manager",
+   "company": "Reflex Media, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 75,000–105,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T18:31+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Project Manager Program Management | Full-Time, Salaried | Reports to the Co-CEOs Company Seeking.com (Reflex Media) Location Remote, anywhere in the USA. Compensation $75,000 to $105,000 base. Travel Occasional travel to Las Vegas for quarterly planning and major project kickoffs. About the Role Seeking.com is the wor",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/reflex-media-inc/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "ad9c804df21a710a",
+   "title": "Technical Project Manager - Payment Solutions",
+   "company": "ImagineX",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T15:54+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "ImagineX is a tech company that deploys AI-assisted teams to build and secure mission-critical enterprise solutions with our clients – spanning software, data, and AI. Structured like a software company, not a traditional consultancy, we blend deep technical expertise with authentic values, achieving world-class satisf",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/imaginex/jobs/technical-project-manager-payment-solutions"
+    }
+   ]
+  },
+  {
+   "id": "c30b13518de9fe76",
+   "title": "Enterprise PLC Project Manager",
+   "company": "Agilent Technologies",
+   "location": "Remote (Germany, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 107,440–167,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T14:46+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Job Description The Enterprise PLC Project Manager will lead complex, cross-functional projects focused on Product Lifecycle (PLC) process excellence, PLC-related system and process changes, and enterprise product development improvements. This role will partner closely with business, product development, quality, regu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/agilent-technologies/jobs/enterprise-plc-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "7cec901b5eb39b62",
+   "title": "Product Owner",
+   "company": "Mastercam",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T14:06+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Your Role at a Glance As Product Owner, you will partner closely with the Product Manager to manage and prioritize the product backlog for key solution areas, including EverPath Technology, Probing, and Multiaxis Milling. You will translate product strategy and roadmap objectives into well-defined epics, user stories, ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/mastercam/jobs/product-owner"
+    }
+   ]
+  },
+  {
+   "id": "45859290baa5addd",
+   "title": "Technical Program Manager",
+   "company": "Shift Paradigm",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 100,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T13:56+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "About SH/FT Shift Paradigm is an execution-led strategic consultancy that bridges the gap between enterprise strategy and technical reality. We partner with Fortune 500 brands and emerging leaders to solve the inherent complexity of modern digital marketing. As partners to the world’s leading MarTech platforms, includi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/shift-paradigm/jobs/technical-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "ae6b8bef75a79299",
+   "title": "Project Manager",
+   "company": "SprezzMC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 15,
+   "experience_estimated": false,
+   "salary": "USD 125,000–135,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T13:08+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Sprezzatura Job Description Position Title: Technical Project Manager Location: Remote Other Considerations: U.S. Citizen or Permanent Resident (Required) POSITION SUMMARY The IT Project Manager is responsible for planning, coordinating, and delivering complex federal government technology initiatives within a large-sc",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sprezzmc/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "c6cbc0607d721cb6",
+   "title": "Project Manager, Tolling",
+   "company": "Kapsch Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-06T08:42+00:00",
+   "posted_day": "2026-10-06",
+   "summary": "Kapsch is one of Austria's most successful global technology companies. With its comprehensive ITS (Intelligent Transportation Systems) portfolio, Kapsch is actively addressing the challenges of the present and the future with intelligent mobility solutions in a wide range of application areas. As a family-owned compan",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/kapsch-group/jobs/project-manager-tolling"
+    }
+   ]
+  },
   {
    "id": "e8ab0ed54dd7c4d8",
    "title": "Desarrollador Fullstack ( Java + Angular ) - LATAM",
@@ -4973,5 +5505,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-06T07:06+00:00"
+ "updated": "2026-10-07T07:07+00:00"
 }
