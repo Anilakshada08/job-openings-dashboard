@@ -107,9 +107,567 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-08T07:09+00:00",
+   "added": 21,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "1 new in last 24h",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "7 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "c4234939306d80ba",
+   "title": "System Product Owner (Card processing)",
+   "company": "Wirex",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T06:41+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Wirex is opening a new position for a System Product Owner to join one of the backend teams. Who we are At Wirex , we believe everyone should have access to the benefits of digital currency. We were the first to launch a crypto-enabled debit card, and we’re still ahead of the game—offering intuitive, secure ways to buy",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wirexapp/jobs/system-product-owner-card-processing"
+    }
+   ]
+  },
+  {
+   "id": "55a80fad3179de91",
+   "title": "Principal Technical Program Manager - Voice AI",
+   "company": "Motorola Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 180,000–220,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T06:25+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Company Overview At Motorola Solutions , we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration th",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/motorola-solutions/jobs/principal-technical-program-manager-voice-ai"
+    }
+   ]
+  },
+  {
+   "id": "ab89a19b39dc3123",
+   "title": "Oracle EBS / Fusion Cloud Project Manager - Remote",
+   "company": "Simple Software Solutions Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T06:02+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Category: Education Location: Jacksonville Florida United States Oracle EBS / Fusion Cloud Project Manager - Remote Experience: 8-12 years Focus: Oracle EBS to Oracle Fusion Cloud Migration Job Summary We are seeking an experienced Oracle EBS/Fusion Project Manager with strong expertise leading Oracle EBS to Oracle Fus",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/simple-software-solutions-group/jobs/oracle-ebs-fusion-cloud-project-manager-remote"
+    }
+   ]
+  },
+  {
+   "id": "9b435169ea27ef77",
+   "title": "Sr Program Manager, Client Delivery",
+   "company": "Sureify",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 155,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T05:57+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "About Sureify Sureify builds the digital platform life and annuity carriers use to sell, serve and grow. Our products — LifetimeACQUIRE, LifetimeAGENT, LifetimeSERVICE and CoreCONNECT — power quote-to-issue, agent portals, policyholder self-service and the data layer behind them. Carriers like Amica, AAA Life, Nationwi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sureify/jobs/sr-program-manager-client-delivery"
+    }
+   ]
+  },
+  {
+   "id": "978ffbb991aadabc",
+   "title": "Senior Lead Technical Program Manager (Remote, US)",
+   "company": "CenturyLink",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 132,232–193,940",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T05:33+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Lumen is the trusted network for the AI‑powered world, connecting people, data, and applications through our expansive fiber network and connected ecosystem. We enable secure, high‑performance connectivity across cloud, edge, and AI workloads for enterprises, governments, and communities. At Lumen, you’ll work on infra",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/centurylink/jobs/senior-lead-technical-program-manager-remote-us"
+    }
+   ]
+  },
+  {
+   "id": "ea5435c4ab4cab23",
+   "title": "Agile Product Owner",
+   "company": "Grow Financial",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T05:15+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Overview At Grow Financial Federal Credit Union, we believe in service — to our 300,000 members, 600 team members and local communities. We’re not just your average bank. We’re a credit union, owned by our members and dedicated to serving people, not profit. We know that happy, engaged people provide the best service, ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/grow-financial/jobs/agile-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "de32f5183b0b9612",
+   "title": "Technical Project Manager (PMO)",
+   "company": "Privia Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "USD 105,000–125,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T05:08+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "The Technical Project Manager is a key member of the Project Management Office (PMO) team. This role manages key projects and drives process improvement across Privia teams. The Technical Project Manager partners with members of product and technical teams to deliver project and programmatic outcomes. The Technical Pro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/privia-health/jobs/technical-project-manager-pmo-9444220041"
+    }
+   ]
+  },
+  {
+   "id": "e9f5d3477d6e48ad",
+   "title": "Senior Full-Stack Developer",
+   "company": "Milsoft Utility Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T05:04+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "JOB SUMMARY We are seeking a Senior Full-Stack Developer with deep expertise in modern web technologies, strong experience in enterprise Java, and solid backend integration skills. In this role, you will bridge the gap between high-performance user interfaces and robust enterprise backend services supporting the utilit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/milsoft-utility-solutions/jobs/senior-full-stack-developer"
+    }
+   ]
+  },
+  {
+   "id": "81766068532567ab",
+   "title": "Senior Java Full Stack Developer",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 100,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-08T04:28+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Senior Java Full Stack Developer - Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous caree",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-java-full-stack-developer-4611412177"
+    }
+   ]
+  },
+  {
+   "id": "a75d5c48e37b710a",
+   "title": "Front-end Engineer 5 SEO - Shopping (Remote-eligible)",
+   "company": "Capital One",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 209,000–238,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T03:47+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Front-end Engineer 5 SEO - Shopping (Remote-eligible) Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive and iterative delivery environment? At Capital One , you'll be part of a big group of makers, breakers, doers and di",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/capital-one/jobs/front-end-engineer-5-seo-shopping-remote-eligible"
+    }
+   ]
+  },
+  {
+   "id": "dce112b60691a4f6",
+   "title": "Talent Community - AI-Driven Project Manager",
+   "company": "Scopic",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Intern",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T03:35+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Category: IT Services Location: Join Our Talent Community for AI-Driven Project Manager A New Way to Connect with Future Opportunities At Scopic , we're always planning ahead, looking for forward-thinking project managers who are ready to grow with the next wave of innovation. Join our Talent Community tailored for AI-",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/scopic/jobs/talent-community-ai-driven-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "8d3409886baee179",
+   "title": "Lead Java Full Stack Engineer",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 80,000–100,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-08T03:32+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Lead Java Full Stack Engineer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career g",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/lead-java-full-stack-engineer"
+    }
+   ]
+  },
+  {
+   "id": "7d98e3354c85989d",
+   "title": "Fullstack Software Engineer - Core",
+   "company": "Dataiku",
+   "location": "Remote (France, Germany, Netherlands, Spain, UK)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T03:30+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud in",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core"
+    }
+   ]
+  },
+  {
+   "id": "733cd95edf589f0c",
+   "title": "Senior Project Manager",
+   "company": "Isos Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 120,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T02:22+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "About the role Isos Technology is looking for a Senior Project Manager to lead our most complex, multi-client delivery within the professional services practice. This is a senior individual-contributor role for a PM who can own our highest-stakes engagements, set the standard for how we deliver, and raise the capabilit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/isos-technology/jobs/senior-project-manager-8251429380"
+    }
+   ]
+  },
+  {
+   "id": "6cab63287174ff9d",
+   "title": "Senior Product Owner",
+   "company": "ProcessUnity",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 105,000–135,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T01:02+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "ProcessUnity is the Third-Party Risk Management (TPRM) company. Our software platforms and data services protect customers from cybersecurity threats, breaches, and outages that originate from their ever-growing ecosystem of business partners. By combining the world’s largest third-party risk data exchange, the leading",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/processunity/jobs/senior-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "60aa4001ec41a61e",
+   "title": "Senior Databricks Project Manager",
+   "company": "Stitch Consulting Services, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T00:20+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Who We Are Stitch is the global leader in helping brands drive CRM performance through Braze and Databricks. We work with Fortune 1000 brands to design and execute martech-driven solutions and lifecycle marketing strategies that drive meaningful outcomes. Our fast-growing team spans the US, UK, and Canada. We’re active",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/stitch-consulting-services-inc/jobs/senior-databricks-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "e683df43e9151c1a",
+   "title": "Technical Project Manager, Business Applications",
+   "company": "Net at Work, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T00:12+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "About Net at Work Founded in 1996, Net at Work is one of North America’s largest technology advisors and solution providers for small and mid-size businesses. Our award-winning consultancy offers a rich portfolio of next-generation technology, industry expertise, implementation and managed services to help organization",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/net-at-work-llc/jobs/technical-project-manager-business-applications"
+    }
+   ]
+  },
+  {
+   "id": "ad5158ff48436451",
+   "title": "Project Manager",
+   "company": "knk Software, LP",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 105,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T00:11+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "About knk SOFTWARE, LP knk is the leading publishing ERP software serving major book, magazine, and trade publishers in North America, Europe, and Asia. knk offers the world’s only Microsoft certified publishing software for the publishing market, creating a future-proof platform for our customers. About the role The P",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/knk-software-lp/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "8dc9b89664f4f5a8",
+   "title": "Sr. IT Agile Project Manager - ServiceNow",
+   "company": "Genesys",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 120,800–212,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-07T23:43+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "Be the one building AI-powered experiences where they matter most. At Genesys , we help organizations create better customer experiences through AI-powered experience orchestration. Our platform connects people, systems, data and AI to help organizations deliver more personalized service, improve operational efficiency",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/genesys/jobs/sr-it-agile-project-manager-servicenow"
+    }
+   ]
+  },
+  {
+   "id": "258a42b0b1a793ab",
+   "title": "Full Stack Engineer (Angular/Python) (remote work)",
+   "company": "Cloudlinux",
+   "location": "Budapest, Budapest, Hungary (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-07T09:40+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "CloudLinux is a global remote-first company. We are driven by our principles: do the right thing, employees first, we are remote first, and we deliver high-volume, low-cost Linux infrastructure and security products that help companies to increase the efficiency of their operations. Every person on our team supports ea",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/2t2ewDpsBCDUospSq2vBZh/full-stack-engineer-(angular%2Fpython)-(remote-work)-in-budapest-at-cloudlinux"
+    }
+   ]
+  },
+  {
+   "id": "676fccf7b60e0faf",
+   "title": "Full Stack Developer (Angular/.NET/C#)",
+   "company": "EUROPEAN DYNAMICS",
+   "location": "Vienna, Vienna, Austria",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-07T09:08+00:00",
+   "posted_day": "2026-10-07",
+   "summary": "We currently have a vacancy for a Full Stack Developer fluent in English, to offer his/her services as an expert who will be based in Vienna, Austria. The work will be carried out either in the company’s premises or on site at customer premises. In the context of the first assignment, the successful candidate will be i",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/tAzLWgQFVLg8hSvpQgXuxe/full-stack-developer-(angular%2F.net%2Fc%23)-in-vienna-at-european-dynamics"
+    }
+   ]
+  },
   {
    "id": "9226a315add74ad9",
    "title": "Product Owner - Investments",
@@ -5505,5 +6063,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-07T07:07+00:00"
+ "updated": "2026-10-08T07:09+00:00"
 }
