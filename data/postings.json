@@ -119,9 +119,307 @@
     "The Muse": "0 new in last 24h",
     "Workable": "7 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-09T07:09+00:00",
+   "added": 11,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "12 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "1 new in last 24h",
+    "Workable": "3 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "568161fe2126ad21",
+   "title": "Project Manager",
+   "company": "DHD Consulting",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-09T06:15+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Location: 100% Remote Anywhere in the U.S. Job Type: Contract until 8/31/2026 (12 months) Job Description: The Project Manager will lead high-impact projects under limited supervision, applying independent judgment and initiative. This role requires expertise in managing enterprise content management solutions, coordin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dhd-consulting/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "11d998b5aace162d",
+   "title": "Analista Dev Full Stack Java PL | Remote Work",
+   "company": "Novare RH",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "BRL 7,000–8,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-09T01:47+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Nosso Cliente : ﻿ A Evolui Tecnologia surgiu em 2003 ﻿com o desafio de melhorar os processos públicos. Ao longo de 13 anos construíram e aprimoraram soluções simples e criativas, visando otimizar e transformar o resultado dos seus clientes. Em 2015, evoluíram seu modelo de negócio e processos, cirando um novo posiciona",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/novare-rh/jobs/analista-dev-full-stack-java-pl-remote-work"
+    }
+   ]
+  },
+  {
+   "id": "46630e0bfeaf9e88",
+   "title": "Senior Technical Program Manager (Remote, US)",
+   "company": "Everyday Electric",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T23:12+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Who We Are Everyday Electric (formerly Renew Home) is on a mission to change how we power the world by making it easier for customers to save energy and money at home as part of the largest residential virtual power plant in North America. We partner with industry-leading brands to better manage residential energy for ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/gXaRsRk9te6TiAuQsTn898/senior-technical-program-manager-(remote%2C-us)-in-united-states-at-everyday-electric"
+    }
+   ]
+  },
+  {
+   "id": "b94441ea8568b56e",
+   "title": "Product Owner I",
+   "company": "Liberty Mutual",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T21:37+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Description Product Owner I – Independent Agent Sales Experience, Distribution Home Quote & Issue Help shape the future of how independent agents sell Home insurance. We're looking for a Product Owner I to join our Distribution Independent Agent (IA) Sales Experience Portfolio and help build a best-in-class Quote and I",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/liberty-mutual/jobs/product-owner-i-6703881149"
+    }
+   ]
+  },
+  {
+   "id": "bc74154a36081052",
+   "title": "Full Stack Engineer (Senior)",
+   "company": "Parvana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T21:15+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Location: South Africa | Work Type: Remote | Job ID: J107272 About our client: Our client develops and supports software and data solutions across a variety of industries. They want you to get ahead of the market and stay there. They offer a combination of plug and play products that can be integrated with existing sys",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/parvana/jobs/full-stack-engineer-senior"
+    }
+   ]
+  },
+  {
+   "id": "b7e456889c538ff5",
+   "title": "Senior, Backend Software Engineering - Tax Transformation",
+   "company": "Deloitte",
+   "location": "Arlington, VA, Atlanta, GA, Austin, TX, Baltimore, MD, Boise, ID, Boston, MA, Charlotte, NC, Chicago, IL, Costa Mesa, CA, Dallas, TX, Denver, CO, Detroit, MI, G",
+   "location_group": "chicago",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-08T21:06+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Position Summary If you are a technology visionary with a passion for transforming global tax business with digital technology, consider working with the US Tax Transformation technology team. This is an exciting opportunity to support global execution of Deloitte's tax strategy as we shift from \"doing digital\" to \"bei",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/deloitte/senior-backend-software-engineering-tax-transformation"
+    }
+   ]
+  },
+  {
+   "id": "3c59e3e7a4b2026c",
+   "title": "Senior Software Engineer",
+   "company": "Nubitz",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 100,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T19:54+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "What We're Looking For We are seeking a Senior Software Engineer ready to take the next step in their career path. We're looking for proven leadership combined with strong technical and architectural skills. The ideal candidate is a tenured software engineer at their current employer who is seeking new employment due t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nubitz/jobs/senior-software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "e272974a93728724",
+   "title": "Technical Project Manager 2",
+   "company": "Public Consulting Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "USD 140,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T17:21+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Public Consulting Group LLC (PCG) is a leading public sector solutions implementation and operations improvement firm that partners with health, education, and human services agencies to improve lives. Founded in 1986, PCG employs approximately 2,000 professionals throughout the U.S.—all committed to delivering solutio",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/public-consulting-group/jobs/technical-project-manager-2"
+    }
+   ]
+  },
+  {
+   "id": "ffd0ed371a7e772b",
+   "title": "Senior Software Engineer",
+   "company": "Solventum",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 124,000–170,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T17:02+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "By applying to this position, you acknowledge that Solventum recently publicly announced its intention to divest its Health Information Systems Business. No decision has been made regarding the ultimate structure or timing of any potential transaction, and there can be no assurance that a separation will occur. Any tra",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/solventum/jobs/senior-software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "59bd3b1d240464d3",
+   "title": "Project Manager – Application Development",
+   "company": "StackAdroit",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-08T16:45+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "This is a remote position. About Us: StackAdroit LLP is a forward-thinking technology company dedicated to delivering cutting-edge web solutions. We are looking for a passionate and skilled JavaScript Developer to join our dynamic team. Key Responsibilities: Oversee the entire application development life cycle, from i",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/stackadroit/jobs/project-manager-application-development"
+    }
+   ]
+  },
+  {
+   "id": "49ab50b70368cf70",
+   "title": "Technical Project Manager",
+   "company": "Idea Entity",
+   "location": "Herndon, Virginia, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-08T14:34+00:00",
+   "posted_day": "2026-10-08",
+   "summary": "Title: Technical Project Manager Department: Program Management Employment Type: Full-Time, Exempt Location: Herndon, VA (Hybrid) Compensation: $125,000–$165,000 annually About Idea Entity At Idea Entity, we transform customer pain points into insightful, scalable, agent-powered workflows built with empathy, clarity, a",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/2iFUH5pgs7w5UEvAuYfGtt/hybrid-technical-project-manager-in-herndon-at-idea-entity"
+    }
+   ]
+  },
   {
    "id": "c4234939306d80ba",
    "title": "System Product Owner (Card processing)",
@@ -6063,5 +6361,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-08T07:09+00:00"
+ "updated": "2026-10-09T07:09+00:00"
 }
