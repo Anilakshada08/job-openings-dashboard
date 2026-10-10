@@ -131,9 +131,489 @@
     "The Muse": "1 new in last 24h",
     "Workable": "3 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-10T07:06+00:00",
+   "added": 18,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "18 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "8 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "1f21da2ffdae9fbb",
+   "title": "Ketryx Implementation Project Manager",
+   "company": "Workiy Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T07:03+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "This is a remote position. Job Description: We are seeking an experienced Ketryx Implementation Project Manager to lead the planning, coordination, and delivery of Ketryx implementation initiatives within a regulated product development environment. The successful candidate will manage the full implementation lifecycle",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/workiy-inc/jobs/ketryx-implementation-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "a7816f24d11db2f0",
+   "title": "Fractional Business Analyst/Project Manager",
+   "company": "Tsource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Part Time",
+   "workplace": "remote",
+   "employment": "parttime",
+   "posted": "2026-10-10T05:57+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "This is a remote position. Opportunity Provide Project Management and leadership to support IT Organization Improvements. Work with the customer leadership and IT organization to implement an organizational structure and implement best practices to ensure system changes are well tested, communicated, and adopted. This ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tsource/jobs/fractional-business-analyst-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "f3e95ffe68eafa86",
+   "title": "Full Stack Developer — Global Health & AI (REMOTE ROLE)",
+   "company": "ICF",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 81,499–138,549",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T05:20+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Full Stack Developer — Global Health & AI ICF ’s Global Health and Development (GHD) line of business, part of the Health, People, and Human Services (HPHS) Group, is seeking a Full Stack Developer to build applications that apply AI across global health and survey programs. You will develop applications, APIs, and dat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/icf/jobs/full-stack-developer-global-health-ai-remote-role"
+    }
+   ]
+  },
+  {
+   "id": "d57e2d2968bcc661",
+   "title": "Technical Project Manager",
+   "company": "Rapinno Tech",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-10T05:19+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Job Title: Technical Project Manager Location: Central (100% remote work) Duration: 06+ Months Contract Job Description: 10 + years progressive Technical Project Management experience with experience leading agile scrum team in a fast-paced environment. Work closely with the client/product team for clarification of req",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rapinno-tech/jobs/technical-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "cb62cfc5edb50350",
+   "title": "Full Stack Developer (Mid-Level)",
+   "company": "VivSoft Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-10T04:25+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Job Title: Full Stack Developer (Mid-Level) Location: Remote - USA Clearance: Active Secret clearance required Type: Full-time, W2 About VivSoft: VivSoft is a mission-driven technology company specializing in Cloud, DevSecOps, Artificial Intelligence, and Digital Experience. We are a diverse team of innovators focused ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vivsoft-technologies/jobs/full-stack-developer-mid-level"
+    }
+   ]
+  },
+  {
+   "id": "47f23e3af7ab436b",
+   "title": "AWS Project Manager",
+   "company": "NeuraFlash",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 87,400–266,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T03:09+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Why NeuraFlash , Part of Accenture: At NeuraFlash , Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce. As a trusted leader in AI, AWS, and Salesforce innovation, we craft intelligent solutions—integrating Salesforce Einstein, Service Clou",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/neuraflash/jobs/aws-project-manager-9223982078"
+    }
+   ]
+  },
+  {
+   "id": "4de854767731cf31",
+   "title": "Senior Program Manager, iQueue for Inpatient Flow",
+   "company": "LeanTaaS",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 120,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T02:00+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "We are a growth stage company that creates software solutions combining lean principles, predictive and prescriptive analytics, and machine learning to transform hospital and infusion center operations. More than 190 health systems and over 1,200 hospitals and centers across 49 states rely on our award-winning products",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/leantaas/jobs/senior-program-manager-iqueue-for-inpatient-flow"
+    }
+   ]
+  },
+  {
+   "id": "cdb0b00fc720f5fb",
+   "title": "Salesforce Project Manager",
+   "company": "NeuraFlash",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 87,400–266,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T00:48+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Why NeuraFlash , Part of Accenture: At NeuraFlash , Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce. As a trusted leader in AI, AWS, and Salesforce innovation, we craft intelligent solutions—integrating Salesforce Einstein, Service Clou",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/neuraflash/jobs/salesforce-project-manager-4729817942"
+    }
+   ]
+  },
+  {
+   "id": "e2af435b504219b7",
+   "title": "Project Manager Level 3",
+   "company": "Rapinno Tech",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T00:29+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Project Manager Level 3 Duration : 12 Months Note to Vendors Remote candidates ok. Candidate must be willing to travel (0-25% depending on the project assignment). Job Description We are looking for a senior project manager to lead and deliver capabilities within our Vendor SSO Program and the Enterprise Maintenance (M",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rapinno-tech/jobs/project-manager-level-3"
+    }
+   ]
+  },
+  {
+   "id": "0b9443b3ad8cb7b7",
+   "title": "ServiceNow CMDB Manager / Product Owner",
+   "company": "The Hartford",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 132,000–198,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T00:28+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Manager, Infrastructure Engineer - IEB07AE We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-hartford/jobs/servicenow-cmdb-manager-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "85ded152967b8dc4",
+   "title": "Senior Technical Program Manager (Remote, US)",
+   "company": "OhmConnect",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 185,000–225,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T00:23+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Who We Are Everyday Electric (formerly Renew Home) is on a mission to change how we power the world by making it easier for customers to save energy and money at home as part of the largest residential virtual power plant in North America. We partner with industry-leading brands to better manage residential energy for ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ohmconnect/jobs/senior-technical-program-manager-remote-us"
+    }
+   ]
+  },
+  {
+   "id": "50dcec7c9e25f169",
+   "title": "AI Program Manager",
+   "company": "CareSource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 113,000–197,700",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-09T22:37+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Job Summary: The EES Program Manager is responsible for leading and governing enterprise-level programs within Enterprise Engineering Solutions (EES), ensuring alignment to strategic objectives and successful delivery of complex, cross-functional initiatives. This role drives program execution, stakeholder alignment, a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caresource/jobs/ai-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "38e52ce0e4342cc8",
+   "title": "Project Manager",
+   "company": "Ultimus Fund Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-09T21:21+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Position Summary The Project Manager will own the end-to-end delivery lifecycle of enterprise AI initiatives—from technical scoping through deployment. The role will partner with engineering, data science, and business leaders to coordinate resources, mitigate project risks, and ensure AI investments are successfully i",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ultimus-fund-solutions/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "62b5c98d8ca5cd90",
+   "title": "Scrum Master",
+   "company": "TechOp Solutions International",
+   "location": "Washington, District of Columbia, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-09T19:22+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "TechOp Solutions International is looking for a Scrum Master to support the planning, coordination, and execution of technology pilot initiatives, including Digital Twin, DICOS Image Tagging, and a potential large language model (LLM) pilot. This individual will facilitate Agile delivery, coordinate stakeholder engagem",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/bQQwX6GCNqnMga1zRx3Xgs/remote-scrum-master-in-washington-at-techop-solutions-international"
+    }
+   ]
+  },
+  {
+   "id": "dd2423f162c02c94",
+   "title": "(1115606) Product Owner - Dealer Website",
+   "company": "Diversified Services Network, Inc.",
+   "location": "Broomfield, Colorado, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-09T14:45+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Product Owner - Dealer Websites Chicago, IL | Hybrid | Full-Time Diversified Services Network, Inc. (DSN) is seeking a full-time Product Owner - Dealer Websites to join our team in Chicago, IL. We offer a hybrid work model, full benefits, PTO, 401k, and more! If you're looking to grow your career within an extremely re",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/1FSU8mrMrMhNX1JyFod6xv/hybrid-(1115606)-product-owner---dealer-website-in-broomfield-at-diversified-services-network%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "16b356e0e02e965e",
+   "title": "(1115606) Product Owner - Dealer Website",
+   "company": "Diversified Services Network, Inc.",
+   "location": "Chicago, Illinois, United States",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-09T14:45+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Product Owner - Dealer Websites Chicago, IL | Hybrid | Full-Time Diversified Services Network, Inc. (DSN) is seeking a full-time Product Owner - Dealer Websites to join our team in Chicago, IL. We offer a hybrid work model, full benefits, PTO, 401k, and more! If you're looking to grow your career within an extremely re",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/s5XPNt4BoBVUrTt6T8QhPH/hybrid-(1115606)-product-owner---dealer-website-in-chicago-at-diversified-services-network%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "5f7848d9d67489d4",
+   "title": "Senior Project Manager",
+   "company": "Everyday Dose Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 120,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-09T14:04+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "ABOUT EVERYDAY DOSE Everyday Dose is a functional coffee company on a mission to help people feel better, think clearer, and perform at their best, without the crash that comes with regular coffee. We’re a fast-growing, nine-figure omni-channel brand with a loyal, high-retention subscriber base, and we’re continuing to",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/everyday-dose-inc/jobs/senior-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "731098e33ec3e2c1",
+   "title": "Technical Project Manager (Digital Identity)",
+   "company": "Quality & Reliability S.A. (QnR)",
+   "location": "Luxembourg, Luxembourg, Luxembourg",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-09T11:29+00:00",
+   "posted_day": "2026-10-09",
+   "summary": "Are you a Technical Project Manager? Think bigger about your next move! Build your future with QnR Group. JOIN THE NEXT EUROPEAN TECHNOLOGY POWERHOUSE 🚀 Technical Project Manager | Quality & Reliability (QnR), the parent company of QnR Group Role overview We are looking for a Technical Project Manager to join Quality &",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/m9DJ6rQQCvLTjEUgtCoRQ7/hybrid-technical-project-manager-(digital-identity)-in-luxembourg-at-quality-%26-reliability-s.a.-(qnr)"
+    }
+   ]
+  },
   {
    "id": "568161fe2126ad21",
    "title": "Project Manager",
@@ -6361,5 +6841,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-09T07:09+00:00"
+ "updated": "2026-10-10T07:06+00:00"
 }
