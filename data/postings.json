@@ -143,9 +143,463 @@
     "The Muse": "0 new in last 24h",
     "Workable": "8 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-11T07:07+00:00",
+   "added": 17,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "2 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "12dcd74fa9a22ba2",
+   "title": "MSSP Project Manager",
+   "company": "SentinelOne",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 108,000–149,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T04:34+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Our Purpose At SentinelOne , we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, operate, and innovate, the responsibility to protect them becomes more critical than ever. When you join SentinelOne , your work helps protect global enterprises, ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sentinelone/jobs/mssp-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "1bea65a82c7c738a",
+   "title": "Project Manager USA",
+   "company": "Quantum Strides LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T04:21+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Title: Project Manager USA Location: USA (Remote) Quantum Strides LLC is a leader in Integrated Workplace Management Solutions (IWMS) space specializing in solutions for Real Estate and Asset management, Capital Projects, Space & Move management, Operations & Maintenance and Sustainability Solutions. Headquartered in t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/project-manager-usa"
+    }
+   ]
+  },
+  {
+   "id": "e3b67b3b0dcde911",
+   "title": "Product Owner, AI Internal Systems",
+   "company": "Bjak",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T03:35+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and wo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bjak/jobs/product-owner-ai-internal-systems-7341365176"
+    }
+   ]
+  },
+  {
+   "id": "557790da817017e8",
+   "title": "Remote Software Engineers.",
+   "company": "Quantum Strides LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 80,000–105,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T03:30+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Title: Remote Software Engineer Location: Maryland, USA (Remote) Quantum Strides LLC is a leader in Integrated Workplace Management Solutions (IWMS) space specializing in solutions for Real Estate and Asset management, Capital Projects, Space & Move management, Operations & Maintenance and Sustainability Solutions. Hea",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/remote-software-engineers"
+    }
+   ]
+  },
+  {
+   "id": "73ab82626b3cb82c",
+   "title": "IT Product Owner Lead - ServiceNow",
+   "company": "The Mosaic Company",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T02:59+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "The ServiceNow Product Owner is accountable for the product vision, roadmap, backlog, and value realization of Mosaic's ServiceNow platform and digital workflow capabilities. This role represents business and user priorities, translates demand into clear outcomes and actionable work, and partners with process owners, p",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-mosaic-company/jobs/it-product-owner-lead-servicenow"
+    }
+   ]
+  },
+  {
+   "id": "706a34b1491a29ce",
+   "title": "Principal Software Engineer — Broker Applications",
+   "company": "insightsoftware",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 124,000–156,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T02:30+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "About Us: insightsoftware is a global provider of reporting, analytics, and performance management solutions that unlock the potential of business data and transform the way finance and data teams operate. We empower leaders from over 32,000 organizations to make timely and intelligent decisions. Our comprehensive solu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/insightsoftware/jobs/principal-software-engineer-broker-applications"
+    }
+   ]
+  },
+  {
+   "id": "40ada582ee298b4d",
+   "title": "Full Stack Engineer (Java/React)",
+   "company": "OPENLANE",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 90,000–125,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T02:26+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Who We Are: At OPENLANE we make wholesale easy so our customers can be more successful. We’re a technology company building the world’s most advanced—and uncomplicated—digital marketplace for used vehicles. We’re a data company helping customers buy and sell smarter with clear, actionable insights they can understand a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/openlane/jobs/full-stack-engineer-java-react"
+    }
+   ]
+  },
+  {
+   "id": "f98b5c4f9ddeaaf2",
+   "title": "Software Engineer",
+   "company": "OPENLANE",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 90,000–125,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T01:42+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Who We Are: At OPENLANE we make wholesale easy so our customers can be more successful. We’re a technology company building the world’s most advanced—and uncomplicated—digital marketplace for used vehicles. We’re a data company helping customers buy and sell smarter with clear, actionable insights they can understand a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/openlane/jobs/software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "79e0453c7a78c460",
+   "title": "Principal Project Manager",
+   "company": "5 Star Global Recruitment Partners",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 15,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T01:38+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "The Principal Project Manager is a hands-on position responsible for the overall direction, coordination, implementation, execution, control, and completion of multiple complex program level efforts ensuring consistency with company vision, strategy, commitments, and goals. The Principal Project Manager applies profess",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/5-star-global-recruitment-partners/jobs/principal-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "4805cf83721f336b",
+   "title": "Project Manager (US)",
+   "company": "Quantum Strides LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T00:57+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Title: Project Manager (TRIRIGA/AWS) Location: USA (Remote) Quantum Strides LLC is a leader in Integrated Workplace Management Solutions (IWMS) space specializing in solutions for Real Estate and Asset management, Capital Projects, Space & Move management, Operations & Maintenance and Sustainability Solutions. Headquar",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/project-manager-us"
+    }
+   ]
+  },
+  {
+   "id": "ffa0b5812a4849e9",
+   "title": "Project Manager",
+   "company": "Dynamis, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 145,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T23:46+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Dynamis, Inc. is seeking a Contract Project Manager (PM) to serve as the single point of accountability for delivery of all HSIN Program and Stakeholder Engagement support services. The PM manages the full contract team, oversees scope, schedule, and cost, performs quality assurance across all deliverables, and serves ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dynamis-inc/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "c1eab5178d4969a1",
+   "title": "Remote IT Project Manager",
+   "company": "Global Channel Management, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T23:21+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Remote IT Project Manager needs 5-7 years of project management experience Remote IT Project Manager requires: Experience with distribution intelligence platforms such as SalesPage, Broadridge SalesVision, SS&C SalesConnect, or similar PMP,RTE, CAPM, CSM, or similar certification Experience in the financial services/ a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/remote-it-project-manager-3052664629"
+    }
+   ]
+  },
+  {
+   "id": "2dbd92bfc97ebe47",
+   "title": "Product Owner (Informatica MDM)",
+   "company": "Wesco",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T23:13+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "We are seeking an experienced Product Owner to lead the delivery and evolution of our enterprise Customer Master Data Management (MDM) platform. This role will partner closely with business stakeholders, data governance teams and development teams to define product strategy, manage the product backlog, and maximize bus",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wesco/jobs/product-owner-informatica-mdm"
+    }
+   ]
+  },
+  {
+   "id": "61c9ab9a86035d22",
+   "title": "Project Manager",
+   "company": "Arionkoder",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T22:32+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "We are looking for a Project Manager to join our team! The Project Manager (Scrum master) reports to the Technical Implementation Manager and works with teams to deliver the sprint work, create all reporting, and manage all traditional Scrum master ceremonies and artifacts. In this role, you are responsible for ensurin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/arionkoder/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "499b36995b30599f",
+   "title": "Entegral Sr. Software Engineer - Full-Stack",
+   "company": "Enterprise Mobility",
+   "location": "Flexible / Remote, Gunnison, CO",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T21:46+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Overview Entegral is seeking a motivated, adaptable, career-minded teammate who would like to utilize their skill set in a thriving agile-methodology environment. We offer competitive career advancement opportunities, a comprehensive benefits package and promote a work-life balance. We're in search of talented people w",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/enterprisemobility/entegral-sr-software-engineer-fullstack-5710ef"
+    }
+   ]
+  },
+  {
+   "id": "8705dadcaedc3d19",
+   "title": "Staff Technical Program Manager, Infrastructure",
+   "company": "Reddit",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 194,600–272,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T20:59+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/reddit/jobs/staff-technical-program-manager-infrastructure"
+    }
+   ]
+  },
+  {
+   "id": "7468e885711a9c56",
+   "title": "Senior Web Program Manager",
+   "company": "Samsara Inc.",
+   "location": "Flexible / Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-10T19:05+00:00",
+   "posted_day": "2026-10-10",
+   "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficie",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/samsarainc/senior-web-program-manager-0a0845"
+    }
+   ]
+  },
   {
    "id": "1f21da2ffdae9fbb",
    "title": "Ketryx Implementation Project Manager",
@@ -6841,5 +7295,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-10T07:06+00:00"
+ "updated": "2026-10-11T07:07+00:00"
 }
