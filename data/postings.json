@@ -155,9 +155,515 @@
     "The Muse": "2 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-12T07:14+00:00",
+   "added": 19,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "23 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "399e854d96801394",
+   "title": "Project Manager",
+   "company": "Starlims Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T06:46+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Manage and coordinate R&D projects at the division or cross-division level, working under the direction of the Program Manager. Your goal is to deliver projects on time, within scope and within budget, despite limited resources and changing priorities. You will lead cross-functional teams of business analysts, develope",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/starlims-corporation/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "9044650824adcd82",
+   "title": "Project Manager",
+   "company": "Apex IT",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T05:14+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Apex IT is a global consulting firm that provides award-winning services to transform the customer, employee, and student experiences. Since 1997, Apex IT our Salesforce and Oracle experts have provided a full range of enterprise solutions including CRM and related applications that support sales, marketing, and servic",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/apex-it/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "4d3a7a4f95839841",
+   "title": "Sr. Software Engineer (.NET core, Angular)",
+   "company": "Cority",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T05:03+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "About Cority Cority helps customers see and prevent risks across their operations in real time. Our EHS+ platform converges people, data, and AI agents to provide a clear view of information people can trust, automate workflows that make people more impactful, and deliver personalized insights and expertise to improve ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cority/jobs/sr-software-engineer-net-core-angular"
+    }
+   ]
+  },
+  {
+   "id": "b7f3d790d2fe322b",
+   "title": "Staff Software Engineer (1-year contract)",
+   "company": "Cority",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-12T04:47+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "About Cority Cority helps customers see and prevent risks across their operations in real time. Our EHS+ platform converges people, data, and AI agents to provide a clear view of information people can trust, automate workflows that make people more impactful, and deliver personalized insights and expertise to improve ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cority/jobs/staff-software-engineer-1-year-contract"
+    }
+   ]
+  },
+  {
+   "id": "d86ee4252fcbd924",
+   "title": "Lead Technical Program Manager, Robotaxi",
+   "company": "Waabi",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 235,000–270,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T04:33+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Waabi , founded by AI visionary Raquel Urtasun, is the leader in Physical AI. With a world-class team, we're unlocking the next era of autonomous transportation with technology that's powering commercial autonomous trucks and robotaxis. Waabi is backed by and partners with world leaders in AI, automotive, logistics, an",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/waabi/jobs/lead-technical-program-manager-robotaxi"
+    }
+   ]
+  },
+  {
+   "id": "c0df5c3cb6bccd77",
+   "title": "Senior .NET Full Stack Developer",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 100,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-12T04:02+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Senior .NET Full Stack Developer - Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous caree",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-net-full-stack-developer-3040775355"
+    }
+   ]
+  },
+  {
+   "id": "7a2964f31ee5c53c",
+   "title": "AI-Directed Software Engineer",
+   "company": "EnvisionWare",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T04:01+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Job Summary: Job Summary: The AI-Directed Software Engineer designs and delivers software across the full Envisionware stack (backend, frontend, native clients, and the AWS infrastructure that runs them) by directing AI systems to do the bulk of the implementation work. You'll move ideas from concept to demo to product",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/envisionware/jobs/ai-directed-software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "17ba5686c749a2cd",
+   "title": "ServiceNow Technology Delivery Lead Manager",
+   "company": "Accenture",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 87,400–266,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T03:50+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "We Are: A global professional services organization, which includes being a vital services partner to the world’s major cloud providers — ServiceNow, AWS, Azure, Google, and others. Choose Accenture and make delivering innovative work part of your extraordinary career! The Accenture ServiceNow Business Group’s platform",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/accenture/jobs/servicenow-technology-delivery-lead-manager"
+    }
+   ]
+  },
+  {
+   "id": "5743515a16383647",
+   "title": "Project Manager",
+   "company": "Pyramid Global Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T03:40+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Must have telecom and digital experience The Project Manager is responsible for leading a cross functional team within IT Domains (Architects, System Analysts, Developers, Testers, Build & Release Engineers etc.) to deliver Projects on time and on budget. This role also involves working with regional & offshore teams. ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/pyramid-global-technologies/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "9da95eddd90c756f",
+   "title": "Product owner Role",
+   "company": "BEEU Infotech Limited",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T03:32+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "This is a remote position. Product Owner: Experience: 5-7 Years​ Responsibilities: Product Strategy & Roadmap: Assist in defining and championing the product vision, strategy, and roadmap for our billing platform, in alignment with company objectives. Conduct market research, competitive analysis, and customer feedback",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/beeu-infotech-limited/jobs/product-owner-role"
+    }
+   ]
+  },
+  {
+   "id": "7eba85c38bda24bc",
+   "title": "Project Manager",
+   "company": "Antit",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T02:36+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "This is a remote position. As a Project Manager, you will be responsible for the day-to-day management of one or more exciting projects. This is a great opportunity for someone with administrative experience and strong organizational skills to be part of a fast-paced team. There is no minimum education nor experience r",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/antit/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "d9b6a1a74fc0414a",
+   "title": "Full stack (Angular + Node.js)",
+   "company": "Hivex",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T01:21+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Hivex is seeking an experienced Full Stack Developer with expertise in Node.js and Angular to help design, develop, and maintain web applications. The ideal candidate will have a strong background in both front-end and back-end development, with a proven track record of delivering high-quality software solutions. Requi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/hivex/jobs/full-stack-angular-node-js-852729079"
+    }
+   ]
+  },
+  {
+   "id": "02a5f44c0295c654",
+   "title": "Project Manager",
+   "company": "CDW",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 77,725–108,265",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T00:14+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Job Summary: The CDW Project Manager is a trusted consultant, providing project management expertise across multiple technology stacks and services. Projects are typically of low to medium complexity and incorporate mainstream, legacy and emerging technologies. The Project Manager may independently manage projects, or ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cdw/jobs/project-manager-1987533134"
+    }
+   ]
+  },
+  {
+   "id": "6d0b64aee2009980",
+   "title": "Technical Program Manager - Embedded Software",
+   "company": "EnCharge AI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 200,000–250,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T00:09+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "EnCharge AI is building a new generation of AI compute systems designed to deliver dramatically higher energy efficiency for AI inference. Our technology combines innovative compute architectures with a full-stack software platform spanning silicon, firmware, drivers, compilers, runtimes, and AI model enablement. We ar",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/encharge-ai/jobs/technical-program-manager-embedded-software"
+    }
+   ]
+  },
+  {
+   "id": "b9f9cfd3214603d7",
+   "title": "Scrum Master",
+   "company": "Antit",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T00:04+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "This is a remote position. The ideal candidate will thrive in a high-profile position and fast paced work environment that requires strong problem-solving skills and independent self-direction, coupled with an aptitude for team collaboration and open communication.​ Requirements Requisitos Drive the Agile execution of ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/antit/jobs/scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "b84f9455fe4c00b8",
+   "title": "Data Product Owner",
+   "company": "Inizio Partners Corp",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T22:21+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Responsibilities: Strong understanding of data architecture, modeling, and the ability to work closely with data engineers to oversee the development of data solutions. Expertise in identifying business needs and translating them into technical requirements for data processing and analytics. Proficiency in managing com",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/data-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "b36d82ffec3cb115",
+   "title": "Software Engineer",
+   "company": "CAMP Systems",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T21:46+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Category: IT Services Location: Design, build, and maintainGraphQL graph types, queries, mutations, and resolvers that expose Quantum ERPdata (work orders, purchase orders, GL/AP/AR, companies, inventory) accuratelyand safely. Extend the Entity FrameworkCore data layer and Oracle package wrappers and repositories, writ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/camp-systems/jobs/software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "c61af2d90677440c",
+   "title": "IT Project Manager / Agiloft Administrator",
+   "company": "Vestis",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T21:17+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Meet Vestis ®: For the People Who Make It All Work At Vestis ®, we provide uniforms, workplace supplies, and professional cleaning that help businesses simplify their workday and keep their teams safe, confident, and focused on what matters most. More than a provider, we are a partner in productivity, trusted to keep y",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vestis/jobs/it-project-manager-agiloft-administrator"
+    }
+   ]
+  },
+  {
+   "id": "49329eced20f7426",
+   "title": "Data Product Owner - Remote (required travel to NJ)",
+   "company": "Info Resume Edge",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-11T21:10+00:00",
+   "posted_day": "2026-10-11",
+   "summary": "Partner with business stakeholders to gather and refine requirements, focusing on data features that drive strategic outcomes. Define and communicate the data product vision, aligning it with business goals Develop detailed use cases, prioritize product roadmaps, identify relevant data sources, and document functional ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/info-resume-edge/jobs/data-product-owner-remote-required-travel-to-nj"
+    }
+   ]
+  },
   {
    "id": "12dcd74fa9a22ba2",
    "title": "MSSP Project Manager",
@@ -7295,5 +7801,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-11T07:07+00:00"
+ "updated": "2026-10-12T07:14+00:00"
 }
