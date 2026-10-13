@@ -167,9 +167,567 @@
     "The Muse": "0 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-13T07:14+00:00",
+   "added": 21,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "25 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "1a4575a7579e5f35",
+   "title": "Staff Software Engineer",
+   "company": "Computrition, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 131,400–160,600",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T02:47+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Staff Software Engineer Location: Jacksonville (Preferred) or Remote Overview: Dark Matter Technologies seeks a Staff Software Engineer to develop new features and functionality as part of a team working on a serverless based, distributed, cloud-native application. Dark Matter utilizes AWS for hosting applications and ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/computrition-inc/jobs/staff-software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "2a5b58c5dedb01b7",
+   "title": "Stripe Payment Integration Freelance | PHP | Angular",
+   "company": "Eddymens",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-13T00:37+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Introduction We are looking to move away from our current payment provider over to Stripe and need a developer to help us achieve this under a freelance contract. The platform in question helps consultants bill their clients and track payments. It currently has over 500 consultants using it for invoice processing. Tech",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/eddymens/jobs/stripe-payment-integration-freelance-php-angular"
+    }
+   ]
+  },
+  {
+   "id": "9f91963daddf2524",
+   "title": "IT Project Manager",
+   "company": "Everglade Works",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 40–65",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T23:41+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Remote IT Project Manager Location: Remote (USA Only) Pay: $40 - $65 per hour Why Join Everglade Works ? We don't just offer jobs we offer careers with growth, flexibility, and incredible benefits . Here's why you'll love working with us: Competitive Pay: $40 - $65 per hour, paid bi-weekly. Fully Remote: Work from anyw",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/everglade-works/jobs/it-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "2af92d9a8eb1b35c",
+   "title": "Software Engineer",
+   "company": "Everglade Works",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 60–80",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T23:25+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Remote Software Engineer (USA Only) | $60 - $80 per hour Are you a software engineer who thrives in remote environments, enjoys solving complex problems, and wants to work on cutting-edge technology? If you're looking for a high-impact role where your skills make a difference, we want to hear from you! About the Role W",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/everglade-works/jobs/software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "552b5643fa180826",
+   "title": "Jr. Project Manager",
+   "company": "Shyft6",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T19:34+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "This is a remote position. Jr. Project Manager We are seeking a Junior Project Manager to support the delivery of AI-driven applications, data platforms, and client-facing technology solutions. This role will assist in coordinating projects across environments leveraging AWS, Azure, Tableau, Power BI, and DealCloud CRM",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/shyft6/jobs/jr-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "8f794135e7b54770",
+   "title": "Tier 2 Product Owner - Oracle SCM & Fleet Management",
+   "company": "Apex IT",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T19:30+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Apex IT is a global consulting firm that provides award-winning services to transform the customer, employee, and student experiences. Since 1997, Apex IT our Salesforce and Oracle experts have provided a full range of enterprise solutions including CRM and related applications that support sales, marketing, and servic",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/apex-it/jobs/tier-2-product-owner-oracle-scm-fleet-management"
+    }
+   ]
+  },
+  {
+   "id": "54f2b8f55931ff7e",
+   "title": "Sr. Project Manager",
+   "company": "Shyft6",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T18:38+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "This is a remote position. Sr. Project Manager We are seeking a Senior Project Manager to lead the delivery of AI-driven applications, data platforms, and client-facing technology solutions. This role will be responsible for managing end-to-end project execution , ensuring successful delivery across environments levera",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/shyft6/jobs/sr-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "b7f6b2fc8f9c4323",
+   "title": "Senior Project Manager (GPUaaS & AI Infrastructure)",
+   "company": "Radian Arc",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T18:31+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Location & work modality: Remote Start: Asap Type of Contract: Freelance or Permanent About Radian Arc . Radian Arc delivers AI infrastructure and GPU-as-a-Service (GPUaaS) solutions that enable enterprises, telecommunications operators, governments, and AI organizations to deploy, operate, and scale high-performance G",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/radian-arc/jobs/senior-project-manager-gpuaas-ai-infrastructure"
+    }
+   ]
+  },
+  {
+   "id": "806da369ea9b5016",
+   "title": "Data Architect Lead/Agile Program Manager- REMOTE",
+   "company": "Remote Core Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T17:56+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Remote Core Solutions provides outsourcing solutions. Our client companies range from small businesses to large corporations, and we pride ourselves on matching candidates with roles where they can thrive and make a significant impact. About the role: We are seeking a highly skilled and motivated Data Architect Lead fo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/remote-core-solutions/jobs/data-architect-lead-agile-program-manager-remote"
+    }
+   ]
+  },
+  {
+   "id": "2c149c5aed31f9a3",
+   "title": "Scrum Master",
+   "company": "Shuru Technologies Private Limited",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T16:50+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Category: IT Services Location: Shuru is a self-managed technology team specializing in accelerating visions through product, technology, and AI leadership. With a focus on bespoke execution, we deliver impactful solutions that are scalable and designed for success. At Shuru, we deliver mobile solutions that meet and e",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "7ce3077afac86036",
+   "title": "Product Owner",
+   "company": "Antit",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T15:13+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "This is a remote position. TheProduct Owneris a member of the Team responsible for defining features, maintaining and prioritizing the Product Backlog to streamline the execution of product priorities as defined by the business and the Market facing product team, while maintaining the conceptual and technical integrity",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/antit/jobs/product-owner"
+    }
+   ]
+  },
+  {
+   "id": "6f07fd107a1e84ac",
+   "title": "Oracle HCM Product Owner",
+   "company": "Apex IT",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T15:07+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Apex IT is a global consulting firm that provides award-winning services to transform the customer, employee, and student experiences. Since 1997, Apex IT our Salesforce and Oracle experts have provided a full range of enterprise solutions including CRM and related applications that support sales, marketing, and servic",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/apex-it/jobs/oracle-hcm-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "66e638ed0f5100ad",
+   "title": "AI Product Owner",
+   "company": "Apex IT",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T14:57+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Apex IT is a global consulting firm that provides award-winning services to transform the customer, employee, and student experiences. Since 1997, Apex IT our Salesforce and Oracle experts have provided a full range of enterprise solutions including CRM and related applications that support sales, marketing, and servic",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/apex-it/jobs/ai-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "2b381e71d5241b0c",
+   "title": "Program Manager (Customer Success)",
+   "company": "OpenZeppelin",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T14:45+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "About us OpenZeppelin is the security standard onchain finance is built on. Founded in 2015, our mission is to accelerate the world's transition to an open financial system, built on open standards and secured by rigorous research. Our open-source Contract Libraries have facilitated over $35 trillion in onchain value a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/openzeppelin/jobs/program-manager-customer-success"
+    }
+   ]
+  },
+  {
+   "id": "73b7b77f46e9bb1a",
+   "title": "Product Owner - US Payments",
+   "company": "Form3",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 140,000–200,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T14:34+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "THE ROLE 📝 This is an exciting opportunity for a Product Owner to join the US Product team within Form3 . This role will act as a product expert for both internal teams and external stakeholders, driving continuous improvement and providing clarity on Form3 ’s full US Payments product suite. With previous experience wo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/form3/jobs/product-owner-us-payments"
+    }
+   ]
+  },
+  {
+   "id": "535abacea00fbe39",
+   "title": "Technical Product Owner",
+   "company": "Deed",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T14:15+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "1. JOB PURPOSE – WHAT WILL YOU DO: The Technical Product Owner will play a pivotal role in defining, prioritizing, and delivering cutting-edge technical solutions for the company’s platform and services. This role requires a balance of technical expertise, business acumen, and strong leadership to drive product strateg",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/deed/jobs/technical-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "5f7b600f2ffe18b9",
+   "title": "Product Delivery Manager - Remote UK",
+   "company": "SchoolGrid",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T13:53+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "This is a remote position. We're looking for a driven, organised and delivery focused Product Delivery Manager to make sure our product roadmap actually gets shipped, at pace and to a high standard. This role is all about ownership: once a feature or change is scoped, you make it move, through user stories, development",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/schoolgrid/jobs/product-delivery-manager-remote-uk"
+    }
+   ]
+  },
+  {
+   "id": "c92349c35c50714e",
+   "title": "IT PMO Project Manager",
+   "company": "Axiom Path",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-12T13:21+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "This is a remote position. Be Part Of A Dynamic Team Join a growing organization strengthening how technology initiatives are planned, governed, and delivered across the enterprise. The technology organization is building a more structured Project Management Office designed to improve project visibility, accountability",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/axiom-path/jobs/it-pmo-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "065e7f216b2f3ef6",
+   "title": "Senior Angular Developer in Athens or Thessaloniki",
+   "company": "Accenture Greece",
+   "location": "Athens, Central Athens, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-12T08:31+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "ARE YOU READY to step up to the New and take your technology expertise to the next level? Through unmatched industry experience, leading technologies from our ecosystem partners and startups, and the largest delivery network in the world, we provide a powerful range of capabilities that can be tailored to our client’s ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/i5MpJpLAePDw4i8sPs8VnJ/senior-angular-developer-in-athens-or-thessaloniki-in-athens-at-accenture-greece"
+    }
+   ]
+  },
+  {
+   "id": "73012f6d209d9747",
+   "title": "Junior Project Manager (Keet P2P) (100% remote)",
+   "company": "Tether Operations Limited",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-12T08:21+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By ha",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tether-operations-limited/jobs/junior-project-manager-keet-p2p-100-remote"
+    }
+   ]
+  },
+  {
+   "id": "ee4e929e50b4c8eb",
+   "title": "Senior Fullstack Developer (.NET / Angular)",
+   "company": "InventYOU AB",
+   "location": "Stockholm, Stockholm County, Sweden",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-12T08:05+00:00",
+   "posted_day": "2026-10-12",
+   "summary": "We are looking for a Senior Full-Stack Developer (.NET / Angular) to join a team responsible for developing and maintaining a business-critical digital platform. You will work across both back-end and front-end development, building new features, improving existing functionality, and ensuring the stability and performa",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/fjaCQeT5RQpXbN4d8NRaQG/hybrid-senior-fullstack-developer-(.net-%2F-angular)-in-stockholm-at-inventyou-ab"
+    }
+   ]
+  },
   {
    "id": "399e854d96801394",
    "title": "Project Manager",
@@ -7801,5 +8359,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-12T07:14+00:00"
+ "updated": "2026-10-13T07:14+00:00"
 }
