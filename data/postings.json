@@ -179,9 +179,515 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-14T07:30+00:00",
+   "added": 19,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "7653bcd6f361806b",
+   "title": "Scrum Master",
+   "company": "Itero Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T05:51+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "About us Itero Group is a Women-Owned Small Business focused on simplifying complex transformations. We empower clients in the private and government sectors to become more optimized, digitally enabled, and data-driven organizations through our comprehensive business consulting and innovative delivery solutions. Itero ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/itero-group/jobs/scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "acb5c2ce4b949815",
+   "title": "Senior Web Developer Job ID : 403",
+   "company": "CEdge Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T05:42+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "CEdge has an opportunity for a Senior Web Developer , Remote. If you are ready to work alongside World Renowned Technology experts, and carry the skills below, this is the opportunity that will inevitably take your career to unbelievable levels! ***This position requires a Public Trust (Tier 2 or higher)*** Position Ov",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cedge-inc/jobs/senior-web-developer-job-id-403"
+    }
+   ]
+  },
+  {
+   "id": "29dc113027dab90b",
+   "title": "DESENVOLVIMENTO - Desenvolvedor Baixa Plataforma - Front-end Web Angular",
+   "company": "Spassu",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T05:17+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Categoria: Tecnologia Localização: Curte tecnologia, inovação e tem agilidade no DNA? Então talvez você tenha acabado de encontrar o seu próximo desafio! Na Spassu , estamos com um projeto incrível no ar — e ele está prontíssimo para receber profissionais com aquele algo a mais. Se você é Desenvolvedor Baixa Plataforma",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/spassu/jobs/desenvolvimento-desenvolvedor-baixa-plataforma-front-end-web-angular"
+    }
+   ]
+  },
+  {
+   "id": "a1b395d96a5ad66e",
+   "title": "Technical Customer Success / Customer Program Manager",
+   "company": "Ciroos",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T03:36+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Role Summary Ciroos is hiring a Technical Customer Success / Customer Program Manager to own the customer program from onboarding through adoption — connecting the dots across the customer, Forward Deployed Engineering (FDE), Product, and Engineering. This is a role for someone who knows how to drive: you'll know what ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ciroos/jobs/technical-customer-success-customer-program-manager-5796007833"
+    }
+   ]
+  },
+  {
+   "id": "450bd20e3e185988",
+   "title": "Lead Agile Coach",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 126,300–173,700",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T02:36+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Become a part of our caring community Lead Agile Coach partners with organizational leaders, business teams, and delivery teams to lead the enterprise-wide adoption of Agile methodologies and practices. You will provide coaching, training, and strategic guidance across Agile frameworks, including Scrum, Kanban, and SAF",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/lead-agile-coach"
+    }
+   ]
+  },
+  {
+   "id": "a941b7cade3fc8bd",
+   "title": "Software Engineer III - Full Stack, Angular, Java, AWS",
+   "company": "Global Healthcare Exchange (GHX)",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 102,000–136,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T02:04+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "GHX is seeking a Software Engineer III with a proven track record in designing, developing, and delivering high-quality, scalable software solutions across the full stack. This role is responsible for the creation, implementation, and support of both existing and next-generation products used in the healthcare supply c",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/global-healthcare-exchange-ghx/jobs/software-engineer-iii-full-stack-angular-java-aws"
+    }
+   ]
+  },
+  {
+   "id": "4524cb64eb58e757",
+   "title": "Automation Program Manager",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 16,
+   "experience_estimated": false,
+   "salary": "USD 146,000–234,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T01:31+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Responsibilities Join Peraton in advancing the safety, efficiency, and modernization of the National Airspace System (NAS) through the FAA’s Brand New Air Traffic Control System (BNATCS) contract. As a trusted partner to the Federal Aviation Administration, Peraton helps deliver the systems and services that keep our n",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/automation-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "a0d03a124b65c769",
+   "title": "Technical Program Manager (TPM)",
+   "company": "xCures, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 115,000–145,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T01:12+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "About xCures The best of medicine should belong to everyone. Nobody dreams of becoming good at being a patient. We have people to love, things we want to do, and plans we hope to keep. Illness already asks enough of us. xCures® exists to give healthcare the capacity to care for everyone. Healthcare has more to give. To",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/xcures-inc/jobs/technical-program-manager-tpm"
+    }
+   ]
+  },
+  {
+   "id": "b6e0ff390050e272",
+   "title": "AWS Technical Lead/Sr. Java/Angular Developer",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 131,750–178,250",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T00:59+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: Other Job Family: Software Engineering Job Qualifications: Skills: Amazon Web Services (AWS), Angular UI, Java (Programming Language), Spring Boot, Technical Leadership Cer",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/aws-technical-lead-sr-java-angular-developer"
+    }
+   ]
+  },
+  {
+   "id": "5bdba6acabc06eea",
+   "title": "Sr. Project Manager, EPMO",
+   "company": "Navitus Health Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 101,335–126,669",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T00:52+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Company Lumicera About Us Lumicera - Lumicera Health Services Powered by Navitus - Innovative Specialty Pharmacy Solutions- Lumicera Health Services is defining the “new norm” in specialty pharmacy to optimize patient well-being through our core principles of transparency and stewardship. Here at Lumicera, our team mem",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/navitus-health-solutions/jobs/sr-project-manager-epmo"
+    }
+   ]
+  },
+  {
+   "id": "197319561c085565",
+   "title": "Delivery Manager - Project Delivery",
+   "company": "3Cloud",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T23:12+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Are you looking for a role that motivates and challenges you? Are you ready for an opportunity for growth? Do you want to work on teams where people roll up their sleeves to take on tough problems together, and regularly blow the doors off our clients with their outstanding teamwork? If you answered yes to those questi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/3cloud/jobs/delivery-manager-project-delivery"
+    }
+   ]
+  },
+  {
+   "id": "b79e4acbeab8d0d7",
+   "title": "Software Engineer",
+   "company": "Love Mobile",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T22:50+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "About Love Mobile Love Mobile is a community‑focused mobile telecommunications company on a mission to give back. Launched in beta in Tulsa, OK, we blend modern network services with meaningful social impact, investing a portion of every customer’s spend back into local schools, shelters, and skill‑building initiatives",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/love-mobile/jobs/software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "d7406af8afc8e505",
+   "title": "Scrum Master",
+   "company": "Xablu",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T22:50+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "What is the position? As a Scrum Master, you love contributing to the in-depth growth of development teams brought together for our clients. You will focus on the agile process of the team, support this process by making it more efficient and improving collaboration. In a nutshell, your most important task is to facili",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/xablu/jobs/scrum-master-3001209512"
+    }
+   ]
+  },
+  {
+   "id": "c9effe18121d272b",
+   "title": "Technical Delivery Manager",
+   "company": "Attain Partners",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 140,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T22:43+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Attain Partners is an innovative consulting firm dedicated to disrupting the status quo to change the world and improve the lives of those we touch. From strategy to technology and everywhere in between, our experts use their unique skills to advance the important missions of education, nonprofit, healthcare, and state",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/attain-partners/jobs/technical-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "4bb7a3e8c9583bdf",
+   "title": "Senior Technical Program Manager",
+   "company": "Backblaze",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 130,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T21:21+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "About Backblaze Backblaze is the object storage leader in the open cloud movement, fueling customer success with cloud storage built purposefully to unlock budgets, unburden administrators, and unleash innovators. Together with our partners, we’re helping customers break free from the restrictive, overpriced legacy sol",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/backblaze/jobs/senior-technical-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "40c13b709fc20aec",
+   "title": "Senior Scrum Master - Sector Financiero/Bancario",
+   "company": "Devsu",
+   "location": "Quito, Pichincha, Ecuador",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "onsite",
+   "employment": "contract",
+   "posted": "2026-10-13T19:05+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Buscamos un Scrum Master con sólida experiencia liderando equipos de desarrollo de software dentro de entornos financieros de alta exigencia, incluyendo banca, banca digital y fintech. La persona será responsable de facilitar la ejecución efectiva del delivery, impulsar la adopción de prácticas ágiles, gestionar impedi",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/mjvMLNh7D2sEp9wB4aqtBj/senior-scrum-master---sector-financiero%2Fbancario-in-quito-at-devsu"
+    }
+   ]
+  },
+  {
+   "id": "479b20a3e3e236bc",
+   "title": "Sr. Program Manager (MANTL)",
+   "company": "Alkami Technology, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 112,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T17:37+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Alkami is the digital sales and service platform provider for U.S. banks and credit unions. Our unified Platform integrates onboarding, digital banking, and data and marketing—each solution can stand alone, but together they deliver more—to help institutions onboard, engage, and grow relationships. As the future shifts",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/alkami-technology-inc/jobs/sr-program-manager-mantl"
+    }
+   ]
+  },
+  {
+   "id": "d9e31b214cb2af5f",
+   "title": "Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Wor",
+   "company": "Parallel Partners",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 130,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T17:22+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Product Owner of AI Internal Systems, Artificial Intelligence (AI) Required, Work From Home We are currently looking for a Product Owner of AI Internal Systems. We are building AI-powered internal systems to transform how the company operates. You will be responsible for identifying opportunities across areas such as P",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/parallel-partners/jobs/product-owner-of-ai-internal-systems-artificial-intelligence-ai-required-wor"
+    }
+   ]
+  },
+  {
+   "id": "c96fbde143a18607",
+   "title": "Senior Program Manager",
+   "company": "Fluxon",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 150,000–190,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-13T16:28+00:00",
+   "posted_day": "2026-10-13",
+   "summary": "Who we are We are Fluxon , a product development team founded by ex-Googlers and startup founders. We offer full-cycle software development from ideation and design to build and go-to-market. We partner with visionary companies, ranging from fast-growing startups to tech leaders like Google and Stripe, to turn bold ide",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/fluxon/jobs/senior-program-manager"
+    }
+   ]
+  },
   {
    "id": "1a4575a7579e5f35",
    "title": "Staff Software Engineer",
@@ -8359,5 +8865,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-13T07:14+00:00"
+ "updated": "2026-10-14T07:30+00:00"
 }
