@@ -191,9 +191,515 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-15T07:29+00:00",
+   "added": 19,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "9 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "cb20f6bbedf88712",
+   "title": "Full Stack Solutions Developer – Java",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–145,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-15T06:51+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: Full Stack ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/full-stack-solutions-developer-java"
+    }
+   ]
+  },
+  {
+   "id": "1809e9ef286870f5",
+   "title": "Senior Technical Project Manager (Compliance & Certifications)",
+   "company": "Partnerize",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T06:16+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Who We Are At Partnerize , we're on a mission to transform the way businesses grow. We've built the leading partnership automation platform that empowers brands to discover, engage, and convert their audiences at scale. From affiliate marketing to influencer collaborations, we help our clients build and manage profitab",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/partnerize/jobs/senior-technical-project-manager-compliance-certifications-8504022289"
+    }
+   ]
+  },
+  {
+   "id": "98a2dbaf1d64d878",
+   "title": "Remote Program Manager",
+   "company": "Global Channel Management, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T05:43+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Remote Program Manager needs 5 years project and program management experience Remote Program Manager requires: 5 years Business process development and management experience. 1 years experience and or knowledge of the following: SQL, PMP, AMP, CBAP Analytical, critical thinking and problem-solving skills Leadership sk",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/remote-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "5a9fb95aa0055014",
+   "title": "Full Stack Software Engineer – .NET",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 100,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-15T05:26+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: Full Stack ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/full-stack-software-engineer-net"
+    }
+   ]
+  },
+  {
+   "id": "5d032e714e9019cf",
+   "title": "Full Stack Software Engineer",
+   "company": "TruTechnologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 150,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T04:52+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Position Overview: TruTechnologies is seeking a senior-level frontend/full-stack engineer to join our small, but growing team. You must have extensive experience with modern frontend development frameworks, tools, and full-stack integration. The ideal candidate is a technical leader who thrives in unstructured environm",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/trutechnologies/jobs/full-stack-software-engineer"
+    }
+   ]
+  },
+  {
+   "id": "dac2d29670d51942",
+   "title": "Product Owner, Supply Chain & Procurement",
+   "company": "Versant Media",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 110,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T03:16+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "As a Product Owner, Supply Chain & Procurement (Business Solutions – Corporate Core Finance) , you will own the vision, roadmap, and prioritized backlog for SAP S/4HANA capabilities that support procurement, inventory, and related finance processes. You will work closely with business stakeholders, SAP functional teams",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/versant-media/jobs/product-owner-supply-chain-procurement"
+    }
+   ]
+  },
+  {
+   "id": "a058e54ab8af74e0",
+   "title": "Technical Delivery Manager",
+   "company": "Vurke Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T01:13+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Technical Delivery Manager Job Title: Technical Delivery Manager Location: Remote, USA Job Type: Full-Time Experience Required: 5 to 8 years Eligibility: Male/Female both can apply Role Description We are looking for a Technical Delivery Manager to oversee the execution of complex technical initiatives and ensure that ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vurke-inc/jobs/technical-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "5a8b19b0b8ba6621",
+   "title": "Program Manager III (Radiology)",
+   "company": "Intelerad",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–141,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T00:26+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Role Overview The Program Manager III is a principal-level delivery leader responsible for the governance, execution, and strategic oversight of large-scale, complex programs within Intelerad 's Professional Services organization. Operating at the enterprise tier, this role partners directly with C-suite client stakeho",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/intelerad/jobs/program-manager-iii-radiology-4080608683"
+    }
+   ]
+  },
+  {
+   "id": "f29027fc83dfc81d",
+   "title": "Technical Project Manager",
+   "company": "Deploy",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T00:02+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Technical Project Manager Location: Remote Multiple clients. Moving parts. You keep it all connected. We're looking for a Technical Project Manager who can manage multiple client-facing projects simultaneously, keep technical teams aligned, and give clients confidence that their projects are in good hands. You're comfo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/deploy/jobs/technical-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "bbd40d576f043d96",
+   "title": "Program Manager",
+   "company": "SunStrong Management, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T20:47+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "The Program Manager Position SunStrong Management is an independent, full-service asset management and servicing company for the renewable energy industry is seeking a Program Manager to lead and coordinate strategic initiatives that enhance the organization’s performance, efficiency, and scalability. This role is resp",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sunstrong-management-llc/jobs/program-manager"
+    }
+   ]
+  },
+  {
+   "id": "5b2053b767082306",
+   "title": "Cross-functional Project Manager",
+   "company": "Global Channel Management, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T20:09+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Cross-functional Project Manager needs 5+ years experience Cross-functional Project Manager requires: Planned & executed large projects Taken accountability for project planning and management in a business or agency that implemented an extensive performance program across a fleet or multiple sites; Managed or supporte",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/cross-functional-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "81059e88eb4227e6",
+   "title": "Product Owner",
+   "company": "ENFOS, Inc.",
+   "location": "Durham, North Carolina, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-14T19:38+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "About ENFOS: ENFOS is a profitable, 25-year-old enterprise SaaS company serving many of the world’s leading industrial organizations. Our platform helps finance, accounting, operations, and compliance teams manage complex Environmental Obligations through a centralized system of record built for governance, audit readi",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/8UBHxHLA6bg1TcpCc1CgdU/product-owner-in-durham-at-enfos%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "a44894c76b792b97",
+   "title": "Technical Program Manager",
+   "company": "Snowflake",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 221,000–317,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T16:32+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "At Snowflake , we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/snowflake/jobs/technical-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "42e1e0630e4ac047",
+   "title": "Project Manager",
+   "company": "Agile Defense",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 9,
+   "experience_estimated": false,
+   "salary": "USD 160,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T16:28+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "About Agile Defense At Agile Defense we know that action defines the outcome and new challenges require new solutions. That’s why we always look to the future and embrace change with an unmovable spirit and the courage to build for what comes next. Our vision is to bring adaptive innovation to support our nation's most",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/agile-defense/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "309200344f640c93",
+   "title": "Service Delivery Manager",
+   "company": "Nexcess",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 125,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-14T15:16+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "About Nexcess Nexcess provides specialty cloud solutions for organizations where performance and compliance have to coexist. We serve businesses worldwide, from agencies scaling client sites to enterprises running mission-critical operations. We've built our reputation on deep technical expertise and genuine partnershi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nexcess-com/jobs/service-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "3dec44503ef62f04",
+   "title": "Remote Part time Scrum Master",
+   "company": "Global Channel Management, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Part Time",
+   "workplace": "remote",
+   "employment": "parttime",
+   "posted": "2026-10-14T14:26+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Remote Part time Scrum Master needs 3+ years experience as a Scrum Master or leading Agile teams Remote Part time Scrum Master requires: Security clearance required Experience with projects using Scaled Agile Framework, collecting and documenting system requirements and capabilities, and writing user stories or structu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/global-channel-management-inc/jobs/remote-part-time-scrum-master"
+    }
+   ]
+  },
+  {
+   "id": "d112320dcd38707e",
+   "title": "Angular Software Engineer",
+   "company": "EY Greece",
+   "location": "Thessaloniki, Thessaloniki, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-14T09:31+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Being part of EY in Greece means being part of a continuously growing team, which has been announced as Top Employer for the fourth consec",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/4BFmsaBrHdHes7VXBqFL34/angular-software-engineer-in-thessaloniki-at-ey-greece"
+    }
+   ]
+  },
+  {
+   "id": "092a2146760df3ce",
+   "title": "Product Owner/Business Analyst",
+   "company": "Qode",
+   "location": "Ha Noi, Hà Nội, Vietnam",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-14T09:09+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Product Owner/Business Analyst (AI, Deep tech, Robotics) Onsite, Hanoi - Vietnam Hybrid (working from home 1 day a week) We're hiring this role for our client who delivers robotic software and systems to automate tasks that require High Accuracy and High Agility, prides itself on helping clients, globally, achieve vast",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/bVVoXy92CFWhjde8wLGnkr/hybrid-product-owner%2Fbusiness-analyst-in-ha-noi-at-qode"
+    }
+   ]
+  },
+  {
+   "id": "a9c7902c201f964c",
+   "title": "Senior Full Stack .NET Developer (Angular)",
+   "company": "BlackStone eIT",
+   "location": "Amman, Amman Governorate, Jordan",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-14T08:21+00:00",
+   "posted_day": "2026-10-14",
+   "summary": "Main Responsibilities • Develop and maintain frontend applications, backend services and external-system integrations. • Translate business requirements into technical designs and maintainable, secure code. • Support production applications: investigate incidents, resolve defects, optimize performance and deliver enhan",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/rMmpdfsnwhaRTVLrSqyeAH/senior-full-stack-.net-developer-(angular)-in-amman-at-blackstone-eit"
+    }
+   ]
+  },
   {
    "id": "7653bcd6f361806b",
    "title": "Scrum Master",
@@ -8865,5 +9371,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-14T07:30+00:00"
+ "updated": "2026-10-15T07:29+00:00"
 }
