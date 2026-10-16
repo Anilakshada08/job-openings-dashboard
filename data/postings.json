@@ -203,9 +203,645 @@
     "The Muse": "0 new in last 24h",
     "Workable": "9 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-16T07:26+00:00",
+   "added": 24,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "1 new in last 24h",
+    "Workable": "16 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "135cb9b581d80605",
+   "title": "IT Project Manager -Scrum Master/ Technical Writer",
+   "company": "Leidos",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 73,450–132,775",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T07:00+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Leidos Digital is seeking a Scrum Master / Technical Writer to support the U.S. Coast Guard Decision Advantage (DA) AI Team. This role will provide Agile delivery leadership while developing the technical, operational, and governance documentation needed to support rapid AI prototyping, experimentation, evaluation, and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/leidos/jobs/it-project-manager-scrum-master-technical-writer"
+    }
+   ]
+  },
+  {
+   "id": "ff8c874b8e1366bc",
+   "title": "Full Stack Developer",
+   "company": "Seven Seven",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T06:23+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "About the Role The Senior Full Stack Developer plays a pivotal role in the GEMS team, driving the development and implementation of advanced cloud-native solutions. This role requires deep expertise in cloud-native design and microservices architecture to enhance the GEMS application and its integrated systems. The dev",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/seven-seven/jobs/full-stack-developer"
+    }
+   ]
+  },
+  {
+   "id": "f4300c9b43d65a49",
+   "title": "Senior Software Engineer .NET Azure",
+   "company": "Madiff",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T06:18+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "This is a remote position. We are looking for a Senior Software Engineer (.NET + Azure) to join a long-term transformation programme modernising core insurance platforms. The role focuses on building new service layers, integrating policy and claims systems, and delivering cloud-native components in Azure. You will hel",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/madiff/jobs/senior-software-engineer-net-azure"
+    }
+   ]
+  },
+  {
+   "id": "dae43493f95dd2a1",
+   "title": "Program Manager, Government",
+   "company": "For People",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 100,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T05:40+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "For People is improving government digital services for the disadvantaged population. We work directly with government agencies to modernize software, systems, and platforms so that they better serve people. Your Impact Every month, hundreds of thousands of people go looking for facts about Medicare and Medicaid. They ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/for-people/jobs/program-manager-government"
+    }
+   ]
+  },
+  {
+   "id": "a3283e659809312c",
+   "title": "Sr Project Manager, Strategic Initiatives (AI Transformation)",
+   "company": "Evolent",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–110,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T04:06+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Your Future Evolves Here Evolent partners with health plans and providers to achieve better outcomes for people with most complex and costly health conditions. Working across specialties and primary care, we seek to connect the pieces of fragmented health care system and ensure people get the same level of care and com",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/evolent/jobs/sr-project-manager-strategic-initiatives-ai-transformation"
+    }
+   ]
+  },
+  {
+   "id": "bc0b8eb170925f52",
+   "title": "Full Stack Developer",
+   "company": "Digital Maelstrom",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T03:56+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "This is a remote position. Position Overview This position is within the custom software development organization at Digital Maelstrom . Candidates will work closely with other engineers, principal consultants, and various client contacts such as stakeholders, architects, business analysts and management. Duties Work w",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/digital-maelstrom/jobs/full-stack-developer"
+    }
+   ]
+  },
+  {
+   "id": "de7273872e5611b2",
+   "title": "Senior Full Stack Engineer",
+   "company": "AVER",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 150,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T03:50+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "AVER is seeking an experienced Senior Full Stack Engineerwith strong hands-on expertise in enterprise application development, database integration, and custom reporting solutions. The ideal candidate brings a solid foundation in .NET/C# or Java, modern front-end technologies, and back-end development using SQL and rel",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aver/jobs/senior-full-stack-engineer"
+    }
+   ]
+  },
+  {
+   "id": "0290890df478a737",
+   "title": "Project Manager – Cloud Infrastructure, AI & Governance Delivery",
+   "company": "Latent Bridge",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T02:51+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "This is a remote position. About the Role We are looking for an experienced Project Manager to coordinate end-to-end delivery execution, unblock client dependencies, manage delivery milestones, and ensure formal stakeholder approvals across both phases of the engagement. The ideal candidate will have strong experience ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/latent-bridge/jobs/project-manager-cloud-infrastructure-ai-governance-delivery"
+    }
+   ]
+  },
+  {
+   "id": "69e49639a9085ee1",
+   "title": "Senior .NET Full-Stack Developer / LATAM",
+   "company": "VELAIO",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T02:50+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "This is a remote position. We are looking for a Senior .NET Full-Stack Developer / English level B2 +, with 5–10 years of experience developing, maintaining, and supporting business-critical applications. The role requires strong experience with .NET 8+, C#, ASP.NET Core, MVC, RESTful APIs, SQL Server, IIS, JavaScript,",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/velaio/jobs/senior-net-full-stack-developer-latam"
+    }
+   ]
+  },
+  {
+   "id": "aec8812593f255a5",
+   "title": "Senior Software Developer (Fully Remote in SoCal)",
+   "company": "HdL Companies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 48–55",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T02:50+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Company Overview The HdL Companies help cities, counties and special districts maximize revenues through research and discovery efforts, financial and economic analysis, and provision of software that supports local government operations in a variety of important ways. We are regarded as a leader, occupying a specific ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/hdl-companies/jobs/senior-software-developer-fully-remote-in-socal"
+    }
+   ]
+  },
+  {
+   "id": "c76a2edd17799715",
+   "title": "Senior Technical Project Manager",
+   "company": "iRhythm",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 138,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T02:48+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Career-defining. Life-changing. At iRhythm , you’ll have the opportunity to grow your skills and your career while impacting the lives of people around the world. iRhythm is shaping a future where everyone, everywhere can access the best possible cardiac health solutions. Every day, we collaborate, create, and constant",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/irhythm/jobs/senior-technical-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "04f7a3cd8310ee80",
+   "title": "IT Project Manager (PMP), School-Based Services EHR Implementation",
+   "company": "Dhaka Technologies Limited Company",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 70–70",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-16T02:47+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Job Title: IT Project Manager (PMP), School-Based Services EHR Implementation Work Arrangement: Fully remote within the United States; full time, Monday to Friday, 7:45 AM to 4:30 PM Eastern Time (client working days only; no client holidays) Location: Remote, United States (Eastern Time schedule) Employment Type: W-2,",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dhaka-technologies-limited-company/jobs/it-project-manager-pmp-school-based-services-ehr-implementation"
+    }
+   ]
+  },
+  {
+   "id": "e7520e8bdc5cf406",
+   "title": "Technical Project Manager - TW",
+   "company": "OnLogic",
+   "location": "Taipei, New Taipei City, Taiwan",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-16T02:43+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "As a Technical Project Manager at OnLogic, you will manage the development of new industrial and rugged computers, edge systems, and servers. You will be responsible for driving cross-functional teams, managing budgets, and ensuring on time delivery of our innovative products. You will oversee all development stages, d",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/gwY48qajiGgdMuKrh9685Q/technical-project-manager---tw-in-taipei-at-onlogic"
+    }
+   ]
+  },
+  {
+   "id": "649cb373e11f83e7",
+   "title": "Program Delivery Manager",
+   "company": "Fiserv",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 136,000–225,600",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T01:59+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Calling all innovators - find your future at Fiserv . We're Fiserv , a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants and consumers to one another millions of times a day - quickly, reliably, and securely",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/fiserv/jobs/program-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "48ce39f1b59f24af",
+   "title": "Delivery Manager",
+   "company": "Oddball",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 90,000–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T01:53+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning, growth, and the ability to make a big impact at a small company. We believe that by bringing quality software to the federal space, we can make big changes happen and improve the dail",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/oddball/jobs/delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "a4232b60e3d93fb3",
+   "title": "Associate Product Owner",
+   "company": "AppMySite",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T00:55+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "This is a remote position. Job Role: We are seeking a dedicated and detail-oriented Associate Product Owner to join our team. This role requires a balance of technical understanding, organizational skills, and the ability to collaborate effectively with cross-functional teams. The ideal candidate will support the deliv",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/appmysite/jobs/associate-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "c693c14010301fdc",
+   "title": "Product Owner",
+   "company": "Muse Group",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T00:54+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Description Audacity is the world's most popular free, open-source audio editor — a 25+ year legacy product with a massive global user base, now going through its most ambitious transformation ever: from audio editor to a full DAW. We're looking for a Product Owner to lead this transformation. What is in it for you? Ow",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/muse-group/jobs/product-owner-3831452339"
+    }
+   ]
+  },
+  {
+   "id": "695361c69c498d6c",
+   "title": "Senior Project Manager",
+   "company": "Modea",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 99,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T22:42+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "The Senior Project Manager / Delivery Lead operates as a trusted, high-impact leader responsible for driving Modea ’s most complex enterprise engagements, specifically focusing on multi-phase Enterprise Web Modernization initiatives. This role demands an advanced balance of deep agile product development expertise, pro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/modea/jobs/senior-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "d8c49e0998994ef1",
+   "title": "Senior Technical Project Manager - DevOps",
+   "company": "iRhythm",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 138,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-15T21:20+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Career-defining. Life-changing. At iRhythm , you’ll have the opportunity to grow your skills and your career while impacting the lives of people around the world. iRhythm is shaping a future where everyone, everywhere can access the best possible cardiac health solutions. Every day, we collaborate, create, and constant",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/irhythm/jobs/senior-technical-project-manager-devops"
+    }
+   ]
+  },
+  {
+   "id": "c2d6bf2fa7e6765f",
+   "title": "Digital Solutions Project Manager - Fidelity Workplace Consulting",
+   "company": "Fidelity Investments",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-15T19:58+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Fidelity will not provide immigration sponsorship for this position. Job Description: Fidelity is well known for its outstanding investment management and benefits outsourcing services. We also offer extensive benefits consulting services consisting of design, financing, delivery, and communication of all employee bene",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/fidelityinvestments/digital-solutions-project-manager-fidelity-workplace-consulting-3af84c"
+    }
+   ]
+  },
+  {
+   "id": "ed2ca782e63511e1",
+   "title": "1780 - Scrum Master/Site Lead",
+   "company": "Sigma Defense",
+   "location": "San Diego, California, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-15T16:55+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Sigma Defense is seeking a Scrum Master/Site Lead to join our team in San Diego, CA. This position serves as a key connection between team members, technical leadership, program management, and the customer, helping ensure priorities remain aligned, obstacles are addressed quickly, and the team can consistently deliver",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/7RataPTTpeQcDxYc6HikDE/1780---scrum-master%2Fsite-lead-in-san-diego-at-sigma-defense"
+    }
+   ]
+  },
+  {
+   "id": "df15a4eb66a2d489",
+   "title": "Technical Project Manager",
+   "company": "OnLogic",
+   "location": "Cary, North Carolina, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-15T14:12+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "As a Technical Project Manager at OnLogic, you will manage the development of new industrial and rugged computers, edge systems, and servers. You will be responsible for driving cross-functional teams, managing budgets, and ensuring on time delivery of our innovative products. You will oversee all development stages, d",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/ahyv3yKrQJCuLxrTx2tm2v/technical-project-manager-in-cary-at-onlogic"
+    }
+   ]
+  },
+  {
+   "id": "31c324176f8d5a82",
+   "title": "Technical Program Manager",
+   "company": "Techconnect.id",
+   "location": "DKI Jakarta, Jawa, Indonesia",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-15T13:08+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "Own end-to-end planning and delivery of technical programs, defining scope, milestones, timelines, and success criteria with stakeholders. Coordinate work across Engineering, Product, Data, Design, and QA teams, and drive alignment on priorities and trade-offs. Identify, track, and manage cross-team dependencies, risks",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/u5iokHgUSAoQgs6BiD9xnS/hybrid-technical-program-manager-in-dki-jakarta-at-techconnect.id"
+    }
+   ]
+  },
+  {
+   "id": "b82de42cb1508679",
+   "title": "Angular Developer",
+   "company": "SYNTAX IT Group",
+   "location": "Attica, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-15T09:10+00:00",
+   "posted_day": "2026-10-15",
+   "summary": "SYNTAX IT Group is seeking an experienced Angular Developer to join our team. The role involves developing high-quality Angular-based web applications, including web, mobile, and conversational user interfaces across nine touchpoints in Greece and Cyprus, as part of a project delivered through one of our key partnershi",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/aTcXknhSi17qrHakFYkD1i/angular-developer-in-attica-at-syntax-it-group"
+    }
+   ]
+  },
   {
    "id": "cb20f6bbedf88712",
    "title": "Full Stack Solutions Developer – Java",
@@ -9371,5 +10007,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-15T07:29+00:00"
+ "updated": "2026-10-16T07:26+00:00"
 }
