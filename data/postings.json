@@ -215,9 +215,567 @@
     "The Muse": "1 new in last 24h",
     "Workable": "16 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-17T07:23+00:00",
+   "added": 21,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "27 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "c4eea01507c27a71",
+   "title": "Technical Project Manager II",
+   "company": "Akamai Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 100,700–181,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T07:18+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Do you relish the prospect of providing end to end support across multiple product suites? Would you like the opportunity to work in a high-impact role responsible for building customer loyalty? Join our prestigious Professional Services team Our Team provides managed services and proactive and reactive support to our ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/akamai-technologies/jobs/technical-project-manager-ii-1433158972"
+    }
+   ]
+  },
+  {
+   "id": "9071bfb16eb7ff7e",
+   "title": "Senior Full-Stack .NET Web Developer (Contract)",
+   "company": "Hillsborough County",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 100–120",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-17T06:48+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Senior Full-Stack .NET Web Developer Location: Remote Employment Type: Contract Experience Level: Senior (10+ years) Salary: $100-$120/hr. About the Role We are seeking a highly skilled Senior Full Stack .NET Web Developer with deep expertise across the full web stack — from server-side C#/.NET services to modern JavaS",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/hillsboroughcounty/jobs/senior-full-stack-net-web-developer-contract"
+    }
+   ]
+  },
+  {
+   "id": "1095881d4b79c54a",
+   "title": "Technical Program Manager, Extensibility Platform",
+   "company": "Stripe",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T06:02+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/stripe/jobs/technical-program-manager-extensibility-platform"
+    }
+   ]
+  },
+  {
+   "id": "6c8675a13429f5f1",
+   "title": "Technical Delivery Manager",
+   "company": "Innodata",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 145,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T05:52+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Innodata (Nasdaq: INOD) is a global data engineering company. We believe that data and Artificial Intelligence (AI) are inextricably linked. Our mission is to enable the responsible advancement of artificial intelligence by providing the data, evaluation frameworks, and human expertise required to build AI systems that",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/innodata/jobs/technical-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "d47287663de07e5d",
+   "title": "Manager, Salesforce Product Owner",
+   "company": "Alliant Insurance Services, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 180,000–200,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T03:00+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Alliant Insurance Services is one of the nation’s largest and fastest-growing insurance brokerage and consulting firms. We operate through a network of specialized national platforms and local offices to offer our clients a comprehensive portfolio of solutions built on innovative thinking and personal service. Alliant ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/alliant-insurance-services-inc/jobs/manager-salesforce-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "dd8ffd71a433c4e0",
+   "title": "Lead Full-Stack Engineer - Node.js and AngularJS(SaaS Platforms)",
+   "company": "Dhan AI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 160,000–200,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T01:32+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "This is a remote position. Job Summary : We are seeking a highly skilled and experienced Lead Full-Stack Engineer specializing in Node.js and AngularJS. In this role, you will dictate the architectural direction of our enterprise SaaS platforms, write pristine server-side and client-side code, and mentor a talented eng",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dhan-ai/jobs/lead-full-stack-engineer-node-js-and-angularjs-saas-platforms"
+    }
+   ]
+  },
+  {
+   "id": "ec157f1cd56fecf1",
+   "title": "Technical Program Manager, Software",
+   "company": "Karman",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 140,000–190,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T01:20+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Karman is a fast-growing energy technology company using distributed artificial intelligence (AI) to accelerate the clean energy transition and better serve utility customers. As the electric grid becomes more complex with the rapid increase of electric vehicles, distributed solar, batteries, heat pumps and extreme wea",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/karman/jobs/technical-program-manager-software"
+    }
+   ]
+  },
+  {
+   "id": "239d3afe316eb14e",
+   "title": "Senior Technical Program Manager, Data",
+   "company": "DraftKings Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 145,600–182,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T23:58+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "At DraftKings, AI is becoming an integral part of both our present and future, powering how work gets done today, guiding smarter decisions, and sparking bold ideas. It’s transforming how we enhance customer experiences, streamline operations, and unlock new possibilities. Our teams are energized by innovation and read",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/draftkings-inc/jobs/senior-technical-program-manager-data"
+    }
+   ]
+  },
+  {
+   "id": "d7e4bc22c538fab3",
+   "title": "Forward Deployed Program Manager",
+   "company": "Flume Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 130,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T23:48+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "About Flume Health Flume Health is a software company that connects the fragmented healthcare data ecosystem for more efficient health plan administration. As a single, cloud-native integration platform, Flume’s Relay platform allows companies to easily connect various systems and vendors for efficient data exchange th",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/flume-health/jobs/forward-deployed-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "a21a19f14390dbb5",
+   "title": "Technical Product Owner – Data Products",
+   "company": "CSI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T23:41+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Job Description: Are you passionate about transforming data into meaningful insights and helping development teams deliver innovative products? CSI is seeking a Technical Product Owner - Data Products - to serve as the execution bridge between product strategy and engineering delivery. In this role : you will partner c",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/csi/jobs/technical-product-owner-data-products"
+    }
+   ]
+  },
+  {
+   "id": "bdf37a402e0797b5",
+   "title": "IT Project Manager LATAM - ITS & Health Informatics",
+   "company": "Combine Global Recruitment",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T21:33+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Position Overview The IT Project Manager (PMO) is part of the ITS PMO and is responsible for managing the end-to-end lifecycle of technology projects , covering both clinical and non-clinical initiatives. This role spans from discovery and requirements gathering through planning, execution, implementation, and closure ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/combine-global-recruitment/jobs/it-project-manager-latam-its-health-informatics"
+    }
+   ]
+  },
+  {
+   "id": "fae60e03238e12e7",
+   "title": "Principal Project Manager",
+   "company": "PTC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T20:42+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business. Our people make all the difference in our success. Today, we are a global team of ne",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ptc/jobs/principal-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "e14c1b63ff826805",
+   "title": "Product Owner (Cloud and Platform) - HL7/DICOM",
+   "company": "Intelerad",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 86,250–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T20:11+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "The Product Owner, Universal Gateway, owns the backlog for the single ingress and egress layer that carries DICOM studies and HL7 messages into and out of Intelerad 's cloud platform, serving IntelePACS, InteleArchive, InteleShare VNA, InteleViewer, and InteleOrchestrator. Universal Gateway replaces today's product-spe",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/intelerad/jobs/product-owner-cloud-and-platform-hl7-dicom"
+    }
+   ]
+  },
+  {
+   "id": "27bacf43238c8845",
+   "title": "Senior Project Manager",
+   "company": "Relevate Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T20:05+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Senior Project Manager | Relevate Health WHO WE ARE At Relevate Health , we believe every HCP communication should be relevant, and we've built a company full of exceptional people who show up every day to make that real. We are healthcare marketing experts who push ourselves to the highest possible levels to further o",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/relevate-health/jobs/senior-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "13547eff6213a57f",
+   "title": "Senior Software Engineer (Front End)",
+   "company": "A1M Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 125,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T18:13+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "About A1M A1M Solutions is a woman-owned small business driven by the aspiration to provide value to our customers, employees, partners, and community while remaining aligned to our guiding principles of foundational values, deliberate focus, and empathetic connection. A1M’s mission is to preserve and improve governmen",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/a1m-solutions/jobs/senior-software-engineer-front-end"
+    }
+   ]
+  },
+  {
+   "id": "d971b5a0447512d1",
+   "title": "UI Frontend Developer",
+   "company": "JSat Automation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T17:31+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "This is a remote position. JSat Automation is hiring an UI/Frontend Developer to join their team in their Blue Bell, PA Office. Must have Angular experience Responsibilities Design and develop responsive and ergonomic web applications Coordinate with backend developers for the design of components and libraries Assist ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/jsat-automation/jobs/ui-frontend-developer"
+    }
+   ]
+  },
+  {
+   "id": "476dbb1a087481f9",
+   "title": "AI Technical Scrum Master with Python Development",
+   "company": "Guidehouse",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 98,000–163,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T17:00+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Job Family: IT Project Management Travel Required: None Clearance Required: Ability to Obtain Public Trust AI Technical Scrum Master with Python Development We are seeking an AI Technical Scrum Master with Python Development to lead Agile delivery for mission-focused, AI-enabled software products in a SAFe Agile enviro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/guidehouse/jobs/ai-technical-scrum-master-with-python-development"
+    }
+   ]
+  },
+  {
+   "id": "f378d597f356e80b",
+   "title": "Program Manager-Enterprise Data-Federal",
+   "company": "Huntridge Labs, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 150,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T16:03+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "About Huntridge Labs Overview Huntridge Labs is a digital engineering company focused on delivering modern solutions for public benefit that are backed by emerging technologies. Mission over Margin We value serving the client mission over everything else. We believe there are too many public sector-focused firms in thi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/huntridge-labs-llc/jobs/program-manager-enterprise-data-federal"
+    }
+   ]
+  },
+  {
+   "id": "ed86da4d798e5f11",
+   "title": "Technical Product Owner",
+   "company": "AppMySite",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T15:37+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "This is a remote position. Job Role: We are seeking a highly skilled Technical Product Owner to join our team.This role demands a strong balance of technical expertise, strategic thinking, and leadership. The ideal candidate will lead cross-functional teams to deliver high-quality SaaS products, ensuring alignment betw",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/appmysite/jobs/technical-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "51c2c9eb0c83d022",
+   "title": "Program Manager - United Concordia Dental",
+   "company": "Highmark Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 94,200–151,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-16T14:48+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "Company : United Concordia Dental Job Description : GENERAL OVERVIEW **Due to Department of Defense (DOD) contract requirements, the incumbent who fills this position must be a US citizen, and must also pass a background check** ROLE PURPOSE Lead a strategically related portfolio of work by connecting enterprise strate",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/highmark-health/jobs/program-manager-united-concordia-dental"
+    }
+   ]
+  },
+  {
+   "id": "ed6bacf7fc44624d",
+   "title": "Product Owner",
+   "company": "Qualco Group",
+   "location": "Athens, Attica, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 25,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-16T14:17+00:00",
+   "posted_day": "2026-10-16",
+   "summary": "We are Qualco Group, a leading fintech organisation with over 25 years of experience delivering innovative technology solutions to banks and financial institutions. Serving clients in over 30 countries, we leverage advanced technologies, such as AI and analytics, to develop proprietary software and platforms that accel",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/6EhFrxUECJaMLgsWThyrzZ/hybrid-product-owner-in-athens-at-qualco-group"
+    }
+   ]
+  },
   {
    "id": "135cb9b581d80605",
    "title": "IT Project Manager -Scrum Master/ Technical Writer",
@@ -10007,5 +10565,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-16T07:26+00:00"
+ "updated": "2026-10-17T07:23+00:00"
 }
