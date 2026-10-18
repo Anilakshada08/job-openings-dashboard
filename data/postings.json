@@ -227,9 +227,307 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-18T07:23+00:00",
+   "added": 11,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "5 new in last 24h",
+    "Himalayas": "17 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "4a06b01f8f085146",
+   "title": "Senior Technical Project Manager",
+   "company": "SBS",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T07:12+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Position Overview We are seeking our new Senior Technical Project Manager to join the SBS team! This is more than a job. It’s a chance to build, grow, and make a real impact! Help us build lasting client relationships and shape how our clients experience delivery by joining our team as our new Project Manager for Speci",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sbs/jobs/senior-technical-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "15288db197ee27ca",
+   "title": "SAP Program Manager - Retail & FMCG",
+   "company": "Look4IT",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T06:46+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "This is a remote position. On behalf of our Client, a global consulting company which is expanding its SAP unit in Poland, we are looking for a Program Manager for the Retail & Consumer Products industry, who will shape and lead the definition and adoption of the integrated business transformation delivery methodology ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/look4it/jobs/sap-program-manager-retail-fmcg"
+    }
+   ]
+  },
+  {
+   "id": "5c45386ea674a257",
+   "title": "Senior Project Manager",
+   "company": "Motorola Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 140,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T05:57+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Company Overview At Motorola Solutions , we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration th",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/motorola-solutions/jobs/senior-project-manager-9599135602"
+    }
+   ]
+  },
+  {
+   "id": "a9221e700d34441d",
+   "title": "Salesforce Project Manager",
+   "company": "CloudMasonry",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T00:16+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "About Us - CloudMasonry CloudMasonry is a full-service Salesforce consultancy with multi-cloud expertise, serving enterprise clients through onshore, collaborative teams. Senior consultants shape the solution, and we were the first Salesforce consultancy to build AI into a complete delivery methodology, where it keeps ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cloudmasonry/jobs/salesforce-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "1b9757f2d50e2ef3",
+   "title": "Senior Technical Program Manager",
+   "company": "WorldWinner",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-17T22:09+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Founded in 1999, WorldWinner develops and operates competitive games of skill with real cash prizes under the WorldWinner consumer brand and in partnership with leading Sports Gaming Entertainment company FanDuel under the FanDuel Faceoff name. WorldWinner is the most recognized and trusted skill games technology platf",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/worldwinner/jobs/senior-technical-program-manager"
+    }
+   ]
+  },
+  {
+   "id": "e3d47e67f93022fa",
+   "title": "Lead .NET Full Stack Engineer",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 90,000–100,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-17T20:13+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Lead .NET Full Stack Engineer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career g",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/lead-net-full-stack-engineer"
+    }
+   ]
+  },
+  {
+   "id": "c9a9a678610e8637",
+   "title": "Project Manager",
+   "company": "InOutsource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T18:51+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "About InOutsource InOutsource is a recognized industry leader in information governance and new business intake consulting for large law firms. We partner with clients to deliver technical implementation services, modernize business processes, and support the successful adoption of key technologies across the legal sec",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/inoutsource/jobs/project-manager"
+    }
+   ]
+  },
+  {
+   "id": "af4682d6f289e1ab",
+   "title": "Senior UI/UX Designer",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 135,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-17T18:50+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: Senior UI/U",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-ui-ux-designer-5318824684"
+    }
+   ]
+  },
+  {
+   "id": "fda997ca1aeac945",
+   "title": "Senior Project Manager",
+   "company": "Exavalu",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 15,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T18:35+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "This is a remote position. We are seeking a seasoned, forward-thinking Senior Project Manager with 15+ years of experience to lead critical, high-impact technology projects. The ideal candidate will be the driving force behind our complex system and data integration initiatives, ensuring seamless connectivity between d",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/exavalu/jobs/senior-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "151db5662ae6c30d",
+   "title": "Project Manager II",
+   "company": "Jamf",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 90,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T16:42+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "At Jamf , we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around the globe succeed with Apple. The secret to our success lies",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/jamf/jobs/project-manager-ii"
+    }
+   ]
+  },
+  {
+   "id": "226316b52d2f6772",
+   "title": "Program Manager",
+   "company": "Oddball",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-17T07:48+00:00",
+   "posted_day": "2026-10-17",
+   "summary": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/155577-program-manager-2"
+    }
+   ]
+  },
   {
    "id": "c4eea01507c27a71",
    "title": "Technical Project Manager II",
@@ -1163,6 +1461,10 @@
     {
      "name": "Himalayas",
      "url": "https://himalayas.app/companies/oddball/jobs/delivery-manager"
+    },
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/155569-delivery-manager-2"
     }
    ]
   },
@@ -10565,5 +10867,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-17T07:23+00:00"
+ "updated": "2026-10-18T07:23+00:00"
 }
