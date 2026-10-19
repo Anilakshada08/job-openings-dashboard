@@ -239,9 +239,567 @@
     "The Muse": "0 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-19T07:37+00:00",
+   "added": 21,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "2 new in last 24h",
+    "Himalayas": "22 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "25b5b37d5f29e9bd",
+   "title": "Principal Technical Program Manager, Industry Software",
+   "company": "Zillow",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 182,100–290,900",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T06:09+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "About the team The Industry Software organization builds the B2B SaaS platforms that power Zillow 's software and services for real estate professionals, including: - Home listing, lead delivery, and home shopper lifecycle workflows - Identity and access: account hierarchies, user identity, team roster/permissions mana",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/zillow/jobs/principal-technical-program-manager-industry-software?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0c29994f7c1ec483",
+   "title": "Technical Project Manager / Solutions Engineer",
+   "company": "Support Tech LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T05:18+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "This is a remote position. We are seeking a Technical Project Manager / Solutions Engineer to serve as the bridge between project management, engineering, field implementation, and the client. This is a hybrid role for someone who can understand a technical scope, help develop and validate the solution, coordinate the ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/support-tech-llc/jobs/technical-project-manager-solutions-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b58d6be8407fa687",
+   "title": "Senior Full Stack Developer PN212",
+   "company": "DecisionPoint Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 118,000–171,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T04:45+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Overview DecisionPoint is seeking an experienced Senior Full Stack Developers to support the MODES III program. This individual will design, develop, modernize, test, integrate, and maintain secure enterprise web applications supporting Department of Defense mission requirements. The ideal candidate has hands-on experi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/senior-full-stack-developer-pn212?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2e63b8d5a26380ef",
+   "title": "Program Manager, Product Development (Remote - US)",
+   "company": "Nextech Systems",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T04:08+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Why join Nextech? We are a leader in specialty healthcare technology solutions. We’re committed to hiring and retaining talent, which is why we invest in our employees through competitive pay, a generous bonus structure, great healthcare, a comprehensive wellness program, and many other benefits. If you are a software ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nextech-systems/jobs/program-manager-product-development-remote-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9b2580e4499c79c3",
+   "title": "IT Project Manager",
+   "company": "Brandcoven",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T04:03+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Brandcoven , a leading marketing and branding agency, is seeking an experienced IT Project Manager to join our team on a full-time or part-time basis. This is a remote position, open to candidates located anywhere in the USA. As our IT Project Manager, you will be responsible for overseeing and managing all aspects of ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/brandcoven/jobs/it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "43ff8889f63fc57b",
+   "title": "Desarrollador/a Fullstack Java+Angular",
+   "company": "Vortech PCI Group S.L.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T00:13+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Desde Vortech PCI Group buscamos un/a Desarrollador/a Full Stack Java / Angular para incorporarse a un proyecto internacional de larga duración dentro de una compañía europea líder de su sector. La persona se integrará en un equipo multinacional y trabajará diariamente en inglés sobre aplicaciones en producción, partic",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vortech-pci-group-s-l/jobs/desarrollador-a-fullstack-java-angular?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d08a97d2e86183e9",
+   "title": "Salesforce Project Manager - PMP - Public Sector/Govt Cloud",
+   "company": "FormativGroup",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 125,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T22:47+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "SUMMARY FormativGroup is seeking an experienced Salesforce Project Manager with deep expertise leading Public Sector and Government Cloud implementations. This role is responsible for managing the full project lifecycle across complex Salesforce engagements, including scope, timeline, resources, budget, deliverables, r",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/formativgroup/jobs/salesforce-project-manager-pmp-public-sector-govt-cloud?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d17e208b679736ed",
+   "title": "Data Product Owner",
+   "company": "Marathon Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 110,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T22:34+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Marathon Health is a leading advanced primary care provider, partnering with employer and union plan sponsors to improve health for millions of Americans. With nationwide onsite, nearsite, and network health centers, and virtual primary care, Marathon delivers a value-based model that enhances the healthcare experience",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/marathon-health-com/jobs/data-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a4df84a371f0590d",
+   "title": "Senior IT Project Manager",
+   "company": "Support Tech LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T21:30+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "This is a remote position. Senior IT Project Manager (WFH Setup) About Our Client Our client is a trusted partner for small and mid-sized businesses, dedicated to simplifying and modernizing their IT infrastructure, enhancing security, and optimizing employee support. They provide comprehensive managed IT services, ens",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/support-tech-llc/jobs/senior-it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "62e23741d019ecbe",
+   "title": "Principal Program Manager",
+   "company": "Odyssey Systems Consulting Group, Ltd.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 15,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T21:15+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Position Summary Odyssey Systems has an exciting opportunity for a Principal Program Manager providing support to the Command, Control, Communications (C3C)/Kessel Run division. Kessel Run is an Air Force unit that provides expert level support to Department of Defense (DoD) programs by assisting government leadership ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/odyssey-systems-consulting-group-ltd/jobs/principal-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5900f16285e790c2",
+   "title": "Remote Technical Project Manager (CCTV & Networking)",
+   "company": "Support Tech LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T20:49+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "This is a remote position. Remote Technical Project Manager (CCTV & Networking) – Support Tech, LLC Support Tech, LLC is seeking a highly skilled Remote Technical Project Manager with hands-on expertise in CCTV systems, network architecture, and project management tools. In this role, you will lead CCTV system deployme",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/support-tech-llc/jobs/remote-technical-project-manager-cctv-networking?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ef5ca888b00b28c1",
+   "title": "Senior Technical Program Manager",
+   "company": "Teladoc Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 140,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T19:53+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Join the team leading the next evolution of virtual care. At Teladoc Health , you are empowered to bring your true self to work while helping millions of people live their healthiest lives. Here you will be part of a high-performance culture where colleagues embrace challenges, drive transformative solutions, and creat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/teladoc-health/jobs/senior-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2e2fade8e0884323",
+   "title": "Scrum Master",
+   "company": "DMI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 97,193–121,492",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T19:22+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "About DMI DMI is a leading provider of digital services and technology solutions, headquartered in Tysons Corner, VA. With a focus on end-to-end managed IT services, including managed mobility, cloud, cybersecurity, network operations, and application development, DMI supports public sector agencies and commercial ente",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dmi/jobs/scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d9f30810ad5d3eef",
+   "title": "Senior Product Owner DevSecOps",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 104,000–143,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T18:54+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Become a part of our caring community The Senior Product Owner - Technical manages and communicates the vision and roadmap for products to an Agile delivery team and are aligned with Technology standards and strategy. The Senior Product Owner - Technical work assignments involve moderately complex to complex issues whe",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/senior-product-owner-devsecops?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "adc9d660b996a5b3",
+   "title": "Learning and Development Program Manager",
+   "company": "RPM Living",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T18:16+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Overview At RPM, we’re in the business of extraordinary. We believe people-first is the way to success which is why we provide top industry pay, comprehensive benefits, and a path of upward mobility via career training and education. Join us and start your extraordinary journey today. Purpose Statement: Our purpose is ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rpm-living/jobs/learning-and-development-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9126b1b8ed42820d",
+   "title": "Full Stack Tech Lead Engineer - Remote",
+   "company": "FormativGroup",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 190,000–210,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T17:37+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "FormativGroup is hiring an Full Stack Tech Lead Engineer to join a Financial Services technology organization that builds and maintains digital products for tax professionals. The team develops internal tools, financial dashboards, analytics, reporting solutions, and other technology that improves how client-serving pr",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/formativgroup/jobs/full-stack-tech-lead-engineer-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e5def5ada0ce9a77",
+   "title": "Product Owner, Growth",
+   "company": "Flex",
+   "location": "Remote (Brazil, Canada, Mexico, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T16:18+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Flex is building the AI-native private bank for business owners . We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and financial operations—reb",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/155770-product-owner-growth"
+    }
+   ]
+  },
+  {
+   "id": "9cf7f950c115a658",
+   "title": "Product Owner, Payments and Infrastructure",
+   "company": "Flex",
+   "location": "Remote (Brazil, Canada, Mexico, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T16:18+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "About Flex Flex is building the AI-native private bank for super premium, closely held business owners. We are re-architecting the entire financial system for entrepreneurs. From the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, person",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/155771-product-owner-payments-and-infrastructure"
+    }
+   ]
+  },
+  {
+   "id": "0b3efff3ae937ef9",
+   "title": "Product Owner/Associate (foreUP)",
+   "company": "foreUP",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T16:09+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Xplor Technologies powers the experiences at the heart of everyday life. Through modern vertical software, embedded payments, and AI-powered capabilities, we help businesses in fitness, recreation, golf and club, field services, laundry, education, and other membership-based and service-based industries simplify operat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/foreup/jobs/product-owner-associate-foreup-1429932996?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "303803afc3ff9525",
+   "title": "Scrum Master II, Scrum Master",
+   "company": "AmerisourceBergen",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-18T14:34+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us impro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/amerisourcebergen/jobs/scrum-master-ii-scrum-master-2893173264?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "80c10ca978cb4eac",
+   "title": "Product Owner",
+   "company": "Optimiza",
+   "location": "Amman, Amman Governorate, Jordan",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-18T12:20+00:00",
+   "posted_day": "2026-10-18",
+   "summary": "Optimiza is looking for a Product Owner with a strong UI/UX background to own the vision, backlog and user experience of [product name]. You will sit between our users, designers and engineers, turning customer needs and business goals into clear, prioritized work that ships as intuitive, well-designed features. This r",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/rmtu3zTsYWbTGQyyivft5C/product-owner-in-amman-at-optimiza"
+    }
+   ]
+  },
   {
    "id": "4a06b01f8f085146",
    "title": "Senior Technical Project Manager",
@@ -10867,5 +11425,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-18T07:23+00:00"
+ "updated": "2026-10-19T07:37+00:00"
 }
