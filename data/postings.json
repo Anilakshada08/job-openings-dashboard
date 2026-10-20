@@ -251,9 +251,411 @@
     "The Muse": "0 new in last 24h",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-20T07:30+00:00",
+   "added": 15,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "8 new in last 24h",
+    "Himalayas": "14 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "5cc5e2198eea8ef8",
+   "title": "Senior Cybersecurity Project Manager – Security Tool Rationalization & Transform",
+   "company": "Axiom Path",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-20T06:10+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "BePartOfAHigh-PerformingTeam Jointheinformationsecurityorganizationofaleadingglobalfinancialinstitutioncommittedtostrengtheningcybersecurity,improvingoperationalefficiency,andmaintainingrobusttechnologygovernanceacrossinternationaloperations. Thisteamisadvancingastrategiccybersecuritytransformationinitiativefocusedonsi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/axiom-path/jobs/senior-cybersecurity-project-manager-security-tool-rationalization-transform?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f1960fed08c28015",
+   "title": "Remote Full Stack Developer",
+   "company": "FreeUp",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T05:33+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Freelance as a Full Stack Developer and Work from Home With FreeUp Hi! We're FreeUp ! FreeUp is a freelance marketplace dedicated to connecting business owners with talented freelancers and remote workers from all over the world. We believe that freelancing is the future of business, and we're building the best communi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/freeup/jobs/remote-full-stack-developer-6031210476?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9f6cf8317ec4267c",
+   "title": "Program Manager/Engagement Manager (386)",
+   "company": "iTech AG",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T04:11+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "OVERVIEW iTech AG is seeking a Technical Project/Program Manager to lead initiatives centered around ServiceNow presales, prototypes, and solution delivery across multiple projects and programs. This role focuses on strategic leadership, enabling innovation through collaboration with architects, developing compelling d",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/itech-ag/jobs/program-manager-engagement-manager-386?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a6a666f114e385ea",
+   "title": "Product Owner (Link Key Accounts)",
+   "company": "Lifelancer",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T03:55+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "Job Title: Product Owner (Link Key Accounts) Job Location: London, United Kingdom Job Location Type: Remote Job Contract Type: Full time Job Seniority Level: Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fa",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lifelancer/jobs/product-owner-link-key-accounts-639595274?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "508fff169755ebf8",
+   "title": "PMO, Program Manager",
+   "company": "Cushman & Wakefield",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 131,750–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T03:45+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "Job Title PMO, Program Manager Job Description Summary The Senior Program Manager is responsible for leading and overseeing complex programs composed of multiple, interrelated projects to ensure delivery aligns with strategic business objectives, service commitments, and contractual obligations. This role defines and i",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cushman-wakefield/jobs/pmo-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a8931a276904772b",
+   "title": "Technical Program Manager",
+   "company": "Phaidra",
+   "location": "Remote (Canada, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T03:20+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rules and heuristics tha",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/145850-technical-program-manager-2"
+    }
+   ]
+  },
+  {
+   "id": "e9a0e777f82a7eeb",
+   "title": "Senior Technical Project Manager",
+   "company": "First Focus",
+   "location": "Auckland, Auckland, New Zealand",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "onsite",
+   "employment": "contract",
+   "posted": "2026-10-20T03:00+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "Everyone wants more features. Someone needs to make sure we actually deliver them. You know how it goes. A project starts with a clear scope, an agreed deadline and a plan everyone is happy with. Then someone has a \"quick little change\". Someone else has a \"small additional requirement\". Suddenly, the scope has doubled",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/ja1xAZabZ7thGfwgKaZ7Kf/hybrid-senior-technical-project-manager-in-auckland-at-first-focus"
+    }
+   ]
+  },
+  {
+   "id": "c899b7407bfc5edb",
+   "title": "ServiceNow Project Manager (372)",
+   "company": "iTech AG",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 130,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T22:04+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "OVERVIEW iTech AG is seeking an experienced Project Manager to lead delivery of ServiceNow solutions in support of a federal client program. This role requires hands-on experience working within ServiceNowimplementations and enhancements, with a strong understanding of platform capabilities and Agile delivery methodolo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/itech-ag/jobs/servicenow-project-manager-372?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "33d8e42294e633af",
+   "title": "Senior Project Manager (City and County)",
+   "company": "KAI Partners",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 130,000–154,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T21:52+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "Senior Project Manager (City and County) KAI Partners , Inc. (KAIP) is currently seeking Senior Project Managers who will lead complex projects to enhance organizational efficiency and support business operations. In this role, you will develop project plans, manage timelines, and coordinate cross-functional teams to a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/kai-partners/jobs/senior-project-manager-city-and-county?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a45a453110794926",
+   "title": "Analista programador web",
+   "company": "Antara Zenith",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T19:27+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "Este es un puesto de trabajo remoto. Nos encontramos en búsqueda de un analista programador web, para incorporarse al equipo de desarrollo de nuestra brand de ISV, con capacidad y experiencia para poder realizar funciones de análisis y desarrollo de software empresarial. Somos una compañía tecnológica con dos divisione",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/antara-zenith/jobs/analista-programador-web?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "574b5989aa5a0735",
+   "title": "Technical Program Manager",
+   "company": "SciTec",
+   "location": "Boulder, Colorado, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-19T19:03+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "SciTec, a Firefly Aerospace Company, is a dynamic non-traditional defense contractor that delivers advanced technologies in support of U.S. National Security. For over forty-five years, we have supported Department of Defense customers by developing innovative remote sensing algorithms, tools, and techniques to deliver",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/2we5457EDJRrJh36b4fZwC/technical-program-manager-in-boulder-at-scitec"
+    }
+   ]
+  },
+  {
+   "id": "80feb25df6e03756",
+   "title": "Program Manager - ServiceNow (342)",
+   "company": "iTech AG",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T18:17+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "OVERVIEW iTech AG is seeking an experienced Program Manager to lead the delivery of ServiceNow solutions in support of a federal client program. This individual will serve as the primary client-facing lead, accountable for driving discovery, aligning stakeholders, and ensuring high-quality, actionable outputs that enab",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/itech-ag/jobs/program-manager-servicenow-342?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1b33bde60940e698",
+   "title": "Senior Program Manager",
+   "company": "Juniper Square",
+   "location": "Remote (Canada, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 15,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T16:58+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platfo",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/155920-senior-program-manager-2"
+    }
+   ]
+  },
+  {
+   "id": "2e448efd5c07328f",
+   "title": "IT - Enterprise Platforms Admin - Sr Technical Product Owner",
+   "company": "Golden 1 Talent Acquisition Team",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 130,500–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T16:41+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "Job Title: Sr Technical Product Owner Status: Exempt Reports to: Director - Enterprise Cores and Applications Department: IT Enterprise Platforms Job Code: 12025 Pay Range: $130,500.00 - $150,000.00 Annually Location: Remote in California WHO WE ARE: Golden 1 Credit Union is among the top credit unions in the country. ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/golden-1-talent-acquisition-team/jobs/it-enterprise-platforms-admin-sr-technical-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7cee264516ce3a9d",
+   "title": "Scrum Master III",
+   "company": "Global Elite",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-19T09:44+00:00",
+   "posted_day": "2026-10-19",
+   "summary": "At Globe Life, we are committed to empowering our employees with the support and opportunities they need to succeed at every stage of their career. We take pride in fostering a caring and innovative culture that enables us to collectively grow and overcome challenges in a connected, collaborative, and mutually respectf",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/globelifeinsurance/jobs/scrum-master-iii?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "25b5b37d5f29e9bd",
    "title": "Principal Technical Program Manager, Industry Software",
@@ -11425,5 +11827,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-19T07:37+00:00"
+ "updated": "2026-10-20T07:30+00:00"
 }
