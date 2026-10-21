@@ -263,9 +263,463 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-21T07:32+00:00",
+   "added": 17,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "2 new in last 24h",
+    "Himalayas": "19 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "6 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "24b28e03c4250b01",
+   "title": "Senior Scrum Master - Digital Product Development",
+   "company": "InventYOU AB",
+   "location": "Södertälje, Stockholm County, Sweden",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-21T07:21+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "We are looking for an experienced Senior Scrum Master to support and drive agile ways of working in a cross-functional team developing user-centric digital services for route planning. The assignment starts in November 2026, with 50% on-site work in Södertälje and 50% remote. You will facilitate the team’s agile delive",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/bDZXNEsko43FEZfoAxkTdH/hybrid-senior-scrum-master---digital-product-development-in-s%C3%B6dert%C3%A4lje-at-inventyou-ab"
+    }
+   ]
+  },
+  {
+   "id": "a10f7e5643d53392",
+   "title": "Senior Technical Program Manager - Security",
+   "company": "OpenAI",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-21T03:10+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "About the Team OpenAI builds powerful AI systems like ChatGPT, the OpenAI API, and enterprise products that serve millions of users across the globe. As we scale, securing our infrastructure, protecting sensitive data, and meeting global compliance standards are essential to our success and societal impact. Security at",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/151221-senior-technical-program-manager-security"
+    }
+   ]
+  },
+  {
+   "id": "0e8f56de3df3e067",
+   "title": "Sr. Product Owner",
+   "company": "Fortive",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-21T02:59+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "The Sr Product Owner plays a critical role in ensuring that a product or feature is developed with a focus on delivering value to the customer and the business. They act as a voice for the customer and are responsible for making key product-related decisions throughout the development process, including identifying opp",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/147085-sr-product-owner"
+    }
+   ]
+  },
+  {
+   "id": "9cf0b24be1c99356",
+   "title": "Senior Full Stack Developer (Angular + PHP/Laravel)",
+   "company": "m2TALENTS",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "EUR 80,000–80,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-21T00:54+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Senior Full Stack Developer (Angular + PHP/Laravel) - Remote in Germany Senior Full Stack Developer (Angular + PHP/Laravel) Remote in Deutschland | Produktteam im SaaS-Umfeld |80,000 Ein wachsendes deutsches Softwareteam sucht Verstärkung im Bereich Full Stack Development . Wir entwickeln moderne, modulare SaaS-Lösunge",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/m2talents/jobs/senior-full-stack-developer-angular-php-laravel?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a564582442957673",
+   "title": "Technical Program Manager",
+   "company": "PrePass",
+   "location": "Arizona, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T21:45+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "About PrePass PrePass® is North America's most trusted weigh station bypass and toll management platform. We’re transforming how the transportation industry operates—creating solutions that keep trucks moving safely, efficiently, and compliantly. This means making bold decisions and building systems that support not on",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/oVNebEg7hyAcYUC7eiRKwb/remote-technical-program-manager-in-arizona-at-prepass"
+    }
+   ]
+  },
+  {
+   "id": "7e078eca511b26c4",
+   "title": "IT Project Manager (PMP), Rural Health Transformation Program",
+   "company": "Dhaka Technologies Limited Company",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 70–70",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-20T19:34+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "This is a remote position. Job Title: IT Project Manager (PMP), Rural Health Transformation Program Work Arrangement: Fully remote within the United States; full time, Monday to Friday, 7:45 AM to 4:30 PM Eastern Time (client working days only; no client holidays) Location: Remote, United States (Eastern Time schedule)",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dhaka-technologies-limited-company/jobs/it-project-manager-pmp-rural-health-transformation-program?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5efb5e11f8f0bc38",
+   "title": "Salesforce Scrum Master",
+   "company": "Cherokee Federal",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 175,000–190,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T19:05+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Job Title: Salesforce Scrum Master Location: Remote Reports to: Program Manager FLSA Status: Exempt Supervisory: No supervisory/management authority Prepared Date: 10/19/2026 A government contract requires that this position be restricted to U.S. citizens or legal permanent residents. You must provide documentation tha",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cherokeefederal/jobs/salesforce-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "647e39085c62ed1f",
+   "title": "Project Manager",
+   "company": "Shift Boolean",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T16:21+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "This is a remote position. We are seeking an experienced Project Manager to oversee the planning, execution, and delivery of our various technology projects. The successful candidate will have a blend of project management skills and technical knowledge, ready to lead and inspire cross-functional teams. If you are pass",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/shift-boolean/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "091cdaef6321da01",
+   "title": "Technical Product Owner",
+   "company": "CareCentrix",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 90,000–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T15:56+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Overview As a Technical Product Owner, you will be working in a fast-paced, Agile environment. You will be the conduit between Business and Technology at CareCentrix , and responsible for leading new go-to-market products, core system enhancements, client implementations, and strategic product development. You will par",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/carecentrix/jobs/technical-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fd0c9d6b7b12ef85",
+   "title": "Senior FullStack Engineer",
+   "company": "thinkbridge",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T14:20+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "This is a remote position. About think bridge think bridge builds the business systems growing companies run on: ERP replacements, connected systems, AI agents inside real workflows and modernized legacy software.We have built custom software for growing companies for more than 12 years. Today we deliver every system w",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/thinkbridge/jobs/senior-fullstack-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0e4b8ec26edf40a1",
+   "title": "Sr. Product Owner",
+   "company": "NASCO",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T13:51+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Overview NASCO is looking for a skilled Sr. Product Owner to join the Product Management team to partner across multiple product portfolios, driving the discovery and delivery of AI-enabled solutions that accelerate modernization, improve business outcomes, and create customer value. The Product Owner assists the Produ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nasco/jobs/sr-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3c4004be1550a47a",
+   "title": "Technical Project Lead - Data and Analytics",
+   "company": "Collectiv",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T11:26+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Job Title : Project Lead - Data and Analytics We are seeking a results-driven Project Lead Consultant to lead client-facing Data and AI initiatives from discovery through delivery. This role is ideal for a professional who combines strong project leadership, business analysis, and stakeholder management skills with a s",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/collectiv/jobs/technical-project-lead-data-and-analytics?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "691c0e1568b634be",
+   "title": "Senior Product Owner",
+   "company": "Bloowatch",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T09:18+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "This is a remote position. We are a dynamic team dedicated to revolutionizing the management and booking systems for watersports and outdoor activity providers across the globe. Our SaaS web application serves businesses in over 30 countries and is available in English, Spanish, and French. Position Overview: We are se",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bloowatch/jobs/senior-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "35cd3177a8112794",
+   "title": "Frontend Developer",
+   "company": "Ipsator",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T08:38+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Category: Computer Location: Design, develop and implement frontend in react/angular Coordinate with internal teams to understand user requirements and provide technical solutions. Collaborate with other developers and non-technical teams Perform maintenance on existing web applications Performance optimisation Writing",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ipsator/jobs/frontend-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "140efd928a46768d",
+   "title": "Director, Software Engineering - Platform Development",
+   "company": "United-Biosource-Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-20T08:35+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "NOTE: This role requires demonstrated practical expertise in Microsoft technologies such as .Net, MVC, Web API, and React JS, coupled with hands-on experience in cloud platforms, particularly specializing in Microsoft Azure. As apharmaceutical support industry leader, UBC is devoted toempowering health solutions for a ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/united-biosource-corporation/jobs/director-software-engineering-platform-development?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "046bd29aef4841e7",
+   "title": "Lead Software Engineer - Angular/UI",
+   "company": "Integrant",
+   "location": "Maadi, Giza, Egypt",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-20T08:20+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "Integrant Inc is hiring a Lead Software Angular Engineer primary goal is to implement assigned tasks on time, with the highest quality, and using the best practices. Angular Front-End Lead UI is an experienced and talented developer with a successful delivery track, proven technical expertise, with eager for technology",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/2D4BTqakxGh5cwvr2zaSg5/hybrid-lead-software-engineer---angular%2Fui-in-maadi-at-integrant"
+    }
+   ]
+  },
+  {
+   "id": "b32d76061d14a971",
+   "title": "Product Owner",
+   "company": "BORG IT",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Part Time",
+   "workplace": "remote",
+   "employment": "parttime",
+   "posted": "2026-10-20T07:40+00:00",
+   "posted_day": "2026-10-20",
+   "summary": "This is a remote position. Product Owner Deltid / Fjernarbejde Om E-SG.cloud E-SG.cloud er en SaaS virksomhed, der leverer en ESG-rapporteringsløsning til små og mellemstore virksomheder. Vores cloud-baserede software, E-SG.cloud, tilbyder virksomheder en intuitiv og brugervenlig løsning til at væsentliggøre, indsamle ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/borg-it/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "5cc5e2198eea8ef8",
    "title": "Senior Cybersecurity Project Manager – Security Tool Rationalization & Transform",
@@ -11827,5 +12281,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-20T07:30+00:00"
+ "updated": "2026-10-21T07:32+00:00"
 }
