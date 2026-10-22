@@ -275,9 +275,411 @@
     "The Muse": "0 new in last 24h",
     "Workable": "6 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-22T07:33+00:00",
+   "added": 15,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "24 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "9505b8fe17f07683",
+   "title": "Technical Deputy Program Manager",
+   "company": "Lawelawe Technology Services",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T06:53+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Who We Are Lawelawe is a Native Hawaiian Owned Small Disadvantaged Business that provides professional and mission-support services to federal Government customers. We are committed to delivering dependable solutions, supporting our employees, and advancing our mission to uplift economically disadvantaged Native Hawaii",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lawelawe-technology-services/jobs/technical-deputy-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "195fde6f3489fa30",
+   "title": "Program Manager, Implementation (Launch)",
+   "company": "Aledade",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T06:17+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "The Program Manager (Launch)is responsible for leading the program workstreams that guide partner practices through Aledade 's onboarding journey to achieve sustained success in value-based care. Operating with a high degree of autonomy, this role structures, executes, and monitors assigned launch initiatives, establis",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aledade/jobs/program-manager-implementation-launch?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e53e3f2b521f0e38",
+   "title": "Technical Delivery Manager",
+   "company": "Distro",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 140,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T05:53+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "The Technical Delivery Manager will lead and coordinate the end-to-end delivery lifecycle across multiple technology streams within the KPMG US program. The role demands strong execution leadership, exceptional client engagement, and the ability to drive cross-functional delivery across engineering, QA, DevOps, and bus",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/distro/jobs/technical-delivery-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0392be674fdabf0c",
+   "title": "Technical Program Manager - MCA Asia",
+   "company": "GoTymeX",
+   "location": "Ho Chi Minh City, Ho Chi Minh City, Vietnam",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-22T05:33+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Job Objective Reporting into the Head of Operational Enablement Systems within the Technology division, this role is accountable for translating MCA Asia’s business strategy into measurable technology delivery outcomes. The Technical Program Manager will drive partner integrations, market launch readiness, and operatio",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/qrHpjK7Tm8mmH9hSU193rF/hybrid-technical-program-manager---mca-asia-in-ho-chi-minh-city-at-gotymex"
+    }
+   ]
+  },
+  {
+   "id": "b08ab80a2f629214",
+   "title": "Staff Software Engineer",
+   "company": "HungerRush",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T04:13+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Who We Are HungerRush is a leading provider of integrated restaurant technology solutions. Menufy by HungerRush is a leading online ordering system for restaurants with transparent pricing, supporting more than 16,000 independently owned restaurants and small chains in more than 3,000 cities across the United States. F",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/hungerrush/jobs/staff-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "13fa0ff991f866e6",
+   "title": "Delivery Manager",
+   "company": "Robots & Pencils",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 130,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T04:13+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Delivery Manager Location: Remote in US or Canada | Travel: Regular Company Overview Robots & Pencils is an applied AI engineering firm building the next frontier of business architecture. We design and ship AI co-workers that integrate into enterprise operations and deliver measurable results for our clients. We're al",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/robots-pencils/jobs/delivery-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c40fbeb8d2eaf4be",
+   "title": "Product Owner / Senior Product Owner - Engineering Tools",
+   "company": "ai2io",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 78,750–98,438",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T03:37+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "AI2IO helps organizations navigate the complex landscape of technology solutions, from foundational IT services and system support to advanced software integration, automation, and cutting-edge AI implementations. Our expertise spans IT infrastructure management, custom software development, seamless system integration",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ai2io/jobs/product-owner-senior-product-owner-engineering-tools?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2ad56f3fa232003c",
+   "title": "Senior Manager, Technical Product Ownership",
+   "company": "AmerisourceBergen",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T03:08+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us impro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/amerisourcebergen/jobs/senior-manager-technical-product-ownership?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "cf90c9fe8a0566dd",
+   "title": "Python & Java Full Stack Developer (AI-Assisted)",
+   "company": "Jabil",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 100,100–180,200",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T03:05+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, supply chain, and manufacturing solutions. With 60 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/jabil/jobs/python-java-full-stack-developer-ai-assisted?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "278e6c390f3956a2",
+   "title": "Senior Professional Services Project Manager",
+   "company": "Zscaler",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 143,500–205,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T02:45+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 2",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/zscaler/jobs/senior-professional-services-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6accdab05b47fcab",
+   "title": "Technical Program Manager, Network",
+   "company": "AHEAD",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 180,000–230,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T00:33+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "AHEAD builds platforms for digital business. By weaving together advances in cloud infrastructure, automation and analytics, and software delivery, we help enterprises deliver on the promise of digital transformation. At AHEAD , we prioritize creating a culture of belonging, where all perspectives and voices are repres",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ahead/jobs/technical-program-manager-network?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b5b712e4a0ce1c73",
+   "title": "Staff IT Project Manager",
+   "company": "Purpose Brands, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 210,000–210,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T00:25+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Purpose Brands, the parent company of Orangetheory, Anytime Fitness, Waxing the City, and The Bar Method, is seeking a Staff IT Project Manager to join its team. This is a great position for someone who is looking to expand their career, and join a company with a fun, fast-paced and inspirational culture. The Staff IT ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/purpose-brands-llc/jobs/staff-it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e51af23c769a994e",
+   "title": "Technical Product Owner, AI-Directed Development",
+   "company": "CBT Nuggets",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 100,000–100,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-21T23:27+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Why CBT Nuggets is a great place to work: Work from anywhere. While we have an office in Eugene, Oregon, the majority of our team works remotely throughout the United States. We take work-life balance seriously. You’ll work hard at CBT Nuggets , but you’ll also have plenty of time to relax and recharge. We recognize th",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cbt-nuggets/jobs/technical-product-owner-ai-directed-development?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "88dfaae62b396a66",
+   "title": "Online Adjunct Faculty - Computer Science- Full Stack Application Development",
+   "company": "Southern New Hampshire University",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Part Time",
+   "workplace": "remote",
+   "employment": "parttime",
+   "posted": "2026-10-21T22:52+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Southern New Hampshire University is a team of innovators. World changers. Individuals who believe in progress with purpose. Since 1932, our people-centered strategy has defined us — and helped us grow a team that now serves over 180,000 learners worldwide. Our mission to transform lives is made possible by talented pe",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/southern-new-hampshire-university/jobs/online-adjunct-faculty-computer-science-full-stack-application-development?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ca529c2b39aae161",
+   "title": "Sr Technical Security Product Owner (DevSecOps Engineering)",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 94,900–130,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-21T20:42+00:00",
+   "posted_day": "2026-10-21",
+   "summary": "Become a part of our caring community The Senior Technical Product Owner serves as the voice of the developer community and IT customer within our DevSecOps Engineering team, ensuring backlog priorities trace to initiative goals and program-level security outcomes. This role owns the backlog for DevSecOps Engineering, ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/sr-technical-security-product-owner-devsecops-engineering?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "24b28e03c4250b01",
    "title": "Senior Scrum Master - Digital Product Development",
@@ -12281,5 +12683,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-21T07:32+00:00"
+ "updated": "2026-10-22T07:33+00:00"
 }
