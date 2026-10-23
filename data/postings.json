@@ -287,9 +287,515 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-23T07:32+00:00",
+   "added": 19,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "6 new in last 24h",
+    "Himalayas": "21 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "10 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "bdfbb51524d40247",
+   "title": "Director, Product Owner – Digital Online Sales Experience",
+   "company": "Liberty Mutual",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-23T03:01+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Description We are seeking an exceptional Director, Product Owner (DPO) to lead the Digital Online Sales Product Owner team within Direct Distribution, a critical growth engine for Liberty Mutual . This is an exciting opportunity to join Direct Distribution at a pivotal time as we continue to evolve how customers shop ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/liberty-mutual/jobs/director-product-owner-digital-online-sales-experience?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c612960e571761ce",
+   "title": "VSS Project Manager",
+   "company": "Sylogist",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-23T01:58+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Company Overview At Sylogist , we are purpose-driven to “empower the good our customers do.” We provide SaaS-based software solutions to the non-profit, government, and education sectors, and we take immense pride in the work of our customers and the products we build to support them. Our team is collaborative, enthusi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sylogist/jobs/vss-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3d6fad13be4a1218",
+   "title": "Sr. Technical Program Manager",
+   "company": "Docusign",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 122,500–235,375",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T23:42+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Company Overview Docusign brings agreements to life. More than 1.8 million customers and more than a billion people in over 180 countries use Docusign solutions to accelerate the process of doing business and simplify people’s lives. With intelligent agreement management, Docusign unleashes business-critical data that ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/docusign/jobs/sr-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0ed5f199602ce67f",
+   "title": "Senior Technical Product and Program Manager",
+   "company": "Publicis Groupe",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 135,375–185,200",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T22:30+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Company description Within Publicis Groupe ’s Intelligent Creativity business, we specialize in bringing creative ideas to life, and to consumers. By combining 100 years of craft excellence with 6,000 experts across 52 locations of the world’s biggest studio network, we leverage the industry’s richest data, through the",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/publicis-groupe/jobs/senior-technical-product-and-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a3197a811c91e710",
+   "title": "Technical Project Manager (Software)",
+   "company": "Bolder Apps",
+   "location": "Tbilisi, Tbilisi, Georgia (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T21:47+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "We're hiring a Technical Project Manager to run software projects for US-based clients at Bolder Apps. This role is for people who have managed web and mobile builds at a software agency, consultancy, or dev studio, usually several clients at once. You'll own delivery from kickoff to launch: scoping and estimates with ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/i6grNkxWvHB6f9er5QgRAD/remote-technical-project-manager-(software)-in-tbilisi-at-bolder-apps"
+    }
+   ]
+  },
+  {
+   "id": "98b0751c36f10e76",
+   "title": "Technical Project Manager",
+   "company": "Symmetrio",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 140,000–170,000",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T21:40+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Symmetrio are looking for a full-time Technical Project Manager consultant for our client, a large global hospitality and food services organization. The candidate will serve as the client-side Project Manager, overseeing the third-party vendor responsible for developing and delivering a new web-based application to re",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/symmetrio/jobs/technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c28c331364b748e1",
+   "title": "Agile Project Manager",
+   "company": "acre security",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 75,000–80,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T21:06+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Position: Agile Project Manager Location: United States (Remote) Compensation: $75,000 - $80,000 annually Move Security Forward with Acre Are you passionate about transforming the future of security? Do you thrive in a collaborative, innovative environment where your contributions drive real impact? If so, Acre Securit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/acre-security/jobs/agile-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5562e1f2da8f5512",
+   "title": "Senior Project Manager",
+   "company": "Valeris",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T21:05+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Valeris is a fully integrated life sciences commercialization partner that provides comprehensive solutions that span the entire healthcare value chain. Formed by the merger of PharmaCord and Mercalis, Valeris ™ revolutionizes the path from life sciences innovation to real-life impact to build a world in which every pa",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/valeris/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d581584ee194cfd7",
+   "title": "Product Owner (Healthcare)",
+   "company": "Sellers Dorsey",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 95,800–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T20:48+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "About Sellers Dorsey Sellers Dorsey is a healthcare impact strategy firm focused on improving care access, quality, and outcomes for our nation’s most vulnerable populations. We work with providers, managed care organizations, state entities, and others, to design, implement, fund, and optimize sustainable programs tha",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sellers-dorsey/jobs/product-owner-healthcare?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "195dc3f3251956b3",
+   "title": "Technical Product Owner – Salesforce Health Cloud & AI-Enabled Agile Delivery",
+   "company": "PRO-spectus",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 115,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T20:29+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "We are looking for a Product Owner who wants to shape a product, not administer a backlog. In this role you will own what our development team builds and why, for the Salesforce Health Cloud solutions that power a fast-growing patient services business. You will help shape the roadmap alongside our Innovation and Imple",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/pro-spectus/jobs/technical-product-owner-salesforce-health-cloud-ai-enabled-agile-delivery?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1fac6321e1685370",
+   "title": "Project Manager",
+   "company": "Resolve Tech Solutions, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Part Time",
+   "workplace": "remote",
+   "employment": "parttime",
+   "posted": "2026-10-22T20:10+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Position Summary RTS is seeking an organized, proactive, and results-driven Project Manager to lead projects from planning through successful completion. The Project Manager will be responsible for coordinating project activities, managing timelines and deliverables, engaging stakeholders, identifying and resolving ris",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/resolve-tech-solutions-llc/jobs/project-manager-8485975590?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "dbdf0bee1eda5ca6",
+   "title": "Staff Technical Program Manager",
+   "company": "Pinterest",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 145,747–300,067",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T19:54+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "About Pinterest : Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest , we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the pro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/pinterestcareers/jobs/staff-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a257ba04dbd98d95",
+   "title": "Deputy Program Manager / PMO Lead (Senior)",
+   "company": "DecisionPoint Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T19:08+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Overview DecisionPoint seeks a Deputy Program Manager / PMO Lead to oversee daily Project Management Office operations in support of the USMEPCOM ENLIST program. This senior role supports the Task Order Program Manager by coordinating program schedules, deliverables, risks, issues, action items, reporting activities, t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/deputy-program-manager-pmo-lead-senior?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "929568b41ed0efcc",
+   "title": "Sr Software Engineer",
+   "company": "Partners Federal Credit Union",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 104,720–177,480",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T10:42+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Love What You Do. We are a mission-driven credit union dedicated to strengthening the financial well-being of our members—and that work begins with our people. Through our relationship with The Walt Disney Company, employees have access to world-class benefits, programs, and unique experiences that enhance both work an",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/partners-federal-credit-union/jobs/sr-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d4375b9efaf9502b",
+   "title": "Software Engineer II, Engineering",
+   "company": "Ellevation Education",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 125,000–145,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T10:03+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "As a Software Engineer II on an engineering squad at Ellevation, you'll build and operate features that directly shape how educators manage English Learner programs across thousands of school districts. You'll work across a full-stack environment — React on the frontend, C#/.NET Core or Python on the backend — and you'",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ellevation-education/jobs/software-engineer-ii-engineering?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "744b193d209713fd",
+   "title": "Senior Technical Project Manager, Data Center & Network Delivery",
+   "company": "Vultr",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T09:30+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexib",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/156340-senior-technical-project-manager-data-center-network-delivery"
+    }
+   ]
+  },
+  {
+   "id": "d106c0e480f2a7c3",
+   "title": "Sr. Technical Program Manager, Data Center & Network Delivery",
+   "company": "Vultr",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T09:30+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 countries for its flexib",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/156343-sr-technical-program-manager-data-center-network-delivery"
+    }
+   ]
+  },
+  {
+   "id": "c4faa188cef16c22",
+   "title": "Technical Program Manager - Data Center Infrastructure Delivery",
+   "company": "Lambda",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-22T09:21+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "Lambda , The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintelligence. One person, one",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/156291-technical-program-manager-data-center-infrastructure-delivery"
+    }
+   ]
+  },
+  {
+   "id": "4898fd2978827011",
+   "title": "Technical Project Manager",
+   "company": "CARMA",
+   "location": "Santa Venera, Southern Region, Malta",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-22T07:37+00:00",
+   "posted_day": "2026-10-22",
+   "summary": "CARMA is a globally-trusted media intelligence leader with decades of experience helping PR and communications professionals monitor what matters, measure what’s meaningful, and demonstrate the value of their work. We combine cutting-edge technology, including AI-enabled media monitoring across print, online, broadcast",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/vStK9x2zKxKC571nVJmoXj/technical-project-manager-in-santa-venera-at-carma"
+    }
+   ]
+  },
   {
    "id": "9505b8fe17f07683",
    "title": "Technical Deputy Program Manager",
@@ -12683,5 +13189,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-22T07:33+00:00"
+ "updated": "2026-10-23T07:32+00:00"
 }
