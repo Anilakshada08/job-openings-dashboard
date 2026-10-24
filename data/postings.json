@@ -299,9 +299,489 @@
     "The Muse": "0 new in last 24h",
     "Workable": "10 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-24T07:26+00:00",
+   "added": 18,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "5 new in last 24h",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "1 new in last 24h",
+    "Workable": "5 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "6f16439a8486ab91",
+   "title": "Project Manager",
+   "company": "Trimble",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 63,900–87,900",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T06:58+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "Lead Global Logistics Integrations as our Next Integration Project Manager! Are you ready to transform global supply chains and lead end-to-end software integration projects for leading logistics networks? Join Transporeon, a Trimble company, to empower global shippers and carriers, drive seamless onboarding, and make ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/trimble/jobs/project-manager-1759862376?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b3d8100be46b191f",
+   "title": "Software Engineer (Contractor)",
+   "company": "Dimensional Fund Advisors",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T06:36+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "Job Description: Dimensional Fund Advisors applies academic research to the practical world of investing. Our objective is to help clients structure globally diversified portfolios and to add value through engineering and trading. Dimensional manages assets exclusively for institutional investors and the clients of reg",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dimensional-fund-advisors/jobs/software-engineer-contractor?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1f4f23a5e5bbe5a3",
+   "title": "Project Manager",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 65,234–73,645",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T06:26+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "Overview TISTA Science and Technology is seeking to hire a Project Manager to join our growing team in Austin! The Project Manager will provide management, direction, administration, quality assurance, and leadership of project staff execution for each of the assigned Service Programs. Role provides day-to-day support ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b5b78fb0170aaeac",
+   "title": "Software Engineer",
+   "company": "Partners Federal Credit Union",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 104,720–177,480",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T05:51+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "Love What You Do. We are a mission-driven credit union dedicated to strengthening the financial well-being of our members—and that work begins with our people. Through our relationship with The Walt Disney Company, employees have access to world-class benefits, programs, and unique experiences that enhance both work an",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/partners-federal-credit-union/jobs/software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9088a57fe572d677",
+   "title": "Technical Project Manager - remote US",
+   "company": "gridX",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T05:45+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "Ready to make a positive impact and create clean energy technology? We’re looking for a Technical Project Manager to drive a high-powered, high-efficacy customer delivery process–from planning through to execution. The Technical Project Manager works closely with Sales, Engineering, Customer Success and other internal ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/gridx/jobs/technical-project-manager-remote-us-2202653847?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9ae0ea5703bdea1c",
+   "title": "Sr. Principal Technical Program Manager",
+   "company": "Jabil",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 164,200–295,600",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T05:40+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, supply chain, and manufacturing solutions. With 60 years of experience across industries and a vast network of over 100 sites worldwide, Jabil combines global reach with local expertise to deliver ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/jabil/jobs/sr-principal-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d343b8dbacf724d0",
+   "title": "Senior Program Manager, Technical Program Management",
+   "company": "AmerisourceBergen",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T03:40+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us impro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/amerisourcebergen/jobs/senior-program-manager-technical-program-management?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "da04b9ae0874f138",
+   "title": "Enterprise Project Manager",
+   "company": "Canonical",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T03:30+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/149549-enterprise-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "a4ef35f0e6250a7d",
+   "title": "Senior Project Manager",
+   "company": "CenterWell Senior Primary Care",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 86,300–118,700",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T03:28+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Become a part of our caring community The Senior Project Manager manages all aspects of a project, from start to finish, so that it is completed on time and within budget. The Senior Project Manager work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-dep",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fbe806e23e3352fe",
+   "title": "Senior Full Stack TypeScript Developer with DevOps",
+   "company": "Ten Mile Square Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 161,000–161,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-24T02:29+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "OVERVIEW Ten Mile Square is looking for a talented senior full-stack TypeScript software engineer with devops chops who is passionate about technology to join our growing team of product, technology, and software professionals. The initial assignment for the new position is to develop a loan origination system for a fi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ten-mile-square-technologies/jobs/senior-full-stack-typescript-developer-with-devops-2762481162?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ffd38bed92f427de",
+   "title": "IT Project Manager",
+   "company": "Comtech LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 67–84",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-24T02:18+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Role : IT Project Manager (20 hours/week) Location : Washington, DC, USA (metro accessible) Pay Range: $67 - $84 per hour (based on experience and qualifications) Workplace Type : Remote (must be willing to visit client site, if needed) Employment Type : Contract (1099 or C2C) Our federal client's Information Resources",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/comtech-llc/jobs/it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b1be692b1041d57d",
+   "title": "Senior Full Stack Software Engineer (Java)",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 100,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-24T00:10+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potential. Job Title: Senior Full",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-full-stack-software-engineer-java-7014509842?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "dc2abde4abc58a64",
+   "title": "Angular Developer",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-23T22:57+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Angular Developer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career growth potent",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/angular-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5bc76d38f2234807",
+   "title": "Principal Software Architect (Frontend)",
+   "company": "Operative",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-23T21:46+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "OPERATIVE OVERVIEW Operative builds the software that powers the business of advertising for the world's leading media companies. Our platforms manage the full advertising lifecycle — from sales planning and order management to trafficking, analytics, and billing — across linear TV, streaming, and digital channels. Bui",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/operative/jobs/principal-software-architect-frontend?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "674a1c065ca23ce6",
+   "title": "Software Engineer",
+   "company": "The Hartford",
+   "location": "Chicago, IL",
+   "location_group": "chicago",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-23T20:58+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Software Engineer - IE08DE We're determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals - and to help others accomplish theirs, too. Join our team as we help shape the future. The Hartford's",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/thehartford/software-engineer-fc364f"
+    }
+   ]
+  },
+  {
+   "id": "7b435612326722ba",
+   "title": "Project Manager",
+   "company": "Echodyne",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-23T18:57+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles, uncrewed aircraft & drones, and security of borders, critical infrastructure, and sm",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/156677-project-manager-6"
+    }
+   ]
+  },
+  {
+   "id": "63f161375c14c7c4",
+   "title": "Product Owner | Client Lead | Technical Project Manager",
+   "company": "Proactive Technology Management",
+   "location": "Ferndale, Michigan, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-23T18:17+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "About Proactive Technology Management At Proactive Technology Management (PTM), we're passionate about helping businesses thrive in the digital age. Our Project Management Office (PMO) plays a critical role in delivering a wide range of technology solutions to our clients. We are a team of expert project managers, cons",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/48bCLB3ECBjvzZRdtbqTP2/product-owner-%7C-client-lead-%7C-technical-project-manager-in-ferndale-at-proactive-technology-management"
+    }
+   ]
+  },
+  {
+   "id": "d1b18774867a067b",
+   "title": "Full Stack Developer (Java and Angular or React) - TS/SCI w/ Poly required",
+   "company": "Leading Path Consulting",
+   "location": "Chantilly, Virginia, United States",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-23T15:19+00:00",
+   "posted_day": "2026-10-23",
+   "summary": "We are seeking an experienced Software Engineer to design, develop, and maintain complex software products and data platforms. As an integral member of our team, you will work closely with cross-functional teams to deliver scalable, high-quality solutions that drive business insights and inform strategic decisions. The",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/tVX2UzxugUWf4oJqQWK8i9/full-stack-developer-(java-and-angular-or-react)---ts%2Fsci-w%2F-poly-required-in-chantilly-at-leading-path-consulting"
+    }
+   ]
+  },
   {
    "id": "bdfbb51524d40247",
    "title": "Director, Product Owner – Digital Online Sales Experience",
@@ -13189,5 +13669,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-23T07:32+00:00"
+ "updated": "2026-10-24T07:26+00:00"
 }
