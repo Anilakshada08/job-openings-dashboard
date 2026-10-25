@@ -311,9 +311,73 @@
     "The Muse": "1 new in last 24h",
     "Workable": "5 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-25T07:27+00:00",
+   "added": 2,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "4 new in last 24h",
+    "Himalayas": "0 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "d7c8252708f42d9f",
+   "title": "Project Manager",
+   "company": "Verra Mobility",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T04:09+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "Position Overview As a Project Manager, you will play a key role in providing world class support to our external clients and internal teams by managing the end-to-end implementation of contracted technical programs and ensuring they are delivered in a timely manner. No challenge will be too big, and no issue will go u",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/151512-project-manager-4"
+    }
+   ]
+  },
+  {
+   "id": "79bcfb41ba228cd5",
+   "title": "Frontend Architect",
+   "company": "TripActions",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-24T20:22+00:00",
+   "posted_day": "2026-10-24",
+   "summary": "About The Job Navan is an all-in-one travel, corporate card, and expense management solution that eliminates the hassles of corporate travel & expense management while giving finance leaders real-time spend visibility and control. The Frontend Architect plays a pivotal role in shaping the future of Navan's frontend inf",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/156863-frontend-architect"
+    }
+   ]
+  },
   {
    "id": "6f16439a8486ab91",
    "title": "Project Manager",
@@ -13669,5 +13733,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-24T07:26+00:00"
+ "updated": "2026-10-25T07:27+00:00"
 }
