@@ -323,9 +323,333 @@
     "The Muse": "0 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-26T07:40+00:00",
+   "added": 12,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "1 new in last 24h",
+    "Himalayas": "16 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "4ad51e9a2a8440a7",
+   "title": "Front-End AI Engineer: Agentic AI Studio & Agentic AI as a Service Specialist",
+   "company": "Accenture",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 54,400–205,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T06:22+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "We Are Accenture is helping enterprises reinvent their organizations and businesses with human-centered AI solutions and services to drive breakthrough innovation and lasting competitive advantage. With more than 45,000 AI and data professionals across the company, our AI & Data practice brings together cutting-edge AI",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/accenture/jobs/front-end-ai-engineer-agentic-ai-studio-agentic-ai-as-a-service-specialist?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a0e0c8d1e43856ab",
+   "title": "Engineering Delivery Manager",
+   "company": "Metasys",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "INR 300,000–300,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T05:32+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "🚀 We’re Hiring: Engineering Delivery Manager About Company: Metasys is an international technology and consulting company with operations in the USA, Canada, India, and Australia. We build scalable engineering solutions, cloud-native platforms, AI-driven applications, and enterprise systems across diverse industries. O",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/metasys/jobs/engineering-delivery-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8c344b3069acc0e7",
+   "title": "Senior Technical Project Manager (US Based - Remote)",
+   "company": "SeedTrust",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-26T00:59+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "About Orchid and IDRE At Orchid Software Solutions, we build software for the assisted reproduction, healthcare-payments and fintech industries. Our IDRE pod owns the platform that connects VeraTru to the Independent Dispute Resolution (IDR) process under the federal No Surprises Act. When a healthcare provider and an ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/seedtrust/jobs/senior-technical-project-manager-us-based-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "31a1ac1434e06d39",
+   "title": "Principal Project Manager (B2B) - Donut Studios",
+   "company": "New Engen",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 95,000–110,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T18:55+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "WHY DONUT STUDIOS? At New Engen , we help brands grow, not just bigger, but smarter. We’re a digital marketing agency that drives meaningful impact across the entire customer journey by integrating media, creative, analytics, influencer, and retail strategies into performance-driven campaigns. Donut Studios is our in-h",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/new-engen/jobs/principal-project-manager-b2b-donut-studios?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "39631d6bfe85ce85",
+   "title": "Program Manager / Director",
+   "company": "Amyx, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T18:13+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "Overview Amyx is seeking a senior Program Manager / Program Director to lead execution of the DHS Countering Weapons of Mass Destruction (CWMD) Advisory & Assistance Services (A&AS) contract. This role is accountable for full lifecycle program management across a complex, multi‑stakeholder federal enterprise environmen",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/amyx-inc/jobs/program-manager-director?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d322afe8bc846147",
+   "title": "Senior Technical Program Manager",
+   "company": "Motive",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 127,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T17:20+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry le",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/thinkmotive/jobs/senior-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b1a4b38ec1dfbd67",
+   "title": "Project Manager - ServiceNow",
+   "company": "Bolt Data",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T15:27+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "The Project Manager leads cross-functional teams to deliver ServiceNow and CRM-related initiatives on time and within budget, ensuring client satisfaction through strong planning, communication, and risk management. This role is responsible for driving execution, aligning deliverables to business goals, and managing sc",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bolt-data/jobs/project-manager-servicenow?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "60af6413a5000ef8",
+   "title": "Senior Full Stack Developer and Product Owner: Real-Time Intelligent Communicati",
+   "company": "Entratus",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T15:16+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "Candidates in the following states are encouraged to apply: Florida, Georgia Company Overview: Join our innovative technology company as we develop cutting-edge solutions for agentic, context-aware intelligent conversations. We specialize in building platforms and products that deliver conversational agents. Job Summar",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/entratus/jobs/senior-full-stack-developer-and-product-owner-real-time-intelligent-communicati?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7d7425583828aa06",
+   "title": "(1527) Technical Project Manager",
+   "company": "Nortal",
+   "location": "Remote (Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T14:47+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "Join Nortal for your next big adventure. We are seeking a Technical Project Manager to join our team, grow with us, and teach us a few things along the way. Why join Nortal Say Goodbye to Micromanagement: We champion autonomy, open communication, and respect for diversity as our core values. Outcomes Over Hours: We bel",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nortal/jobs/1527-technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3b8e54f938b1404a",
+   "title": "Senior Project Manager - SYGMA- US",
+   "company": "Sysco",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 108,500–180,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T13:50+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "Company: US3084 The SYGMA Network, Inc. Sales Territory: None Zip Code: 43017 Travel Percentage: 0 Compensation Range: $108,500.00 - $180,800.00 The compensation range provided is in compliance with state specific laws. Factors that may be used to determine your actual rate of pay include your specific skills, years of",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sysco/jobs/senior-project-manager-sygma-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6e65f751f2c326ee",
+   "title": "Senior Project Manager",
+   "company": "Blue Acorn iCi",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 130,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T12:49+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "Position Overview The Senior Project Manager independently leads complex projects and engagements across multiple workstreams, stakeholder groups, vendors, and delivery dependencies. This role integrates scope, schedule, budget, quality, resources, governance, and change into a coherent delivery approach, using sound j",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/blue-acorn-ici/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a2f6e1192c176548",
+   "title": "Principal Frontend Engineer",
+   "company": "ClickUp",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-25T08:07+00:00",
+   "posted_day": "2026-10-25",
+   "summary": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring pro",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/156876-principal-frontend-engineer"
+    }
+   ]
+  },
   {
    "id": "d7c8252708f42d9f",
    "title": "Project Manager",
@@ -13733,5 +14057,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-25T07:27+00:00"
+ "updated": "2026-10-26T07:40+00:00"
 }
