@@ -335,9 +335,359 @@
     "The Muse": "0 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-27T07:35+00:00",
+   "added": 13,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "12 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "6 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "38601b24c6c5a281",
+   "title": "Scrum Master (Application Development)",
+   "company": "Ontrac Solutions Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T05:54+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "OVERVIEW OnTrac is seeking a Scrum Master to serve as the dedicated Agile facilitator and servant leader for a Google Cloud Platform application development engagement. You own the outcome, not just the process: predictable delivery, team health, and client confidence are results you are accountable for. Working closel",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ontrac-solutions-inc/jobs/scrum-master-application-development?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5da41b26fbec86a9",
+   "title": "Senior Full-Stack Developer (Angular / .NET Core)",
+   "company": "Resourceful Talent Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T05:30+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "We are looking for a Senior Full-Stack Developer with strong Angular and .NET expertise who knows how to leverage AI to build and ship features faster. Join a growing engineering team developing a healthcare revenue cycle management platform that streamlines insurance claims, billing, and financial workflows for radiol",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/resourceful-talent-group/jobs/senior-full-stack-developer-angular-net-core?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "95f432a5b8ad890e",
+   "title": "SME Information Technology Project Manager",
+   "company": "Goldbelt",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 170,000–190,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T01:51+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Overview A leader in cutting-edge research and technology in the cyber arena, CPMG focuses on using business drivers to guide cybersecurity activities and manage risk. CPMG offers flexible, integrative solutions for Department of Defense (DoD) contractors, among others, and specializes in cybersecurity, information and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/goldbelt/jobs/sme-information-technology-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ed7751ce35a7e11a",
+   "title": "PROJECT MANAGER",
+   "company": "The Helmsman Group LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T01:50+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Job Position: Project Manager Job Type: (Remote) Job Summary The Project Manager — Project Operations is responsible for managing the day-to-day operational activities required to successfully execute and deliver projects. This position ensures that project resources, processes, schedules, budgets, vendors, and deliver",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-helmsman-group-llc/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9c5d3ca1d7d7e152",
+   "title": "Full-Stack Software Engineer (New graduates: United States)",
+   "company": "Info Resume Edge",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T23:43+00:00",
+   "posted_day": "2026-10-26",
+   "summary": ", remotePosition: Full-Stack Software EngineerCompany: Info Resume Edge Contract Details: Full-time, remote Info Resume Edge is a leading provider of resume building and career development services. We are seeking a highly motivated and talented Full-Stack Software Engineer to join our growing team. This is an exciting",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/info-resume-edge/jobs/full-stack-software-engineer-new-graduates-united-states-3547250624?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "33ee920418956282",
+   "title": "Scrum Master",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 80,546–92,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T20:49+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Overview TISTA Science and Technology is seeking a Scrum Master to join our growing team. At TISTA, you’ll do meaningful, mission‑driven work that improves lives alongside teammates you trust and leaders who are transparent and supportive. We invest in your learning and internal mobility so you can build a career that ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3d5c0faf22aae2d1",
+   "title": "Software Engineer (.NET)",
+   "company": "Embrace Software Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T20:13+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "This is a remote position. About the Role We are seeking a skilled Software Engineer based in India to develop, enhance, and maintain our Language School ERP platform, which includes a legacy VB.NET application (Class.Net) and a modern SaaS application (ClassWeb) built using C#, .NET, Angular, and SQL Server. The ideal",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/embrace-software-inc/jobs/software-engineer-net?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f388a6154e07d702",
+   "title": "Senior Project Manager (Remote, Contract)",
+   "company": "Blue Acorn iCi",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-26T19:45+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Position Overview The Senior Project Manager independently leads complex projects and engagements across multiple workstreams, stakeholder groups, vendors, and delivery dependencies. This role integrates scope, schedule, budget, quality, resources, governance, and change into a coherent delivery approach, using sound j",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/blue-acorn-ici/jobs/senior-project-manager-remote-contract?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8282d136c33c88de",
+   "title": "Technical Project Manager - Client Service Delivery",
+   "company": "DataVisor",
+   "location": "Mountain View, California, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-26T19:08+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "DataVisor is the world’s leading AI-powered Fraud and Risk Platform that delivers the best overall detection coverage in industry. With an open SaaS platform that supports easy consolidation and enrichment of any data, DataVisor's solution scales infinitely and enables organizations to act on fast-evolving fraud and mo",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/6hTjzra4om4NG848YB1BJu/hybrid-technical-project-manager---client-service-delivery-in-mountain-view-at-datavisor"
+    }
+   ]
+  },
+  {
+   "id": "e93c51ba32ae4602",
+   "title": "Technical Project Manager",
+   "company": "Sand Cherry Associates",
+   "location": "Denver, Colorado, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "hybrid",
+   "employment": "contract",
+   "posted": "2026-10-26T14:47+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Company Profile At Sand Cherry Associates, we excel in the design and delivery of strategic customer-centric initiatives through digitally native, data-empowered solutions. Our client’s confidence in us is centered on exceptionally skilled, high-energy talent working with the support of the full Sand Cherry team. Findi",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/uZpum45VFsfXTPhnG9xcrc/hybrid-technical-project-manager-in-denver-at-sand-cherry-associates"
+    }
+   ]
+  },
+  {
+   "id": "5f69dd27d1918118",
+   "title": "Manager, Product Ownership",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 115,200–158,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T12:20+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Become a part of our caring community The Manager, Product Ownership is responsible for conveying product vision and roadmap to an Agile delivery team by defining user stories and prioritizing product backlog. The Manager, Product Ownership works within specific guidelines and procedures; applies advanced technical kno",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/manager-product-ownership?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "65d6ea3d40190645",
+   "title": "Senior Full Stack Engineer - Web & iOS - USA",
+   "company": "AutoRABIT Holding Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 150,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T09:50+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Job Role Overview AutoRABIT is hiring Senior Full Stack Engineers with demonstrated experience building both enterprise web applications and native iOS mobile applications. You will help develop a new product that automates the software delivery lifecycle for Salesforce teams. The platform connects customer Salesforce ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/autorabit-holding-inc/jobs/senior-full-stack-engineer-web-ios-usa?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e4bcc3aadd39ad8a",
+   "title": "Product Owner Volunteer",
+   "company": "OM",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Volunteer",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-26T09:01+00:00",
+   "posted_day": "2026-10-26",
+   "summary": "Operation Mobilization ( OM ) Volunteer Role | Unpaid | Remote | Flexible Schedule Role Overview The Product Owner Volunteer serves as a key link between ministry stakeholders and the Technology Team, helping ensure that application enhancements and technology solutions align with organizational objectives and user nee",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/om/jobs/product-owner-volunteer?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "4ad51e9a2a8440a7",
    "title": "Front-End AI Engineer: Agentic AI Studio & Agentic AI as a Service Specialist",
@@ -14057,5 +14407,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-26T07:40+00:00"
+ "updated": "2026-10-27T07:35+00:00"
 }
