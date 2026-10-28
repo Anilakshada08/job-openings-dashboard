@@ -347,9 +347,385 @@
     "The Muse": "0 new in last 24h",
     "Workable": "6 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-28T07:44+00:00",
+   "added": 14,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "21 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "4 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "0ab614b1f88c6582",
+   "title": "Alaska Workstream Product Owner Manager",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 12,
+   "experience_estimated": false,
+   "salary": "USD 135,000–216,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-28T07:40+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/alaska-workstream-product-owner-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f95ca36744b6b58b",
+   "title": "Technical Program Manager",
+   "company": "Cyera",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 100,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-28T06:18+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Description WHO WE ARE Come join the company at the center of how the world adopts AI securely. Cyera ’s mission is to give enterprises the confidence to embrace AI safely — deciding exactly what it can see and do as it reaches deeper into the business. We started by solving the hardest problem in data security: findin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cyera-com/jobs/technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "47876bbfa62403d8",
+   "title": "Product Owner",
+   "company": "Liberty Mutual",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-28T06:07+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Description Help get critical pricing updates in market for Small Commercial products! As the Product Owner for one of our Commercial Auto squads, you'll own the backlog behind the pricing changes that reach our Small Commercial customers and agents, balancing speed, quality, and capacity. You'll work side by side with",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/liberty-mutual/jobs/product-owner-702180736?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b3a1d6b65e6de4b4",
+   "title": "Product Owner, AI & AWS Delivery",
+   "company": "NeuraFlash",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-28T05:59+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Why NeuraFlash , Part of Accenture: At NeuraFlash , Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce. As a trusted leader in AI, AWS, and Salesforce innovation, we craft intelligent solutions—integrating Salesforce Einstein, Service Clou",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/neuraflash/jobs/product-owner-ai-aws-delivery?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "78e7d3c630a7b290",
+   "title": "Software Engineering Program Manager",
+   "company": "enterprisedb",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-28T04:24+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/enterprisedb/jobs/software-engineering-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ec584e6bb629b199",
+   "title": "Full Stack Developer",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 85,546–97,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T22:17+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "Overview TISTA Science and Technology is seeking a Full Stack Developer to join our growing team. At TISTA, you’ll do meaningful, mission‑driven work that improves lives alongside teammates you trust and leaders who are transparent and supportive. We invest in your learning and internal mobility so you can build a care",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/full-stack-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "38250c455d3c4207",
+   "title": "Senior IT Project Manager (Healthcare IT)",
+   "company": "DAS Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T21:08+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "Senior Technical Project Manager Department: Project Management Office (PMO) Location: Remote FLSA Status: Exempt Reports To: Principal Project Manager About DAS Health DAS Health is a leading provider of healthcare IT and management solutions, serving ambulatory, senior care, and post-acute organizations nationwide. W",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/das-health/jobs/senior-it-project-manager-healthcare-it?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "12aac1e2e38f5d51",
+   "title": "Technical Product Owner, Managed Services & Video - Remote",
+   "company": "Allbridge",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T18:46+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "Company Overview Allbridge is the leading supplier of world class connected technology solutions, services, and support for high-density properties. With more than 35 years of continuous growth and industry experience, Allbridge supports technology in over one million rooms, in 8,000 properties, across North America an",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/allbridge/jobs/technical-product-owner-managed-services-video-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0f0e8af07b219347",
+   "title": "Technical Program Manager",
+   "company": "Tiger Analytics Inc.",
+   "location": "Orange, California, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-27T18:00+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "About Tiger Analytics: Shape the Future of AI. Transform the World's Leading Businesses. Tiger Analytics is one of the fastest-growing AI services firms, partnering with some of the world's largest and most influential organizations to redefine how business gets done. We help Fortune 500 companies harness the power of ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/qPwhzeXsm8Lckcau7wfFJ8/hybrid-technical-program-manager-in-orange-at-tiger-analytics-inc."
+    }
+   ]
+  },
+  {
+   "id": "c2026d9b80e833e9",
+   "title": "Product Owner",
+   "company": "Optimile",
+   "location": "Ghent, Flanders, Belgium",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-10-27T15:49+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "Reports to: Product Manager | Location: Hybrid (Ghent, Belgium) | Employment type: Payroll Optimile is a leading software company specializing in digital solutions for the electric vehicle (EV) charging industry. Our innovative platforms empower Charging Point Operators (CPOs) and Mobility Service Providers (MSPs) to d",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/7DHSEbRKJsEjp1efzQYzad/hybrid-product-owner-in-ghent-at-optimile"
+    }
+   ]
+  },
+  {
+   "id": "e45c3559fcb64475",
+   "title": "Project Manager III",
+   "company": "Exeter Finance LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 101,500–139,600",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T14:35+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "At Exeter Finance, we are committed to helping customers find the right financing for their next vehicle purchase. By building strong relationships with our customers and network of dealer partners we are able to give options that make sense, getting customers behind the wheel of their car. Every team member is integra",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/exeter-finance-llc/jobs/project-manager-iii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e4332092cb048e54",
+   "title": "Principal AI Product Owner",
+   "company": "Toppan Merrill",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 140,000–195,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T13:06+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "Job Description: Shape the Future of AI in Capital Markets and Legal Disclosure At Toppan Merrill , we're building Quinn , a cloud-based platform that helps law firms, investment banks, and public companies draft, review, and file SEC documents, including IPO registration statements, prospectuses, proxy statements, and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/toppan-merrill/jobs/principal-ai-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c6bcbfc06818ffd5",
+   "title": "Sr. Front End Engineer",
+   "company": "People10 Technologies, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T11:30+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "This is a remote position. Sr. Front End Engineer@ PEOPLE10 Experience: 5 - 6 years Job Location: Bangalore (Remote) Job Overview: This position is for a technical position with Angular knowledge for the complete system rewrites of Logistics related Project at Laufer group International. They will be functioning as a f",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/people10-technologies-inc/jobs/sr-front-end-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3bf11ca650f51c47",
+   "title": "UI Developer",
+   "company": "EdgeQ Technologies Private Limited",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 65,000–110,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-27T09:13+00:00",
+   "posted_day": "2026-10-27",
+   "summary": "Job Description: UI Developer Job Title: UI Developer Experience: 1–5 Years Job Type: Full-Time Work Mode: 100% Remote Location: United States (Remote) Job Summary We are looking for a skilled UI Developer to design, develop, and maintain responsive, user-friendly web interfaces. The ideal candidate should have strong ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/ui-developer?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "38601b24c6c5a281",
    "title": "Scrum Master (Application Development)",
@@ -14407,5 +14783,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-27T07:35+00:00"
+ "updated": "2026-10-28T07:44+00:00"
 }
