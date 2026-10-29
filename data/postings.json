@@ -359,9 +359,333 @@
     "The Muse": "0 new in last 24h",
     "Workable": "4 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-29T07:47+00:00",
+   "added": 12,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "18 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "9f82173371198cbe",
+   "title": "Project Manager",
+   "company": "Sporty Group",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T07:23+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "What you'll be doing Build project plans that ensure maximum utilisation of the team for impact Partner with Product to translate their ‘Why?’ into a ‘What? Who? How? and ‘When’ in a cohesive plan Where initiatives span multiple internal teams, the Project Manager leads cross-team collaboration, driving alignment and e",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sporty-group/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "39569639d73c0e13",
+   "title": "Sr. Technical Program Manager",
+   "company": "Lyra Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 114,000–157,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T07:07+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "About Lyra Health Lyra Health is a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships. The company has delivered more than 15 million sessions of mental health care, pub",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lyra-health/jobs/sr-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0ca4b6409c81f74f",
+   "title": "Senior Technical Product Owner - Investments",
+   "company": "Reinsurance Group of America",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 126,710–188,840",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T06:32+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "You desire impactful work. You’re RGA ready RGA is a purpose-driven organization working to solve today’s challenges through innovation and collaboration. A Fortune 200 Company and listed among its World’s Most Admired Companies , we’re the only global reinsurance company to focus primarily on life- and health-related ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/reinsurance-group-of-america/jobs/senior-technical-product-owner-investments?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d7664b2d88dfccd1",
+   "title": "Temp Technology Project Manager",
+   "company": "Reactivate",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 75–100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-29T05:24+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "About Reactivate ☀️ Reactivate , an Invenergy company, is a mission-driven organization that develops, owns, and operates renewable energy solutions that are designed to improve quality of life for communities, with a focus on meaningful benefits for working-class people across the country. Focus areas include communit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/reactivate/jobs/temp-technology-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a2aa5bf24f7603b8",
+   "title": "4648-Senior Program Manager",
+   "company": "Innovaccer",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T02:28+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "About the Role We at Innovaccer are looking for a Senior Program Manager to lead the execution of AI-enabled healthcare technology initiatives for our customers. This role is ideal for candidates who have operated in fast-paced, client-facing consulting environments and are now looking to own outcomes end-to-end inside",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/innovaccer/jobs/4648-senior-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5a58790725890c19",
+   "title": "Senior Staff Software Engineer",
+   "company": "RBGlobal",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T01:51+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "About Us: Our culture is characterized by collaboration, inclusivity, and a commitment to continuous learning, fostering an environment where diverse perspectives lead to groundbreaking solutions. Team members are empowered to share ideas and experiment across teams in all aspects of the business, fostering innovation ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rbglobal/jobs/senior-staff-software-engineer-3340005174?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "518b4192b27a9159",
+   "title": "Sr. Project Manager",
+   "company": "American College of Education",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T00:52+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Who is American College of Education Founded in 2005, American College of Education continues to be a leader in professional development through our online programs. The mission of ACE is to deliver high-quality, affordable, and accessible online programs grounded in evidence-based content, real-world experience and re",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/american-college-of-education/jobs/sr-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8a18efe8625d053e",
+   "title": "Data & AI Product Delivery Manager",
+   "company": "AmerisourceBergen",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 76,200–119,460",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T00:04+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us impro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/amerisourcebergen/jobs/data-ai-product-delivery-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e38717c1eaa71aad",
+   "title": "Sr Project Manager",
+   "company": "Public Consulting Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 93,500–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T00:03+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Public Consulting Group LLC (PCG) is a leading public sector solutions implementation and operations improvement firm that partners with health, education, and human services agencies to improve lives. Founded in 1986, PCG employs approximately 2,000 professionals throughout the U.S.—all committed to delivering solutio",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/public-consulting-group/jobs/sr-project-manager-3816710701?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b08fb33cff29a3af",
+   "title": "Technical Program Manager (Network Engineering Support)",
+   "company": "Five Stones Research Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 125,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-28T23:09+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "Position Overview Type: Full-Time Location: Remote Travel: Some expected Clearance: Active Department of Defense (DoD) Secret security clearance Work Authorization: U.S. Citizenship required Summary/Objective Five Stones Research Corporation (5SRC) is seeking an energetic Technical Program Manager to join our establish",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/five-stones-research-corporation/jobs/technical-program-manager-network-engineering-support?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "24815931f0c71452",
+   "title": "Senior Software Engineer, AI-Driven Systems",
+   "company": "Thimble",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-28T16:32+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "About Us Thimble was an early pioneer in insurtech. We built a digital-first way for small businesses to buy coverage by the job, month or year, and have since delivered more than 200,000 policies across the United States. We started direct-to-consumer as an MGA, but today, we’re focused on growing through brokers and ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/thimble/jobs/senior-software-engineer-ai-driven-systems?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c7181cc5e281743b",
+   "title": "Scrum Master",
+   "company": "Deeplight",
+   "location": "Dubai, Dubai, United Arab Emirates",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-28T12:17+00:00",
+   "posted_day": "2026-10-28",
+   "summary": "DeepLight AI is a specialist AI and data consultancy renowned for implementing high-impact intelligent enterprise systems, particularly within Financial Services and Banking. We are seeking an exceptional Senior Scrum Master / AI Project Lead to drive the successful delivery of our most complex AI and data science solu",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/hUNfbzZL6YHAJXTD7N5SMk/hybrid-scrum-master-in-dubai-at-deeplight"
+    }
+   ]
+  },
   {
    "id": "0ab614b1f88c6582",
    "title": "Alaska Workstream Product Owner Manager",
@@ -14783,5 +15107,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-28T07:44+00:00"
+ "updated": "2026-10-29T07:47+00:00"
 }
