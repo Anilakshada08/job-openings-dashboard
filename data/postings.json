@@ -371,9 +371,645 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-30T07:45+00:00",
+   "added": 24,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "1 new in last 24h",
+    "Himalayas": "23 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "12 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "ea586b732afa7b5f",
+   "title": "Sr. Technical Program Manager, Data Engineering",
+   "company": "Pinterest",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 123,684–254,644",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T07:00+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "About Pinterest : Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest , we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the pro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/pinterestcareers/jobs/sr-technical-program-manager-data-engineering?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "72d26e4b9fc0987d",
+   "title": "Gabriele Consulting Group - Business Analyst/Project Manager",
+   "company": "Trinity Park Talent",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 25–30",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-30T06:56+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Gabriele Consulting Group is now hiring an early-career Business Analyst / Project Manager to support long-term projects for our clients. This is a great opportunity for someone who is eager to develop career-building skills in an environment that provides training and mentorship from senior leaders in business analysi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/trinity-park-talent/jobs/gabriele-consulting-group-business-analyst-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c37f6309e51973e7",
+   "title": "PROJECT MANAGER",
+   "company": "Empleo joven | powered by aurorajobs",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T06:48+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Esta es una oferta de empleo de Laragon publicada a través de aurorajobs. Para que tu candidatura sea válida, debes aplicar directamente en Laragon ofrece un contrato de Proyect Manager ⭐ Candidata/o ideal Education/Experience/Skills 2/3 years of Project Management experience implementing enterprise software solutions ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/empleo-joven-powered-by-aurorajobs/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c9c5b36f6cf276c6",
+   "title": "Full Stack Developer (Java / Angular) | Mid-Senior Level",
+   "company": "Devsu",
+   "location": "Honduras (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T06:12+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "At Devsu, we are looking for a Semi-Senior / Senior Full Stack Developer with 4+ years of professional software development experience and strong expertise in Java / Spring Boot and Angular / TypeScript. We are looking for a professional with proven experience in both Backend and Frontend development, capable of workin",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/7hg2RBCtjUvUEHXwfGDn9W/remote-full-stack-developer-(java-%2F-angular)-%7C-mid-senior-level-in-honduras-at-devsu"
+    }
+   ]
+  },
+  {
+   "id": "ecd5dda603c67812",
+   "title": "Senior IT Project Manager",
+   "company": "HOME DEPOT U.S.A., INC.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 70,000–190,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T05:38+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Senior Project Manager is an experienced project professional responsible for leading a combination of planning and execution of activities related to delivery of projects and/or financial/budgeting activity",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/senior-it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "232e25fd7a93d402",
+   "title": "Agile Delivery Lead / Scrum Master - Team 3 - Applicant Services Team (Senior)",
+   "company": "DecisionPoint Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T05:20+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Overview DecisionPoint seeks an Agile Delivery Lead / Scrum Master to lead Agile execution for Team 3, the Applicant Services Team, under the USMEPCOM ENLIST program. This senior role facilitates planning, daily coordination, backlog refinement, sprint reviews, demonstrations, and retrospectives while maintaining visib",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/agile-delivery-lead-scrum-master-team-3-applicant-services-team-senior?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "429e072ee8f6c994",
+   "title": "Program Manager (Rev-Access)",
+   "company": "Cardamom Health, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T05:20+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "About Cardamom The next evolution of healthcare requires flexible, agile teams to deliver high-tech, results-based solutions and support. Our team is here to help our customers tackle the initiatives and challenges on their organizational roadmap, and give clinicians, operational teams, and researchers access to the da",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cardamom-health-inc/jobs/program-manager-rev-access?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "28e601fcb487f06f",
+   "title": "ICAM Project Manager – Identity Governance & Administration (IGA)",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 131,750–178,250",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T04:18+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Type of Requisition: Regular Clearance Level Must Currently Possess: Secret Clearance Level Must Be Able to Obtain: Secret Public Trust/Other Required: None Job Family: Program Delivery and Execution Job Qualifications: Skills: Project Deliverables, Project Delivery, Project Management Certifications: None Experience: ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/icam-project-manager-identity-governance-administration-iga?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "49cf2cdcd9fce8d3",
+   "title": "Project Manager",
+   "company": "OpenDataJobs",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 100,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-10-30T04:13+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "About Peregrine Peregrine Advisors is a rapidly growing AI and data innovation hub helping government solve hard problems and deliver better outcomes. We work across the full lifecycle—from strategy and governance through architecture, engineering, analytics, AI, visualization, and training—for clients including the SE",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/opendatajobs/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2a4273263c4d3818",
+   "title": "ICAM Project Manager - Enterprise Identity Services",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 131,750–178,250",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T03:26+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Type of Requisition: Regular Clearance Level Must Currently Possess: Secret Clearance Level Must Be Able to Obtain: Secret Public Trust/Other Required: None Job Family: Program Delivery and Execution Job Qualifications: Skills: Agile Project Management, Atlassian JIRA, Deliverables Management Certifications: None Exper",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/icam-project-manager-enterprise-identity-services?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b2587dad06183c19",
+   "title": "Senior Web Developer (UI & API Integration)",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 80,000–128,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T01:34+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/senior-web-developer-ui-api-integration?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "dda5e72322ef527d",
+   "title": "Agile Delivery Lead / Scrum Master - Team 2 - Mission Applications & Integration",
+   "company": "DecisionPoint Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T01:34+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Overview DecisionPoint seeks an Agile Delivery Lead / Scrum Master to lead Agile execution for Team 2 supporting mission applications and integration capabilities under the USMEPCOM ENLIST program. This senior role facilitates planning, daily coordination, backlog refinement, sprint reviews, demonstrations, and retrosp",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/agile-delivery-lead-scrum-master-team-2-mission-applications-integration?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2efcb82460e16925",
+   "title": "Senior Director, Product Owner - Global Surety",
+   "company": "Liberty Mutual",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T01:33+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Description The Senior Director, Product Owner role is responsible for aligning Global Surety's business objectives to our technology investment portfolio. This includes deeply understanding surety's business objectives, how and where technology can best achieve those goals, and partnering with operations and technolog",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/liberty-mutual/jobs/senior-director-product-owner-global-surety?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "73e270565c478643",
+   "title": "Lead – Software Developer, DocBridge / AEM with IRS MBI Clearance Needed",
+   "company": "3M Consultancy",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T00:39+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "This is a remote position. Job Title: Lead – Software Developer, DocBridge / AEM Location: Remote Duration: Full-Time NEED IRS MBI Clearance. Description: Lead AEM Developer responsible for designing, developing, and implementing high-quality solutions within the Adobe Experience Manager platform as well as solutions r",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/3m-consultancy/jobs/lead-software-developer-docbridge-aem-with-irs-mbi-clearance-needed?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ff340becbd34fedd",
+   "title": "Senior Technical Program Manager",
+   "company": "OpenMined",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T20:56+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "About OpenMined OpenMined is a 501(c)(3) non-profit foundation that brings together leading minds in AI, security, and privacy technology to develop open-source solutions that transform how data can be accessed and shared. Founded in 2017, we've grown into a global community of over 18,000 members working to ensure tha",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9Ldp2WNfryaQGeUb64L77w/remote-senior-technical-program-manager-in-united-states-at-openmined"
+    }
+   ]
+  },
+  {
+   "id": "5872bc13509966d9",
+   "title": "Full Stack Software Engineer - AI-First (Java, Angular)",
+   "company": "WorkFlex",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T20:07+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "🚀 Build the Future of Global Work - From Anywhere Traditional compliance is slow and manual. At WorkFlex , we have built the platform that automates it. We are looking for experienced Fullstack Product Engineers who want to build high-scale systems using the most advanced agentic workflows available. The Lifestyle We a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/workflex/jobs/full-stack-software-engineer-ai-first-java-angular?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c3df3726df6b77b9",
+   "title": "Product Owner",
+   "company": "Aviture",
+   "location": "Omaha, Nebraska, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-29T19:41+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "What is Aviture? Aviture is a full-service technology consulting firm with expertise in software solutions for both commercial and government organizations. We believe software doesn’t mean anything unless it solves a problem, so we create technology to enable users, open possibilities, and create meaningful impact. “I",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/cNwSr6z1LPsgKXB35f4FYf/product-owner-in-omaha-at-aviture"
+    }
+   ]
+  },
+  {
+   "id": "50ce9fa4cff844b5",
+   "title": "Senior Web Applications Engineer",
+   "company": "Aristotle",
+   "location": "Washington, District of Columbia, United States",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-29T17:59+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Since 1983, Aristotle has been a leader in developing technology and harnessing data used in political campaigns at every level—from local races to the White House. Our flagship platform, Campaign Manager™, is the only fully integrated, three-in-one campaign relationship management solution, supporting compliance, fund",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/oqTEsy4WzDbJWPw7qsDiKM/hybrid-senior-web-applications-engineer-in-washington-at-aristotle"
+    }
+   ]
+  },
+  {
+   "id": "28633e820aa120bc",
+   "title": "Technical Program Manager (GenAI)",
+   "company": "Tiger Analytics Inc.",
+   "location": "United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T17:54+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "About Tiger Analytics: Shape the Future of AI. Transform the World's Leading Businesses. Tiger Analytics is one of the fastest-growing AI services firms, partnering with some of the world's largest and most influential organizations to redefine how business gets done. We help Fortune 500 companies harness the power of ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/1agkPDk14mH5uhQLo2QwDA/remote-technical-program-manager-(genai)-in-united-states-at-tiger-analytics-inc."
+    }
+   ]
+  },
+  {
+   "id": "2bef060bab976592",
+   "title": "Semi-Senior/Senior Angular Front-End Developer - Sector Financiero/Bancario",
+   "company": "Devsu",
+   "location": "Quito, Pichincha, Ecuador",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-29T17:40+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Buscamos un Frontend Developer con experiencia sólida en Angular y TypeScript , capaz de trabajar tanto en entornos frontend como full stack. El candidato ideal debe aplicar buenas prácticas de desarrollo, tener criterio técnico para garantizar la calidad del código, y conocimientos básicos en QA, DevOps y seguridad . ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/vydY1gNishPro2vJXrzhFJ/semi-senior%2Fsenior-angular-front-end-developer---sector-financiero%2Fbancario-in-quito-at-devsu"
+    }
+   ]
+  },
+  {
+   "id": "83796db1bef35f15",
+   "title": "Staff Technical Program Manager",
+   "company": "hims & hers",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T15:40+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two pe",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/157856-staff-technical-program-manager-2"
+    }
+   ]
+  },
+  {
+   "id": "4b27ad74cc12d96b",
+   "title": "Technical Project Manager Kuala Lumpur",
+   "company": "Innovatrics",
+   "location": "Federal Territory of Kuala Lumpur, Malaysia (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-29T14:53+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Who We Are At Innovatrics, we build biometric technologies for elections, border control, digital ID, and secure onboarding in 80+ countries. Our algorithms have reached over a billion people. We delivered the full end-to-end biometric solution for Guinea's national elections, covering 3,000 enrollment stations and an ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/u9D3hMHGxsVsmaKY563h9K/remote-technical-project-manager-kuala-lumpur-in-federal-territory-of-kuala-lumpur-at-innovatrics"
+    }
+   ]
+  },
+  {
+   "id": "4a9e9eec64126f94",
+   "title": "1790 - Scrum Master",
+   "company": "Sigma Defense",
+   "location": "San Diego, California, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-29T13:21+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "Sigma Defense is seeking a Scrum Master to join our team in San Diego, CA. The Scrum Master facilitates Agile ceremonies, coordinates cross-functional engineering teams, tracks sprint progress and dependencies, removes impediments, and maintains Jira boards and documentation. This role supports backlog management, stak",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/nKeVSmLhC4d8CVnXhBPTK9/1790---scrum-master-in-san-diego-at-sigma-defense"
+    }
+   ]
+  },
+  {
+   "id": "8aa64fd2ffee16d9",
+   "title": "Senior Full Stack Developer (.NET/Angular/SharePoint)",
+   "company": "Advansys",
+   "location": "Giza, El Omraniya, Egypt",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-29T09:37+00:00",
+   "posted_day": "2026-10-29",
+   "summary": "About the Role We’re looking for a Senior .NET Developer with strong SharePoint experience to design, build, and maintain enterprise applications and collaboration solutions. You’ll work closely with business analysts, architects, and QA to deliver scalable, secure, high-quality software, and you’ll mentor junior devel",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/vgjnRvCNvuxme87vLLDnWs/hybrid-senior-full-stack-developer-(.net%2Fangular%2Fsharepoint)-in-giza-at-advansys"
+    }
+   ]
+  },
   {
    "id": "9f82173371198cbe",
    "title": "Project Manager",
@@ -15107,5 +15743,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-29T07:47+00:00"
+ "updated": "2026-10-30T07:45+00:00"
 }
