@@ -383,9 +383,515 @@
     "The Muse": "0 new in last 24h",
     "Workable": "12 new in last 24h"
    }
+  },
+  {
+   "at": "2026-10-31T07:40+00:00",
+   "added": 19,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "3 new in last 24h",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "1876bd66fc4f69fe",
+   "title": "Software Developer (fullstack)",
+   "company": "Crash Champions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 135,000–145,000",
+   "job_type": "Temporary",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T07:20+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Champions Do More As one of the fastest-growing and most exciting brands in the industry, Crash Champions is the largest founder-led multi-shop operator (MSO) of high-quality collision repair service in the U.S. The company, which also operates the growing Crash Champions LUXE | EV Certified brand of highline and luxur",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crash-champions/jobs/software-developer-fullstack-7791719163?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "16ccda14dc1c97e3",
+   "title": "Project Manager III - Service And Digital Assets Background",
+   "company": "CareSource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 94,100–164,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T06:59+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Job Summary: The Project Manager III is responsible for managing medium to high complexity projects within programs and high complexity standalone projects. Essential Functions: Responsible for successful delivery of project Ensure project milestone deliverables are completed and approved at every stage of the project ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caresource/jobs/project-manager-iii-service-and-digital-assets-background?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b44c7990088b3720",
+   "title": "Project Manager – Banking / Payments",
+   "company": "Delan Associates",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T06:58+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "🚨 Hiring: Project Manager – Banking / Payments 🚨 📍 Location: 100% Remote 📅 Duration: Long-Term Contract We are looking for an experienced Project Manager with a strong Banking/Financial Services background to lead strategic Payments/Credit Cards initiatives. The ideal candidate should have extensive experience managing",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/delan-associates/jobs/project-manager-banking-payments-9837635414?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b947c36a83f266b2",
+   "title": "Digital Delivery Manager",
+   "company": "GSK",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 134,250–223,750",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T02:36+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Job purpose: The GSK global corporate web estate is a central and vital hub in our digital communications ecosystem owned and managed by Communications and Government Affairs. It is a dynamic channel for providing essential company information to reflect GSK ’s focus on delivering growth and accelerating R&D. Our commi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/gsk/jobs/digital-delivery-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c4ebf8eca36fc2ff",
+   "title": "Senior Software Development Engineer (Full Stack)",
+   "company": "Voxology, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 140,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T01:47+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Voxology, Inc. is a CPaaS provider building scalable infrastructure for real-time communications. Our platform brings together APIs, dashboards, and orchestration systems that help organizations power mission-critical voice and messaging experiences with reliability and scale. We are looking for a Senior Software Devel",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/voxology-inc/jobs/senior-software-development-engineer-full-stack?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5eb9715bc5707fd9",
+   "title": "Principal, Technical Program Manager",
+   "company": "Walmart - Internal",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 143,000–286,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T01:26+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Position Summary... What you'll do... Program Planning DevelopmentRequires knowledge ofProgram management techniques tools and frameworks Benefits analysis Program planning tools and techniques Communication tools and processesTo define goals stage gates critical delivery paths and key deliverables for largescale progr",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/walmart-com/jobs/principal-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3f8c231ee7999dfe",
+   "title": "Portal Product Owner - Life and Annuity Business Unit",
+   "company": "Accenture",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 80,400–224,600",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T00:54+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "We Are: Transforming the Insurance industry of yesterday. We apply some of today’s latest technologies in AI, data analytics, and automation. Our team of over 975 Life and Annuity industry professionals is helping some of the most recognized insurance brands drive growth with digital innovation, platform modernization,",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/accenture/jobs/portal-product-owner-life-and-annuity-business-unit-6239714982?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "192a2e4ad337c117",
+   "title": ".Net Full Stack Developer (Canada)",
+   "company": "Rumor Avenue",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T20:52+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "About the Role We are seeking a proactive and experienced .NET Full Stack Developer with 6–8 years of hands-on experience in .NET, SQL, Angular, and Web API integrations. The ideal candidate should possess a strong product-development mindset, exceptional problem-solving abilities, and effective communication skills to",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rumor-avenue/jobs/net-full-stack-developer-canada?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0f194f683c865235",
+   "title": "Lead Technical Program Manager - Trust & Safety",
+   "company": "JPMorgan Chase",
+   "location": "Chicago, IL, Jersey City, NJ, Palo Alto, CA, Tampa, FL",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-10-30T20:40+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Leverage your deep technical expertise and leadership to guide cutting-edge projects, fostering growth and innovation in a dynamic environment. As a Lead Technical Program Manager in the Commercial & Investment Bank, you will drive the successful delivery of complex technology projects and programs that will help reach",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/jpmorganchase/lead-technical-program-manager-trust-safety"
+    }
+   ]
+  },
+  {
+   "id": "d10aa792eaa6aa98",
+   "title": "Sr. Program Manager, Supply Chain and Merchandising Systems (Remote, Remote, US,",
+   "company": "Sephora",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 184,680–228,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T20:11+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Job ID: 298694 Location Name: FSC REMOTE SF/NY/DC -173(USA_0173) Address: FSC, Remote, Remote REMOTE, United States (US) Job Type: Position Type: Regular Job Function: Information Technology Work Location: Remote Your safety matters to us All official Sephora US recruitment emails will come from a @sephora.com email ad",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sephora/jobs/sr-program-manager-supply-chain-and-merchandising-systems-remote-remote-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f4b3a1bfde69dc78",
+   "title": "Program Manager",
+   "company": "ELYON International",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 60–70",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T20:08+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Program Manager Position Summary We are seeking an experienced Program Manager to provide executive-level leadership and oversight for a large, mission-critical federal healthcare program. This individual will be responsible for overall program performance, contract execution, customer engagement, financial management,",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/elyon-international/jobs/program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "816336c636f55e41",
+   "title": "Software Engineer II",
+   "company": "Akamai Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 95,000–171,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T19:27+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Are you excited about working with cutting-edge technologies? Are you a software developer who loves solving complex problems? Join our Edge Applications Engineering team Our team builds and maintains the software infrastructure powering Akamai's global edge network, one of the world's largest distributed systems servi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-engineer-ii-7960248456?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "effa915a93332be5",
+   "title": "Internship, Software Engineer",
+   "company": "VSP Vision",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 26–32",
+   "job_type": "Intern",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T19:24+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Are you an aspiring professional looking to gain hands-on experience and expand your skill set in a real-world business environment? The ​Software Engineer​ Internship offers an exciting opportunity to apply your knowledge, build practical skills, and contribute to meaningful work. At VSP Vision , we’re on a mission to",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vsp-vision/jobs/internship-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9279ec54f044e581",
+   "title": "Sr. Project Manager, Reinsurance",
+   "company": "Sapiens",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T19:07+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "The Senior Project Manager works hands-on leading our clients and internal staff in implementing Sapiens ’ proprietary applications. This position requires technical competence, reinsurance business/industry knowledge, and customer-facing skills. PMs spend the majority of their time working directly with the customers’",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sapiens/jobs/sr-project-manager-reinsurance?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e5803810061be338",
+   "title": "Senior Professional Services Project Manager (EMEA)",
+   "company": "GitLab",
+   "location": "Flexible / Remote",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T18:46+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust G",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/gitlab/senior-professional-services-project-manager-emea"
+    }
+   ]
+  },
+  {
+   "id": "4aed3a7aa00bb219",
+   "title": "Sr. Agile Project Manager",
+   "company": "Cambium Learning Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T16:05+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Job Overview: The Senior Agile Project Manager leads complex technology activities that enable Cambium’s strategic objectives. Acting as a Release Train Engineer (RTE), the Senior Agile Project Manager facilitates Program Increment (PI) planning, manages dependencies across Agile Release Trains (ARTs), and promotes con",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cambium-learning-group/jobs/sr-agile-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8487578cc09c2770",
+   "title": "Staff Software Engineer – Biopharma Reporting and Specialty Analytics",
+   "company": "Cardinal Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 96,300–151,360",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T15:44+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "The BioPharma Reporting & Specialty Analytics engineer is a software engineering craftsman that is a full-stack engineer that is an expert at working in all layers of an application. They work in an agile development environment to deliver reporting & insights to transform healthcare into a safer and more cost-effectiv",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cardinal-health/jobs/staff-software-engineer-biopharma-reporting-and-specialty-analytics-5863471366?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "79eed3ae406ac9da",
+   "title": "Senior Web Developer (UI, Training Content & Adoption Tools)",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 80,000–128,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T14:00+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/senior-web-developer-ui-training-content-adoption-tools?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "53d42e49144be422",
+   "title": "Senior Product Owner/Manager, Next Best Action Configuration",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 104,000–143,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-30T12:48+00:00",
+   "posted_day": "2026-10-30",
+   "summary": "Become a part of our caring community Become a part of our caring community Join a world-class marketing organization creating the best possible engagement experience for millions of members. Humana is a $100+ billion, Fortune 50 healthcare leader dedicated to improving the health and well-being of some of the most vul",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/senior-product-owner-manager-next-best-action-configuration?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "ea586b732afa7b5f",
    "title": "Sr. Technical Program Manager, Data Engineering",
@@ -15743,5 +16249,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-30T07:45+00:00"
+ "updated": "2026-10-31T07:40+00:00"
 }
