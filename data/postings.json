@@ -395,9 +395,411 @@
     "The Muse": "3 new in last 24h",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-01T07:44+00:00",
+   "added": 15,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "17 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "a45de8dbbc526c0c",
+   "title": "UI/Accessibility Expert - Front-End Tech Lead",
+   "company": "COVENTEK, INC.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-01T07:07+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "NOTE: Send your resume to Local to Iowa Candidates only (Remote) Job Description: We require a dedicated Front-End Tech Lead to support and lead the development of Staff MIUI screens within IWD. This is a senior, lead-level role. Complete Description: We require a senior, lead-level role with responsibility for technic",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/coventek-inc/jobs/ui-accessibility-expert-front-end-tech-lead?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f9fce4227533cd00",
+   "title": "Technical Program Manager, Customer Onboarding",
+   "company": "Veracode",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-01T05:37+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode ! Veracode is a global leader in Application Risk Management for the AI era. Powered by trillions of lines of code scans and a proprietary AI-generated remediation eng",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/veracode/jobs/technical-program-manager-customer-onboarding?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c769ace685d17fa5",
+   "title": "Senior Technical Program Manager",
+   "company": "Penguin Ai",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-01T05:00+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "Penguin Ai : We're Not Just Building AI, We're Revolutionizing Healthcare! Want to Be Our Technical Program Management Maestro? Who We Are: The Penguin Ai Rebellion! We’re not your average AI company - and we don’t want average teammates. Penguin Ai was founded by healthcare veterans who knew the system needed more tha",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/penguin-ai/jobs/senior-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5e87a2acedc364fa",
+   "title": "Contract Product Owner",
+   "company": "CapTech Consulting",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 50–85",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-01T03:25+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "As a Product Owner with CapTech, your focus will be helping our clients deliver results against some of their most complex business and technology initiatives. The Product Owner role is multi-faceted by the very nature of the service we provide. Success within our diverse range of clients requires the ability to adapt ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/captech-consulting/jobs/contract-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f7aeabd8ed727c69",
+   "title": "Senior Lead Full Stack Developer",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 85,546–97,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-01T00:26+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Overview TISTA Science and Technology is seeking a Senior Lead Full Stack Developer to join our growing team. At TISTA, you’ll do meaningful, mission‑driven work that improves lives alongside teammates you trust and leaders who are transparent and supportive. We invest in your learning and internal mobility so you can ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/senior-lead-full-stack-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f9d60d63c68fac52",
+   "title": "Software Engineer (Remote - US)",
+   "company": "nLiven",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 75,000–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T22:33+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "At TixTrack, we support our clients by creating superior ticketing solutions for performing arts and cultural institutions through a combination of modern technology, beautifully simple design, and the art of listening. Headquartered in the heart of the Broadway Theatre District, NYC, we are a small, but growing team o",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nliven/jobs/software-engineer-remote-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0f482da031b00e2a",
+   "title": "Senior Customer Technical Program Manager - AI Datacenter",
+   "company": "NVIDIA",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 168,000–322,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T22:17+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "We're looking for a Senior Customer Program Manager to lead the charge on technical programs for some of NVIDIA 's most strategic partners to build exceptional customer relationship. As a core member of the Customer Program Management team, you'll work with the world's largest cloud service providers, hyperscalers, and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nvidia/jobs/senior-customer-technical-program-manager-ai-datacenter?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6dd88a85664b4064",
+   "title": "Project Manager",
+   "company": "Latham, The Pool Company",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 100,000–125,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T22:10+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Make a SPLASH with Latham, The Pool Company ! At Latham, The Pool Company , we don’t just make swimming pools; we create opportunities for backyard dreams to come true. As the leading manufacturer in North America, Australia, and New Zealand, we are committed to delivering innovation, quality, and sustainability in eve",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/latham-the-pool-company/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8f79e1c69242cfba",
+   "title": "IT Project Manager - As Assigned",
+   "company": "Farmer Mac (Federal Agricultural Mortgage Corporation)",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T22:03+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Farmer Mac is seeking an experienced IT Project Manager to lead complex technology projects from initiation through delivery. In addition to managing projects, the successful candidate will serve as Scrum Master for select IT teams and bring strong knowledge of Agile methodologies to help those teams deliver effectivel",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/farmer-mac-federal-agricultural-mortgage-corporation/jobs/it-project-manager-as-assigned?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7d8a1a2156d18a53",
+   "title": "Senior Information Assurance Analyst / Program Manager",
+   "company": "Lucayan Technology Solutions LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T21:25+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "About Lucayan Technology Solutions LLC At Lucayan Technology Solutions LLC , we deliver secure, innovative solutions in support of national defense and intelligence missions. As a trusted government contracting partner, we provide top-tier intelligence and technology services that safeguard our nation. Our team is miss",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lucayan-technology-solutions-llc/jobs/senior-information-assurance-analyst-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7008c9b7e3ba9029",
+   "title": "Technical Project Manager - AI Data Services",
+   "company": "RWS Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 70,000–85,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T19:24+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Job Purpose The Technical Project Manager supports the planning, execution, tracking, and delivery of technical projects across multiple teams. This role acts as a central point of coordination between business stakeholders, technical teams, vendors, and project leadership, ensuring projects remain on schedule, within ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rws-group/jobs/technical-project-manager-ai-data-services?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "aeb5c83d25798f9d",
+   "title": "Technical Project Manager/ SQL",
+   "company": "Cambium Learning Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T19:13+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Thank you for sharing your interests! Here at Cambium, we are always looking for passionate, talented people to join the team. If you have searched our current openings and haven’t been able to find a position that fits, we’d still love to hear from you! Please take a look at the below and fill out an application here.",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cambium-learning-group/jobs/technical-project-manager-sql?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b2d69a088f73dea4",
+   "title": "Senior Digital Project Manager",
+   "company": "Acumenian (now Consertus)",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 140,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T15:56+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "About Us: Consertus is an AI-native global capital program management and advisory firm that combines deep industry expertise with advanced digital capabilities to deliver smarter, faster, and more sustainable outcomes. Headquartered in Miami, Florida, and supported by a team of more than 1,500 professionals, we help c",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/acumenian-now-consertus/jobs/senior-digital-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f83e20c1593add1e",
+   "title": "Technical Project Manager - Identity, Credential, and Access Management (ICAM)",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 112,000–179,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T11:12+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/technical-project-manager-identity-credential-and-access-management-icam?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fb7249acfee70f6f",
+   "title": "Senior Project Manager (Game Development | Co-Development) Europe",
+   "company": "Beffio",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-10-31T10:46+00:00",
+   "posted_day": "2026-10-31",
+   "summary": "Senior Project Manager (Game Development | Co-Development) Location: Remote | International Team Employment: Full-Time / Long-Term Position Overview We are looking for an experienced Senior Project Manager to help lead complex game art and co-development projects at Beffio Studios. We believe great production is more t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/beffio/jobs/senior-project-manager-game-development-co-development-europe?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "1876bd66fc4f69fe",
    "title": "Software Developer (fullstack)",
@@ -2865,6 +3267,10 @@
     {
      "name": "Jobicy",
      "url": "https://jobicy.com/jobs/151512-project-manager-4"
+    },
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/verra-mobility/jobs/project-manager?utm_source=api"
     }
    ]
   },
@@ -16249,5 +16655,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-10-31T07:40+00:00"
+ "updated": "2026-11-01T07:44+00:00"
 }
