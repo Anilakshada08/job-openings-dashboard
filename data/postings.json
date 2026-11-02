@@ -407,9 +407,515 @@
     "The Muse": "0 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-02T16:40+00:00",
+   "added": 19,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "14 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "12 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "e09a2293d4f60788",
+   "title": "Senior Software Engineer",
+   "company": "PetroApp",
+   "location": "Cairo, Cairo Governorate, Egypt",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-02T15:49+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "About PetroApp: PetroApp is a fleet management and fuel payments platform used by businesses across Egypt, Saudi Arabia, Thailand and Nigeria. We run high-volume transactions, multi-country operations, and integrations with fuel stations, payment gateways and enterprise customers. Our products range from fleet and spen",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/sk6WbWQA77xwM7ghXZzoEj/hybrid-senior-software-engineer-in-cairo-at-petroapp"
+    }
+   ]
+  },
+  {
+   "id": "54678bb5f8e6be34",
+   "title": "ServiceNow Solutions Specialist / Scrum Master (Contingent)",
+   "company": "Aretum",
+   "location": "McLean, Virginia, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T15:00+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Public Trust Eligibility Required This is a contingent position, meaning employment is dependent upon the successful award of the associated contract to Aretum and completion of any required background investigation or security clearance verification. About Aretum Aretum is a mission-driven organization committed to de",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/kqEeM1oDy6HkDYGhGG1qaB/remote-servicenow-solutions-specialist-%2F-scrum-master-(contingent)-in-mclean-at-aretum"
+    }
+   ]
+  },
+  {
+   "id": "04236eb706b67b1a",
+   "title": "Full-stack Developer (Java, Angular)",
+   "company": "EUROPEAN DYNAMICS",
+   "location": "Brussels, Brussels, Belgium",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-02T12:38+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "We currently have a vacancy for an Full-stack Developer (Java, Angular) fluent in English, to offer his/her services as an expert will be based in Brussels, Belgium. The work will be carried out either in the company’s premises or on site at customer premises. In the context of the first assignment, the successful cand",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/2qJerkA22ozoV66EtW1s3X/hybrid-full-stack-developer-(java%2C-angular)-in-brussels-at-european-dynamics"
+    }
+   ]
+  },
+  {
+   "id": "a8b904cababca1d8",
+   "title": "Full stack Developer (Angular, Java)",
+   "company": "EUROPEAN DYNAMICS",
+   "location": "Brussels, Brussels, Belgium",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-02T12:31+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "We currently have a vacancy for a Full stack Developer (Angular, Java) fluent in English, to offer his/her services as an expert who will be based in Brussels, Belgium . The work will be carried out either in the company’s premises or on site at customer premises. In the context of the first assignment, the successful ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9hJmQtfrGiyJ49Sq45TEas/full-stack-developer-(angular%2C-java)-in-brussels-at-european-dynamics"
+    }
+   ]
+  },
+  {
+   "id": "a36a476eedb9d209",
+   "title": "Senior Datacenter Technical Program Manager, At-Scale AI Clusters",
+   "company": "NVIDIA",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 168,000–322,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T12:20+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "NVIDIA is looking for a highly-motivated Technical Program Manager (TPM) to join our Applied Systems Engineering Team to drive datacenter integration for the next generation of NVIDIA AI supercomputing systems. This TPM will play a crucial role throughout the lifecycle of the latest AI systems at scale, from datacenter",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nvidia/jobs/senior-datacenter-technical-program-manager-at-scale-ai-clusters?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2f03221a555b913e",
+   "title": "Product Owner - Innovation Team (remote work)",
+   "company": "Cloudlinux",
+   "location": "Tbilisi, Tbilisi, Georgia (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T11:35+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "CloudLinux is the maker of Imunify360 — a suite of security products protecting millions of websites across the web hosting industry — and of CloudLinux OS , the operating system behind a large share of the world's shared hosting. To learn more about our company and products, visit our websites: cloudlinux.com and imun",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/4B5bGXeFWrxsyEgpiWnDy4/product-owner---innovation-team-(remote-work)-in-tbilisi-at-cloudlinux"
+    }
+   ]
+  },
+  {
+   "id": "76273b013b64c2af",
+   "title": "Product Owner",
+   "company": "Prometric",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 80,000–90,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T11:01+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "JOB TITLE: Product Owner REPORTS TO: Product Manager DEPARTMENT: Product Management LOCATION: Remote Job Overview Help bring AI to education and certification. Our team exists to deliver AI-centered features for the education and certification industry. As Product Owner, you'll lead and organize that work, turning prod",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/prometric/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5fd70ba6e9d5e67d",
+   "title": "Staff Software Engineer - .NET",
+   "company": "WellSky",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T10:38+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "The Staff Software Engineer is responsible for all stages of the software development lifecycle using a variety of technologies and tools to build impactful software solutions. The scope of this job includes building and optimizing comprehensive solutions that prioritize end-user efficiency and experience. Key Responsi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wellsky/jobs/staff-software-engineer-net?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "243166f0f9a806ba",
+   "title": "Angular Frontend Software Developer",
+   "company": "EUROPEAN DYNAMICS",
+   "location": "Athens, Attica, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-02T10:29+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Are you a passionate Angular Frontend Software Developer fluent in English? We currently have an exciting opportunity for a highly motivated individual to join our team. This role focuses on the development and maintenance of Angular-based applications, with the successful candidate offering their services in our Athen",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9AQkLEHv3akiFdHCumTBo7/angular-frontend-software-developer-in-athens-at-european-dynamics"
+    }
+   ]
+  },
+  {
+   "id": "ce42accd1e659791",
+   "title": "Business Analyst / Product Owner fluent in German",
+   "company": "EUROPEAN DYNAMICS",
+   "location": "Athens, Attica, Greece (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T10:20+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Are you a highly motivated Business Analyst / Product Owner fluent in German? EUROPEAN DYNAMICS is seeking a skilled Business Analyst / Product Owner to join our dynamic team. You will have the flexibility to work remotely from within the EU or from our offices in Athens or Thessaloniki. This role requires readiness to",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/cvfZLv2y68o6Vc2Bjdz6LL/remote-business-analyst-%2F-product-owner-fluent-in-german-in-athens-at-european-dynamics"
+    }
+   ]
+  },
+  {
+   "id": "136ab169339948c4",
+   "title": "Java Developer (Angular & Microservices) for international e-Government projects",
+   "company": "EUROPEAN DYNAMICS",
+   "location": "Heraklion, Crete, Greece (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T09:03+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Are you a skilled Java Developer looking for your next challenge? We're seeking a talented individual to join our team, either at our vibrant locations in Crete (Heraklion, Rethymnon, Chania) or Athens or remotely. This role offers the chance to work with cutting-edge technology and contribute to international web deve",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/h6h5MpKkYM1uXWrsC7E2Mx/remote-java-developer-(angular-%26-microservices)-for-international-e-government-projects-in-heraklion-at-european-dynamics"
+    }
+   ]
+  },
+  {
+   "id": "f4475c0cbdb80c2b",
+   "title": "IT Project Manager (Agile / Scrum)",
+   "company": "EUROPEAN DYNAMICS",
+   "location": "Athens, Attica, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-02T08:12+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Are you a seasoned IT professional with expertise in project management? Join us in Athens or work remotely, and become part of our team as a IT Project Manager . You'll play a crucial role in the life-cycle of Agile software implementation and maintenance projects, coordinating and communicating effectively to ensure ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/kFnssLmnU679fDTBr1fUnv/hybrid-it-project-manager-(agile-%2F-scrum)-in-athens-at-european-dynamics"
+    }
+   ]
+  },
+  {
+   "id": "747e8ab4730be9e8",
+   "title": "Medicaid Implementation Senior Project Manager",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 86,300–118,700",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T05:47+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "Become a part of our caring community Humana Healthy Horizons is seeking a Medicaid Implementation Senior Project Manager to manage all aspects of a project, from start to finish, so that it is completed on time and within budget. The Medicaid Implementation Senior Project Manager work assignments involve moderately co",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/medicaid-implementation-senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "68523209fcdd8750",
+   "title": "Senior Product Owner",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 94,900–130,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T03:12+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "Become a part of our caring community The Senior Product Owner is responsible for prioritizing and overseeing the development team’s work and making sure Humana derives as much value as possible from product outcomes. Focuses on the quality of product features, responsible for defining user stories, prioritizing work i",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/senior-product-owner-356361675?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "978b9e25cedd1bd3",
+   "title": "Medallia Customer Experience Strategist / Product Owner",
+   "company": "Steampunk",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 140,000–170,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T02:32+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "Overview As a Steampunk Customer Experience Strategist / Product Owner, you will partner with stakeholders to transform customer feedback into actionable insights that drive organizational improvement. You will own the strategy, measurement framework, and reporting approach for customer experience initiatives, ensuring",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/steampunk/jobs/medallia-customer-experience-strategist-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "053931629876df11",
+   "title": "Program Manager, Data Science Core & GenAI Studio",
+   "company": "College Board",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T02:00+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "College Board - Technology - Data Science Core & GenAI Studio Location: This is a fully remote role. Candidates who live near CB offices have the option of being fully remote or hybrid (Tuesday and Wednesday in office). Type: This is a full-time position About the Team The Data Science team develops analytical approach",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/college-board/jobs/program-manager-data-science-core-genai-studio?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9024a2d24afd2bec",
+   "title": "Agile Project Manager",
+   "company": "Guidehouse",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 113,000–188,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T00:22+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "Job Family: IT Project Management Travel Required: None Clearance Required: Ability to Obtain Public Trust What You Will Do: We are actively seeking a high-performing Agile Project Manager to support our GrantSolutions contract. This role will lead the planning, coordination, and execution of a large-scale agile softwa",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/guidehouse/jobs/agile-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "defe33d6fcc3bd43",
+   "title": "Senior Full-Stack Developer (LATAM)",
+   "company": "Creamos Ltd",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T00:16+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "Category: Technology Location: We are looking for a talented Full Stack Developer to join our team. If you have a strong background in both front-end and back-end development, we want to hear from you! We are continuously on the lookout for top-tier freelancers to join our Approved Freelancers List (AFL) . By joining o",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/creamos-ltd/jobs/senior-full-stack-developer-latam?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "68d4fb2ab28321b7",
+   "title": "Technical Project Manager- Low Voltage, CCTV and Access Control",
+   "company": "Support Tech LLC",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-01T17:15+00:00",
+   "posted_day": "2026-11-01",
+   "summary": "This is a remote position. Support Tech LLC is a nationwide IT field services company. We bridge the gap between remote technical teams and physical locations across the country, delivering reliable field deployments, infrastructure management, and technical support. Position Overview We are seeking a highly skilled an",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/support-tech-llc/jobs/technical-project-manager-low-voltage-cctv-and-access-control?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "a45de8dbbc526c0c",
    "title": "UI/Accessibility Expert - Front-End Tech Lead",
@@ -16655,5 +17161,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-01T07:44+00:00"
+ "updated": "2026-11-02T16:40+00:00"
 }
