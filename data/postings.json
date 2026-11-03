@@ -419,9 +419,463 @@
     "The Muse": "0 new in last 24h",
     "Workable": "12 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-03T14:45+00:00",
+   "added": 17,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "6 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "17001981aa4110b6",
+   "title": "Project Manager",
+   "company": "Inizio Partners Corp",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-03T11:58+00:00",
+   "posted_day": "2026-11-03",
+   "summary": "Job Role: Project Manager - Consent Location: Remote Salary: up to $120k/ annum Key Responsibilities: Lead the planning and implementation of projects, ensuring they are delivered on time, within scope, and in alignment with business objectives. Apply Agile/Scrum methodologies to project management, including organizin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "177b96d69767621b",
+   "title": "Project Manager V",
+   "company": "Centene Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 107,700–199,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-03T08:37+00:00",
+   "posted_day": "2026-11-03",
+   "summary": "Position Purpose: Plan, organize, monitor, oversee end-to-end execution, and delivery of platform implementations that optimize utilization management, prior authorization, and clinical workflows. Collaborate and work with cross functional teams across the enterprise to deliver defined requirements and meet company str",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/centene-corporation/jobs/project-manager-v?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a48b2237aae81c90",
+   "title": "Technical Product Owner",
+   "company": "Broadcast Music, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 100,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-03T05:39+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Bridge Operations and Technology by turning business needs into clear, buildable solutions that support our Product strategy and fit within technical constraints. What You'll Do Translate Product strategies into user stories that operations, developers, and QA can act on, supported by wireframes, data flows, and workfl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/broadcast-music-inc/jobs/technical-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "de69f559d37f6cab",
+   "title": "Front Office, Product Owner",
+   "company": "Derivative Path",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 150,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-03T00:32+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Who We Are Derivative Path empowers institutions across the capital markets with innovative, AI-driven technology and expert advisory solutions. Our award-winning cloud platform supports banks, credit unions, private equity firms, hedge funds, asset managers, and insurance companies in managing interest rate, FX, and c",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/derivative-path/jobs/front-office-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0b48b074588d84ed",
+   "title": "Project Program Manager AI Solutions",
+   "company": "AI Technology Partners, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-03T00:07+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "AI Technology Partners (AITP) is a leader in delivering cutting-edge generative AI solutions and managed services, specializing in secure, customizable AI deployments for enterprises. Our offerings are designed to help organizations unlock the full value of AI while maintaining robust security and compliance across the",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ai-technology-partners-inc/jobs/project-program-manager-ai-solutions?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "88a62d9580095ab0",
+   "title": "Senior Project Manager(Financial Services)",
+   "company": "TechBiz Global",
+   "location": "Remote (Albania, Australia, Canada, Germany, Italy, Mexico, Netherlands, Poland, Saudi Arabia, Singapore, Spain, United Arab Emirates, United Kingdom, United St",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-03T00:05+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "At TechBiz Global , we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a Senior Project Managerto join one of our clients ' teams. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the perfect fit for you. Responsibilities:",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/techbiz-global/jobs/senior-project-manager-financial-services?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f2081bd9a8e6dfc6",
+   "title": "Product Owner/Application Lead",
+   "company": "Steampunk",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 75,000–150,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T22:55+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Overview As a Steampunk Product Owner/Application Lead , you will work with Technical/Solutions Architects and Developers to translate business requirements into well‐architected solutions that best leverage the Salesforce platform driving delivery in a government client consulting environment. Develop, test, document ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/steampunk/jobs/product-owner-application-lead?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4597cd9c74ba942f",
+   "title": "Sr. IT Project Manager",
+   "company": "Enterprise Horizon Consulting Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T22:42+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Company Overview Enterprise Horizon Consulting Group (EHCG) is a Woman-Owned Small Business specializing in IT Consulting which has successfully delivered key capabilities to the Navy, Army, and NASA over the past 20+ years. EHCG provides best in class services to its customers in the following areas: Business Systems ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/enterprise-horizon-consulting-group/jobs/sr-it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c95b34792f087995",
+   "title": "Technical Program Manager",
+   "company": "Inizio Partners Corp",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 150,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T22:26+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Role: Technical Program Manager Department: Data & Analytics Location: USA / Remote Reports: Director of Data & Analytics Employment Type : Full-Time Position Summary The Technical Program Manager (TPM) drives end-to-end delivery of complex, cross-functional data and technology initiatives within a governance-first clo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/inizio-partners-corp/jobs/technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0d3c32d1abc4a33c",
+   "title": "Product Owner",
+   "company": "Steampunk",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 75,000–150,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T22:23+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Overview Steampunk is seeking a Product Owner to drive the development of well-architected solutions in a government consulting environment. In this role, you will collaborate with Technical and Solutions Architects, Developers, and stakeholders to translate business needs into actionable solutions, ensuring successful",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/steampunk/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c20b30a0204bb1db",
+   "title": "Technical Project Manager - GxP (Patient Safety)",
+   "company": "D-ploy",
+   "location": "Ghent, Flanders, Belgium",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-02T19:57+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "D-ploy is a dynamic IT and Engineering Solutions company operating across the EMEA region, including Switzerland, Germany, Czech Republic, Austria, the UK, and the USA. We are committed to delivering reliable and efficient services to our clients through strong partnerships and a people-focused culture. We are looking ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/vJBWnR4W6w8EgJgnf4jS5u/technical-project-manager---gxp-(patient-safety)-in-ghent-at-d-ploy"
+    }
+   ]
+  },
+  {
+   "id": "3ead01a8b347196f",
+   "title": "Technical Program Manager - New Product Introduction & Production Ramp Up",
+   "company": "Eaton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 86,000–126,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T19:40+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Eaton ’s Electrical division is currently seeking a Technical Program Manager - New Product Introduction & Production Ramp Up. This is a remote position with up to 25% anticipated travel. The expected annual salary range for this role is $86,000 - $126,000 a year. Please note the salary information shown above is a gen",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/eaton/jobs/technical-program-manager-new-product-introduction-production-ramp-up?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9e792e724d914329",
+   "title": "Product Owner",
+   "company": "ClearlyAgile",
+   "location": "Tampa, Florida, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T19:35+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Join a team of professionals who are passionate about their work, love cross-training and the adoption of cutting-edge technologies. We care about our employees and foster an environment in which they can thrive by providing them the tools and training necessary to get the job done. Our team is a place where we encoura",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/eNaZZDfrnouFJAtdugwUeb/remote-product-owner-in-tampa-at-clearlyagile"
+    }
+   ]
+  },
+  {
+   "id": "d3752b2a9dcdc916",
+   "title": "Angular Developer",
+   "company": "ClearlyAgile",
+   "location": "Tampa, Florida, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T19:34+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Join a team of professionals who are passionate about their work, love cross-training and the adoption of cutting-edge technologies. We care about our developers by fostering an environment in which they can thrive by providing them the tools and training necessary to get the job done. We are looking for serious develo",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/h8tB7SdGgGwAYPPKaxfFR2/remote-angular-developer-in-tampa-at-clearlyagile"
+    }
+   ]
+  },
+  {
+   "id": "069bab1b23bccebc",
+   "title": "Senior Technical Program Manager",
+   "company": "Ensemble Health Partners",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 115,000–172,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T18:59+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Thank you for considering a career at Ensemble! Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups. They offer end-to-end revenue cycle solutions as well as a comprehensive suite of point solutions to clients ac",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ensemble-health-partners/jobs/senior-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c498180232530203",
+   "title": "Anaplan Product Owner, Manager",
+   "company": "Markel Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 91,400–190,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T18:48+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "What part will you play? If you’re looking for a place where you can make a meaningful difference, you’ve found it. The work we do at Markel gives people the confidence to move forward and seize opportunities, and you’ll find your fit amongst our global community of optimists and problem-solvers. We’re always pushing e",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/markel-group/jobs/anaplan-product-owner-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0638d238f40fdc72",
+   "title": "Technical Project Manager",
+   "company": "Steampunk",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 100,000–175,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-02T16:58+00:00",
+   "posted_day": "2026-11-02",
+   "summary": "Overview Steampunk is seeking a Technical Project Manager who is creative and is a hands-on expert with delivering innovative technology solutions. This individual will perform as leadership for the complete life cycle of solution development and delivery, providing Agile Project Management support and Scrum Master sup",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/steampunk/jobs/technical-project-manager?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "e09a2293d4f60788",
    "title": "Senior Software Engineer",
@@ -17161,5 +17615,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-02T16:40+00:00"
+ "updated": "2026-11-03T14:45+00:00"
 }
