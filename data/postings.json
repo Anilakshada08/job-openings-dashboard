@@ -431,9 +431,229 @@
     "The Muse": "0 new in last 24h",
     "Workable": "6 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-04T14:57+00:00",
+   "added": 8,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "6 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "aabf0c2861dae03c",
+   "title": "Project Manager",
+   "company": "Padmore Global Connections LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-04T10:38+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "Interview Type : Web Cam Interview Only Work Arrangement : Remote Engagement Type : Contract Short Description: Under broad supervision, manages projects through full life cycle from project definition through implementation of project deliverables. Creates collaborative partnership with all internal and external team ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4a0a22bc121388bd",
+   "title": "Digital Project Manager",
+   "company": "recruiterboom",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-04T08:26+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "Senior Digital Project Manager (freelance) Please email your resume to to expedite the application process! Only US Based Remote candidates at this time please 2 month contract- opportunity to extend Competitive Hourly Rate depending on experience We are looking for an enthusiastic, detail-oriented, and energetic Proje",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/recruiterboom/jobs/digital-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ba2156281a382add",
+   "title": "Project Manager",
+   "company": "Steampunk",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 110,000–175,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-04T07:03+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "Overview Are you a leader? Energetic? Ever worked as part of a program that is Agile? Are you interested in being an agent of change on a team committed to achieving client-focused, mission-driven excellence? Steampunk is seeking a Project Manager who is creative and is a hands-on expert with delivering innovative tech",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/steampunk/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8aacce65e06ffd2d",
+   "title": "Senior Project Manager / SCRUM Master",
+   "company": "Logistics Management Institute",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 111,000–192,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-04T06:17+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "Overview LMI is seeking a Project Manager / Scrum Mast er at the senior level to lead Agile delivery in support of Department of Veterans Affairs (VA) technology modernization initiatives. This role combines hands-on Scrum leadership, integrated project planning, stakeholder coordination, and disciplined delivery manag",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/logistics-management-institute/jobs/senior-project-manager-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a7fe4fbfd9691f5f",
+   "title": "Technical Program Manager - MCA Asia",
+   "company": "GoTyme MCA",
+   "location": "Ho Chi Minh City, Ho Chi Minh, Vietnam",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-04T05:00+00:00",
+   "posted_day": "2026-11-03",
+   "summary": "Job Objective Reporting into the Head of Operational Enablement Systems within the Technology division, this role is accountable for translating MCA Asia’s business strategy into measurable technology delivery outcomes. The Technical Program Manager will drive partner integrations, market launch readiness, and operatio",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/sHPbQEth3wnsP49GmSwCWM/hybrid-technical-program-manager---mca-asia-in-ho-chi-minh-city-at-gotyme-mca"
+    }
+   ]
+  },
+  {
+   "id": "9eff5cfce93db5be",
+   "title": "Senior Front-End Developer",
+   "company": "Human Power BG",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-04T02:45+00:00",
+   "posted_day": "2026-11-03",
+   "summary": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria. ﻿~~~ ﻿ Our client platform empowers hundreds of remote software specialists from Eastern Europe to work with the most innovative tech companies from around the world. They take pride in their friendly wo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/human-power-bg/jobs/senior-front-end-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3dd7174b9f1d4700",
+   "title": "Software Engineer (Angular/ Node.js)",
+   "company": "ALUMIL",
+   "location": "Thessaloniki, Central Macedonia, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-03T16:18+00:00",
+   "posted_day": "2026-11-03",
+   "summary": "As a Software Engineer at Alumil , you will join the Digital Customer Solutions team, helping to support and improve the software tools we provide to our clients. You'll be involved in maintaining current applications, fixing bugs, and gradually working on new development projects under the guidance of more experienced",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/sgh6HnY8pTknCWDbdUd6e3/hybrid-software-engineer-(angular%2F-node.js)-in-thessaloniki-at-alumil"
+    }
+   ]
+  },
+  {
+   "id": "78a1144ef287d327",
+   "title": "Business PMO Program Manager",
+   "company": "DataSpring",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 100,000–110,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-03T16:09+00:00",
+   "posted_day": "2026-11-03",
+   "summary": "Position Summary The Business PMO Program Manager is a strategic, detail-oriented, outcome-driven leader who will manage complex projects across the organization as part of the enterprise Project Management Office (ePMO). This role is responsible for driving cross-functional alignment, managing project execution, commu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dataspring/jobs/business-pmo-program-manager?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "17001981aa4110b6",
    "title": "Project Manager",
@@ -17615,5 +17835,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-03T14:45+00:00"
+ "updated": "2026-11-04T14:57+00:00"
 }
