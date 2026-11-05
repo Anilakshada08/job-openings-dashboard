@@ -443,9 +443,229 @@
     "The Muse": "0 new in last 24h",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-05T15:02+00:00",
+   "added": 8,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "12 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "72feffd59ee3b70d",
+   "title": "Technical Program Manager",
+   "company": "PointClickCare",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 153,900–171,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T14:19+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "Job Title: Technical Program Manager Location: USA - Remote **Travel to Office expectations** For Remote Roles : If this role is remote, there will be in-office events that will require travel to and from the Mississauga and/or Salt Lake City office. These will include, but not limited to, onboarding, team events, semi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/pointclickcare/jobs/technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6fdeacc2ab0d72d3",
+   "title": "Product Owner (Volunteer, unpaid)",
+   "company": "Solution Community",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Volunteer",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T12:24+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "About this Role: Volunteer Product Owner Location: Remote Commitment: Part-time, volunteer (pro bono role) Hours: Minimum 10-15 hours per week Duration: Minimum 6 months About Solution Community Solution Community is a global incubator for change, empowering individuals, nonprofits, philanthropists, and volunteers to t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/solution-community/jobs/product-owner-volunteer-unpaid?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c8a1b7c90d18c928",
+   "title": "Senior Software Engineer - FWA",
+   "company": "Cotiviti",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 153,192–153,192",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T09:24+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "Overview Opening available for Senior Software Engineer – FWA at Cotiviti , Inc. in South Jordan, UT. Responsibilities Design, develop, maintain, support, and enhance Cotiviti ’s proprietary Fraud, Waste, and Abuse (FWA) Management software platform. Analyze and resolve software related issues originated from internal ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cotiviti/jobs/senior-software-engineer-fwa?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "78adf7d0a710cec6",
+   "title": "Technical Project Manager - SAP Deployment",
+   "company": "Builders FirstSource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T08:40+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "The Technical Project Manager – SAP Deployment is responsible for coordinating and driving the technical and operational activities required to successfully deploy the Project Elevate SAP solution to BFS field locations. This position serves as a key connection point between Deployment Field Services, the Deployment Hu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/builders-firstsource/jobs/technical-project-manager-sap-deployment?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0c04fa642d825910",
+   "title": "Salesforce Project Manager",
+   "company": "FormativGroup",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 130,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T03:36+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "Salesforce Project Manager Are you energized by keeping complex Salesforce projects moving, aligned, and on track from kickoff through go-live? This role is a great fit for someone who enjoys leading client relationships, organizing cross-functional teams, solving delivery challenges, and helping bring enterprise cloud",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/formativgroup/jobs/salesforce-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1d7fae650cf3fa35",
+   "title": "Software Project Manager, Professional Services",
+   "company": "Procore Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 109,715–150,858",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T00:29+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "We’re looking for a Project Manager to join Procore’s Professional Services team. In this role, you’ll manage internal and external resources to ensure professional service engagements are delivered successfully, on time, and within budget. The primary goal of this role is to help clients onboard, adopt, and grow with ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/procore-technologies/jobs/software-project-manager-professional-services?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "779e1ce3e307dda7",
+   "title": "Senior Technical Program Manager - Power Platform & Automation (Consultant)",
+   "company": "AG Consulting Partners, Inc.",
+   "location": "Redmond, Washington, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-05T00:06+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "Overview AG Consulting Partners is seeking a highly skilled, hands-on Senior Technical Program Manager – Power Platform & Automation to support a Responsible AI (RAI) program within a large enterprise technology environment. This is an exciting opportunity for a technically strong problem solver who enjoys building sol",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/jnEt52B3bEteuevfb7ACup/remote-senior-technical-program-manager---power-platform-%26-automation-(consultant)-in-redmond-at-ag-consulting-partners%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "bd090fd3674230f6",
+   "title": "Senior Program Manager – Data & Analytics",
+   "company": "NationsBenefits, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-04T16:42+00:00",
+   "posted_day": "2026-11-04",
+   "summary": "NationsBenefits is recognized as one of the fastest-growing companies in America and a Healthcare Fintech provider of supplemental benefits, flex cards, and member engagement solutions. We partner with managed care organizations to provide innovative healthcare solutions that drive growth, improve outcomes, reduce cost",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nationsbenefits-llc/jobs/senior-program-manager-data-analytics?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "aabf0c2861dae03c",
    "title": "Project Manager",
@@ -17835,5 +18055,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-04T14:57+00:00"
+ "updated": "2026-11-05T15:02+00:00"
 }
