@@ -455,9 +455,645 @@
     "The Muse": "0 new in last 24h",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-06T14:41+00:00",
+   "added": 24,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "34 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "0 new in last 24h",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "c35db30fc3cb8875",
+   "title": "Senior Project Manager - Product & Tech",
+   "company": "Convera",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 90,000–109,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T14:16+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "About the Role The Senior Project Manager is responsible for driving execution of high-priority Product and Technology initiatives that span multiple teams, stakeholders, and business functions. Acting as a trusted delivery partner to Product, Engineering, and Technology leaders, this role brings structure, visibility,",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/convera/jobs/senior-project-manager-product-tech-9888976931?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e87d0de96e3d68b2",
+   "title": "AWS Technical Lead/Sr. Java/Angular Developer (US Citizenship Required)",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 147,050–198,950",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T12:56+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: Other Job Family: Software Engineering Job Qualifications: Skills: Amazon Web Services (AWS), Angular UI, Java (Programming Language), Spring Boot, Technical Leadership Cer",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/aws-technical-lead-sr-java-angular-developer-us-citizenship-required?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "95b7e5cce0488a1e",
+   "title": "Technical Delivery Lead (North America)",
+   "company": "Lateral Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T12:07+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Technical Delivery Lead (East Coast, US) Lateral stands for technology excellence. We’re a profitable, award-winning design and technology company with over 20 years of experience launching bold ventures and transforming businesses. A globally distributed team of 200+ experts united by a shared purpose: the continuous ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lateral-group/jobs/technical-delivery-lead-north-america?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d68d3618ab6b9297",
+   "title": "Full Stack Developer",
+   "company": "RS&H",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T11:31+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "The Opportunity We are seeking a Senior Full Stack Developer to support priority initiatives across our aviation, federal, transportation, aerospace, health & science, and corporate market sectors requiring secure, scalable, and client-focused application development. This role serves as a technical subject matter expe",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rs-h/jobs/full-stack-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "900f264bfa28d7ed",
+   "title": "Digital Transformation Project Manager - Life Sciences",
+   "company": "Tulip Interfaces",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T11:19+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Continuous Improvement Project Manager Tulip, the leader in AI-native frontline operations, is helping companies around the world equip their workforce with composable, connected apps, leading to higher quality work, improved efficiency, and end-to-end traceability across operations. Tulip’s cloud-native, no-code platf",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tulip-interfaces/jobs/digital-transformation-project-manager-life-sciences?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d477ee108ac4a3eb",
+   "title": "ERP Project Manager",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 115,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-06T11:17+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is an opportunity to contribute to technology initiatives in a collaborative environment with opportunities for professional growth. Job Title: ERP P",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/erp-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f1d99943b1f96e09",
+   "title": "Technical Delivery Lead, EES (NiCE Cognigy AI)",
+   "company": "CareSource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 94,100–164,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T10:57+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Job Summary: The Technical Delivery Lead, EES is responsible for owning technical delivery and technical management for a defined domain or platform. The role will work closely with cross-functional teams, including product managers, designers, and quality assurance, to ensure the successful delivery of solutions withi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caresource/jobs/technical-delivery-lead-ees-nice-cognigy-ai?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1d112ad6d9408617",
+   "title": "Senior Project Manager",
+   "company": "Zscaler",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 108,500–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T10:53+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 2",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/zscaler/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e0b8bb27ef8f0731",
+   "title": "Lead Full-Stack Developer",
+   "company": "Logistics Management Institute",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 122,209–211,317",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T10:12+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Overview LMI is seeking a Lead Full Stack Developer to lead the design, development, integration, and sustainment of a secure, web-based mission data and digital asset management application supporting a SOCOM Mission Partner. The application enables authorized users to ingest, organize, discover, preview, share, and r",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/logistics-management-institute/jobs/lead-full-stack-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "adf064dde8eb75b5",
+   "title": "Java Product Engineer / Full Stack Java Developer",
+   "company": "Vamonos IT LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 90,000–110,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T09:58+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "About the Role Vamonos IT is seeking an experienced Java Product Engineer / Full Stack Java Developer to design, develop, modernize, deploy, and support enterprise software applications in mission-critical environments. The ideal candidate will possess extensive experience in Java enterprise application development, Sp",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vamonos-it-llc/jobs/java-product-engineer-full-stack-java-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "304b0b7ef200bbf9",
+   "title": "Sr. Program Manager, Superintelligence Lab",
+   "company": "Crowdstrike",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 125,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T09:28+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distribute",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-program-manager-superintelligence-lab?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "89a5012ecebc830d",
+   "title": "Senior Program Manager",
+   "company": "TTEC Digital",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 200,000–225,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T08:58+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "At TTEC Digital , we coach clients to ensure their employees feel valued, and fully supported, because an amazing customer experience is an employee first process. Our vision is the same, a place where employees know they can thrive. The Senior Program Manager act as the customer focal point for coordination of system ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ttec-digital/jobs/senior-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2c7ef532b7af49fc",
+   "title": "Strategic Program Manager, Implementation (MANTL)",
+   "company": "Alkami Technology, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 120,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T08:07+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Alkami is the digital sales and service platform provider for U.S. banks and credit unions. Our unified Platform integrates onboarding, digital banking, and data and marketing—each solution can stand alone, but together they deliver more—to help institutions onboard, engage, and grow relationships. As the future shifts",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/alkami-technology-inc/jobs/strategic-program-manager-implementation-mantl?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "98471fa2a7736163",
+   "title": "Project Scrum Master",
+   "company": "Online River",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 35–45",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T06:58+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "As a scrum master, you're passionate about outcomes and supporting a development team that's modernizing critical projects. You know the importance of Agile best practices and how to combat challenges early to get work done. We need a scrum master like you to create solutions that will change the world. On our team, yo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/online-river/jobs/project-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "40b65b63181af306",
+   "title": "Senior Project Manager",
+   "company": "AHEAD",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 150,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T06:34+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "AHEAD builds platforms for digital business. By weaving together advances in cloud infrastructure, automation and analytics, and software delivery, we help enterprises deliver on the promise of digital transformation. At AHEAD , we prioritize creating a culture of belonging, where all perspectives and voices are repres",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ahead/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1cf7ee53575cec4a",
+   "title": "Senior Software Engineer",
+   "company": "Ford",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 99,600–192,900",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T05:24+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "At Ford Motor Company, we believe freedom of movement drives human progress. We also believe in providing you with the freedom to define and realize your dreams. With our incredible plans for the future of mobility, we have a wide variety of opportunities for you to accelerate your career potential as you help us defin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ford/jobs/senior-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "88bc28de70ebcbbd",
+   "title": "Sr Software Engineer - Remote",
+   "company": "WellSky",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T05:04+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "At WellSky , we are building impactful software solutions that prioritize end-user efficiency and shape the future of healthcare. Because we operate across multiple business units and product lines, our engineering teams tackle a diverse range of exciting challenges - from modernizing complex legacy applications to bui",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wellsky/jobs/sr-software-engineer-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "094b8385705d7853",
+   "title": "Project Manager",
+   "company": "Onit",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 140,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T05:01+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "About Onit : We're redefining the future of legal operations through the power of AI. Our cutting-edge platform streamlines enterprise legal management, matter management, spend management and contract lifecycle processes, transforming manual workflows into intelligent, automated solutions. We’re a team of innovators u",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/onit/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "41ac511c034e4e27",
+   "title": "MES Software Developer( Full-stack Dev) | Life Sciences / Pharma | Remote (US)",
+   "company": "OMG Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-06T02:45+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "MES Software Developer( Full-stack Dev) | Life Sciences / Pharma | Remote (US) We are looking to hire a candidate with the mentioned skill sets and experience for one of our clients within the pharmaceutical Industry. This is contracting and REMOTE role Job Overview We are seeking an experienced Senior IT Software Deve",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/omg-technology/jobs/mes-software-developer-full-stack-dev-life-sciences-pharma-remote-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0f7da6c72b213ce6",
+   "title": "Scrum Master",
+   "company": "Crum & Forster",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 91,400–121,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T02:04+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "Crum & Forster Company Overview Crum & Forster (C&F) provides market leading property & casualty, accident & health, specialty and standard commercial lines insurance solutions. A true underwriting company, we have a 200-year history of helping our customers manage risk with laser-focused expertise, integrity and disci",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crum-forster/jobs/scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ad6a5f7e7670d667",
+   "title": "Senior Project Manager",
+   "company": "The Hunley Group, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T00:29+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "Hunley is a rapidly growing Salesforce Summit Partner headquartered in Davidson, NC, with a fully remote team working from all corners of the country. We move quickly, collaborate deeply, and keep our clients at the center of everything we do. We’re proud to be known not just as a trusted partner to our clients, but al",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-hunley-group-llc/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8068df55250ddf92",
+   "title": "Full Stack Software Developer III",
+   "company": "BAM Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T23:31+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "Full Stack Developer BAM is a dynamic, multi-disciplinary ﬁrm with leading-edge skills in information technology, software development and applied research. Serving government and commercial markets, BAM is committed to its customers and to delivering strong leadership, sound solutions, and innovative thinking. BAM is ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bam-technologies/jobs/full-stack-software-developer-iii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "de5e183c4f9682d5",
+   "title": "Lead Product Owner",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 115,200–158,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T21:33+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "Become a part of our caring community With over 10 million sales interactions annually, Humana understands that while great products are important, it’s the quality of our service that truly defines us. We know that when our members and prospects have delightful and memorable experiences, it strengthens their connectio",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/lead-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "214ee6f4c1160423",
+   "title": "Sr. Web/Mobile Developer",
+   "company": "Koniag Government Services",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 150,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-05T16:24+00:00",
+   "posted_day": "2026-11-05",
+   "summary": "Applications for this position will be accepted through 11/23/26. Koniag Professional Services, LLC, a Koniag Government Services company, is seeking a Sr. Web/Mobile Developer to support KPS and our government customer. The position remote. This position requires the candidate to be able to obtain a Public Trust. Bene",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/koniag-government-services/jobs/sr-web-mobile-developer?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "72feffd59ee3b70d",
    "title": "Technical Program Manager",
@@ -626,7 +1262,7 @@
    "experience": "senior",
    "years_min": null,
    "experience_estimated": true,
-   "salary": "",
+   "salary": "USD 110,000–150,000",
    "job_type": "Contract",
    "workplace": "remote",
    "employment": "contract",
@@ -637,6 +1273,10 @@
     {
      "name": "Workable",
      "url": "https://jobs.workable.com/view/jnEt52B3bEteuevfb7ACup/remote-senior-technical-program-manager---power-platform-%26-automation-(consultant)-in-redmond-at-ag-consulting-partners%2C-inc."
+    },
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ag-consulting-partners-inc/jobs/senior-technical-program-manager-power-platform-automation-consultant?utm_source=api"
     }
    ]
   },
@@ -18055,5 +18695,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-05T15:02+00:00"
+ "updated": "2026-11-06T14:41+00:00"
 }
