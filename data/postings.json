@@ -467,9 +467,541 @@
     "The Muse": "0 new in last 24h",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-07T13:39+00:00",
+   "added": 20,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "1 new in last 24h",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "9e221eb781936a23",
+   "title": "Professional Services, Program Manager",
+   "company": "GitLab",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T13:04+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust G",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/gitlab-com/jobs/professional-services-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "523f767d32ad8199",
+   "title": "Scrum Master",
+   "company": "Valiant Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 115,000–127,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T12:28+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Position Description Valiant Solutions is seeking a Scrum Master to join our rapidly growing and innovative team! The Scrum Master will join our agile software development practice supporting an environmentally focused Federal Government client. The agency's programs aim to promote environmental sustainability and prot",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/valiant-solutions/jobs/scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "628d4b3cccd2396b",
+   "title": "Associate Product Owner",
+   "company": "CCS",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T12:07+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Overview Are you looking for a purposeful career that will make a difference in the patient community? At CCS , our approach to at-home patient care is redefining chronic care management. We are seeking individuals that will thrive in a patient-centric dynamic environment. If you are an attentive listener, fast-thinker",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ccs/jobs/associate-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1073a54141037cf0",
+   "title": "Technical Project Manager",
+   "company": "Avicado",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T07:49+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Transforming The Way Construction Owners Use Technology & Data Avicado Construction Technology Services is looking for aProject Management Consultantto join our growing Advisory team.You will act as a key team player, by proactively overseeing successful, seamless, on schedule, and in budget software project delivery. ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/avicado/jobs/technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7518b1dd0b056a76",
+   "title": "Senior Full Stack Software Engineer",
+   "company": "WellHive",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 125,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T07:09+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "About Us WellHive is a fast-growing organization focused on transforming the way health systems coordinate and deliver care through secure, modern technology. Our teams leverage the latest in cloud-based tools and services to design and build complex and compelling applications. Every employee is treated as a valued co",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wellhive/jobs/senior-full-stack-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "66e6d95d8ff57948",
+   "title": "IT Program Manager",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 12,
+   "experience_estimated": false,
+   "salary": "USD 180,546–210,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T06:34+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Overview The IT Program Manager leads TISTA's prime contract performance on the Department of Veterans Affairs Supply Chain Management DevSecOps (SCMDSO) Integration task order supporting VA's supply chain and logistics Product Line. This is a designated Key Personnel position that VA requires be maintained for the lif",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/it-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2a4d4134aab0b1c4",
+   "title": "Product Owner, Revenue Cycle",
+   "company": "CorroHealth",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T05:10+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "About Us: Our purpose is to help clients exceed their financial health goals. Across the reimbursement cycle, our scalable solutions and clinical expertise help solve programmatic needs. Enabling our teams with leading technology allows analytics to guide our solutions and keeps us accountable achieving goals. We build",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/corrohealth/jobs/product-owner-revenue-cycle?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "99127998876f72e7",
+   "title": "1129 - Full-Stack Engineer (.NET/React/Angular)",
+   "company": "GoFasti",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman I",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 2,800–3,500",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T04:00+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti , a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-fluent Mid Level Full-Stack Engineer , based in Latin America, available to ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/gofasti/jobs/1129-full-stack-engineer-net-react-angular?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "973ff345d10a7139",
+   "title": "Program Manager (Infrastructure, AI and M&A)",
+   "company": "Michael Baker International",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 124,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T02:03+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Michael Baker International 's Technology Practice partners with organizations to design, build, and scale innovative digital solutions that drive measurable business impact. The practice brings together product strategists, engineers, architects, data experts, and transformation leaders to solve complex challenges acr",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/michael-baker-international/jobs/program-manager-infrastructure-ai-and-m-a?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "42139305ec19e57a",
+   "title": "Bank Agile Product Owner Senior",
+   "company": "USAA",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "USD 103,450–197,730",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T01:07+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Why USAA ? At USAA , our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the #1 choice for the military community and their families. Embrace a fulfilling career at USAA , where our core values – honesty, integrit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/usaa/jobs/bank-agile-product-owner-senior?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ff2156588de7566d",
+   "title": "Project Manager - Oracle EBS",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 130,050–175,950",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T00:31+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: NACI (T1) Job Family: Program Delivery and Execution Job Qualifications: Skills: Managing Projects, Oracle EBS Financials, Oracle E-Business Suite Certifications: None Expe",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/project-manager-oracle-ebs?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ea12b3f1c3844047",
+   "title": "Project Manager",
+   "company": "HOME DEPOT U.S.A., INC.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 80,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T23:17+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "With a career at The Home Depot, you can be yourself and also be part of something bigger. Position Purpose: The Project Manager is responsible for a combination of planning and execution of activities related to delivery of projects and/or financial/budgeting activity for their teams. When executing on project deliver",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/home-depot-u-s-a-inc/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d5ddf46951dfa1df",
+   "title": "Project Manager",
+   "company": "Somnio Software",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T23:16+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "About Somnio Somnio is a software company born in Uruguay, recognized by Google as one of the top 10 Flutter companies in the world, and now on its way to becoming AI-first. We work remotely from different countries across Latin America, driven by one belief: dream big and build as a team. About the role We’re looking ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/somnio-software/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c5eabe57c4a040f1",
+   "title": "Product Owner - Platform Team",
+   "company": "RTI International",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 93,000–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T22:58+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Why RTI RTI International is an independent, scientific research institute dedicated to improving the human condition. Our vision is to address the world's most critical problems with technical and science-based solutions in pursuit of a better future. Clients rely on us to answer questions that demand an objective and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/rti-international/jobs/product-owner-platform-team?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ad3a5428a2318e45",
+   "title": "Senior Web Developer",
+   "company": "Accenture",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 54,400–205,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T21:27+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "We are Accenture Song accelerates growth and value for our clients by creating meaningful, relevant digital experiences and products. Our capabilities span product strategy, experience design, technology, engineering, creative, data, AI, media, and marketing. Song’s Design & Digital Products team designs and builds sof",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/accenture/jobs/senior-web-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bba51b938049ed2c",
+   "title": "Technical Product Owner (Quickbase)",
+   "company": "Doxim",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T21:07+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Who We Are For over 25 years, Doxim has helped organizations transform the way they deliver critical communications through innovative technology, secure omnichannel solutions, and an unwavering commitment to excellence. Today, we proudly support more than 1,500 clients across a variety of industries, helping businesse",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/doxim/jobs/technical-product-owner-quickbase?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "81b8861eca3e1e94",
+   "title": "Concourse Product Delivery Manager",
+   "company": "JPMorgan Chase",
+   "location": "Chicago, IL, Jersey City, NJ",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-06T20:45+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Vice President, Concourse Product Delivery Shape the future of digital payments by ensuring our most innovative products are truly ready for clients - from launch through scale. J.P. Morgan Concourse® is a payments orchestration platform that enables clients to manage pay-in and pay-out interactions with customers and ",
+   "sources": [
+    {
+     "name": "The Muse",
+     "url": "https://www.themuse.com/jobs/jpmorganchase/concourse-product-delivery-manager"
+    }
+   ]
+  },
+  {
+   "id": "fa1b17dfc43041ae",
+   "title": "Agile Product Owner",
+   "company": "Assurant",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 103,800–173,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T20:08+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Join a high-visibility product team delivering innovative Dynamic Fulfillment solutions for leading retail organizations. As a key liaison between clients and cross-functional teams, you will partner with Product, Engineering, Account Management, and Delivery to drive product strategy, roadmap execution, API integratio",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/assurant/jobs/agile-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6f48e98e668503d4",
+   "title": "Full-Stack Developer",
+   "company": "Vamonos IT LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 80,000–90,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T17:21+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "About the Role Vamonos IT is seeking an experienced Full-Stack Developer to design, develop, modernize, and maintain enterprise-level software applications supporting mission-critical federal government operations. The ideal candidate will possess extensive experience with Java Spring Boot microservices, Oracle Exadata",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vamonos-it-llc/jobs/full-stack-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d2fb41b6160dc73b",
+   "title": "Staff, Software Engineer - FullStack Java Engineer",
+   "company": "Walmart - Internal",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 143,000–286,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-06T17:18+00:00",
+   "posted_day": "2026-11-06",
+   "summary": "Position Summary... What you'll do... Role summary: The Staff Software Engineer will lead the design, development, and deployment of scalable platform capabilities, including infrastructure, tooling, and AI/ML frameworks. This role requires ownership of the full software lifecycle, ensuring quality through system desig",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/walmart-com/jobs/staff-software-engineer-fullstack-java-engineer?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "c35db30fc3cb8875",
    "title": "Senior Project Manager - Product & Tech",
@@ -18695,5 +19227,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-06T14:41+00:00"
+ "updated": "2026-11-07T13:39+00:00"
 }
