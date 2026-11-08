@@ -479,9 +479,463 @@
     "The Muse": "1 new in last 24h",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-08T13:58+00:00",
+   "added": 17,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "22 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "6ca4baea06c3502f",
+   "title": "Product Owner",
+   "company": "Complead (formerly Sanction Scanner)",
+   "location": "Üsküdar, İstanbul, Turkey",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-08T09:55+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "About complead complead, formerly Sanction Scanner, is the financial crime platform we started in Istanbul in 2020. We run sanctions screening, KYC and KYB, transaction monitoring, fraud detection and case management for more than 800 financial institutions in over 80 countries, from payment companies to tier-one banks",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/n2t3Ar8Zqe4sae9kuPici1/product-owner-in-%C3%BCsk%C3%BCdar-at-complead-(formerly-sanction-scanner)"
+    }
+   ]
+  },
+  {
+   "id": "ee98190054321a49",
+   "title": "Product Owner",
+   "company": "SouthState Bank",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T09:33+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "The SouthState story is one of steady growth, deep community roots, and an unwavering commitment to helping our customers move forward. Since our beginnings in the 1930s to becoming a trusted financial partner across the South and beyond - we are known for combining personal relationships with forward-thinking solution",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/southstate-bank/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6d6dd1a9f07d7201",
+   "title": "Software Engineering Manager",
+   "company": "Truckstop",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 149,000–175,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T04:48+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "At Truckstop , we have transformed the entire freight-moving lifecycle with our SaaS solutions. From freight matching to payments and everything in between, we are the trusted partner for carriers, brokers, and shippers alike. We lead this industry forward with our One Team mindset committing to principles such as assu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/truckstop/jobs/software-engineering-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "094da29b55c9bca5",
+   "title": "Full-Stack Developer – AI Systems & Agent Engineering",
+   "company": "Direct Agents, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T03:59+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Role Summary Direct Agents is running a growing fleet of AI-powered systems across our client and internal reporting stack — automated account agents, intelligence systems, always-on client dashboards — and is now building a new, confidential generative AI product for the media industry. We're hiring a full-time, remot",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/direct-agents-inc/jobs/full-stack-developer-ai-systems-agent-engineering-6280541667?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0bddb7458d2afaaf",
+   "title": "Technical Project Manager",
+   "company": "Scicom Infrastructure Services, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T03:32+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "We are seeking an experienced Technical Project Manager to lead and deliver complex, enterprise-scale initiatives across engineering, infrastructure, and business teams. The role centers on project management leadership: planning, governance, risk management, and keeping stakeholders aligned. Familiarity with modern da",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/scicom-infrastructure-services-inc/jobs/technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "42ba37d80a0c9500",
+   "title": "Product Owner, Card Programs",
+   "company": "Flex",
+   "location": "Remote (Brazil, Canada, Costa Rica, Mexico, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T02:55+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Flex is building the AI-native private bank for super premium, closely held business owners. We are re-architecting the entire financial system for entrepreneurs. From the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance,",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/152682-product-owner-card-programs"
+    }
+   ]
+  },
+  {
+   "id": "3a81501a5eeb87ef",
+   "title": "Product Owner, Accounting Stack (entire Business Suite)",
+   "company": "Flex",
+   "location": "Remote (Brazil, Canada, Mexico, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-08T02:55+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Flex is building the AI-native private bank for super premium, closely held business owners. We are re-architecting the entire financial system for entrepreneurs. From the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance,",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/152679-product-owner-accounting-stack-entire-business-suite"
+    }
+   ]
+  },
+  {
+   "id": "29a3e41bddb525b4",
+   "title": "Senior AI Technical Project Manager (GenAI / AI-ML / AWS)- Remote",
+   "company": "Inabia Software & Consulting Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-08T02:34+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Job Title: Senior AI Technical Project Manager (GenAI / AI-ML / AWS) Duration: 6 months contract with possible extension Location: Remote work Experience: 10+ Years Roles & Responsibilities We are seeking an experienced AI Technical Project Manager to lead the delivery and portfolio governance of Generative AI, AI/ML, ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/inabia-software-consulting-inc/jobs/senior-ai-technical-project-manager-genai-ai-ml-aws-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "248aac8933852cbb",
+   "title": "Fullstack .NET Engineer (SQL avanzado+ React/Vue/Angular) - LATAM",
+   "company": "DaCodes",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T00:38+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "¡Trabaja en DaCodes ! Somos una firma de expertos en software y transformación digital de alto impacto. Durante 10 años hemos creado soluciones enfocadas en la tecnología e innovación gracias a nuestro equipo de casi 300 talentosos #DaCoders, incluyendo desarrolladores, arquitectos, diseñadores UX/UI, PMs, QA testers y",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dacodes/jobs/fullstack-net-engineer-sql-avanzado-react-vue-angular-latam?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0f31f5003d7817b2",
+   "title": "Project Manager",
+   "company": "SKYGEN",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T00:09+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "What are important things that YOU need to know about this role? • Experience implementing government Medicaid/Medicare dental Third-Party Administrator programs is highly valued. • A background in the dental or healthcare insurance industry will help set you up for success in this role. • Knowledge of Smartsheet will ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/skygen/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a2709a332a85ec47",
+   "title": "Senior Front End Engineer",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 122,275–165,431",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T21:48+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Type of Requisition: Pipeline Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: None Job Family: Software Engineering Job Qualifications: Skills: Cloud Computing, Kubernetes, User Experience (UX), Web Accessibility Certifications: None Experience: 5 +",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/senior-front-end-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c89081264953166b",
+   "title": "Senior Program Manager - Top Secret Clearance",
+   "company": "Red Hat",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 130,420–215,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T21:08+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "The Red Hat Consulting team is looking for a Senior Program Manager with a Top Secret security clearance to join our North American Public Sector. In this role, you will manage complex projects to completion, from initiation through delivery to closure. You'll coordinate with cross-functional teams to complete distinct",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/red-hat/jobs/senior-program-manager-top-secret-clearance?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "480c89ec2ad3946f",
+   "title": "Senior Project Manager, Scrum Master",
+   "company": "Emerald",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 130,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T19:37+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "About Emerald Emerald ’s talented and experienced teams grow our customers’ businesses 365 days a year with products that create connections, deliver content, and drive commerce. We produce over 140 annual events, create and deliver content through print and digital channels, and power commerce through our seamlessly i",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/emerald/jobs/senior-project-manager-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "94cee5b88d546970",
+   "title": "Site Reliability Engineering Scrum Master",
+   "company": "Leidos",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 73,450–132,775",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T19:15+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "The NMCI Service Management Integration and Transport (SMIT) group at Leidos has an opening for a Site Reliability Engineering (SRE) Scrum Master to bridge the gap between business objectives and technical requirements for the Site Reliability Engineering (SRE) teams. Under the SMIT Contract, the Leidos team is respons",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/leidos/jobs/site-reliability-engineering-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "674528010f016694",
+   "title": "IT Project Manager",
+   "company": "H.W. Kaufman Financial Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T18:16+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Responsibilities We are seeking two IT Project Managers to join our growing team and drive the delivery of application development and technology projects/products. Reporting to the Project Management Office (PMO), these individuals will turn business priorities into results by taking initiative, creating momentum, sec",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/h-w-kaufman-financial-group/jobs/it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ace53638671b53ae",
+   "title": "Full Stack Web Developer",
+   "company": "PRC-Saltillo",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 70,000–86,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T16:38+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Build Technology That Changes Lives – Join PRC‑Saltillo as a Full Stack Web Developer! As a Full Stack Web Developer, you’ll play a key role in designing, developing, and maintaining the web-based applications and technologies that support PRC-Saltillo ’s mission of empowering individuals through communication. From en",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/prc-saltillo/jobs/full-stack-web-developer-1805839285?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f6c2e56128c47e5b",
+   "title": "Senior Software Engineer",
+   "company": "Keebo",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 170,000–200,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-07T14:29+00:00",
+   "posted_day": "2026-11-07",
+   "summary": "Keebo automatically optimizes cloud data warehouses for Snowflake and Databricks to control compute costs without hurting query performance. Our platform learns each customer's workloads and adjusts warehouse settings in real time, so data teams don't have to. We're venture-backed, built on years of database and machin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/keebo/jobs/senior-software-engineer?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "9e221eb781936a23",
    "title": "Professional Services, Program Manager",
@@ -19227,5 +19681,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-07T13:39+00:00"
+ "updated": "2026-11-08T13:58+00:00"
 }
