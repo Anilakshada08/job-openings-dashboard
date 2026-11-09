@@ -491,9 +491,489 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-09T16:58+00:00",
+   "added": 18,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "20 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "8 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "1a95884cf503e07c",
+   "title": "Scrum Master",
+   "company": "StradIT",
+   "location": "Tampa, Florida, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "onsite",
+   "employment": "contract",
+   "posted": "2026-11-09T15:25+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "Note : This is Contract to hire position - We are looking only W2 candidates (Visa Indepedent) Agile Knowledge and expertise Understands Agile and relevant frameworks (e.g., scrum) to maximize the success of the squad. Possess a comprehensive understanding of Agile tools, techniques, principles and values and apply thi",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/37mqYBSVxWExbdvvyMrJK3/hybrid-scrum-master-in-tampa-at-stradit"
+    }
+   ]
+  },
+  {
+   "id": "9a105a0239fff49a",
+   "title": "Project Manager",
+   "company": "Atlas Technica",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T13:15+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "Title: Project Manager Reports to: Manager, Project Management Department: Project Management Location: United States – Remote About Atlas Technica Atlas Technica ’s mission is to shoulder IT management, user support, and cybersecurity for our clients, who are hedge funds and other investment firms. Founded in 2016, we",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/atlas-technica/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "954e7476abe658af",
+   "title": "Deputy Program Manager",
+   "company": "Leidos",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 116,350–210,325",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T12:07+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "**This position is contingent upon contract award .** Leidos is seeking an experienced Deputy Program Manager (DPM) for the Department of Veterans Affairs (VA) Summit Advanced Tooling, Lakehouse, and Artificial Intelligence Services (ATLAS) program. ATLAS supports secure, governed enterprise data access, cloud platform",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/leidos/jobs/deputy-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9a0171e447039bb5",
+   "title": "Product Owner",
+   "company": "MMDSmart Ltd",
+   "location": "Georgia (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T11:52+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "#ThriveatMMDSmart Would you like to build a career in a leading multinational IT company? We are seeking a Product Owner to join our growing product team. You’ll collaborate closely with technical teams, product designers, and stakeholders, taking ownership of product functionality from concept to launch and ongoing op",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/hw3pWiyUChfuF5k9haCdZm/remote-product-owner-in-georgia-at-mmdsmart-ltd"
+    }
+   ]
+  },
+  {
+   "id": "7bdf6e7cc8dadf75",
+   "title": "Project Manager",
+   "company": "Match Consulting",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T09:33+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "Manage projects with top-down oversight throughout entire execution to ensure success as defined and be accountable for projects scope, budget, resources and timeline Translate roadmap planning into detailed tasks and ensure requirements are understood, deliverables are within timelines, and projects meet defined quali",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/match-consulting/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6d43d846408ad7cd",
+   "title": "Senior Frontend Engineer",
+   "company": "TeamSnap",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 150,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T09:03+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "🌎 About Us At TeamSnap , we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses should inspire us. We ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/teamsnap/jobs/senior-frontend-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4481df8fafa0a086",
+   "title": "Frontend Engineer - Angular",
+   "company": "INTERAMERICAN HELLENIC LIFE INSURANCE COMPANY S.A.",
+   "location": "Greece",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-11-09T08:57+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "The Opportunity Interamerican, a member of the Achmea Group and certified as a World-Class Workplace , offers exceptional career opportunities within a dynamic, fast-paced, and agile working environment. We embrace modern ways of working and are committed to fair treatment, inclusion, and equity. As a proud signatory o",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/jAR215iaLq5CC4aj6okJMJ/frontend-engineer---angular-in-greece-at-interamerican-hellenic-life-insurance-company-s.a."
+    }
+   ]
+  },
+  {
+   "id": "875bd77bf00cbdc3",
+   "title": "Technical Delivery Lead, EES",
+   "company": "CareSource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 94,100–164,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T08:05+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "Job Summary: The Technical Delivery Lead, EES is responsible for owning technical delivery and technical management for a defined domain or platform. The role will work closely with cross-functional teams, including product managers, designers, and quality assurance, to ensure the successful delivery of solutions withi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caresource/jobs/technical-delivery-lead-ees-9970575183?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7c781de75768a033",
+   "title": "Project Manager, Sponsorships & Experiential",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 94,900–130,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T04:51+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "Become a part of our caring community More than a traditional project manager, the Project Manager, Sponsorship & Experiential will own the execution of a high-priority initiative while also coordinating a variety of projects across the broader team as it matures into an enterprise-wide Center of Excellence. Work assig",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/project-manager-sponsorships-experiential?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "606afcab88e56154",
+   "title": "Senior Software Engineer",
+   "company": "Tydy",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T03:57+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "This is a remote position. Tydy is a Workplace Technology company that is reimagining the employee experience, from onboarding to offboarding. From data capture and analytics to background checks, guided employee journeys to intelligent insights, Tydy is the all-in-one software designed for fast-growing enterprises tha",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tydy/jobs/senior-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3fdecb9fdba83d33",
+   "title": "Senior IT Project Manager Cybersecurity",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 104,000–143,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T03:53+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "Become a part of our caring community The Senior Cybersecurity Project Manager is responsible for the delivery of strategic cybersecurity initiatives that strengthen the organization's security posture, reduce risk, improve compliance, and enable business objectives. Each project manager role will be anchored to projec",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/senior-it-project-manager-cybersecurity?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ce234bf856aefbdd",
+   "title": "IT Project Manager Cybersecurity",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 86,300–118,700",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T02:20+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "Become a part of our caring community The Cybersecurity Project Manager is responsible for the delivery of strategic cybersecurity initiatives that strengthen the organization's security posture, reduce risk, improve compliance, and enable business objectives. Each project manager role will be anchored to projects with",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/it-project-manager-cybersecurity?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5909d55de8217cbc",
+   "title": "IT Project Manager IV",
+   "company": "The Standard",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 109,750–186,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T01:55+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "The next part of your journey is right around the corner — with The Standard . A genuine desire to make a difference in the lives of others is the foundation for everything we do. With a customer-first mindset and an intentional focus on building strong teams, we’ve been able to uphold our legacy of financial stability",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-standard/jobs/it-project-manager-iv?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e8ca2003c4262091",
+   "title": "Project Manager",
+   "company": "TechFabric",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-08T23:02+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "Project Manager About TechFabric : We are a fast-growing, innovative, agile technology agency specializing in digital transformation. We strategize, design, develop, automate, and optimize all areas of our clients’ digital business using custom cloud-native applications, leading-edge technologies and our leading-edge t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/techfabric/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3d82d289e247c85d",
+   "title": "Senior Technical Product Owner– Retail Performance Engine",
+   "company": "CSI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T22:18+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "Job Description: The Senior Technical Product Owner owns the product backlog, release cadence and stakeholder intake for the Retail Performance Engine (RPE) platform. You work in partnership with the Product Manager and a technical delivery team. You turn business needs, support issues and client requests into clear, p",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/csi/jobs/senior-technical-product-owner-retail-performance-engine?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4397a2526eceef2d",
+   "title": "Project Manager - Advanced",
+   "company": "Independence Pet Holdings",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 112,522–140,653",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T21:51+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "At Clarus, we are harnessing intelligence to propel pet health towards a brighter, smarter, more connected future. A future where information flows freely across caregivers & care environments, insights are more instant and actionable, and financial decisions are empowered. For us, that future starts by fundamentally c",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/independence-pet-holdings/jobs/project-manager-advanced?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "39b5b22ed3662c22",
+   "title": "Sr. AI Product Owner",
+   "company": "Sphera",
+   "location": "Remote (India, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 127,000–203,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T18:16+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "Sphera is a leading global provider of enterprise software and services that enables companies to manage and optimize their environmental, health, safety and sustainability. Our mission is to create a safer, more sustainable and productive world. Sphera is a portfolio company of Blackstone, a U.S.-based alternative ass",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sphera/jobs/sr-ai-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "20b4a9c71ca128a8",
+   "title": "Scrum Product Owner (Health Plan/MCO experience)",
+   "company": "CareSource",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 94,100–164,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-08T17:22+00:00",
+   "posted_day": "2026-11-08",
+   "summary": "Job Summary: The Scrum Product Owner fulfills the role of Scrum Product Owner as defined by the principles of Scrum to maximize the value of the IT product and work of the development team. Essential Functions: Develop the strategic vision for an IT product Work closely with the Scrum team to maintain focus on goals, a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caresource/jobs/scrum-product-owner-health-plan-mco-experience?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "6ca4baea06c3502f",
    "title": "Product Owner",
@@ -19681,5 +20161,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-08T13:58+00:00"
+ "updated": "2026-11-09T16:58+00:00"
 }
