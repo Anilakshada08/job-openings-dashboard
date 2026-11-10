@@ -503,9 +503,285 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "8 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-10T15:17+00:00",
+   "added": 10,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "13 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "9 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "614b7f4827c74909",
+   "title": "Technical Program Manager, SuperIntelligence Lab",
+   "company": "Crowdstrike",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 100,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-10T14:19+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distribute",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crowdstrike/jobs/technical-program-manager-superintelligence-lab?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "564a7e753a51ee36",
+   "title": "Project Manager, AI Model Enablement and Agentic SDLC",
+   "company": "Crowdstrike",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 85,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-10T13:11+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distribute",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crowdstrike/jobs/project-manager-ai-model-enablement-and-agentic-sdlc?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1a915adbce714851",
+   "title": "Senior Frontend Developer (Angular)",
+   "company": "Advansys",
+   "location": "Cairo, Cairo Governorate, Egypt",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-10T11:16+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "Design and develop dynamic, high-performance web applications using Angular. Collaborate with UX/UI designers to translate wireframes and mock-ups into responsive web applications. Enhance application performance through optimization techniques and best practices. Implement state management solutions effectively, ensur",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/wVYAuQLSFVTovG8yGUR2tY/hybrid-senior-frontend-developer-(angular)-in-cairo-at-advansys"
+    }
+   ]
+  },
+  {
+   "id": "eaa328efb77ac467",
+   "title": "Project Manager",
+   "company": "Cotiviti",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 100,000–135,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-10T09:59+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "Overview The Project Manager – Payment owns delivery of defined project(s) from initiation through close. Ensures plans are realistic, stakeholders are aligned, execution stays on track, and risks/issues are actively managed. Responsibilities Develop and maintain project plans, milestones, RAID logs, and status reporti",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cotiviti/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "cf68dd8f2d5f96ea",
+   "title": "Technical Product Owner",
+   "company": "Cotiviti",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 92,000–115,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-10T06:10+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "Overview The Technical Product Owner is responsible for driving solution definitions that support business ideas and product concepts at a team and program level through gathering and translating testable requirements into application software solutions. They have deep domain knowledge and strong experience in collabor",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cotiviti/jobs/technical-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fa7bd1fddee41bfa",
+   "title": "Intermediate Scrum Master - OP02323",
+   "company": "Dev.Pro",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-10T03:18+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "New opportunities in Latin America! 🟢 Dev.Pro is a US-based software development company helping tech companies build their products and grow their business. We’re remote-first, and we work with independent contractors in over 55 countries, so you’d be collaborating in a multicultural environment on some really interes",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dev-pro/jobs/intermediate-scrum-master-op02323?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "29bf6eb29eef9443",
+   "title": "Senior Project Manager (EMEA or USA)",
+   "company": "Panopto",
+   "location": "Remote (EMEA, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-09T19:31+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "Company Overview: At Panopto , we are the most customer-centric learning technology company in the world. As the leader in visual and audio-based learning , we empower organizations to share knowledge effortlessly in a capture and post-capture world. We don’t just build software; we obsess over our users’ goals to deli",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/160699-senior-project-manager-emea-or-usa"
+    }
+   ]
+  },
+  {
+   "id": "1f41e9c1037a4422",
+   "title": "Senior Technical Project Manager (Contract)",
+   "company": "SmartLogic",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 70–85",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-09T18:54+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "We are seeking an experienced Senior Technical Project Manager with a strong background in agile software development, client relationship management, and delivering complex software projects on time and within budget. The ideal candidate is a proactive leader who can independently manage multiple client engagements, a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/smartlogic/jobs/senior-technical-project-manager-contract?utm_source=api"
+    },
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/wzsAF2R9wDRjjhdYvAiEak/remote-senior-technical-project-manager-(contract)-in-united-states-at-smartlogic"
+    }
+   ]
+  },
+  {
+   "id": "b3b8bdc03ed8d933",
+   "title": "(1120030) Agile Project Manager",
+   "company": "Diversified Services Network, Inc.",
+   "location": "Peoria, Illinois, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-11-09T17:12+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "Diversified Services Network, Inc. (DSN) is seeking a full-time Agile Project Manager to join our team in your choice of our Chicago , Peoria , IL or Dallas, TX office locations. We offer a hybrid work model, full benefits, PTO, 401k, and more! If you're looking to grow your career within an extremely reputable, stable",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/59VvTVn4rtr1YG1qDHAW76/hybrid-(1120030)-agile-project-manager-in-peoria-at-diversified-services-network%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "6616b9de6d1b5d31",
+   "title": "(1120030) Agile Project Manager",
+   "company": "Diversified Services Network, Inc.",
+   "location": "Chicago, Illinois, United States",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-11-09T17:12+00:00",
+   "posted_day": "2026-11-09",
+   "summary": "Diversified Services Network, Inc. (DSN) is seeking a full-time Agile Project Manager to join our team in your choice of our Chicago , Peoria , IL or Dallas, TX office locations. We offer a hybrid work model, full benefits, PTO, 401k, and more! If you're looking to grow your career within an extremely reputable, stable",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/jYTbJ4Wmhq4gohWNn3gaEb/hybrid-(1120030)-agile-project-manager-in-chicago-at-diversified-services-network%2C-inc."
+    }
+   ]
+  },
   {
    "id": "1a95884cf503e07c",
    "title": "Scrum Master",
@@ -20161,5 +20437,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-09T16:58+00:00"
+ "updated": "2026-11-10T15:17+00:00"
 }
