@@ -515,9 +515,203 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "9 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-11T14:48+00:00",
+   "added": 7,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "3 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "6 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "584d086ac693108f",
+   "title": "Scrum Master / Project Manager - Product Development",
+   "company": "InventYOU AB",
+   "location": "Stockholm, Stockholm County, Sweden",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-11T12:52+00:00",
+   "posted_day": "2026-11-11",
+   "summary": "We are looking for an experienced Scrum Master / Project Manager to join our team and lead a cross-functional development team in a new product development project within vehicle interior development. You will drive planning, execution and delivery according to agile principles, while keeping the team aligned towards p",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/1EUhrwHQKkw83vkgxQF2nD/scrum-master-%2F-project-manager---product-development-in-stockholm-at-inventyou-ab"
+    }
+   ]
+  },
+  {
+   "id": "3c3e8492bbfc6af0",
+   "title": "Sr Software Developer",
+   "company": "SAS",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 156,567–191,360",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-11T11:42+00:00",
+   "posted_day": "2026-11-11",
+   "summary": "Senior Software Developer- Hybrid or Remote in NC, SC, VA, TN or GA We’re a leader in data and AI. Through our software and services, we inspire customers around the world to transform data into intelligence - and questions into answers. If you're looking for a dynamic, fulfilling career with flexibility and a world-cl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sas/jobs/sr-software-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "354c17e3da75e713",
+   "title": "People Project Manager",
+   "company": "Stripe",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-11T11:26+00:00",
+   "posted_day": "2026-11-11",
+   "summary": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the inte",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/stripe/jobs/people-project-manager-2794554913?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e818abc7f46b11c5",
+   "title": "Technical Program Manager (Delivery & Sprint Management)",
+   "company": "Nacre Capital",
+   "location": "Greece (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-11T09:43+00:00",
+   "posted_day": "2026-11-11",
+   "summary": "About EveryWatch EveryWatch is a leading watch market intelligence platform, transforming millions of auction and marketplace records into actionable insights for collectors, dealers, investors, and industry professionals worldwide. Our teams work across software development, data engineering, AI, enrichment operations",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9wo7MA5ohQGKUXJc9oMZhc/remote-technical-program-manager-(delivery-%26-sprint-management)-in-greece-at-nacre-capital"
+    }
+   ]
+  },
+  {
+   "id": "20fb7e100325cf06",
+   "title": "Product Owner III - BI (Memphis, TN or Remote in USA)",
+   "company": "St. Jude Children's Research Hospital",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-11T04:45+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "At ALSAC you do more than make a living; you make a difference. We like people who are different…because we’re different, too. As one of the world’s most iconic and respected nonprofits, we know what it’s like to stand out. That’s why we’re looking at you. Your background, perspective, and desire to make an impact set ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/st-jude-children-s-research-hospital/jobs/product-owner-iii-bi-memphis-tn-or-remote-in-usa?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bc85b40dfc9f5993",
+   "title": "Technical Project Manager (6-month contract)",
+   "company": "Dephy, Inc.",
+   "location": "Boxborough, Massachusetts, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "onsite",
+   "employment": "contract",
+   "posted": "2026-11-10T18:29+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "Dephy is looking for a candidate who has an urge to understand how things work and who gets excited to find a solution to the problem at hand. We are curious, creative, and passionate, and looking for a team member to help us tackle challenges at the forefront of wearable robotics. About the Company At Dephy, our missi",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/8TUiMtts5FGe3ayzmpcYht/technical-project-manager-(6-month-contract)-in-boxborough-at-dephy%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "32c9b4f6ecbf0bf3",
+   "title": "Implementation Project Manager",
+   "company": "Latent",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-10T15:11+00:00",
+   "posted_day": "2026-11-10",
+   "summary": "About Latent Latent is the enterprise pharmacy intelligence platform, powered by a clinical agentic engine, that enables health systems to grow their pharmacy operations and serve more patients. One engine works across the pharmacy journey to identify patients who qualify for care, improve medication access, capture el",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/161170-implementation-project-manager"
+    }
+   ]
+  },
   {
    "id": "614b7f4827c74909",
    "title": "Technical Program Manager, SuperIntelligence Lab",
@@ -20437,5 +20631,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-10T15:17+00:00"
+ "updated": "2026-11-11T14:48+00:00"
 }
