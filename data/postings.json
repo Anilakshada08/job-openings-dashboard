@@ -527,9 +527,281 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "6 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-12T15:40+00:00",
+   "added": 10,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "12 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "3 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "126ea3ad2b0c1fdc",
+   "title": "Product Owner, Analytics",
+   "company": "Modernizing Medicine, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T14:05+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Join the Team Modernizing Medicine At ModMed , we’re not just building software—we’re reimagining the healthcare experience. Founded in 2010 by a practicing physician and a successful tech entrepreneur, we took a radically different approach: we hired doctors and taught them how to code. This \"for doctors, by doctors\" ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/modernizing-medicine-inc/jobs/product-owner-analytics?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0ff86033eec22b3b",
+   "title": "Project Manager, Finance",
+   "company": "Brightspeed",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T13:02+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "The Project Manager, Finance is responsible for leading complex, cross-functional finance and financial systems initiatives that support Brightspeed ’s strategic and operational objectives. This role plans, executes, and delivers projects that improve financial processes, system performance, data integrity, and busines",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/brightspeed/jobs/project-manager-finance?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "cc2613f08d477647",
+   "title": "Enterprise Project Manager",
+   "company": "RegEd",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 75,000–125,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T12:51+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Who We Are: RegEd is the market-leading provider ofRegTechenterprise solutions with relationships with hundreds of enterprise clients, including 80% of the top 25 financial services firms. Established in 2000 by former regulators, the company is recognized for continuous regulatory technology innovation with solutions ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/reged/jobs/enterprise-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3614d9f5289898e2",
+   "title": "Senior Project Manager, Customer Experience",
+   "company": "Ridgeline",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 104,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T12:01+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Are you an expert in orchestrating high-impact software implementations from kickoff to go-live? Do you enjoy translating complex enterprise requirements into seamless delivery plans? Are you eager to make your mark in an industry ready for disruption, helping investment managers reimagine their operations with innovat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ridgeline/jobs/senior-project-manager-customer-experience?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "28b81cb359fa58fd",
+   "title": "Clinic Interfaces and EMR (Project Manager II)",
+   "company": "Myriad Genetics",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T11:05+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Interface Success Manager - Clinic Interfaces and EMR (Project Manager II) Myriad’s Clinic Interfaces and EMR Team supports the seamless integration of Myriad products and services into our customers’ existing digital systems. We support all Myriad business units, products, and the medical specialties that use them, br",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/myriad-genetics/jobs/clinic-interfaces-and-emr-project-manager-ii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c7aebff814c44d2e",
+   "title": "Software Engineer II - Full Stack",
+   "company": "Covr Financial Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 105,000–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T10:41+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Software Engineer II - Full Stack REPORTS TO: Director of Engineering DEPARTMENT: Software Engineer FLSA STATUS: Exempt TRAVEL: None WORK SCHEDULE: M-F, may need to flex according to business needs LOCATION: Remote COMPANY OVERVIEW: Covr Technologies is a market leading insurance-as-a-services platform (InsurTech) that",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/covr-financial-technologies/jobs/software-engineer-ii-full-stack?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9a1233967836dd4e",
+   "title": "Scrum Master",
+   "company": "CREATEQ",
+   "location": "Chișinău, Chisinau, Moldova",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-12T09:45+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Manage and facilitate the Scrum process within distributed teams, ensuring effective Agile practices and ceremonies. Guide and coach the team on Agile/Scrum principles, practices, and continuous improvement. Facilitate discussions, decision-making, conflict resolution, and effective collaboration across different stake",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/2CYwBCukpqwezaxGetG56B/hybrid-scrum-master-in-chi%C8%99in%C4%83u-at-createq"
+    }
+   ]
+  },
+  {
+   "id": "01506d0f228601ce",
+   "title": "SaaS Product Owner",
+   "company": "Speria",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T07:47+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "The opportunity Speria is hiring a Product Owner to help shape and deliver the next phase of Amino. This is a hands-on product role for someone who is energized by customer conversations, ambiguous problems, rapid prototyping, and cross-functional execution. You will work across poultry and production workflows, identi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/speria/jobs/saas-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b7739b9d8ef9caa1",
+   "title": "Staff Frontend Engineer",
+   "company": "Castlight Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 131,243–196,865",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T04:53+00:00",
+   "posted_day": "2026-11-11",
+   "summary": "Job Description Summary ‎ At Castlight, we are looking for a Staff Frontend Engineer to serve as a high-impact individual contributor across our consumer health products. You will architect and deploy white-labeled micro-frontends, obsess over the details that make web experiences feel exceptional, and operate with a f",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/castlight-health/jobs/staff-frontend-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a133f290e90f88a3",
+   "title": "Technical Project Manager",
+   "company": "Crawford Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 85,000–135,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-11T22:18+00:00",
+   "posted_day": "2026-11-11",
+   "summary": "This position offers you an exciting enterprise opportunity for a market leading high-growth global company in ECM, CCM, EOM, Archiving and Accessibility technologies. Location: United States Work from Home Position Summary In this role you will manage complex, customer-facing technical delivery projects across Crawfor",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crawford-technologies/jobs/technical-project-manager?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "584d086ac693108f",
    "title": "Scrum Master / Project Manager - Product Development",
@@ -20631,5 +20903,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-11T14:48+00:00"
+ "updated": "2026-11-12T15:40+00:00"
 }
