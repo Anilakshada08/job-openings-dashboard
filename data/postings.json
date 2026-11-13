@@ -539,9 +539,177 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "3 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-13T14:59+00:00",
+   "added": 6,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "10 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "1811c00a18c933e4",
+   "title": "Technical Program Manager (Hybrid - New Port, CA)",
+   "company": "Tiger Analytics Inc.",
+   "location": "Newport Beach, California, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-11-13T13:08+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "About Tiger Analytics: Shape the Future of AI. Transform the World's Leading Businesses. Tiger Analytics is one of the fastest-growing AI services firms, partnering with some of the world's largest and most influential organizations to redefine how business gets done. We help Fortune 500 companies harness the power of ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/qStDSm5XDHkvyWwnjwyNdV/hybrid-technical-program-manager-(hybrid---new-port%2C-ca)-in-newport-beach-at-tiger-analytics-inc."
+    }
+   ]
+  },
+  {
+   "id": "8bf72453feb69c59",
+   "title": "Senior Program Manager - Healthcare Pilots and Proof of Concepts",
+   "company": "Cotiviti",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 115,000–120,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T11:55+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Overview The Senior Program Manager for Pilots and Proofs of Concept is responsible for managing assigned client-facing healthcare technology implementation projects using established methodologies and processes. The role coordinates project activities across onboarding, integration, configuration, validation, and adop",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cotiviti/jobs/senior-program-manager-healthcare-pilots-and-proof-of-concepts?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1a370c6a65182d20",
+   "title": "Senior, Software Engineer",
+   "company": "DEPT®",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 122,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T10:55+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "WHY DEPT® ? We are a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting fast, and moving further because standing still just is not in our DNA. We are drawn to people who stay",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dept/jobs/senior-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "869daded8023cc2e",
+   "title": "Associate Software Engineer (Full Stack)",
+   "company": "Jamf",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 64,800–117,480",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T08:08+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "At Jamf , we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around the globe succeed with Apple. The secret to our success lies",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/jamf/jobs/associate-software-engineer-full-stack?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "145e903445273ab2",
+   "title": "Sr. Scrum Master",
+   "company": "Crum & Forster",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 91,400–140,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T21:43+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Crum & Forster Company Overview Crum & Forster (C&F) provides market leading property & casualty, accident & health, specialty and standard commercial lines insurance solutions. A true underwriting company, we have a 200-year history of helping our customers manage risk with laser-focused expertise, integrity and disci",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/crum-forster/jobs/sr-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6d8d34b030bd2160",
+   "title": "Product Owner",
+   "company": "Jonas Software",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 90,000–100,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-12T16:32+00:00",
+   "posted_day": "2026-11-12",
+   "summary": "Job Description: About PrestoSports PrestoSports, a Jonas Software company, builds the technology behind college athletics. Our website platform powers more than 1,500 athletic conference and college websites, and our PrestoStats platform is used by sports information directors across the NCAA, NAIA, NJCAA and other go",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/jonas-software/jobs/product-owner-192130310?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "126ea3ad2b0c1fdc",
    "title": "Product Owner, Analytics",
@@ -20903,5 +21071,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-12T15:40+00:00"
+ "updated": "2026-11-13T14:59+00:00"
 }
