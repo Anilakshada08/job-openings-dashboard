@@ -551,9 +551,593 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-14T13:52+00:00",
+   "added": 22,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "24 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "6dccaf8ca96df8f5",
+   "title": "Project Manager II",
+   "company": "Nordic Global",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 83,000–114,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T12:27+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Make a difference. Be happy. Grow your career. The Role The Project Manager II for Construction and Infrastructure plays a pivotal role in supporting projects across the construction lifecycle. This role is responsible for managing multiple, complex projects through all lifecycle phases in support of IT infrastructure ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nordic-global/jobs/project-manager-ii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "63ce239a9ce7c564",
+   "title": "WI-Scrum Master",
+   "company": "AiQualTest LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-14T11:13+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "This is a remote position. Job No: 10623WI Position Scrum Master Client Name Wisconsin Employee Trust Funds (ETF) Requisition 168053 Location Madison, WI Duration 1 year Due Date 11/19/2026 C2C Possible Yes. Rate depends on experience Interview Method Webcam - 2 rounds NOTE: No WI residency required. Open to nationwide",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aiqualtest-llc/jobs/wi-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9a6c5fd889eb9875",
+   "title": "Senior Product Owner",
+   "company": "CenterWell Senior Primary Care",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 94,900–130,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T11:03+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Become a part of our caring community The Senior Product Owner conveys product vision and roadmap to an Agile delivery team by defining user stories and prioritizing product backlog. The Senior Product Owner work assignments involve moderately complex to complex issues where the analysis of situations or data requires ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/senior-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "cf250b831289cc40",
+   "title": "Technical Project Manager Validation Services",
+   "company": "Sartorius",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 104,000–122,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T10:47+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "At Sartorius , you'll help advance bioprocessing innovation by leading validation projects that support regulatory compliance, customer success, and commercial growth. As a Technical Project Manager, Validation Services, you will collaborate with customers, validation laboratories, and commercial teams to deliver high-",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sartorius/jobs/technical-project-manager-validation-services-7640075534?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "aa886cf87c89444a",
+   "title": "Full Stack Software Engineer",
+   "company": "Logistics Management Institute",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 111,000–211,000",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T10:37+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Overview LMI is seeking a talented and motivated Full Stack Software Engineer to join the team developing and advancing RAPTR®, LMI's innovative modeling, simulation, and analysis platform. RAPTR enables federal defense and national security customers to make faster, more informed decisions through advanced analytics, ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/logistics-management-institute/jobs/full-stack-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1f1773538fd4868a",
+   "title": "Implementation Project Manager",
+   "company": "Medallion",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 95,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T10:17+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "About Medallion : At Medallion , we believe healthcare teams should focus on what truly matters - delivering exceptional patient care. That’s why we’ve built a leading provider operations platform to eliminate the administrative bottlenecks that slow healthcare organizations down. By automating licensing, credentialing",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/medallion/jobs/implementation-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ace82a442c7526c2",
+   "title": "Product Owner (Digital Product)",
+   "company": "Really Great Reading",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T09:09+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Are you ready to make a lasting impact on literacy? At Really Great Reading , we are building a bright, diverse, and passionate team dedicated to leading the industry in improving literacy scores nationwide. With nearly two decades of leadership bringing the Science of Reading to thousands of schools, we design innovat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/really-great-reading/jobs/product-owner-digital-product?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d82ce043c31121e4",
+   "title": "Lead Software Engineer",
+   "company": "Insurity",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 84,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T08:14+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Please note that Insurity will only reach out to interview, make an offer of employment, or conduct onboarding activities for candidates who have applied through our careers site. When interviewing for a position, the candidate experience will include live interaction, such as a video or telephone call , with a Recruit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/insurity/jobs/lead-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "87036d97241d7cf5",
+   "title": "Technical Program Manager - IP Backbone",
+   "company": "Nebius",
+   "location": "Remote (Europe, USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T07:26+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastruc",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/162109-technical-program-manager-ip-backbone"
+    }
+   ]
+  },
+  {
+   "id": "23b5162801a7a518",
+   "title": "Product Owner III- Underwriting",
+   "company": "Liberty Mutual",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T04:52+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Description The Product Owner III is a member of the North America Underwriting Agile team, representing the voice of the customer and the organization through the delivery of business value. Works closely with stakeholders (business and technology), including executive leadership, to define and prioritize features and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/liberty-mutual/jobs/product-owner-iii-underwriting?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c49760e92f7c7b90",
+   "title": "Project Manager",
+   "company": "Modern Campus",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 70,000–90,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T04:27+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "About Modern Campus Modern Campus empowers institutions to move with confidence across the modern learner journey. Our platform spans web content management, curriculum and catalog management, student engagement and lifelong learning — giving more than 1,700 colleges and universities the infrastructure they need to sup",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/modern-campus/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c10547e192df4755",
+   "title": "Full Stack Software Developer II",
+   "company": "BAM Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T03:27+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Full Stack Software Developer BAM is a dynamic, multi-disciplinary ﬁrm with leading-edge skills in information technology, software development and applied research. Serving government and commercial markets, BAM is committed to its customers and to delivering strong leadership, sound solutions, and innovative thinking",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bam-technologies/jobs/full-stack-software-developer-ii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "92e6bad681b7bbbb",
+   "title": "Cerner Implementation, Sr Project Manager - Remote",
+   "company": "Community Health Systems",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T03:27+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Our Benefits As an Senior EHR Project Manager, Acute Facility Deployments at Community Health Systems (CHS) – Shared Business Operations, you’ll play a vital role in supporting our purpose to help people get well and live healthier by providing safe, quality healthcare, building enduring relationships with our patients",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/community-health-systems/jobs/cerner-implementation-sr-project-manager-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f76725c773545acb",
+   "title": "IT Program Manager",
+   "company": "The Standard",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 137,000–233,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T03:10+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "The next part of your journey is right around the corner — with The Standard . A genuine desire to make a difference in the lives of others is the foundation for everything we do. With a customer-first mindset and an intentional focus on building strong teams, we’ve been able to uphold our legacy of financial stability",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-standard/jobs/it-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1ea576c012b111d2",
+   "title": "Technical Program Manager - Data Center",
+   "company": "Avicado",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T23:31+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Transforming The Way Construction Owners Use Technology & Data This role owns design change programs end-to-end for one of Avicado 's largest data center accounts, from scoping through design development, execution, and post-execution. You will manage large budgets and align site teams, project leads, and client vendor",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/avicado/jobs/technical-program-manager-data-center?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e7572ddc68da2f39",
+   "title": "(TA0099) Project Manager",
+   "company": "Nortal",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T22:20+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Join Nortal for your next big adventure. We are seeking a Project Manager to join our team, grow with us, and teach us a few things along the way. Why join Nortal Say Goodbye to Micromanagement: We champion autonomy, open communication, and respect for diversity as our core values. Outcomes Over Hours: We believe in a ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nortal/jobs/ta0099-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9df640c439a07793",
+   "title": "Senior Technical Program Manager (Temporary Assignment)",
+   "company": "Aretum",
+   "location": "McLean, Virginia, United States (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T18:55+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "About Aretum Active Secret Clearance Required Aretum is a mission-driven organization committed to delivering innovative, technology-enabled solutions to our customers across defense, civilian, and homeland security sectors. Our teams work at the intersection of strategy, technology, and transformation, helping agencie",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/5NuHPE1Qre8VZrc7DzFStu/remote-senior-technical-program-manager-(temporary-assignment)-in-mclean-at-aretum"
+    }
+   ]
+  },
+  {
+   "id": "884918a7c5c4fbaa",
+   "title": "Scrum Master",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 119,000–161,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T18:02+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Type of Requisition: Regular Clearance Level Must Currently Possess: Secret Clearance Level Must Be Able to Obtain: Secret Public Trust/Other Required: None Job Family: Software Engineering Job Qualifications: Skills: Agile Methodology, Scrum Master, Scrum Methodology Certifications: None Experience: 5 + years of relat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ff5b834dc952addb",
+   "title": "Principal Technical Project Manager",
+   "company": "TTEC Digital",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 140,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T17:47+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "At TTEC Digital , we coach clients to ensure their employees feel valued, and fully supported, because an amazing customer experience is an employee first process. Our vision is the same, a place where employees know they can thrive. TTEC Digital is seeking a Principal Technical Project Manager to join our TTEC Digital",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ttec-digital/jobs/principal-technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ca6a000351e8688b",
+   "title": "Senior Full Stack .NET Developer",
+   "company": "Orion Innovation",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T15:47+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Orion Innovation is a premier, award-winning, global business and technology services firm. Orion delivers game-changing business transformation and product development rooted in digital strategy, experience design, and engineering, with a unique combination of agility, scale, and maturity. We work with a wide range of",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/162053-senior-full-stack-net-developer"
+    }
+   ]
+  },
+  {
+   "id": "c3b0b1c5b4a21068",
+   "title": "Hardware Deployment Project Manager",
+   "company": "Gather AI",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T15:47+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "About Gather AI Are you ready to build the future of supply chain? At Gather AI, we’re not just creating software; we’re pioneering a new era of warehouse intelligence. We’ve developed a groundbreaking, vision-powered platform that uses autonomous drones and existing equipment to capture real-time data, completely digi",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/162047-hardware-deployment-project-manager"
+    }
+   ]
+  },
+  {
+   "id": "e47b395a62281ace",
+   "title": "Product Owner with German language",
+   "company": "Dreamix Ltd.",
+   "location": "Sofia City Province, Bulgaria (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-13T15:35+00:00",
+   "posted_day": "2026-11-13",
+   "summary": "Dreаmix was founded 20 years ago by passionate IT students, who wanted to create the dreamiest workplace where everyone is heard, works under transparent management, and lives up to their full potential. Now, many years later, we deliver software solutions for renowned companies from Germany, the UK, Switzerland, and S",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/frxfeGFCNSM5HAdcCWxHSz/remote-product-owner-with-german-language-in-sofia-city-province-at-dreamix-ltd."
+    }
+   ]
+  },
   {
    "id": "1811c00a18c933e4",
    "title": "Technical Program Manager (Hybrid - New Port, CA)",
@@ -21071,5 +21655,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-13T14:59+00:00"
+ "updated": "2026-11-14T13:52+00:00"
 }
