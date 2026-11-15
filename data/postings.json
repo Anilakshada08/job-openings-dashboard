@@ -563,9 +563,229 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-15T14:25+00:00",
+   "added": 8,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "10 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "30f64e907ca765ea",
+   "title": "Project Manager",
+   "company": "Strive Pharmacy",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 100,000–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T11:16+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "Company Overview: Strive Pharmacy is a personalized compounding pharmacy built on a simple conviction: medicine should fit the patient, not the other way around. We started Strive because we believed the pharmaceutical industry was overdue for a more human approach—one that prioritizes individualized care, clinical nua",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/strive-pharmacy/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "81a04f038de55d29",
+   "title": "Technology Delivery Lead - Financial Services",
+   "company": "Accenture",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 112,900–302,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T09:50+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "We Are Accenture helps the world's leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed for organizations across industries. Our strategy is to be the reinvention partner of choice for our clients and lead in the safe, widespread adoption of AI, and to be t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/accenture/jobs/technology-delivery-lead-financial-services?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "72d6ee0c2135e0da",
+   "title": "Product Owner",
+   "company": "Infor",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T06:42+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "Infor is seeking a Product Owner to shape the evolution of Infor 's global digital employee experience. You will own the product roadmap, translate employee needs into priorities and partner across the business to transform a traditional search-and-navigation model into an intelligent, proactive experience powered by A",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/infor/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3a56204017bfe950",
+   "title": "Senior Angular Developer",
+   "company": "Bright Vision Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 115,000–165,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-15T05:13+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is an opportunity to contribute to technology initiatives in a collaborative environment with opportunities for professional growth. Job Title: Senio",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-angular-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "367e02c2095873ee",
+   "title": "Technology Program Manager",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 176,000–282,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T23:11+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/technology-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4df9dbb3f7680814",
+   "title": "AI-First Software Developer - Softeon",
+   "company": "IFS",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 114,000–152,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T23:01+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Ship more of what customers need, faster, and prove every change works. Our applications run the warehouses that get orders out the door on time. We are changing how that software gets built: AI agents and AI-assisted CI/CD help us deliver more functionality to our customers, faster, with higher quality. We are looking",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ifs/jobs/ai-first-software-developer-softeon?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a3282a821c260617",
+   "title": "Senior Full Stack Developer",
+   "company": "Logistics Management Institute",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 111,000–211,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T21:53+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Overview LMI is seeking a Senior Full Stack Engineer to help architect, build, and extend IronSled, a Platform as a Service designed to host applications in secure federal environments. You will be a senior technical contributor on a small, cross-functional product team responsible for evolving the platform and establi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/logistics-management-institute/jobs/senior-full-stack-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9e7785e15e1f78b4",
+   "title": "Product Owner, IT",
+   "company": "Navitus Health Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 96,482–118,382",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-14T15:56+00:00",
+   "posted_day": "2026-11-14",
+   "summary": "Company Lumicera About Us Lumicera - Lumicera Health Services Powered by Navitus - Innovative Specialty Pharmacy Solutions- Lumicera Health Services is defining the “new norm” in specialty pharmacy to optimize patient well-being through our core principles of transparency and stewardship. Here at Lumicera, our team mem",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/navitus-health-solutions/jobs/product-owner-it?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "6dccaf8ca96df8f5",
    "title": "Project Manager II",
@@ -21655,5 +21875,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-14T13:52+00:00"
+ "updated": "2026-11-15T14:25+00:00"
 }
