@@ -575,9 +575,463 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "0 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-16T16:37+00:00",
+   "added": 17,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "23 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "3 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "03f9eb34bbce6720",
+   "title": "Scrum Master",
+   "company": "Arcsen",
+   "location": "Maadi, Al Qāhirah, Egypt",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-16T14:28+00:00",
+   "posted_day": "2026-11-16",
+   "summary": "The Firm: Arcsen is a leading global technology consulting firm specializing in providing innovative solutions and expert guidance to businesses across EMEA. With a commitment to excellence, Arcsen partners with industry giants such as Salesforce, MuleSoft, Tableau, Slack, and Sprout, Certinia, and Splunk, ensuring cli",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/6opndtMRfsHcaf52Q8X3YP/hybrid-scrum-master-in-maadi-at-arcsen"
+    }
+   ]
+  },
+  {
+   "id": "c7e11537dc417a6a",
+   "title": "Technical Project Manager (Data Center Deployment)",
+   "company": "Inovi, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-16T11:22+00:00",
+   "posted_day": "2026-11-16",
+   "summary": "About Inovi Inc. Born in Silicon Valley, we’re a boutique AI infrastructure company building sustainable, next-generation digital infrastructure, end to end. From design through operation, our work is engineered for the performance, scale, and efficiency that advanced AI and computing demand, while strengthening the co",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/inovi-inc/jobs/technical-project-manager-data-center-deployment?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "aa751d62cb28b103",
+   "title": "Core Senior .NET Software Engineer",
+   "company": "Evolent",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-16T10:15+00:00",
+   "posted_day": "2026-11-16",
+   "summary": "Your Future Evolves Here Evolent partners with health plans and providers to achieve better outcomes for people with most complex and costly health conditions. Working across specialties and primary care, we seek to connect the pieces of fragmented health care system and ensure people get the same level of care and com",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/evolent/jobs/core-senior-net-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e753cca2c2540619",
+   "title": "Senior Technical Project Manager",
+   "company": "Acxiom",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-16T10:05+00:00",
+   "posted_day": "2026-11-16",
+   "summary": "We are seeking an experienced Senior Technical Project Manager to drive delivery for Acxiom ’s Measurement & Optimization offering: the connected capability that ties Real ID, clean room technology, and standardized pipelines to closed-loop, privacy-safe measurement (incrementality/lift, multi-touch attribution, market",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/acxiom/jobs/senior-technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c58573aad8f31933",
+   "title": "Project Manager",
+   "company": "CSI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-16T08:24+00:00",
+   "posted_day": "2026-11-16",
+   "summary": "Job Description: The Project Manager is responsible for leading the end‑to‑end delivery of projects across CSI , including internal, departmental, and customer‑facing initiatives. This role ensures projects are delivered successfully—from initiation through closure—while managing timelines, risks, and stakeholder expec",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/csi/jobs/project-manager-6933795637?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "91ebdedcef9bed4a",
+   "title": "Product Owner",
+   "company": "PDI Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-16T07:01+00:00",
+   "posted_day": "2026-11-16",
+   "summary": "At PDI Technologies , we empower some of the world's leading convenience retail and petroleum brands with cutting-edge technology solutions that drive growth and operational efficiency. By “Connecting Convenience” across the globe, we empower businesses to increase productivity, make more informed decisions, and engage",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/pdi-technologies/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a7aedfb31fc53d56",
+   "title": "Principal Software Engineer Agents for Good",
+   "company": "Blackbaud",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 133,700–173,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-16T02:12+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "About the role: We're looking for a Principal Software Engineer to help lead the design and implementation of Blackbaud 's agentic AI products, and the frameworks other teams use to build new agents as part of our Agents for Good team. This is a hands-on, high-impact technical role where you'll shape the architecture o",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/blackbaud/jobs/principal-software-engineer-agents-for-good?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f51337cd247d6534",
+   "title": "Program Manager (R-00259)",
+   "company": "True Zero Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 15,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T23:22+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "True Zero Technologies , a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that those outcomes begin and end with our people, and that is what we have built a communit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/true-zero-technologies/jobs/program-manager-r-00259?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b3aa53980d80f164",
+   "title": "Program Manager, North America",
+   "company": "Instanda",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 160,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T23:11+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "We’re pushing the boundaries of Insurance Technology INSTANDA is the world's first no code platform for Insurance. A pioneering Insurtech, we’re revolutionizing the insurance industry by offering insurers a versatile tool to create, manage, and distribute digital insurance products. Our innovative technology empowers i",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/instanda/jobs/program-manager-north-america?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "69c4baf2086bd394",
+   "title": "Program Manager",
+   "company": "Koniag Government Services",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 150,000–178,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T21:43+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "Applications for this position will be accepted through 12/31/26. This position supports a contract that has not yet been awarded to the Company, and the application deadline and start date depend on the status of that contract. If the contract is not awarded, or if the customer requires the position to be staffed earl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/koniag-government-services/jobs/program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "dadf586c7317469d",
+   "title": "IT Project Manager - Remote US",
+   "company": "CoverMyMeds",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T20:44+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "It’s More Than a Career, It’s a Mission. Our people are the foundation of our success. By joining our growing team at Sarah Cannon Research Institute (SCRI), a subsidiary of McKesson, you will have the opportunity to become part of one of the largest community-based cancer programs to advance oncology treatments and im",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/covermymeds/jobs/it-project-manager-remote-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9142a17e47e936ae",
+   "title": "Mid-level Full Stack Software Developer",
+   "company": "VMD Corp",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T20:27+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "As a Vision, Mission, and Driven company, VMD has been delivering information technology solutions to the Federal government in Agile Engineering, Cybersecurity, and Critical Infrastructure Protection since 2002. Our mission has now expanded, and we have merged with Xcelerate Solutions to revolutionize end-to-end enter",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/vmd-corp/jobs/mid-level-full-stack-software-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ed7f8abcdc8aab12",
+   "title": "Software Engineer, Agents for Good",
+   "company": "Blackbaud",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 87,700–114,200",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T18:47+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "About the role: As a Staff Software Engineer in AI on the Agents for Good team, you'll help build Blackbaud 's agentic products and the frameworks that power them. You'll work independently on well-scoped problems, contribute to the design of new agent capabilities, and grow your skill in applying AI-native development",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/blackbaud/jobs/software-engineer-agents-for-good?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "227f942e9c2a6263",
+   "title": "Senior Software Engineer, Full Stack",
+   "company": "Lyric, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T18:28+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "Lyric is the trusted leader in healthcare decision intelligence. Built on more than 35 years of proven results, Lyric combines responsible AI with clinical, payment, regulatory, and policy expertise to deliver transparent, auditable insights in milliseconds across real-time claims workflows. Lyric augments human decisi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lyric-inc/jobs/senior-software-engineer-full-stack-6998519332?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "40fff2b42a664bc7",
+   "title": "Technical Project Manager (R-00258)",
+   "company": "True Zero Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T17:50+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "True Zero Technologies , a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that those outcomes begin and end with our people, and that is what we have built a communit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/true-zero-technologies/jobs/technical-project-manager-r-00258?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fc3cc246cd038ed2",
+   "title": "Senior Full Stack Engineer, Payments (Python & Angular)",
+   "company": "Ottimate",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T17:29+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "Location : LATAM - Remote Type : Contractor/ Full-time About Ottimate Ottimate helps fast-growing businesses automate Accounts Payable (AP) on their terms. We simplify everything from invoice management to payments for both recurring and one-off expenses with a cloud-first approach. Ottimate 's AI-native AP Automation ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ottimate/jobs/senior-full-stack-engineer-payments-python-angular?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8ad41ea1dce75633",
+   "title": "Senior Software Engineer – Fullstack",
+   "company": "Lyric, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 125,241–187,862",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-15T17:23+00:00",
+   "posted_day": "2026-11-15",
+   "summary": "Lyric is the trusted leader in healthcare decision intelligence. Built on more than 35 years of proven results, Lyric combines responsible AI with clinical, payment, regulatory, and policy expertise to deliver transparent, auditable insights in milliseconds across real-time claims workflows. Lyric augments human decisi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lyric-inc/jobs/senior-software-engineer-fullstack?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "30f64e907ca765ea",
    "title": "Project Manager",
@@ -1212,9 +1666,9 @@
     "apmpo"
    ],
    "experience": "senior",
-   "years_min": null,
-   "experience_estimated": true,
-   "salary": "",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 190,000–210,000",
    "job_type": "Full-time",
    "workplace": "remote",
    "employment": "fulltime",
@@ -1225,6 +1679,10 @@
     {
      "name": "Workable",
      "url": "https://jobs.workable.com/view/5NuHPE1Qre8VZrc7DzFStu/remote-senior-technical-program-manager-(temporary-assignment)-in-mclean-at-aretum"
+    },
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aretum/jobs/senior-technical-program-manager-temporary-assignment?utm_source=api"
     }
    ]
   },
@@ -21875,5 +22333,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-15T14:25+00:00"
+ "updated": "2026-11-16T16:37+00:00"
 }
