@@ -587,9 +587,47 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "3 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-17T16:34+00:00",
+   "added": 1,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "1 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "11 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "280c1e76bc735047",
+   "title": "Project Manager",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 66,000–106,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-17T14:59+00:00",
+   "posted_day": "2026-11-17",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/project-manager-9252727618?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "03f9eb34bbce6720",
    "title": "Scrum Master",
@@ -22333,5 +22371,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-16T16:37+00:00"
+ "updated": "2026-11-17T16:34+00:00"
 }
