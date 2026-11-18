@@ -599,9 +599,463 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "11 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-18T16:03+00:00",
+   "added": 17,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "2 new in last 24h",
+    "Himalayas": "19 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "3 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "d622c057c9f15dd0",
+   "title": "Sr. Software Project Manager, Complex Projects - Remote",
+   "company": "Siemens Healthineers",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 110,220–151,558",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T14:51+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and perso",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/siemens-healthineers/jobs/sr-software-project-manager-complex-projects-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bfb04e80d9c15a1b",
+   "title": "Sr. Program Manager, GTM Programs",
+   "company": "Samsara",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 102,042–154,350",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T14:05+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara , we are helping improve the safety, effici",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/samsara/jobs/sr-program-manager-gtm-programs?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7d36f95711a03dcf",
+   "title": "Senior Principal Software Developer- Project Engineering",
+   "company": "Medina Talent Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 170,000–200,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T12:18+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "This is a hands-on senior role with three centers of gravity. Initiative delivery. Turn structured requirements into production software quickly and predictably. Work arrives as initiatives broken into foundation tasks and features with clear acceptance criteria. Our engineers merge hundreds of pull requests a month ac",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/medina-talent-group/jobs/senior-principal-software-developer-project-engineering?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f619a62c1d503705",
+   "title": "Technical Program Manager, Pharmacy Integrations",
+   "company": "Bask Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T11:15+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "About Bask Health Bask Health is a telehealth technology platform that helps entrepreneurs, healthcare businesses, and brands launch, manage, and grow their own telehealth businesses. Our platform brings together storefronts, patient experiences, clinical workflows, pharmacy operations, and business management tools in",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bask-health/jobs/technical-program-manager-pharmacy-integrations?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "81d597b9bf20b2a1",
+   "title": "Senior Technical Program Manager, Pharmacy Integrations",
+   "company": "Bask Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T11:08+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "About Bask Health Bask Health is a software platform that enables entrepreneurs, doctors, and healthcare businesses to launch, manage, and grow direct-to-consumer telehealth businesses. Our platform brings together patient experiences, clinical workflows, pharmacy operations, and commerce tools in one place. We're an e",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bask-health/jobs/senior-technical-program-manager-pharmacy-integrations?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "af13b5d5e2dc8668",
+   "title": "Principal Technical Program Manager, Industry Software",
+   "company": "Zillow Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 173,000–290,900",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T11:06+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "About the team The Industry Software organization builds the B2B SaaS platforms that power Zillow's software and services for real estate professionals, including: - Home listing, lead delivery, and home shopper lifecycle workflows - Identity and access: account hierarchies, user identity, team roster/permissions manag",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/zillow-group/jobs/principal-technical-program-manager-industry-software?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8181051fd2a35392",
+   "title": "Databricks Project Manager (Remote, US)",
+   "company": "V4C.ai",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T09:54+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "About V4C.ai V4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging). As a Project Manager on our delivery team you will run Databricks engagements end to end, working directly w",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/v4c-ai/jobs/databricks-project-manager-remote-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "878371bebd483566",
+   "title": "Fullstack Engineer (Python & Angular)",
+   "company": "Ottimate",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T09:41+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Location : LATAM-Remote Type : Contractor/Full-time About Ottimate Ottimate helps fast-growing businesses automate Accounts Payable (AP) on their terms. We simplify everything from invoice management to payments for both recurring and one-off expenses with a cloud-first approach. Ottimate 's AI-native AP Automation and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ottimate/jobs/fullstack-engineer-python-angular?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ea232a5df10080c6",
+   "title": "Enterprise Program Manager (ELM)",
+   "company": "Litify",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 140,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T08:34+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "About UsAt Litify , we're powering a new era for the legal industry. Since its founding in 2016, Litify has helped law firms and corporate legal departments turn operations into impact through its leading AI-native Platform of Action. Over 55K legal professionals and 450+ enterprise clients across plaintiff, insurance ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/litify/jobs/enterprise-program-manager-elm?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c5631f0551ff4c0a",
+   "title": "Sr. IT Project Manager",
+   "company": "Avantor",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 97,500–156,975",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T08:00+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "The Opportunity: Avantor is looking for a Senior IT Project Manager to drive the successful delivery of critical technology and business initiatives that fuel organizational growth and operational excellence. This role plays a vital part in ensuring high-impact projects are executed efficiently, delivering measurable b",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/avantor/jobs/sr-it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "705304067a5b0a59",
+   "title": "Full-Stack Engineer",
+   "company": "ASRC Federal",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T06:28+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "ASRC NetCentric is seeking a Full Stack Engineer to support the DHS Development, Engineering, and Enterprise Projects (DEEP) program. Work location: Remote Summary: The DHS DEEP program provides application analysis, architecture, engineering, development, testing, operations, maintenance, and modernization support acr",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/asrc-federal/jobs/full-stack-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "12d8677035fdc9fc",
+   "title": "Deputy Program Manager",
+   "company": "Koniag Government Services",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 120,000–125,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T03:01+00:00",
+   "posted_day": "2026-11-17",
+   "summary": "Applications for this position will be accepted through 12/31/26. This position supports a contract that has not yet been awarded to the Company, and the application deadline and start date depend on the status of that contract. If the contract is not awarded, or if the customer requires the position to be staffed earl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/koniag-government-services/jobs/deputy-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7d857999e5220ff7",
+   "title": "Senior Full-Stack Engineer",
+   "company": "ASRC Federal",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T02:28+00:00",
+   "posted_day": "2026-11-17",
+   "summary": "ASRC NetCentric is seeking a Senior Full Stack Engineer to support the DHS Development, Engineering, and Enterprise Projects (DEEP) program. Work location: Remote Summary: The DHS DEEP program provides application analysis, architecture, engineering, development, testing, operations, maintenance, and modernization supp",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/asrc-federal/jobs/senior-full-stack-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7e078027284cee7e",
+   "title": "Product Owner",
+   "company": "micro1",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 170,000–340,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T01:20+00:00",
+   "posted_day": "2026-11-17",
+   "summary": "Job Title: Product Owner Job Type: Full-time Location: Remote The Role You’ll work closely with engineering, data, and business teams to turn complex problems into intuitive products people enjoy using. Experience in AI, data, developer tools, or other strong product-led technology companies is highly relevant. What Yo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/micro1/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f162c1ab8a0c947f",
+   "title": "IT Project Manager",
+   "company": "OmniSolve, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 113,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T00:17+00:00",
+   "posted_day": "2026-11-17",
+   "summary": "Benefits: 401(k) Bonus based on performance Competitive salary Dental insurance Health insurance Training & development Tuition assistance Job Title: IT Project Manager Job Location: 100% remote Clearance Requirement: NACI (Public Trust) to be obtained by OmniSolve/Government after Government acceptance Employment Peri",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/omnisolve-inc/jobs/it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3970f2e51aebb81f",
+   "title": "Senior Program Manager - OP02332",
+   "company": "Dev.Pro",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-17T23:59+00:00",
+   "posted_day": "2026-11-17",
+   "summary": "New opportunities in Latin America! 🟢 Dev.Pro is a US-based software development company helping tech companies build their products and grow their business. We’re remote-first, and we work with independent contractors in over 55 countries, so you’d be collaborating in a multicultural environment on some really interes",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dev-pro/jobs/senior-program-manager-op02332?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "12d90f557525ca82",
+   "title": "Full Stack Developer (Java / Angular / GCP) | Mid-Senior Level",
+   "company": "Devsu",
+   "location": "Honduras (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-17T20:57+00:00",
+   "posted_day": "2026-11-17",
+   "summary": "At Devsu, we are looking for a Semi-Senior / Senior Full Stack Developer with 4+ years of professional software development experience and strong expertise in Java / Spring Boot and Angular / TypeScript. We are looking for a professional with proven experience in both Backend and Frontend development, capable of workin",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/7hg2RBCtjUvUEHXwfGDn9W/remote-full-stack-developer-(java-%2F-angular-%2F-gcp)-%7C-mid-senior-level-in-honduras-at-devsu"
+    }
+   ]
+  },
   {
    "id": "280c1e76bc735047",
    "title": "Project Manager",
@@ -22371,5 +22825,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-17T16:34+00:00"
+ "updated": "2026-11-18T16:03+00:00"
 }
