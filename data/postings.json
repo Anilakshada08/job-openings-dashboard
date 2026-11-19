@@ -611,9 +611,749 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "3 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-19T16:10+00:00",
+   "added": 28,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "37 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "9 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "e418a063d43b4b93",
+   "title": "Senior Program Manager, Strategic Programs",
+   "company": "Avalara",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-19T15:51+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "What You'll Do As a Senior Program Manager, Strategic Programs on the Customer Onboarding Operations and Technical Programs team reporting to the Sr. Manager of Business Operations & Strategic Programs, you will lead the modernization, systems integration, and AI-driven automation of customer onboarding workflows acros",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/avalara/jobs/senior-program-manager-strategic-programs?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7db74130d3118509",
+   "title": "Technical Project Manager - Global Fiber",
+   "company": "AECOM",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 130,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T15:19+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "AECOM ’s Technology Solutions Group (TSG) is seeking a Technical Project Manager to join our Global Fiber Team. This position is also open to a remote working situation. The Technical Project Manager will have the following responsibilities: Project Management and Delivery Lead end-to-end delivery of OSP / fiber projec",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aecom/jobs/technical-project-manager-global-fiber?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e09c1626ea1c4a31",
+   "title": "Product Owner",
+   "company": "LTS Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 135,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T14:44+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Clearance: Ability to obtain and maintain a Public Trust Salary Range: 135K - 150K LTS is seeking an experienced and strategic Product Owner to support an innovative AI-powered modernization initiative within the Department of Veterans Affairs (VA) health portfolio. This critical role will work closely with executive l",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lts-corporation/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8330bf4265e21f7d",
+   "title": "Senior Technical Program Manager, AI Labs",
+   "company": "NVIDIA",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 172,500–403,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T14:38+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "We're looking for a Senior Customer Program Manager to lead the charge on technical programs for some of NVIDIA 's most strategic partners and build exceptional customer relationships. As a core member of the Customer Program Management team, you'll work with the world's largest AI labs and their partners, including cl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nvidia/jobs/senior-technical-program-manager-ai-labs?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "442379dffcb87d4c",
+   "title": "Product Owner (Payments)",
+   "company": "Natech ∙ Financial Software",
+   "location": "Athens, Attiki, Greece",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 20,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-19T14:24+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Natech Banking Solutions is a leading European fintech company with nearly 20 years of experience in developing advanced banking systems for major financial institutions. Headquartered in Ioannina, with offices in Athens, Switzerland, and Germany, Natech is at the forefront of digital banking innovation. Our comprehens",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/kh6zYSPbNKBQHBkdyks3rk/hybrid-product-owner-(payments)-in-athens-at-natech-%E2%88%99-financial-software"
+    }
+   ]
+  },
+  {
+   "id": "d91444a9ee293caa",
+   "title": "Sr. Technical Program Manager",
+   "company": "enterprisedb",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T13:53+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/enterprisedb/jobs/sr-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f39768f0623f8f95",
+   "title": "IT Project Manager",
+   "company": "DMI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 84,774–105,968",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T12:20+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "About DMI DMI is a leading provider of digital services and technology solutions, headquartered in Tysons Corner, VA. With a focus on end-to-end managed IT services, including managed mobility, cloud, cybersecurity, network operations, and application development, DMI supports public sector agencies and commercial ente",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dmi/jobs/it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "afcec614d42f0981",
+   "title": "GPU Infrastructure Deployment Program Manager",
+   "company": "Orion Placement",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 120,000–200,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T11:13+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Pay: $120,000.00 - $200,000.00 per year Why This Is a Great Opportunity Own the program execution behind cutting-edge GPU and AI infrastructure deployments. Lead multiple complex GPU cluster deployments from contract signature through customer go-live. Work at the center of data centers, OEM hardware, networking, GPU i",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/orion-placement/jobs/gpu-infrastructure-deployment-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d607cb0feea46f81",
+   "title": "Software Engineer II (Java)",
+   "company": "Mercury Insurance",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 83,670–161,815",
+   "job_type": "Other",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T10:56+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Overview Join an amazing team that is consistently recognized for our achievements and culture, including our most recent Forbes award of being one of America's Best Midsize Employers for 2026! Position Summary: As a Java Engineer II, you will be responsible for designing, developing, and maintaining complex software s",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/mercury-insurance/jobs/software-engineer-ii-java?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bf7ef9b81e3217c6",
+   "title": "Product Owner, AI & Demand Generation",
+   "company": "Avalara",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 126,000–244,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T10:50+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "What You'll Do Avalara 's Planning-to-Opportunity team sits in IT, working with Sales and Marketing to provide the technology and solutions that improve how campaigns create demand and convert it into qualified pipeline. There are opportunities across the full funnel, including campaign planning, content and asset crea",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/avalara/jobs/product-owner-ai-demand-generation?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "85ddbe5ea7fe8022",
+   "title": "Technical Security Program Manager",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 16,
+   "experience_estimated": false,
+   "salary": "USD 146,000–234,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T10:25+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/technical-security-program-manager-9546841178?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b4eb820238856b6d",
+   "title": "Deputy Project Manager/Senior Software Engineer/Developer",
+   "company": "Nakupuna Companies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 130,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T10:16+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Overview Nakupuna Companies is seeing a Deputy Project Manager/Senior Software Engineer/Developer. The Deputy Project Manager/Senior Software Engineer/Developer supports the Project Manager in successful project execution while providing senior-level technical leadership and hands-on software-development support. The p",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nakupuna-companies/jobs/deputy-project-manager-senior-software-engineer-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5dba7df14e26daa2",
+   "title": "Senior Technical Program Manager, Software",
+   "company": "Success Matcher",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T10:12+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Our client is a pioneer in augmented reality, known for an industry-leading AR optics stack and ultra-lightweight waveguides produced at scale on its own proprietary manufacturing equipment. Backed by more than 10 years of AR innovation in text legibility, color fidelity and wider field of view, it now partners across ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/success-matcher/jobs/senior-technical-program-manager-software?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bbf4a4924e516168",
+   "title": "Senior Frontend Engineer - Angular",
+   "company": "INTERAMERICAN HELLENIC LIFE INSURANCE COMPANY S.A.",
+   "location": "Greece",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-11-19T08:55+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "The Opportunity Interamerican, a member of the Achmea Group and certified as a World-Class Workplace , offers exceptional career opportunities within a dynamic, fast-paced, and agile working environment. We embrace modern ways of working and are committed to fair treatment, inclusion, and equity. As a proud signatory o",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/fShkAopJzgdMpoAcVhfHhg/senior-frontend-engineer---angular-in-greece-at-interamerican-hellenic-life-insurance-company-s.a."
+    }
+   ]
+  },
+  {
+   "id": "9c62710509c69fc1",
+   "title": "Product Owner (Stf) - Product Lifecycle Enablement",
+   "company": "Lockheed Martin Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 94,400–243,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T07:09+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Standard Job Description Product Owner (Stf) - Product Lifecycle Enablement The Product Lifecycle Enablement organization is responsible for Enterprise PLM capabilities and processes, Engineering data strategy and implementation, and establishing common ontology & interfaces that enable 1LMX Digital Thread and embedded",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lockheed-martin-corporation/jobs/product-owner-stf-product-lifecycle-enablement?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "be7e43c897f014f9",
+   "title": "Product Owner (Sr) - Product Lifecycle Enablement",
+   "company": "Lockheed Martin Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 76,700–198,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T06:19+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Standard Job Description Product Owner (Sr) - Product Lifecycle Enablement The Product Lifecycle Enablement organization is responsible for Enterprise PLM capabilities and processes, Engineering data strategy and implementation, and establishing common ontology & interfaces that enable 1LMX Digital Thread and embedded ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lockheed-martin-corporation/jobs/product-owner-sr-product-lifecycle-enablement?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "89f3a1e4cd9445db",
+   "title": "Senior Staff Technical Program Manager, Vulnerability, Configuration & Attack Su",
+   "company": "ServiceNow",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 12,
+   "experience_estimated": false,
+   "salary": "USD 190,900–334,100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T06:09+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "The ServiceNow Security Organization (SSO) The ServiceNow Security Organization (SSO) delivers world-class, innovative security solutions to reduce risk and protect the company and our customers. We enable our customers to migrate their most sensitive data and workloads to the cloud, accelerating our business so that w",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/servicenow/jobs/senior-staff-technical-program-manager-vulnerability-configuration-attack-su?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f82ffc6e43f7cf8e",
+   "title": "Sr. Manager, Software Engineering",
+   "company": "Avalara",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T05:56+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "What You'll Do Avalara is looking for a Software Engineering Manager to lead distributed engineering teams building scalable, cloud-native SaaS solutions. You will help drive execution, improve engineering quality and reliability, and help deliver secure, high-performance systems that simplify tax compliance for custom",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/avalara/jobs/sr-manager-software-engineering?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "08efb01e59132301",
+   "title": "Digital Technical Project Manager",
+   "company": "Maker Lab",
+   "location": "Ho Chi Minh City, Ho Chi Minh, Vietnam (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-19T05:30+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Grounded in a talent-centric mindset, Maker Lab is a marketing agency designed to build decentralised technology-led agency teams, rooted in collaboration with clients from the ground up. Maker Lab’s cross-functional teams of multidisciplinary specialists are embedded into client teams across digital marketing competen",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/88fNtDJzKRSXyJE7f68R74/remote-digital-technical-project-manager-in-ho-chi-minh-city-at-maker-lab"
+    }
+   ]
+  },
+  {
+   "id": "dd847d697307a136",
+   "title": "SR. SOFTWARE DEVELOPER FULL STACK - REMOTE",
+   "company": "Palco, Inc. (PALCO)",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T04:27+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "SENIOR SOFTWARE DEVELOPER FULL STACK We’re Palco. We provide the management, support, and systems behind self-directed programs—the services that help people hire, pay, and manage their own caregivers with confidence. With 25+ years of experience as a national provider operating in over 17 states, we keep people at the",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/palco-inc-palco/jobs/sr-software-developer-full-stack-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e0f3f5b3a8a90bfe",
+   "title": "Technical Program Manager 2026 - US",
+   "company": "Aimpoint Digital",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T03:20+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Technical Program Manager What you will do Are you an accomplished technical program manager looking to apply your level of expertise to drive meaningful projects and portfolios of work forward. Specifically, help support client project work across multiple practices ranging from AI Engineering, Data Analytics, Data En",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aimpoint-digital/jobs/technical-program-manager-2026-us?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0fba02bdc0e42235",
+   "title": "Project Manager",
+   "company": "Nava",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 114,300–127,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T02:10+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "About Nava Nava is a consultancy and public benefit corporation working to make government services simple and effective. Since 2015, federal, state, and local agencies have trusted Nava to help solve highly scrutinized technology modernization challenges. As a client services company, we guide agencies constrained by ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nava/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b6029c7558e25838",
+   "title": "Software Engineer (React, TypeScript) - Remote",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 73,965–98,900",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T00:09+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: None Job Family: Software Engineering Job Qualifications: Skills: Java (Programming Language), React (Software), Software Development, Web Applications Certifications: None",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/general-dynamics-information-technology/jobs/software-engineer-react-typescript-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9d8bed6d81d53c5f",
+   "title": "Technical Program Manager 3",
+   "company": "Monarch Quantum",
+   "location": "San Diego, California, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-18T22:39+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Join our fast-paced and passionate team as a Technical Program Manager 3. As we scale, you will be instrumental in building our foundation from the ground up. This is a dynamic, hands-on role for a self-starter who thrives in a fluid startup environment. You'll have the opportunity to work on cutting edge technologies,",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/6zt5bSKcBLpg9hUTo7adwJ/technical-program-manager-3-in-san-diego-at-monarch-quantum"
+    }
+   ]
+  },
+  {
+   "id": "33c03ae37e8bfe25",
+   "title": "Program Manager",
+   "company": "Nava",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 138,600–154,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T21:20+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "About Nava Nava is a consultancy and public benefit corporation working to make government services simple and effective. Since 2015, federal, state, and local agencies have trusted Nava to help solve highly scrutinized technology modernization challenges. As a client services company, we guide agencies constrained by ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nava/jobs/program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c01a7e785c8745c7",
+   "title": "Product Owner (Sr Stf) - Product Lifecycle Enablement",
+   "company": "Lockheed Martin Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 116,100–299,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T21:19+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Standard Job Description Product Owner (Sr Stf) - Product Lifecycle Enablement The Product Lifecycle Enablement organization is responsible for Enterprise PLM capabilities and processes, Engineering data strategy and implementation, and establishing common ontology & interfaces that enable 1LMX Digital Thread and embed",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lockheed-martin-corporation/jobs/product-owner-sr-stf-product-lifecycle-enablement?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ad07ed3d79e980b6",
+   "title": "Technical Project Manager (Short-term Contract)",
+   "company": "Delaware Nation Industries",
+   "location": "Washington, District of Columbia, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "contract",
+   "posted": "2026-11-18T20:40+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "Delaware Nation Industries is seeking a Technical Project Manager to define project scope, coordinate people and resources, and oversee project execution. This role works with clients and stakeholders to establish requirements and deliverables, monitors plans and risks, and helps ensure project milestones and quality s",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9H32gxYnyzNX5YPmiEijvF/technical-project-manager-(short-term-contract)-in-washington-at-delaware-nation-industries"
+    }
+   ]
+  },
+  {
+   "id": "f2ffb841af57d53c",
+   "title": "Product Owner, AI Pod",
+   "company": "Enumerate",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 2,700–3,300",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-18T20:10+00:00",
+   "posted_day": "2026-11-18",
+   "summary": "We are seeking a detail-oriented, analytical Product Owner (Contractor) for two AI Pods that build the foundations of Numa, Enumerate ’s AI product line, including Ask Numa and Homeowner Assist. This role is focused on execution, not product strategy or roadmap direction. The Product Owner will own and detail the AI Po",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/enumerate/jobs/product-owner-ai-pod?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "d622c057c9f15dd0",
    "title": "Sr. Software Project Manager, Complex Projects - Remote",
@@ -22825,5 +23565,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-18T16:03+00:00"
+ "updated": "2026-11-19T16:10+00:00"
 }
