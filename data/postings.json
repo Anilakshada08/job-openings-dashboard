@@ -623,9 +623,463 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "9 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-20T15:50+00:00",
+   "added": 17,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "25 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "5 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "4192653380a3cb5c",
+   "title": "UI/UX Web Developer",
+   "company": "Leidos",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 107,900–195,050",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T14:51+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Leidos is seeking an experienced UI/UX Web Developer to support a federal government. In this role, you will lead the design, development, and deployment of a modern web application prototype aimed at consolidating fragmented information, digital PDF resources, and workflows distributed across multiple legacy FAA porta",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/leidos/jobs/ui-ux-web-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6697e309e0a426a6",
+   "title": "Program Manager - Product Launch Delivery",
+   "company": "Priority",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–145,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T13:59+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Job title:Program Manager - Product Launch Delivery Reports to:Staff Technical Program Manager Department:Central Services Location:Alpharetta, GA/Remote Grade:19 About Priority : Priority Commerce is a leading financial technology company on a mission to deliver a personalized, easy-to-adopt financial toolset that acc",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/priority/jobs/program-manager-product-launch-delivery?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "68ed930f70266604",
+   "title": "Principal Implementation Program Manager",
+   "company": "T-Mobile",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 94,500–170,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T11:41+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "At T-Mobile , we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/t-mobile/jobs/principal-implementation-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c653abba3c45d684",
+   "title": "Product Owner",
+   "company": "Nearshore Business Solutions",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T10:22+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Job Title: Product Owner Location: Remote – Latin America Type of Contract: Full-Time | Remote Salary Range: Market Rates Language Requirements: Advanced English proficiency (written and verbal); significant overlap with U.S. business hours required. Our client is seeking a detail-oriented Product Owner with hands-on e",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nearshore-business-solutions/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "53b657d088b558b5",
+   "title": "Senior Consultant - Développeur Full Stack Java / Angular",
+   "company": "Adservio Luxembourg",
+   "location": "Luxembourg, Luxembourg, Luxembourg",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-20T10:14+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Adservio Luxembourg Adservio Luxembourg est le bras luxembourgeois du groupe Adservio : plus de 300 consultants entre Paris, Bruxelles et Luxembourg, 15 ans au service des industries régulées. Ouvert en 2022, notre bureau intervient dans les services financiers, l’énergie et les utilities, le transport, l’assurance et ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9yTdZqabPcXDXPF2ZtCsTD/senior-consultant---d%C3%A9veloppeur-full-stack-java-%2F-angular-in-luxembourg-at-adservio-luxembourg"
+    }
+   ]
+  },
+  {
+   "id": "a18cd88b3f95be7d",
+   "title": "Senior Technical Program Manager",
+   "company": "Docusign",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 111,100–206,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T09:47+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Company Overview Docusign brings agreements to life. More than 1.8 million customers and more than a billion people in over 180 countries use Docusign solutions to accelerate the process of doing business and simplify people’s lives. With intelligent agreement management, Docusign unleashes business-critical data that ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/docusign/jobs/senior-technical-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "37af32f371303e1b",
+   "title": "Senior IT Project Manager",
+   "company": "Humana",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 104,000–143,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T09:47+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Become a part of our caring community The Senior IT Project Manager oversees various system projects and/or programs of a highly complex nature. The Senior IT Project Manager work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variabl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/humana/jobs/senior-it-project-manager-5057569080?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "268ff601fcd1dc93",
+   "title": "Project Manager",
+   "company": "Aptask",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T09:10+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Role : Project Manager. Location : Irving, TX Contract : Long Term Skill set Requirements: 7+ years of Project management Experience 3+ years of Agile PM experience and Agile SAFe methodologies 5+ years of experience with JIRA · Good understanding of DevOps Experience in generating periodic JIRA reports to share differ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aptask/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8233cb5ec130e2e0",
+   "title": "Senior Technical Project Manager - Jira & Scrum",
+   "company": "Jobsity",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T08:38+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "We are looking for a Senior Technical Project Manager to lead technical projects end to end for one of our clients. This is a hands-on, highly autonomous role for someone who owns delivery outcomes: planning, coordinating stakeholders, managing risks and dependencies, and keeping projects visible and on track. Jira and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/jobsity/jobs/senior-technical-project-manager-jira-scrum?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a597143f85126709",
+   "title": "Full Stack Developer (.NET)",
+   "company": "Strongbridge",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 100,000–115,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T08:12+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Strongbridge has an exciting opportunity for a talented and experienced Full Stack Developer with a passion for innovation to support our Operations and Maintenance team. The ideal candidate will be self-driven and have past experiences remediating security vulnerabilities and bugs in existing applications. The candida",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/strongbridge/jobs/full-stack-developer-net?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fb396557a0c3a33f",
+   "title": "IT Technical Project Manager",
+   "company": "Legence",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T05:40+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Position Overview: Legence is seeking an experienced IT Technical Project Manager to join the IT Project Management Office (PMO) and support Infrastructure, Information Security, and IT Operations initiatives. This role is responsible for planning and delivering technical projects that strengthen the reliability, secur",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/legence/jobs/it-technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "26f55aaf83bfbda1",
+   "title": "Product Owner II - Workers Compensation Transformation Program",
+   "company": "Liberty Mutual",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T01:22+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Description Our multi-year, flagship initiative drives business transformation within the Workers Compensation (WC) line of business, powered by modern technology and a product-centric mindset. At its core, the program is about reimagining how we serve our customers—now and into the future—through a fully modernized pl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/liberty-mutual/jobs/product-owner-ii-workers-compensation-transformation-program?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "05781a6c0ada4264",
+   "title": "Sr. Full-Stack Engineer (UI)",
+   "company": "Empower AI Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 115,060–178,090",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T00:13+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Overview Empower AI is AI for government. Empower AI gives federal agency leaders the tools to elevate the potential of their workforce with a direct path for meaningful transformation. Headquartered in Reston, Va., Empower AI leverages three decades of experience solving complex challenges in Health, Defense, and Civi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/empower-ai-inc/jobs/sr-full-stack-engineer-ui?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "57939448f64d9373",
+   "title": "Senior Scrum Master",
+   "company": "Peraton",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 104,000–166,000",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T23:20+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Peraton Overview Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated so",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/peraton/jobs/senior-scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bd3e25d1a2909311",
+   "title": "Product Owner, Community Tech Platforms III",
+   "company": "Project Management Institute, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 125,500–153,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T20:39+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "How you’ll make a difference You will be responsible for the development, performance, and long-term evolution of PMI’s most complex and critical community platform capabilities. Scope may include a complex product or broader capability area spanning platforms, vendors, and teams, requiring fluency in both Agile delive",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/project-management-institute-inc/jobs/product-owner-community-tech-platforms-iii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "929f18efd033b704",
+   "title": "Technical Project Manager- OT",
+   "company": "Toyota Tsusho Systems",
+   "location": "Greensboro, North Carolina, United States",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-19T20:16+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Founded in 2011, Toyota Tsusho Systems US, Inc. (TTS-US) is a Toyota group company, that develops IT solutions wherever global businesses operate. Transforming into a technology and mobility company, TTS-US with its 8 TTS affiliates worldwide is establishing a secure and resilient Toyota global value chain. The creativ",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/exoUDR8bGnpVfMaTaL9XA2/hybrid-technical-project-manager--ot-in-greensboro-at-toyota-tsusho-systems"
+    }
+   ]
+  },
+  {
+   "id": "4442e992d5f3a3c3",
+   "title": "Full Stack Engineer - Tiger",
+   "company": "Ledgebrook",
+   "location": "Remote (Canada, Poland, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 100,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-19T19:26+00:00",
+   "posted_day": "2026-11-19",
+   "summary": "Description Ledgebrook is an AI-native specialty insurance platform. When a business needs coverage that is custom and complex, its broker comes to us, and our underwriters give them an answer, often in hours rather than weeks. We built our technology from scratch, with AI in it from the first line of code. The technol",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ledgebrook/jobs/full-stack-engineer-tiger?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "e418a063d43b4b93",
    "title": "Senior Program Manager, Strategic Programs",
@@ -23565,5 +24019,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-19T16:10+00:00"
+ "updated": "2026-11-20T15:50+00:00"
 }
