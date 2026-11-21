@@ -635,9 +635,385 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "5 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-21T14:59+00:00",
+   "added": 14,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "17 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "f0f1415f11f01b5b",
+   "title": "Senior Full Stack Team Lead (.NET & Angular)",
+   "company": "BlackStone eIT",
+   "location": "Nasr City, Al Manteqah Al Oula, Egypt",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-21T14:21+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Description BlackStone eIT is looking for an experienced and motivated Senior Full Stack Team Lead to join our dynamic team. In this senior leadership role, you will guide and mentor a team of developers in building high-quality, scalable software applications across the full stack, with a focus on .NET and Angular tec",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9LYsrKPbFREtckoYmBrj59/senior-full-stack-team-lead-(.net-%26-angular)-in-nasr-city-at-blackstone-eit"
+    }
+   ]
+  },
+  {
+   "id": "74f3764ac401df60",
+   "title": "Product Owner, Supply Chain & Procurement (SAP S/4HANA)",
+   "company": "Versant Media",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 110,000–120,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T13:21+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "As a Product Owner, Supply Chain & Procurement (Business Solutions – Corporate Core Finance) , you will own the vision, roadmap, and prioritized backlog for SAP S/4HANA capabilities that support procurement, inventory, and related finance processes. You will work closely with business stakeholders, SAP functional teams",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/versant-media/jobs/product-owner-supply-chain-procurement-sap-s-4hana?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "db8f1cb36e266042",
+   "title": "Technical Project Manager – AI Compute & Data Center Infrastructure",
+   "company": "Megaport",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T12:40+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "About Megaport We’re not your typical tech company – and we don’t want to be. Megaport is the global leader in Network as a Service (NaaS), and has transformed the way businesses connect to the cloud, data centers, and each other. We’re publicly listed on the Australian Stock Exchange and partnered with the biggest nam",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/megaport/jobs/technical-project-manager-ai-compute-data-center-infrastructure?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a62ddb884ff9c870",
+   "title": "Associate Project Manager",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 46,546–111,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T07:50+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Overview TISTA is seeking an Associate Project Manag er to provide project implementation support for a VA logistics software application on the Supply Chain Management Development Security Operations (SCM DSO) program. Working under the direction of a senior team member, the Associate PM will help plan, coordinate, an",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/associate-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6a30d2a7eb6d1a86",
+   "title": "Project Manager-IT",
+   "company": "Lifelancer",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 88,100–220,200",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T07:09+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Job Title: Project Manager-IT (Remote) Job Location: Durham, North Carolina, United States of America Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Position Summary The Senior Project Manager leads a portfolio of client programs for non-profit, medical society and patient advocacy organiza",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/lifelancer/jobs/project-manager-it?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fc4d58f442aaf3a2",
+   "title": "Senior Product Engineer (NET/C#/Angular/MongoDB) – GDPR, Path to Head of Product",
+   "company": "Secure Privacy",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T05:02+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Secure Privacy is expanding, and we’re looking for a Senior Product Engineer to join our team. This role is about 50% development and 50% owning the product. You’ll decide what we build,work with customers and designers, and help build it. We’re a remote, AI-first team, and much of our code is written with tools like C",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/secure-privacy/jobs/senior-product-engineer-net-c-angular-mongodb-gdpr-path-to-head-of-product?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d7d103bfc21feb66",
+   "title": "AI Technical Program Manager - Resilience (Fixed Term - Remote)",
+   "company": "Riskonnect",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T22:21+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "WHY JOIN US? We explore ways to deliver new value, foster creativity and reach beyond boundaries. We use drive and commitment to energize, engage, and inspire others. We do what is important and strive for continuous improvement, work with passion, and purpose. We act with mutual respect, communicate fearlessly and col",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/riskonnect/jobs/ai-technical-program-manager-resilience-fixed-term-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "dd1d23634bc3c7a6",
+   "title": "Program Manager, Technical Services Delivery",
+   "company": "Insight Global",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T21:19+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Overview Insight Global Consulting is seeking a Project Manager to lead complex consulting engagements for clients across the automotive industry, including OEMs, Tier 1 and Tier 2 suppliers, mobility companies, manufacturing organizations, dealer and aftersales operations, and automotive technology partners. This role",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/insight-global/jobs/program-manager-technical-services-delivery?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "aa6026726fd3e72e",
+   "title": "Manager, Business Product Owner Risk Stratification & Assessment",
+   "company": "Centene Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 107,700–199,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T20:35+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Position Purpose: Responsible for leading the strategic and tactical planning, development, and deployment of Care Management solutions. Serves as a primary advocate for customer and market needs, translating business objectives into product strategy, roadmaps, and priorities. Partners across business, technology, desi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/centene-corporation/jobs/manager-business-product-owner-risk-stratification-assessment?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "397388cbd557ce02",
+   "title": "Senior Project Manager (Engagement Management Track - US, Remote)",
+   "company": "V4C.ai",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T18:16+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "About V4C.ai V4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging). As a Senior Project Manager, you will lead complex Databricks data and AI engagements from the customer side",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/v4c-ai/jobs/senior-project-manager-engagement-management-track-us-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "04d75a8a60ac5490",
+   "title": "Product Owner",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 80,546–150,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T17:49+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Overview The Product Owner leads the vision, roadmap, and delivery of 4-Sight II, a modern enterprise application on the Supply Chain Management Development Security Operations (SCM DSO) program that serves Veterans and VA staff. The Product Owner is the single accountable voice for the product's value. This person rep",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "437959210013ad7b",
+   "title": "Principal Implementation Program Manager",
+   "company": "T-Mobile USA, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 94,500–170,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T15:56+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employe",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/t-mobile-usa-inc/jobs/principal-implementation-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c7bad58bec5d7305",
+   "title": "AGUN Transition Program Manager",
+   "company": "Leidos",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 107,900–195,050",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T15:35+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "Transition Program Manager – Army Global Unified Network (AGUN) Program: Army Global Unified Network (AGUN) Work Location: Remote | Travel Required as Needed-*Please be advised that during the interview, you will be required to keep your camera on, and your interviewer will be taking your picture for identification pur",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/leidos/jobs/agun-transition-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "571550bb5c0964c0",
+   "title": "Senior Full Stack .NET Developer",
+   "company": "Valsoft Corporation",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-20T15:33+00:00",
+   "posted_day": "2026-11-20",
+   "summary": "UnionTrack builds the software labor unions use to run their operations, from membership management to training and certification. Unions face constant pressure to deliver more for their members while keeping operating costs down, and growing regulation is changing how they must store and transmit members’ personal dat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/valsoft-corporation/jobs/senior-full-stack-net-developer?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "4192653380a3cb5c",
    "title": "UI/UX Web Developer",
@@ -24019,5 +24395,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-20T15:50+00:00"
+ "updated": "2026-11-21T14:59+00:00"
 }
