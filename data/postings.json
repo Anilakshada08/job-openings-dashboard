@@ -647,9 +647,411 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-22T14:58+00:00",
+   "added": 15,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "unavailable (HTTPError)",
+    "Himalayas": "26 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "a5361f715b18fec1",
+   "title": "Product Owner",
+   "company": "Maharah Human Resources Company",
+   "location": "Riyadh, Riyadh Province, Saudi Arabia",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-22T13:02+00:00",
+   "posted_day": "2026-11-22",
+   "summary": "Job Summary We are looking for a Product Owner with strong B2B SaaS and technology experience to lead the planning and development of our digital HR services platform. The role will focus on transforming traditional account-managed HR services into a seamless self-service digital experience , allowing corporate clients",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/9pUT898fszFHqKrdD8FzjP/product-owner-in-riyadh-at-maharah-human-resources-company"
+    }
+   ]
+  },
+  {
+   "id": "9b78933ecf22ddff",
+   "title": "Sr. Project Manager",
+   "company": "Ntara",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T09:30+00:00",
+   "posted_day": "2026-11-22",
+   "summary": "About Ntara : Ntara is a leading PXM (product experience management) consultancy that helps manufacturers and brands modernize their digital ecosystems. With deep expertise in PIM, DAM, and ecommerce strategy, we empower brands and product-focused companies to deliver consistent, trustworthy product experiences across ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ntara/jobs/sr-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0249247449729a78",
+   "title": "Technical Project Manager",
+   "company": "Soluna",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T08:30+00:00",
+   "posted_day": "2026-11-22",
+   "summary": "Soluna is on a mission to solve one of renewable energy’s biggest challenges: wasted power. Our data centers convert excess solar, hydro, and wind energy into productive computational work , such as Bitcoin mining, artificial intelligence, and machine learning. By co-locating with renewable power sources, we bring dema",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/soluna/jobs/technical-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "de543c39ec7231c3",
+   "title": "Project Manager III",
+   "company": "The Standard",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 76,250–111,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T07:30+00:00",
+   "posted_day": "2026-11-22",
+   "summary": "The next part of your journey is right around the corner — with The Standard . A genuine desire to make a difference in the lives of others is the foundation for everything we do. With a customer-first mindset and an intentional focus on building strong teams, we’ve been able to uphold our legacy of financial stability",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-standard/jobs/project-manager-iii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "abf82739bed7e90a",
+   "title": "Project Manager, Implementation",
+   "company": "Alkami Technology, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "USD 75,200–94,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T06:24+00:00",
+   "posted_day": "2026-11-22",
+   "summary": "Alkami is the digital sales and service platform provider for U.S. banks and credit unions. Our unified Platform integrates onboarding, digital banking, and data and marketing—each solution can stand alone, but together they deliver more—to help institutions onboard, engage, and grow relationships. As the future shifts",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/alkami-technology-inc/jobs/project-manager-implementation?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "5b5f21749f5c933c",
+   "title": "Scrum Master",
+   "company": "Capital Technology Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 110,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T06:17+00:00",
+   "posted_day": "2026-11-22",
+   "summary": "Capital Technology Group provides expert consulting services software development, digital transformation, human-centered design, data analytics and visualization, and cybersecurity. Our multidisciplinary teams use agile methodologies to rapidly and incrementally deliver value in close collaboration with our clients. F",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/capital-technology-group/jobs/scrum-master?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6e2029a6f516c07c",
+   "title": "Principal Project Manager",
+   "company": "Alignment Health",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 130,332–195,498",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T05:16+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Alignment Health is breaking the mold in conventional health care, committed to serving seniors and those who need it most: the chronically ill and frail. It takes an entire team of passionate and caring people, united in our mission to put the senior first.We have built a team of talented and experienced people who ar",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/alignment-health/jobs/principal-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7485c470e6e89871",
+   "title": "Program Manager",
+   "company": "Neuron7",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T04:22+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Program Manager US -Remote Note: Applicants must be currently authorized to work in the United States on a full-time basis. We are unable to sponsor or take over sponsorship of employment visas at this time. Neuron7 .ai is a fast-growing SaaS company with category-defining AI solutions for customer service, backed by t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/neuron7/jobs/program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0e340604eac4c4bc",
+   "title": "IT Project Manager",
+   "company": "COVENTEK, INC.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T03:29+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "NOTE: Send your resume to Local to Atlanta, GA Remote Short Description: Under limited supervision, manages projects through the full life cycle from project definition and approval through implementation and evaluation of all project deliverables. Provides guidance to the project team. May also serve in a lead role. C",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/coventek-inc/jobs/it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1aabfeffb20cafa4",
+   "title": "Senior IT Program Manager",
+   "company": "Performix",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T03:22+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Seekinga Senior IT Program Manager to lead a complex, multi-year, multi-million dollartransformation program. TheSenior IT Program Manager will own program-level planning, governance,financial management, dependency management, and benefits realization acrossthese initiatives, from current state through production laun",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/performix/jobs/senior-it-program-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "187f334c79e157d6",
+   "title": "Product Owner",
+   "company": "ServBeyond Solutions LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 150,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T02:27+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Job Description The Product Owner will lead business process definition, backlog ownership, requirements analysis, and stakeholder alignment for a ServiceNow CSM-based CRM implementation in a secure ServiceNow environment. This role will assist in translating the client's current customer-facing portal, registration, o",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/servbeyond-solutions-llc/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d34f5cde18f72e64",
+   "title": "Project Manager, Services Technology & Tooling",
+   "company": "SentinelOne",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 108,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T00:40+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Our Purpose At SentinelOne , we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, operate, and innovate, the responsibility to protect them becomes more critical than ever. When you join SentinelOne , your work helps protect global enterprises, ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sentinelone/jobs/project-manager-services-technology-tooling?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d0064939b4bc417a",
+   "title": "Product Owner - Remote",
+   "company": "YO AI Labs",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 60–170",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T23:55+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Job Description: Quantitative Rates Researcher Role Type: Contractor Location: Remote About the Role We are seeking experienced Quantitative Rates Researchers to contribute to an AI-driven project focused on a leading investment bank's algorithmic trading platform. In this role, you will apply your expertise in quantit",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/yo-ai-labs/jobs/product-owner-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c866474e51d7c255",
+   "title": "Senior Project Manager - Cybersecurity/Pen Testing",
+   "company": "Coalfire",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 85,000–141,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T23:26+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "About Coalfire Coalfire is on a mission to make the world a safer place by solving our clients’ hardest cybersecurity challenges. We work at the cutting edge of technology to advise, assess, automate, and ultimately help companies navigate the ever-changing cybersecurity landscape. We are headquartered in Chicago, Illi",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/coalfire/jobs/senior-project-manager-cybersecurity-pen-testing?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c8808ac6d5455c81",
+   "title": "Project Manager - ESA Team",
+   "company": "CACI International Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 82,100–172,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-21T18:16+00:00",
+   "posted_day": "2026-11-21",
+   "summary": "Job Title: Project Manager - ESA TeamJob Category: Project and Program ManagementTime Type: Full timeMinimum Clearance Required to Start: SecretEmployee Type: RegularPercentage of Travel Required: Up to 10%Type of Travel: Continental US* * * The Opportunity CACI is seeking experienced Project Managers to support BlueFo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caci-international-inc/jobs/project-manager-esa-team?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "f0f1415f11f01b5b",
    "title": "Senior Full Stack Team Lead (.NET & Angular)",
@@ -24395,5 +24797,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-21T14:59+00:00"
+ "updated": "2026-11-22T14:58+00:00"
 }
