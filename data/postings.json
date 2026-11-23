@@ -659,9 +659,99 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-23T18:51+00:00",
+   "added": 3,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "1 new in last 24h",
+    "Himalayas": "2 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "7666cd7f7d51fbf5",
+   "title": "Product Owner",
+   "company": "Makai Labs",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-23T12:36+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Product Owner About Makai Makai uses best-in-class AI and data to solve real-world operational and strategic challenges at scale. We help businesses with enterprise automation, human-machine teaming, product design and development, and market intelligence. Until now, people have had to learn and adapt to software. Maka",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/163929-product-owner-4"
+    }
+   ]
+  },
+  {
+   "id": "1139a682278d4f25",
+   "title": "Technical Project Lead/Project Manager - Data Lifecycle Management",
+   "company": "MindWave",
+   "location": "Brussels, Brussels, Belgium",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Contract",
+   "workplace": "onsite",
+   "employment": "contract",
+   "posted": "2026-11-23T11:58+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "At MindWave, we’re not just building teams. We’re building a new way of working with an international community of experts who thrive in an innovative and people-first environment. We are looking for a Technical Project Lead – Data Lifecycle Management who will lead the Data Retention Initiative and turn an approved In",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/doJWbZc6GTpM57kX4hpFEF/hybrid-technical-project-lead%2Fproject-manager---data-lifecycle-management-in-brussels-at-mindwave"
+    }
+   ]
+  },
+  {
+   "id": "193f2d687b543bab",
+   "title": "Frontend Sr. Software Engineer",
+   "company": "Navitus Health Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 108,429–135,536",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-22T20:26+00:00",
+   "posted_day": "2026-11-22",
+   "summary": "Company Lumicera About Us Lumicera - Lumicera Health Services Powered by Navitus - Innovative Specialty Pharmacy Solutions- Lumicera Health Services is defining the “new norm” in specialty pharmacy to optimize patient well-being through our core principles of transparency and stewardship. Here at Lumicera, our team mem",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/navitus-health-solutions/jobs/frontend-sr-software-engineer?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "a5361f715b18fec1",
    "title": "Product Owner",
@@ -24797,5 +24887,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-22T14:58+00:00"
+ "updated": "2026-11-23T18:51+00:00"
 }
