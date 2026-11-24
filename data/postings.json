@@ -671,9 +671,619 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-24T18:28+00:00",
+   "added": 23,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "3 new in last 24h",
+    "Himalayas": "30 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "95e5d3b9816dac8f",
+   "title": "Product Owner - PS Other Systems - Global Industrial",
+   "company": "Genuine Parts Company",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T16:12+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Position Summary The Senior Functional Analyst – PeopleSoft Accounts Payable (AP), Purchasing/Procurement is responsible for supporting, enhancing, and optimizing Procure-to-Pay processes within PeopleSoft Financials. This role requires deep functional expertise in PeopleSoft Purchasing/Procurement and Accounts Payable",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/genuine-parts-company/jobs/product-owner-ps-other-systems-global-industrial?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e1d82bf2011c6c01",
+   "title": "Sub-Product Line Lead / Project Manager, Expendable Inventory Management (SCM DS",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 120,000–170,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T15:32+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking an experienced Sub-Product Line Lead / Project Manager to support the Department of Veterans Affairs (VA) Supply Chain Management Development Security Operations (SCM DSO) program. The Sub-Product Line Lead will oversee delivery, sustainment, and modernizatio",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/sub-product-line-lead-project-manager-expendable-inventory-management-scm-ds?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1d286d3102165bda",
+   "title": "Senior Project Manager",
+   "company": "Enlyte Group, LLC",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 80,500–105,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T14:59+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Company Overview At Enlyte, we combine innovative technology, clinical expertise, and human compassion to help people recover after workplace injuries or auto accidents. We support their journey back to health and wellness through our industry-leading solutions and services. Whether you're supporting a Fortune 500 clie",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/enlyte-group-llc/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4a3ecd688cd0c03b",
+   "title": "Product Owner / Product Manager (.NET Application)",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 86,000–102,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T14:52+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking an experienced Product Owner / Product Manager to support the Department of Veterans Affairs (VA) Healthcare Environment and Logistics Management (HELM) program. The Product Owner / Product Manager will lead product ownership, backlog management, and applicat",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/product-owner-product-manager-net-application?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "340186d73912643a",
+   "title": "Scrum Master – Healthcare Technology and Asset Management (HTAM)",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 90,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T14:43+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking an experienced Scrum Master – Healthcare Technology and Asset Management (HTAM) to support the Department of Veterans Affairs (VA) Supply Chain Management Development Security Operations (SCM DSO) program within the Healthcare Environment and Logistics Manage",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/scrum-master-healthcare-technology-and-asset-management-htam?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "2fcd740007baaf85",
+   "title": "Customer Solutions Product Owner",
+   "company": "The Hartford",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 100,000–150,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T13:43+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Agile Product Owner - BA07DE We’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future. Customer Sol",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/the-hartford/jobs/customer-solutions-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "17f713a2dc751f43",
+   "title": "Senior Technical Project Manager, Qolo",
+   "company": "CSI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T12:54+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Job Description: CSI is seeking a Senior Technical Project Manager to lead complex, high-visibility initiatives supporting the integration of Qolo’s payments technology and capabilities across CSI . This full-time role will coordinate cross-functional integration efforts and help ensure projects move successfully from ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/csi/jobs/senior-technical-project-manager-qolo?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8d7440ccdd33e109",
+   "title": "Sr. Data Solution Product Owner - Pharmacy Claims Data - Remote",
+   "company": "Prime Therapeutics",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 94,000–160,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T11:31+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "At Prime Therapeutics (Prime), we are a different kind of PBM, with a purpose beyond profits and a unique ability to connect care for those we serve. Looking for a purpose-driven career? Come build the future of pharmacy with us. Job Posting Title Sr. Data Solution Product Owner - Pharmacy Claims Data - Remote Job Desc",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/prime-therapeutics/jobs/sr-data-solution-product-owner-pharmacy-claims-data-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "cb5e8311b34fb311",
+   "title": "Senior Technical Program Manager - Data Center Infrastructure Delivery",
+   "company": "Lambda",
+   "location": "Remote (USA)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T11:25+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Lambda , The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintelligence. One person, one",
+   "sources": [
+    {
+     "name": "Jobicy",
+     "url": "https://jobicy.com/jobs/164071-senior-technical-program-manager-data-center-infrastructure-delivery"
+    }
+   ]
+  },
+  {
+   "id": "050efbce634ccdd2",
+   "title": "Lead Product Owner",
+   "company": "CenterWell Senior Primary Care",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 115,200–158,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T11:25+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Become a part of our caring community The Lead Product Owner is a senior product leader who serves as the product lead for a large, cross-functional patient experience initiative to reimagine how new patients are onboarded, from identification and scheduling through the early visits and the transition to ongoing care. ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/centerwell-senior-primary-care/jobs/lead-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b7d206e7f1803e66",
+   "title": "Product Owner | Remote - Full Time",
+   "company": "Xperteez Technology",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 170,000–340,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T07:50+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Job Description Job Title: Product Owner Job Type: Full-time Location: Remote The Role You’ll work closely with engineering, data, and business teams to turn complex problems into intuitive products people enjoy using. Experience in AI, data, developer tools, or other strong product-led technology companies is highly r",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/xperteez-technology/jobs/product-owner-remote-full-time?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "03184f78d29062b3",
+   "title": "Product Owner - Platform",
+   "company": "Optimile",
+   "location": "Ghent, Flanders, Belgium",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-11-24T07:44+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Product Owner Reports to: Product Manager, Victor | Location: Hybrid (Ghent, Belgium) | Employment type: Payroll Great EV charging experiences don't happen by accident. Behind every seamless charging session is a powerful platform making it all work. At Optimile, we build smart software that powers the world of electri",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/1iP3hcjHWDYdqWUdCTZJgT/hybrid-product-owner---platform-in-ghent-at-optimile"
+    }
+   ]
+  },
+  {
+   "id": "0ac81de22c4ac9a3",
+   "title": "Product Owner, VALIP (SCM DSO)",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 73,000–130,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T06:42+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking an experienced Product Owner to support the Department of Veterans Affairs (VA) Supply Chain Management Development Security Operations (SCM DSO) program. The Product Owner will support the VA Logistics Integration Platform (VALIP), working closely with the P",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/product-owner-valip-scm-dso?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a42c2493c76cd170",
+   "title": "Associate Software Engineer",
+   "company": "Parsons Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "junior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 63,600–111,300",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T06:16+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "In a world of possibilities, pursue one with endless opportunities. Imagine Next!At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empow",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/parsons-corporation/jobs/associate-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c0270f0408723735",
+   "title": "Senior Software Engineer, Qolo",
+   "company": "CSI",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T05:27+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Job Description: The Senior Software Engineer designs, codes, tests, and debugs programs; maintains and documents program changes. They competently perform work in complex sections of at least one major CSI application. They maintain and document program changes, working on complex sections of major applications. This ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/csi/jobs/senior-software-engineer-qolo?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "af2b33246f567075",
+   "title": "Project Manager, CPT/NCRT (SCM DSO)",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 46,546–95,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T04:37+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking a Project Manager to support the Department of Veterans Affairs (VA) Supply Chain Management Development Security Operations (SCM DSO) program. The Project Manager will oversee the delivery, sustainment, and modernization of two VA supply chain applications: ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/project-manager-cpt-ncrt-scm-dso?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9664a6d07c86849b",
+   "title": "Scrum Master – EAM/CMMS (Healthcare Technology and Asset Management)",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 90,000–155,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T04:08+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking an experienced Scrum Master – Enterprise Asset Management (EAM/CMMS) to support the Department of Veterans Affairs (VA) Supply Chain Management Development Security Operations (SCM DSO) program within the Healthcare Environment and Logistics Management (HELM)",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/scrum-master-eam-cmms-healthcare-technology-and-asset-management?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9cbeaec6a0802ce9",
+   "title": "Scrum Master, VALIP (SCM DSO)",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 80,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T02:45+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking an experienced Scrum Master to support the Department of Veterans Affairs (VA) Supply Chain Management Development Security Operations (SCM DSO) program. The Scrum Master will support Agile delivery across the VA Logistics Integration Platform (VALIP), workin",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/scrum-master-valip-scm-dso?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e0dfe4a2a8e9a041",
+   "title": "Technical Program Manager – NPI & Technical Sales Enablement – Splunk",
+   "company": "Cisco",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 111,100–147,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T00:08+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "The application window is expected to close on: 12/03/2026 NOTE: Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received. Meet the Team Join the GFERS team, where we drive the New Product Introduction (NPI) Technical Enablement Framework across platform, secur",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cisco/jobs/technical-program-manager-npi-technical-sales-enablement-splunk?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "25e6e9f4bd23e115",
+   "title": "IT Project Manager (PMP), Health and Human Services Projects",
+   "company": "Dhaka Technologies Limited Company",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 60–80",
+   "job_type": "Contractor",
+   "workplace": "remote",
+   "employment": "contract",
+   "posted": "2026-11-23T23:56+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Job Title: IT Project Manager (PMP), Health and Human Services Projects Work Arrangement: Fully remote within the United States; full time, Monday to Friday, 7:45 AM to 4:30 PM Eastern Time (client working days only; no client holidays) Location: Remote, United States (Eastern Time schedule) Employment Type: W-2, full ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dhaka-technologies-limited-company/jobs/it-project-manager-pmp-health-and-human-services-projects?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "7ca7f1dbe545d0f4",
+   "title": "Product Owner – Enterprise Asset Management (EAM/CMMS)",
+   "company": "TISTA Science and Technology Corporation",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 80,000–140,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-23T23:50+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Overview TISTA Science and Technology Corporation is seeking an experienced Product Owner – Enterprise Asset Management (EAM/CMMS) to support the Department of Veterans Affairs (VA) Supply Chain Management Development Security Operations (SCM DSO) program within the Healthcare Environment and Logistics Management (HELM",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/product-owner-enterprise-asset-management-eam-cmms?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9e6a8b62c6c5e526",
+   "title": "(1115992) Lead Product Owner - Software Products",
+   "company": "Diversified Services Network, Inc.",
+   "location": "Chicago, Illinois, United States",
+   "location_group": "chicago",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "hybrid",
+   "employment": "fulltime",
+   "posted": "2026-11-23T23:28+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Diversified Services Network, Inc. (DSN) is seeking a full-time Lead Product Owner – Software Products to join our team on a hybrid work basis in Chicago, IL. We offer full benefits, PTO, 401k, and more! If you're looking to grow your career within an extremely reputable, stable Fortune 100 company - let's talk! Positi",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/mjyzzQDcMAG6o8hYcwR2QQ/hybrid-(1115992)-lead-product-owner---software-products-in-chicago-at-diversified-services-network%2C-inc."
+    }
+   ]
+  },
+  {
+   "id": "a612424d950b7cb5",
+   "title": "Political Data Project Manager",
+   "company": "WeVote",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Volunteer",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-23T21:03+00:00",
+   "posted_day": "2026-11-23",
+   "summary": "Role Overview: WeVote has an open unpaid volunteer position for a Project Manager, Political Data Collection (~5 hours per week, Remote within the U.S.) who wants to apply their existing project management skills and learn new ones while helping strengthen American democracy. About Us WeVote is a nonpartisan get-out-th",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wevote/jobs/political-data-project-manager?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "7666cd7f7d51fbf5",
    "title": "Product Owner",
@@ -24887,5 +25497,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-23T18:51+00:00"
+ "updated": "2026-11-24T18:28+00:00"
 }
