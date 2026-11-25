@@ -683,9 +683,229 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-25T17:42+00:00",
+   "added": 8,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "11 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "2 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "f85eb0d7a0a68b97",
+   "title": "Project Manager",
+   "company": "GenetiQ",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-25T16:04+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Project Manager Location: Fully Remote within North America About Us Founded in 1992, GenetiQ is a global software company delivering flexible, business management solutions to independently owned businesses in the lumber and building materials industry. Our innovative cloud ERP solution, GenetiQ , is purpose-built for",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/genetiq/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f6fa1b288fdfd977",
+   "title": "Senior Product Delivery Manager (remote, Bulgaria) - USA EST or CST working hour",
+   "company": "Sutherland",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-25T15:32+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "About the Role Connect is one of the premier and fastest selling products at Sutherland , providing a full omni-channel, Contact Center as a Service solution for our clients. We are looking for an experienced Sr. Product Delivery Manager to join our growing team and drive the delivery of Connect products and services t",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/sutherland/jobs/senior-product-delivery-manager-remote-bulgaria-usa-est-or-cst-working-hour?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9d7471f2a6341a4f",
+   "title": "(USA) Principal, Technical Program Manager",
+   "company": "Walmart - Internal",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "USD 110,000–286,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-25T11:14+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Position Summary... Role summary: The Principal, Technical Program Manager leads complex, large-scale programs by defining goals, managing cross-functional dependencies, and driving end-to-end technology solutions. This role requires expertise in program and risk management, technical design, and stakeholder engagement",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/walmart-com/jobs/usa-principal-technical-program-manager-6982234635?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "edbe58d0d4cda248",
+   "title": "Senior Scrum Master",
+   "company": "Master-Works",
+   "location": "Riyadh, Riyadh Province, Saudi Arabia",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-25T10:49+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Adree, a subsidiary of Master Works, bridges business and technology through innovative digital solutions. Its expertise spans Quality Assurance, Quality Control, Low-Code/No-Code development, application performance, and lifecycle management. Adree is looking for a Senior Scrum Master to lead and facilitate Agile prac",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/7UHodKyGxPbGAjGHgNp67C/senior-scrum-master-in-riyadh-at-master-works"
+    }
+   ]
+  },
+  {
+   "id": "ba3c8ae3d2640d72",
+   "title": "Full Stack Engineer - AI Applications",
+   "company": "Logistics Management Institute",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 145,000–250,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-25T10:12+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Overview We’re looking for a full stack developer to help build and extend LIGER, an enterprise AI platform that connects knowledge, systems, and agentic workflows to accelerate outcomes across federal missions. You’ll join a small, cross-functional team shipping a ground-up product redesign, and increasingly, building",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/logistics-management-institute/jobs/full-stack-engineer-ai-applications?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "0bc1fe441b5298e6",
+   "title": "Senior Manager - Product Owner (eCommerce)",
+   "company": "CP Axtra",
+   "location": "Nawamin Road, Bangkok, Thailand",
+   "location_group": "other",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-25T08:34+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Key Responsibility: Set ambitious and clear product vision and communicate it effectively to stakeholders, the team, and the rest of the unit Collaboration with stakeholders to ensure digital vision and products align within team strategy and requirements for each sprint Accountable for product specific KPIs once solut",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/hq2ZQXT2e7E7Hi41qp8GMf/senior-manager---product-owner-(ecommerce)-in-nawamin-road-at-cp-axtra"
+    }
+   ]
+  },
+  {
+   "id": "b04fd92d76943916",
+   "title": "Technical Program Manager - Systems Software",
+   "company": "BEARCloud, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 210,000–245,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T19:54+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Position Overview Our client is seeking an experienced Technical Program Manager to lead complex systems software initiatives within an advanced technology environment. This individual will work closely with cross-functional engineering teams to coordinate software development, hardware integration, and product deliver",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/bearcloud-inc/jobs/technical-program-manager-systems-software?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f3a9f039f5ab8513",
+   "title": "MDM Project Manager / Scrum Master",
+   "company": "Marlabs Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-24T18:42+00:00",
+   "posted_day": "2026-11-24",
+   "summary": "Marlabs, a global AI and Digital Solutions Consulting firm, delivers intelligent solutions across AI, data, analytics, and product engineering. Since 2000, we have partnered with some of the largest healthcare, life sciences, financial services, and government organizations worldwide. As we continue to expand our globa",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/marlabs-inc/jobs/mdm-project-manager-scrum-master?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "95e5d3b9816dac8f",
    "title": "Product Owner - PS Other Systems - Global Industrial",
@@ -25497,5 +25717,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-24T18:28+00:00"
+ "updated": "2026-11-25T17:42+00:00"
 }
