@@ -695,9 +695,645 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "2 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-26T17:26+00:00",
+   "added": 24,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "28 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "6 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "97ff40b21ea9af98",
+   "title": "Loanet Product Owner",
+   "company": "FIS",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 121,800–207,060",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T15:06+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Job Description Are you curious, motivated, and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, pass",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/fis/jobs/loanet-product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9ddd75cb09d0fcbb",
+   "title": "Technical Delivery Manager",
+   "company": "Conduent",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 114,730–149,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T14:03+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Technical Delivery Manager About the Role Conduent Is seeking a Technical Delivery Manager that will be responsible for managing Healthcare Products, from design to deployment, and implementation support efforts. They will manage top-down oversight throughout the entire execution to ensure successful delivery in adhere",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/conduent/jobs/technical-delivery-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "d3c8731b551258b1",
+   "title": "Scrum Master",
+   "company": "MMDSmart Ltd",
+   "location": "Georgia (Remote)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T13:39+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "We are looking for a Scrum Master to support and guide our development teams in adopting and effectively applying Agile principles and Scrum practices. In this role, you will act as a servant-leader, helping teams improve collaboration, remove obstacles, and deliver high-quality results in a fast-paced environment. Sin",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/8rKYFBMYUwygRMTQqkuh3A/remote-scrum-master-in-georgia-at-mmdsmart-ltd"
+    }
+   ]
+  },
+  {
+   "id": "45d78a7b664806d7",
+   "title": "Senior Full Stack Developer",
+   "company": "HireBoost",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 3,800–4,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T13:10+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "This is a remote position. About the Company The client is a fast-growing technology company that develops innovative software solutions for the home improvement industry. Its platforms help contractors streamline their sales processes, generate accurate project estimates, and offer flexible financing options to homeow",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/hireboost/jobs/senior-full-stack-developer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "52b085c0ba1f00d3",
+   "title": "Senior Project Manager - Remote!",
+   "company": "Converge Technology Solutions",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "USD 120,000–145,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T10:02+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Practice: Professional Services PMO Position Title: Senior Project Manager Position Location: Remote Reports to: Manager, Project Management Job Summary: The Senior Project Manager manages large/complex client projects from start to finish leveraging the standard PMO project management process. The Senior Project Manag",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/converge-technology-solutions/jobs/senior-project-manager-remote?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "582c83f92441b866",
+   "title": "Staff TPM",
+   "company": "AlphaSense",
+   "location": "Remote (Canada, United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 178,250–200,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T09:38+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 500 million premium b",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/alphasense/jobs/staff-tpm?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "fcf766049908bacd",
+   "title": "Senior Technical Program Manager, Infrastructure",
+   "company": "Pinterest",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 123,684–254,644",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T09:01+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "About Pinterest : Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest , we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the pro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/pinterestcareers/jobs/senior-technical-program-manager-infrastructure?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "70cd42684bd04678",
+   "title": "Senior ServiceNow Developer (Angular)",
+   "company": "CACI International Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 15,
+   "experience_estimated": false,
+   "salary": "USD 105,100–231,100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T08:49+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Job Title: Senior ServiceNow Developer (Angular)Job Category: Information TechnologyTime Type: Full timeMinimum Clearance Required to Start: NoneEmployee Type: RegularPercentage of Travel Required: NoneType of Travel: None* * * The Opportunity: CACI is seeking an experienced Angular ServiceNow Developer to support a la",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caci-international-inc/jobs/senior-servicenow-developer-angular?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bd8070852db39964",
+   "title": "Project Manager, OD Labs",
+   "company": "Ogletree Deakins’ Immigration Practice Group",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "USD 105,653–162,733",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T08:21+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Overview The Project Manager is responsible for the end-to-end delivery of technology initiatives including custom software development, third-party platform deployments, AI adoption, and workflow design. This role manages project scope, schedule, budget, risks, and vendor relationships, and keeps practice groups, firm",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/project-manager-od-labs?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8493a9cb401d5393",
+   "title": "Senior Full Stack Engineer - Mobility Engineering",
+   "company": "wex",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 121,500–145,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T08:04+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "About the Team/Role We’re looking for a Senior Full-Stack Developer with 5+ years of professional software development experience, including hands-on experience in both frontend and backend development, to join our WEX Mobility Engineering team. You will design, develop, and support customer-facing web applications and",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wex/jobs/senior-full-stack-engineer-mobility-engineering?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4001cfbfd579c995",
+   "title": "AI Software Engineer",
+   "company": "CACI International Inc",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 82,100–172,400",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T07:46+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Job Title: AI Software EngineerJob Category: Information TechnologyTime Type: Part timeMinimum Clearance Required to Start: Top SecretEmployee Type: RegularPercentage of Travel Required: Up to 10%Type of Travel: Local* * * Join CACI as an AI Engineer driving the rapid modernization of an existing software system throug",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/caci-international-inc/jobs/ai-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9b2d60fd73eaacbc",
+   "title": "Senior Technical Project Manager – Developer Programs",
+   "company": "NVIDIA",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 8,
+   "experience_estimated": false,
+   "salary": "USD 172,500–325,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T07:30+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nvidia/jobs/senior-technical-project-manager-developer-programs?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6f411c4d79e01205",
+   "title": "Senior Technical Program Manager, At-Scale GPU Clusters",
+   "company": "NVIDIA",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 172,500–403,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T07:14+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Lead NVIDIA ’s newest AI clusters from bring-up through reliable production. You will connect hardware, firmware, software, networking, datacenter and operations teams, turning technical risks into clear decisions, accountable owners and executable plans. What you’ll be doing: Own plans for cluster bring-up, software a",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nvidia/jobs/senior-technical-program-manager-at-scale-gpu-clusters?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "3c402c54aa169a9e",
+   "title": "Senior Director - Frontend/UI Platform Engineering",
+   "company": "FICO",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 171,500–269,500",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T07:08+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "FICO (NYSE: FICO ) is a leading global analytics software company, helping businesses in 100+ countries make better decisions. Join our world-class team today and fulfill your career potential! The Opportunity As the Front-end Engineering Leader for the FICO NextGen Platform, we are looking for a seasoned engineering e",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/fico/jobs/senior-director-frontend-ui-platform-engineering?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "9a3fe7e17063b15e",
+   "title": "Fullstack Software Engineer (Angular + any BE) - Hybrid",
+   "company": "PolicyStreet",
+   "location": "Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+   "location_group": "other",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full-time",
+   "workplace": "onsite",
+   "employment": "fulltime",
+   "posted": "2026-11-26T06:56+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "ABOUT US: PolicyStreet Group is a full-stack insurance technology (insurtech) group of companies providing digital insurance solutions to businesses and consumers across Asia and Australia. The Group operates through multiple entities across its key markets and business lines, including its insurance distribution, embe",
+   "sources": [
+    {
+     "name": "Workable",
+     "url": "https://jobs.workable.com/view/fDE7ZgbaBoPydeVNUD7xUF/hybrid-fullstack-software-engineer-(angular-%2B-any-be)---hybrid-in-kuala-lumpur-at-policystreet"
+    }
+   ]
+  },
+  {
+   "id": "489da4885d7f96dc",
+   "title": "Project Manager III - EAS",
+   "company": "OSC Global",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 103,605–165,707",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T06:04+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Position Overview This position leads cross-organizational teams in the planning and delivery of multiple concurrent software and technology projects ranging from small initiatives to complex, enterprise-level implementations. The position is responsible for delivering results that align with organizational strategy, c",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/osc-global-com/jobs/project-manager-iii-eas?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "421ad594ba22e899",
+   "title": "Product Owner for Commercial and Industrial Valves",
+   "company": "Ferguson",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 6,000–9,716",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T06:01+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Job Posting: Since 1953, Ferguson has been a source of quality supplies for a variety of industries. Together We Build Better infrastructure, better homes and better businesses. We exist to make our customers’ complex projects simple, successful, and sustainable. We proactively solve problems, adapt and grow to continu",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ferguson-com/jobs/product-owner-for-commercial-and-industrial-valves?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "51ba710809e03783",
+   "title": "Product Owner I, Billing Systems",
+   "company": "Liberty Mutual",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 2,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T05:59+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Description We’re on a multi-year journey to consolidate legacy billing platforms into a single go-forward ecosystem. This team sits at the center of that effort. It owns reporting and reconciliation. It also keeps the platform performing as volumes grow and stewards the shared services other teams build on. As Product",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/liberty-mutual/jobs/product-owner-i-billing-systems?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "1db6ee2426643dbc",
+   "title": "Project Manager (OMS)",
+   "company": "ViaPath Technologies",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 4,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T04:18+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Overview ViaPath is currently seeking a Project Manager to join our OMS Product team. The selected candidate will be responsible for leading the performance of tasks necessary to ensure the most efficient and effective execution of the contract, resulting in successful cost, schedule, and performance of the contract pl",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/viapath-technologies/jobs/project-manager-oms?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "27ef5876095d836d",
+   "title": "Sr. Technical Program Manager (Information Security)",
+   "company": "wex",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 100,500–122,100",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T03:14+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "About the opportunity WEX, Inc. is looking for a Senior Technical Program Manager with experience managing Information Security projects, resources, and timelines. Through collaboration with cross-functional Technology teams, this role will be responsible for providing comprehensive reporting, resource planning and ass",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/wex/jobs/sr-technical-program-manager-information-security?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "a65759092b813d1e",
+   "title": "Senior Project Manager",
+   "company": "Transaction Network Services",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 10,
+   "experience_estimated": false,
+   "salary": "USD 131,000–164,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T02:39+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "An extraordinarily talented group of individuals work together every day to drive TNS' success, from both professional and personal perspectives.Come join the excellence! Overview The Project Manager independently leads multiple complex initiatives concurrently from concept through production, typically with a smaller ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/transaction-network-services/jobs/senior-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8e63a2d6f688e223",
+   "title": "Product Owner",
+   "company": "Fortive",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T02:32+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Job Description You know maintenance and reliability inside out. Here you'll use that knowledge to shape SaaS products that customers depend on every day. You'll own the backlog, work with real autonomy and use AI to move faster. Product Managers trust you to run with requirements on your own. What you'll do Product (5",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/fortive/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "372efa531824c0dc",
+   "title": "Technical Project Manager II (Temporary)",
+   "company": "University of Washington",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 90,000–126,756",
+   "job_type": "Temporary",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T02:19+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "Job Description The Web and Data Platform Engineering team at the Institute for Health Metrics and Evaluation has an outstanding opportunity for a Temporary Technical Project Manager II to join their team. About this Opportunity Reporting to the Software Development Manager II, the Technical Project Manager II is respo",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/university-of-washington/jobs/technical-project-manager-ii-temporary?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "6103232bb76d37fa",
+   "title": "AI Transformation Lead (Senior Product Owner / Business Analyst)",
+   "company": "DataCose",
+   "location": "Remote (Anywhere)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 60,000–72,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T00:24+00:00",
+   "posted_day": "2026-11-25",
+   "summary": "The role You sit with US business owners, find the problem worth solving, build the roadmap, and make sure it pays off. You combine three jobs most companies split up: strategy and analysis, project management, and adoption. Within three months you fully lead your own delivery team. This is not an engineering role. Our",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/datacose/jobs/ai-transformation-lead-senior-product-owner-business-analyst?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "f85eb0d7a0a68b97",
    "title": "Project Manager",
@@ -25717,5 +26353,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-25T17:42+00:00"
+ "updated": "2026-11-26T17:26+00:00"
 }
