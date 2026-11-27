@@ -707,9 +707,177 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "6 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-27T17:04+00:00",
+   "added": 6,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "8 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "1 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "595b1a0785cc9121",
+   "title": "Delivery Excellence Project Manager Senior",
+   "company": "Aurora Healthcare",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 44–66",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-27T11:37+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "Department: 10103 Enterprise Corporate - Consumer Experience, Insights & Analytics Status: Full time Benefits Eligible: Yes Hou rs Per Week: 40 Schedule Details/Additional Information: Fully Remote Role from these states: AL, AK, AR, AZ, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, ME, MI, MO, MS, MT, NC, ND, NE, NH, NM, NV",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/aurora-healthcare/jobs/delivery-excellence-project-manager-senior?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "4f85b8c05d45d098",
+   "title": "Senior Software Engineer - Cloud Dev - REMOTE (Chicago, IL, US, 60613)",
+   "company": "Ametek, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-27T10:37+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "IoT IS GROWING QUICKLY. SO ARE WE We are Telular – IoT for Tanks, Trucks, and Alarm Systems. Now, we are ready to leverage and evolve our IoT platform for an explosion of Industrial IoT applications. This is an outstanding growth opportunity. The senior software engineer will innovate, design, and develop cutting-edge ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/ametek-inc/jobs/senior-software-engineer-cloud-dev-remote-chicago-il-us-60613?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "988b48429dcf1576",
+   "title": "Senior Software Engineer",
+   "company": "Billtrust",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 129,000–172,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-27T04:27+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Who We Are Finance leaders choose Billtrust to get paid faster, control costs, and maximize customer satisfaction. As the leader in B2B accounts receivable workflow and payment software, we provide the world’s leading brands with AI-powered solutions across the full AR lifecycle—from invoice presentment and payment pro",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/billtrust/jobs/senior-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "b72e9d8586c71c28",
+   "title": "Senior Technical Program Manager, Translational AI Platform",
+   "company": "VeriSIM Life, Inc.",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-27T00:02+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Senior Technical Program Manager, Translational AI Platform Location: Remote About VeriSIM Life VeriSIM Life is a fast-growing, VC-backed startup building the decision infrastructure for drug development. Our BIOiSIM® platform combines mechanistic biosimulation, translational science, and machine learning to help bioph",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/verisim-life-inc/jobs/senior-technical-program-manager-translational-ai-platform?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "77aab82eec1a9d76",
+   "title": "Program Manager - ServiceNow",
+   "company": "CDW",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 132,000–184,800",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T18:21+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Job Summary The Program Manager, ServiceNow, is a trusted consultant who leads complex programs and portfolios across multiple technology stacks and services for enterprise clients. This role owns ServiceNow delivery from initiation through closure, aligns program outcomes with client business objectives, and partners ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/cdw/jobs/program-manager-servicenow?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "c420b702c98d6581",
+   "title": "Technical Delivery Manager - Provider Module",
+   "company": "Conduent",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 114,730–149,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-26T17:55+00:00",
+   "posted_day": "2026-11-26",
+   "summary": "Technical Delivery Manager – Provider Module About the Role We are seeking an experienced Technical Delivery Manager to lead the end-to-end technology delivery and product lifecycle of our Provider Module built on Microsoft Power Platform. The Provider Module will support core healthcare provider-management capabilitie",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/conduent/jobs/technical-delivery-manager-provider-module?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "97ff40b21ea9af98",
    "title": "Loanet Product Owner",
@@ -26353,5 +26521,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-26T17:26+00:00"
+ "updated": "2026-11-27T17:04+00:00"
 }
