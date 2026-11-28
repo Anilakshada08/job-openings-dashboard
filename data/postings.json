@@ -719,9 +719,281 @@
     "The Muse": "unavailable (HTTPError)",
     "Workable": "1 new in last 24h"
    }
+  },
+  {
+   "at": "2026-11-28T15:53+00:00",
+   "added": 10,
+   "sources": {
+    "Remote OK": "0 new in last 24h",
+    "Jobicy": "0 new in last 24h",
+    "Himalayas": "15 new in last 24h",
+    "Remotive": "0 new in last 24h",
+    "The Muse": "unavailable (HTTPError)",
+    "Workable": "0 new in last 24h"
+   }
   }
  ],
  "postings": [
+  {
+   "id": "7477a1e49d947c6a",
+   "title": "Product Owner",
+   "company": "McGraw Hill",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 49,500–85,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T08:47+00:00",
+   "posted_day": "2026-11-28",
+   "summary": "Overview Build the Future At McGraw Hill , we are dedicated to delivering digital learning experiences that transform education for learners and educators. Our focus is on creating seamless, impactful products that truly benefit our users while supporting growth and collaboration across teams. We foster a culture that ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/mcgraw-hill/jobs/product-owner?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bddc749cd710d0c2",
+   "title": "Intermediate Project Manager - OP02345",
+   "company": "Dev.Pro",
+   "location": "Remote (Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, ",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T07:33+00:00",
+   "posted_day": "2026-11-28",
+   "summary": "New opportunities in Latin America! 🟢 Dev.Pro is a US-based software development company helping tech companies build their products and grow their business. We’re remote-first, and we work with independent contractors in over 55 countries, so you’d be collaborating in a multicultural environment on some really interes",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/dev-pro/jobs/intermediate-project-manager-op02345?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "995f5716e00868af",
+   "title": "Software Engineer III",
+   "company": "Limble",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": 6,
+   "experience_estimated": false,
+   "salary": "USD 150,000–190,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T06:55+00:00",
+   "posted_day": "2026-11-28",
+   "summary": "About Limble At Limble we empower the unsung heroes who support the world. We’re revolutionizing the way businesses manage their maintenance operations by providing a comprehensive suite of software solutions that empower organizations to optimize asset performance and drive operational excellence. From preventive main",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/limble/jobs/software-engineer-iii?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "e2bc80f239a4e092",
+   "title": "IT Project Manager",
+   "company": "Huzzle",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T06:01+00:00",
+   "posted_day": "2026-11-28",
+   "summary": "About Huzzle At Huzzle , we connect exceptional professionals with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and technology companies across multiple industries. Unlike an outsourcing agency, we place you directly with a clie",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/huzzle/jobs/it-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "ffd1eba4e99828b7",
+   "title": "Senior IT Project Manager – Laboratory Systems in Pharma",
+   "company": "Fusion Consulting",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "senior",
+   "years_min": 7,
+   "experience_estimated": false,
+   "salary": "",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T05:38+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "We are seeking a Senior IT Project Manager for our Quality Lab to lead complex IT projects, ensuring high performance and compliance standards. Plan, execute, and deliver IT projects in the quality lab environment, managing schedules, budgets, and resources Collaborate with cross-functional teams to define project scop",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/fusion-consulting/jobs/senior-it-project-manager-laboratory-systems-in-pharma-7592236188?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "33504d81c5d2019a",
+   "title": "AGUN Deployment Project Manager",
+   "company": "Leidos",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 5,
+   "experience_estimated": false,
+   "salary": "USD 92,300–166,850",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T04:44+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "Deployment Project Manager Program: Army Global Unified Network (AGUN) Location: Remote | Up to 10% Travel, *Please be advised that during the interview, you will be required to keep your camera on, and your interviewer will be taking your picture for identification purposes, if an offer letter is extended to you. Clea",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/leidos/jobs/agun-deployment-project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "bdeeebf0954abc01",
+   "title": "Lead Software Engineer",
+   "company": "McGraw Hill",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "angular"
+   ],
+   "experience": "senior",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 145,000–180,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T04:32+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "Overview Build the Future At McGraw Hill , we are dedicated to delivering digital learning experiences that transform education for learners and educators. Our focus is on creating seamless, impactful products that truly benefit our users while supporting growth and collaboration across teams. We foster a culture that ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/mcgraw-hill/jobs/lead-software-engineer?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f337b472f07f0c78",
+   "title": "Project / Program Manager – Agile Delivery",
+   "company": "McGraw Hill",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": 3,
+   "experience_estimated": false,
+   "salary": "USD 55,000–95,000",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T04:23+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "Overview Build the Future At McGraw Hill , we are dedicated to delivering digital learning experiences that transform education for learners and educators. Our focus is on creating seamless, impactful products that truly benefit our users while supporting growth and collaboration across teams. We foster a culture that ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/mcgraw-hill/jobs/project-program-manager-agile-delivery?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "f55567b0042755fe",
+   "title": "Project Manager",
+   "company": "McGraw Hill",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "mid",
+   "years_min": null,
+   "experience_estimated": true,
+   "salary": "USD 63,100–90,000",
+   "job_type": "Temporary",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T02:33+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "Overview Make an Impact! At McGraw Hill we create best-in-class, next-generation learning platforms that are used by millions of students and educators worldwide from kindergarten through graduate school. Our goal is to accelerate student success through intuitive and effective learning tools and content that maximize ",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/mcgraw-hill/jobs/project-manager?utm_source=api"
+    }
+   ]
+  },
+  {
+   "id": "8ea809434c8b84a1",
+   "title": "Technical Project Manager - Healthcare Data Harmonization & Automation - REMOTE",
+   "company": "NTT DATA",
+   "location": "Remote (United States)",
+   "location_group": "remote",
+   "skillsets": [
+    "apmpo"
+   ],
+   "experience": "junior",
+   "years_min": 1,
+   "experience_estimated": false,
+   "salary": "USD 97,132–179,875",
+   "job_type": "Full Time",
+   "workplace": "remote",
+   "employment": "fulltime",
+   "posted": "2026-11-28T00:38+00:00",
+   "posted_day": "2026-11-27",
+   "summary": "Req ID: 398066 NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a Technical Project Manager - Healthcare Data Harmonization & Automation - REMOTE",
+   "sources": [
+    {
+     "name": "Himalayas",
+     "url": "https://himalayas.app/companies/nttdata/jobs/technical-project-manager-healthcare-data-harmonization-automation-remote?utm_source=api"
+    }
+   ]
+  },
   {
    "id": "595b1a0785cc9121",
    "title": "Delivery Excellence Project Manager Senior",
@@ -26521,5 +26793,5 @@
    "employment": "fulltime"
   }
  ],
- "updated": "2026-11-27T17:04+00:00"
+ "updated": "2026-11-28T15:53+00:00"
 }
